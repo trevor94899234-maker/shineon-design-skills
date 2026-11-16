@@ -1,0 +1,87 @@
+{
+  "version": "2026.10.07-NC5",
+  "audited_at": "2026-10-07T16:00:00Z",
+  "prior_candidate_pool": 31,
+  "new_candidate_count": 3,
+  "cumulative_candidate_pool": 34,
+  "business_perspectives": 21,
+  "new_business_perspectives": 0,
+  "new_full_audio_or_video_reads": 0,
+  "sources": [
+    {
+      "source_id": "NC5-A1",
+      "url": "https://www.theproductboss.com/thepodcast/episode426",
+      "source_kind": "original_podcast_show_notes",
+      "published_at": "2022-12-01",
+      "observed_at": "2026-10-07",
+      "read_level": "完整節目簡介已讀；音訊未讀",
+      "fact": "Ali Kriegsman為Bulletin共同創辦人，主題涉及自然內容與業務增長。",
+      "limitation": "可讀簡介沒有完整做法；B2B批發及高營收社群與本店條件不同。"
+    },
+    {
+      "source_id": "NC5-A2",
+      "url": "https://www.theproductboss.com/thepodcast/episode257",
+      "source_kind": "original_podcast_show_notes",
+      "published_at": "2021-05-10",
+      "observed_at": "2026-10-07",
+      "read_level": "完整節目簡介已讀；音訊未讀",
+      "fact": "同一主持節目的歷史集數介紹送禮季自然營銷主題。",
+      "limitation": "簡介未列出完整方法；不能把歷史預告當2026已核教學。"
+    },
+    {
+      "source_id": "NC5-S1",
+      "url": "https://giftbizunwrapped.com/meet-sue/",
+      "source_kind": "official_bio",
+      "published_at": null,
+      "modified_at_metadata": "2024-05-07T20:58:21Z",
+      "observed_at": "2026-10-07",
+      "read_level": "官方簡介主文已讀；頁面亦含嵌入404文字，HTTP200",
+      "fact": "Sue Monhait自述企業禮品、客製絲帶業務、出售及退休後保留部分資源／教練工作。",
+      "limitation": "自傳不是教學；現行可預約狀態未獨立核實。"
+    },
+    {
+      "source_id": "NC5-N1",
+      "url": "https://nancybadillo.com/daily-prayers/",
+      "source_kind": "official_sponsored_lifestyle_article",
+      "published_at": "2023-06-13T22:54:57Z",
+      "modified_at": "2023-10-13T02:24:56Z",
+      "observed_at": "2026-10-07",
+      "read_level": "主文已讀；動態社交嵌入未審",
+      "fact": "文章談日常祈禱及journal用途，附贊助／聯盟利益披露。",
+      "limitation": "一般生活內容不等於Christian個人化journal／POD增長教學；2026動態widget不重設2023文章日期。"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "NC5-C1",
+      "name": "Ali Kriegsman",
+      "source_ids": [
+        "NC5-A1",
+        "NC5-A2"
+      ],
+      "decision": "暫緩，未新增方法",
+      "fit": "產品業務自然內容背景相鄰，缺Christian個人化journal證據。",
+      "reopen": "取得完整原始方法，確認有不重複且符合低工時、產品及買家任務的實際貢獻後再判。"
+    },
+    {
+      "candidate_id": "NC5-C2",
+      "name": "Sue Monhait",
+      "source_ids": [
+        "NC5-S1"
+      ],
+      "decision": "暫緩，未新增方法",
+      "fit": "禮品及客製營運背景相關，未核journal／POD特定完整方法。",
+      "reopen": "取得完整原始方法，確認有不重複且符合低工時、產品及買家任務的實際貢獻後再判。"
+    },
+    {
+      "candidate_id": "NC5-C3",
+      "name": "Nancy Badillo",
+      "source_ids": [
+        "NC5-N1"
+      ],
+      "decision": "暫緩，未新增方法",
+      "fit": "Etsy教練身份加祈禱文章，不足以認證專門journal增長教學。",
+      "reopen": "取得完整原始方法，確認有不重複且符合低工時、產品及買家任務的實際貢獻後再判。"
+    }
+  ]
+}

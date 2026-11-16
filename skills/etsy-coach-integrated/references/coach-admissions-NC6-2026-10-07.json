@@ -1,0 +1,861 @@
+{
+  "version": "NC6-review-2",
+  "audited_date": "2026-10-07",
+  "finalized_at_utc": "2026-10-07T17:39:00Z",
+  "language": "zh-Hant",
+  "status": "已由唯一技能編輯者獨立核對核心原文後收納；正式安裝以本版本雲端保存及讀回為準",
+  "counts": {
+    "prior_formal_business_perspectives": 21,
+    "separate_pending_prior_candidate": "Hannah Gardner",
+    "independently_accepted_additions_pending_publication": 8,
+    "new_people_accepted": 7,
+    "prior_candidate_upgraded": 1,
+    "deferred_overlap": 1,
+    "historical_only_not_admitted": 1,
+    "reviewed_people_this_packet": 10,
+    "prior_completed_candidate_pool": 34,
+    "new_completed_candidate_people": 9,
+    "cumulative_completed_candidate_pool_if_merged": 43,
+    "source_records": 35,
+    "distinct_source_urls": 35,
+    "new_fully_read_audio_video": 0
+  },
+  "recommended_names": [
+    "Amy Eaton",
+    "Janet LeBlanc",
+    "Pam Duthie",
+    "Steph Cole-Lewis",
+    "Morgan Nield",
+    "Nancy Badillo",
+    "Erin Mooney",
+    "Rachel Rofé"
+  ],
+  "deferred_overlap": [
+    "Lauren Keplinger"
+  ],
+  "historical_only": [
+    "Danielle Spurge"
+  ],
+  "held_uncompleted": [
+    {
+      "name": "Sarah Sewell",
+      "reason": "使用者取消指定來源擷取，未重試，不列本批正式推薦或完成候選增量。"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "NC6-AE1",
+      "url": "https://www.amytakespictures.com/5-steps-to-awesome-diy-product-photos/",
+      "title": "5 Steps To Awesome DIY Product Photos For Your Etsy Shop",
+      "published_date": null,
+      "source_type": "官方教學文章",
+      "read_level": "完整教學正文已讀，未逐張審查附圖",
+      "scope": "先決定光線、背景與道具，避免角度扭曲；校正白平衡而不過度飽和。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC6-AE2",
+      "url": "https://www.amytakespictures.com/types-of-diy-product-photography-lighting/",
+      "title": "Types Of DIY Product Photography Lighting",
+      "published_date": null,
+      "source_type": "官方教學文章",
+      "read_level": "完整教學正文已讀，未逐張審查附圖",
+      "scope": "自然／人工是光源類型；直射／間接／柔化是光線方式；依可拍攝時段選光源，用白板補暗側。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC6-AE3",
+      "url": "https://www.amytakespictures.com/about/",
+      "title": "About Amy Eaton",
+      "published_date": null,
+      "source_type": "官方人物頁",
+      "read_level": "完整人物介紹正文已讀",
+      "scope": "自述專業攝影、創意商務教練及課程背景；歷史六位數收入未獨立核帳。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC6-JL1",
+      "url": "https://paperandspark.com/catch-up-on-your-bookkeeping/",
+      "title": "How to Catch Up on Your 2025 Bookkeeping Fast",
+      "published_date": "2026-01-06",
+      "source_type": "官方署名教學文章",
+      "read_level": "完整步驟及FAQ正文已讀",
+      "scope": "先列收入／支出來源，按月或平台處理；平台毛收入與費用退款分列，銀行淨入帳不能當全部銷售。metadata修改日期同為2026-01-06。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC6-JL2",
+      "url": "https://paperandspark.com/about/",
+      "title": "About Paper + Spark",
+      "published_date": null,
+      "source_type": "官方人物與業務頁",
+      "read_level": "相關人物及創業背景正文已讀",
+      "scope": "Janet LeBlanc自述CPA、2011年Etsy手作珠寶經驗、2014年創立Paper + Spark；本輪未查專業牌照登記或審計收入。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC6-PD1",
+      "url": "https://help.erank.com/blog/etsy-seller-tips-epic-video-techniques-and-inspiration-for-creating-listing-videos/",
+      "title": "Epic Tips for Etsy Listing Videos",
+      "published_date": "2020-07-23",
+      "source_type": "作者授權原刊教學文章",
+      "read_level": "完整教學正文已讀；嵌入動圖及影音未逐一視查",
+      "scope": "按受眾及產品選節奏、角度、文字；可由既有攝影配置順便拍片，或以真實照片組成片段。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC6-PD2",
+      "url": "https://help.erank.com/blog/the-secret-to-more-sales-on-etsy-youtube/",
+      "title": "The Secret to More Sales on Etsy YouTube",
+      "published_date": "2021-07-20",
+      "source_type": "Pam Duthie第一人稱署名文章",
+      "read_level": "完整正文已讀；連結影片未讀",
+      "scope": "本人確認先前兩篇listing video文章為其所寫；提到重用listing footage、手部／相片呈現及觀眾問題作線索。Google與平台成效主張屬歷史或未核因果。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC6-SC1",
+      "url": "https://www.handmadebosses.com/blog/post-consistently",
+      "title": "How To Post Consistently Even When You Have No Time",
+      "published_date": "2025-12-10",
+      "source_type": "官方教學文章與Podcast集數頁",
+      "read_level": "完整文章四步正文已讀；音訊未讀",
+      "scope": "Steph Cole-Lewis的Plan、Prepare、Post、Protect；一週主題、按素材類型成批製作、備用常青內容。固定頻率與翻倍成效不採用。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC6-SC2",
+      "url": "https://www.handmadebosses.com/blog/low-prices",
+      "title": "Are Your Etsy Prices Too Low",
+      "published_date": "2026-04-22",
+      "source_type": "官方教學文章與Podcast集數頁",
+      "read_level": "完整文章正文已讀；音訊未讀",
+      "scope": "內嵌節目作者為Steph Cole-Lewis，頁尾自述2016年起全職Etsy。10–15%費用預留、10–20%利潤與粗略範例不採作本店算價規則。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC6-PD3",
+      "url": "https://erank.com/10-day-challenge/day-4",
+      "title": "Day 4 Tell your story",
+      "published_date": "2026-01-15",
+      "source_type": "官方eRank團隊教學頁",
+      "read_level": "完整公開正文已讀；嵌入影音未讀",
+      "scope": "Pam Duthie列為共同Contributor，支持2026仍有團隊教學參與；不把合著每一句歸為Pam個人，也不採未另核的算法／數量主張。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC6-EM1",
+      "url": "https://www.madeurban.com/blog/etsy-product-line-critique-coaching-plan-gi-ceramics/",
+      "title": "Etsy Product Line Critique & Coaching Plan GI Ceramics",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "source_type": "Erin署名官方完整教學案例",
+      "read_level": "完整正文已讀；文章插圖未逐張視查",
+      "scope": "作者以GI Ceramics示範目標市場、共同用途、識別風格及逐步調整；這是公開建議，不是已實施且證明增長的案例。"
+    },
+    {
+      "source_id": "NC6-EM2",
+      "url": "https://www.madeurban.com/about/",
+      "title": "About Made Urban",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "source_type": "官方創辦人介紹",
+      "read_level": "完整身份正文已讀",
+      "scope": "創辦人Erin自述2005年起手作、市集、網售與批發經驗及Visual Communications Design文憑；成就未獨立審計。"
+    },
+    {
+      "source_id": "NC6-EM3",
+      "url": "https://www.starterstory.com/stories/made-urban",
+      "title": "Made Urban founder interview",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "source_type": "原始創辦人第一人稱訪談",
+      "read_level": "公開可讀身份、導言及相關正文已讀；頁面有會員提示，未登入或解鎖",
+      "scope": "全名Erin Mooney與Made Urban直接連接；歷史六位數指內容／電子書業務自述，不是POD journal成果。"
+    },
+    {
+      "source_id": "NC6-LK1",
+      "url": "https://sidehustleschool.com/episode/1613/",
+      "title": "Monogrammed Blanket Etsy Shop Measures Up",
+      "published_date": "2021-06-01",
+      "date_basis": "公開逐字稿開場明示 June 2021 第一日；不是爬取日期。",
+      "source_type": "原節目發布者的案例敘事及公開自動逐字稿",
+      "read_level": "完整文章正文及完整公開逐字稿已讀；音訊未聽",
+      "scope": "文章 web 行 50–95、逐字稿行 108–139。主持人 Chris Guillebeau 敘述 Lauren 的經營故事；行 131–133 明確標為 Lauren 引述。產品縮到毛毯與 monogram bunnies 的說法屬主持人敘事，不是整篇第一人稱訪談。",
+      "accessed_date": "2026-10-07",
+      "limitations": "逐字稿頁面提示可能含自動轉寫錯誤；2021 營收和回購次數均為故事自報，未核帳，不是當期成果。"
+    },
+    {
+      "source_id": "NC6-LK2",
+      "url": "https://believeinabudget.com/side-hustle-etsy-shop/",
+      "title": "How to Side Hustle with an Etsy Shop",
+      "published_date_displayed": "2026-05-07",
+      "original_publication_date": null,
+      "source_type": "原刊第一人稱客座教學文章",
+      "read_level": "完整教學正文已讀",
+      "scope": "web 行 15 明確介紹 Lauren Keplinger 為客座作者；行 17–100 為文章，113–114 為人物介紹。保留差異化、經營成本及工時不可忽略等原則。",
+      "accessed_date": "2026-10-07",
+      "limitations": "頁首 CMS byline 是 Kristin Larsen；正文明確歸屬 Lauren。顯示日期不能證明內容於 2026 新寫；文內舊品牌、舊課程及過往營收留作歷史。拒絕把有競品等同已證明需求。"
+    },
+    {
+      "source_id": "NC6-LK3",
+      "url": "https://www.etsy.com/shop/FunkyMonkeyChildren",
+      "title": "FunkyMonkeyChildren — Etsy shop",
+      "published_date": null,
+      "source_type": "Etsy 店舖平台頁與店主自填說明",
+      "read_level": "身份、銷售計數、公告、About、FAQ 相關段落已讀；非所有評論或全店商品盤點",
+      "scope": "web 行 27–109、256–329、367–396。平台列店主 Lauren Keplinger、歷史銷售 25,359；店舖暫停，店主公告在 funkymonkeychildren.com 接單，公告標示 2025-12-16。FAQ 寫不接 rush orders，名字長度會影響字體大小，proof 可提出要求。",
+      "accessed_date": "2026-10-07",
+      "freshness": "本輪讀到的 web 快照，工具標示約三週前爬取；沒有宣稱即時盤點。",
+      "limitations": "累積銷售是平台足跡，不是收入、利潤、方法成效或日誌市場證據；FAQ 為店主政策，不代表 Etsy 規則或本店可交付服務。"
+    },
+    {
+      "source_id": "NC6-LK4",
+      "url": "https://amyeaton.libsyn.com/cracking-the-etsy-code-with-lauren-keplinger",
+      "title": "Cracking the Etsy Code with Lauren Keplinger",
+      "published_date": "2022-02-09",
+      "source_type": "原訪談發布者的公開集數說明",
+      "read_level": "完整集數說明正文已讀；未聽音訊、未取得該集逐字稿",
+      "scope": "web 行 49–64 確認 Lauren 的 Etsy 賣家、教練、Crickets to Cha-Chings 主持人歷史身份及 2018 開始教學。",
+      "accessed_date": "2026-10-07",
+      "limitations": "800,000 美元、22,000 銷售為當時介紹／自報，未審計；只核歷史身份，不用作方法或當期營運認證。"
+    },
+    {
+      "source_id": "NC6-DS1",
+      "url": "https://paperandspark.com/raising-prices/",
+      "title": "Six reasons you probably need to raise your prices ASAP",
+      "published_date": null,
+      "source_type": "原刊第一人稱客座教學文章",
+      "read_level": "完整教學正文已讀",
+      "scope": "web 行 30 明確說明來稿者 Danielle Spurge，雖 CMS byline 顯示 Janet LeBlanc。行 31–75 包含高訂單量負荷，以及把製作外的拍照、上架、採購、包裝、出貨時間加入工時的例子。",
+      "accessed_date": "2026-10-07",
+      "limitations": "精確發表日期未核，不能用爬取日期冒充新教學；文內 Etsy／PayPal 費率與數字例子均不沿用，也不把工時視作稅務扣除。"
+    },
+    {
+      "source_id": "NC6-DS2",
+      "url": "https://www.prooftoproduct.com/podcast-episodes/072-etsy-strategies-with-danielle-spurge-the-merriweather-council",
+      "title": "072 | Etsy strategies with Danielle Spurge, The Merriweather Council",
+      "published_date": "2018-09-18",
+      "source_type": "原訪談發布者的公開集數說明與節錄引言",
+      "read_level": "完整公開集數正文與引言已讀；未聽音訊、不是完整逐字稿",
+      "scope": "web 行 8–10 確認手作商務顧問身份；行 55–60 節錄其按其他工作量調節產品生產量的看法。",
+      "accessed_date": "2026-10-07",
+      "limitations": "不採大量 listing 必然提高銷售、所有外部流量不要送 Etsy、歷史費用比較等概括主張。"
+    },
+    {
+      "source_id": "NC6-DS3",
+      "url": "https://www.etsy.com/shop/merriweathercouncil",
+      "title": "merriweathercouncil — Etsy shop",
+      "published_date": null,
+      "source_type": "Etsy 店舖平台頁與店主自填公告",
+      "read_level": "身份、公告、歷史銷售與 About 相關段落已讀；非完整評論盤點",
+      "scope": "web 行 84–115 直接公告 The Merriweather Council 已關閉，署名 Danielle Spurge，公告顯示 2025-12-16；行 270–310 為 2010 開店、手工刺繡項鍊及歷史銷售 4,783。",
+      "accessed_date": "2026-10-07",
+      "freshness": "本輪讀到的 web 快照，工具標示約兩個月前爬取；不宣稱 live。",
+      "limitations": "不再稱其為現役 The Merriweather Council 商務教練；店主公告能證明該業務關閉，不推論她所有其他工作也停止。"
+    },
+    {
+      "source_id": "NC6-DS4",
+      "url": "https://www.createandthrive.com/3-simple-paperwork-practices-to-free-up-brain-space-save-your-sanity",
+      "title": "3 Simple Paperwork Practices to Free Up Brain Space & Save Your Sanity!",
+      "published_date": null,
+      "source_type": "Danielle Spurge 署名第一人稱文章",
+      "read_level": "完整文章正文已讀，web 行 16–39",
+      "scope": "收據歸集、重要文件收納及使用可維持的記錄系統。",
+      "accessed_date": "2026-10-07",
+      "use": "輔助已讀資料，不因同屬一人再增方法卡；不另開記帳、會計師或帳戶分享工作。"
+    },
+    {
+      "source_id": "NC6-DS5",
+      "url": "https://www.createandthrive.com/how-my-business-sustains-my-life-and-my-creativity",
+      "title": "How My Business Sustains my Life and my Creativity",
+      "published_date": null,
+      "source_type": "Danielle Spurge 署名第一人稱文章",
+      "read_level": "完整文章正文已讀，web 行 17–37",
+      "scope": "可攜作品、檔案存取與生活彈性的歷史經驗。",
+      "accessed_date": "2026-10-07",
+      "use": "輔助已讀資料，不以此泛泛方法單獨入選，不採購裝置或新增雲服務。"
+    },
+    {
+      "source_id": "NC6-DS6",
+      "url": "https://www.createandthrive.com/holiday-prep-reality-check",
+      "title": "Holiday Prep + Reality Check",
+      "published_date": null,
+      "date_note": "文章談為 2015 做準備，推測屬 2014 時段；未核確切日期。",
+      "source_type": "Danielle Spurge 署名第一人稱文章",
+      "read_level": "Firecrawl 取得完整文章正文並已讀；HTTP 200",
+      "scope": "季節行事曆、不同配送範圍的接單／寄送期限，以及預備包材。",
+      "accessed_date": "2026-10-07",
+      "use": "僅作歷史輔助，不沿用 treasuries、renewal 或節慶曝光主張。"
+    },
+    {
+      "source_id": "NC6-OG-M1",
+      "url": "https://milotree.com/blog/discover-how-to-sell-and-win-big-on-etsy/",
+      "title": "#159: Discover How to Sell and Win Big on Etsy",
+      "source_kind": "original_hosted_interview_public_transcript",
+      "published_at": "2021-02-03T20:09:27+00:00",
+      "modified_at": "2021-02-05T17:36:44+00:00",
+      "observed_at": "2026-10-07",
+      "http_status": 200,
+      "read_level": "選定原始逐字稿段落，非全影音",
+      "actual_read_scope": "34:09–57:49；核心組合實例34:09–35:54，營銷／email／blog及舊式邀請37:05–57:49",
+      "speaker_attribution": "組合實例由Morgan Nield講述；主持Jillian Leslie追問。56:50的top 5%說法是主持人，並非Morgan的已驗證成果。",
+      "fact": "Morgan自述從單件髮帶，依買家要求增加三件組，再依換款要求增加mix-and-match。",
+      "evidence_grade": "可直接歸屬的原始教學與自述案例；銷售效果未獨立驗證",
+      "commercial_interests": "主持人推廣MiloTree及blog服務；來賓推廣自己的教育資源。",
+      "accepted_method": "收到具體買家要求後，才評估可交付的相容組合",
+      "rejected": [
+        "90%營銷時間比",
+        "普遍化的SEO／social／email效率結論",
+        "舊式向每名買家發促銷與名單邀請",
+        "把髮帶價格及回購習慣搬到journal"
+      ],
+      "limits": "2021歷史髮帶案例；非Christian journal、POD或2026平台規則證明；沒有全片或全稿核讀。"
+    },
+    {
+      "source_id": "NC6-OG-M2",
+      "url": "https://podcast.creatorscience.com/morgan-nield/",
+      "title": "#20: Morgan Nield – Selling on Etsy, building a marketing strategy, Pinterest, and transitioning from physical to digital products",
+      "source_kind": "original_hosted_interview_public_transcript",
+      "published_at": "2020-08-11",
+      "observed_at": "2026-10-07",
+      "read_level": "日期、身份及選段",
+      "actual_read_scope": "頁面日期；6:15–7:05產品起點選段；15:04主持人介紹店舖關閉；部分Pinterest段落；未完整核讀",
+      "speaker_attribution": "主持Jay Clouse；來賓Morgan Nield",
+      "fact": "這是與Jillian Leslie的2021訪談不同的2020原始訪談，提及Little Highbury及轉向數位產品教育。",
+      "evidence_grade": "身份與歷史背景；不是方法的獨立成效驗證",
+      "commercial_interests": "節目有贊助與教育產品推廣；來賓有教育產品",
+      "limits": "不採Pinterest conversion、54%或營收等未核數字。"
+    },
+    {
+      "source_id": "NC6-OG-M3",
+      "url": "https://mastermindyourmarketing.teachable.com/p/mastermindyourmarketing",
+      "title": "Mastermind Your Marketing | Morgan Nield Co",
+      "source_kind": "first_party_course_sales_page_search_excerpt",
+      "published_at": null,
+      "observed_at": "2026-10-07",
+      "read_level": "僅搜尋結果中的官頁節錄，未完整頁面閱讀",
+      "actual_read_scope": "Morgan身份、課程介紹、銷售聲稱",
+      "fact": "官頁推廣Morgan的Etsy營銷課程。",
+      "evidence_grade": "商業利益披露；不作方法或成果證據",
+      "commercial_interests": "付費課程",
+      "limits": "收入、21,000 sales、50% repeat等皆為銷售頁自述，不採用；未確認當前購買或教練服務可用狀態。"
+    },
+    {
+      "source_id": "NC6-OG-M4",
+      "url": "https://www.morgannield.com/podcasts/digital-product-powerhouse?page=4",
+      "title": "Digital Product Powerhouse podcast index",
+      "source_kind": "first_party_index_attempt",
+      "published_at": null,
+      "observed_at": "2026-10-07",
+      "read_level": "未成功閱讀",
+      "actual_read_scope": "無",
+      "evidence_grade": "不可作證據",
+      "limits": "不能據此判定2026現役服務或說網站不存在；未繼續重試。"
+    },
+    {
+      "source_id": "NC6-OG-N1",
+      "url": "https://nancybadillo.com/etsy-message-to-buyers-examples/",
+      "title": "The Ultimate Guide: Etsy Message To Buyers Examples",
+      "source_kind": "first_party_instructional_article",
+      "published_at": "2023-06-25T21:14:21+00:00",
+      "modified_at": "2023-09-11T00:42:31+00:00",
+      "observed_at": "2026-10-07",
+      "http_status": 200,
+      "read_level": "完整文章主文已讀，動態社交嵌入未審",
+      "actual_read_scope": "文章開頭至Conclusion，含各情境範例、有效回覆、負評／投訴五步驟、canned responses、自動化、跟進與資源",
+      "speaker_attribution": "文章署名Nancy Badillo；不是第三人訪談引言",
+      "fact": "教導承認問題、表達歉意、調查、提出方案及跟進；教導可修改的預寫回覆及送出前校對。",
+      "evidence_grade": "公開具體教學；無成效數據",
+      "commercial_interests": "文章明示sponsored post及affiliate commission；導向masterclass與付費教學。",
+      "accepted_method": "收到真實買家問題後，以訂單證據、可交付承諾及結案追蹤處理，使用人工核實模板",
+      "rejected": [
+        "未核Mailchimp／Klaviyo Etsy自動整合",
+        "每單促銷／upsell追訊",
+        "固定頻率索評",
+        "把24–48小時歷史建議當現行服務要求",
+        "以教練自述保證退款／復購改善"
+      ],
+      "limits": "2023文章，2026動態Instagram嵌入不重設發表日期；非Christian journal／ShineOn專家證據。"
+    },
+    {
+      "source_id": "NC6-OG-N2",
+      "url": "https://nancybadillo.com/about/",
+      "title": "About",
+      "source_kind": "first_party_biography",
+      "published_at": null,
+      "observed_at": "2026-10-07",
+      "read_level": "主文相關身份及商業服務部分已讀",
+      "actual_read_scope": "Etsy coach定位、教學渠道、coaching及course連結、自述店舖營收段落",
+      "fact": "Nancy公開定位為Etsy coach並提供教育資源及商業服務。",
+      "evidence_grade": "身份與商業利益；營收為自述",
+      "commercial_interests": "課程、coaching、聯盟營銷",
+      "limits": "未獨立查證收入及學員成效，不保存不相關個人敏感背景。"
+    },
+    {
+      "source_id": "NC6-OG-E1",
+      "url": "https://www.etsy.com/legal/sellers/",
+      "title": "Seller Policy",
+      "source_kind": "current_official_policy",
+      "published_at": null,
+      "page_last_updated": "2026-10-05",
+      "observed_at": "2026-10-07",
+      "read_level": "相關段落核讀",
+      "actual_read_scope": "2b Privacy and Protecting Personal Information、2c Communication Standards，以及頁尾更新日期",
+      "fact": "限制未經請求的廣告／促銷及買家資料用途；未經買家同意不得加入郵件名單。",
+      "evidence_grade": "現行平台規則優先於歷史教練建議",
+      "limits": "非法律意見；不為訊息、折扣或帳號行動提供使用者授權。"
+    },
+    {
+      "source_id": "NC6-OG-E2",
+      "url": "https://help.etsy.com/hc/en-us/articles/33491206306711-Communication-Best-Practices-for-Sellers",
+      "title": "Communication Best Practices for Sellers",
+      "source_kind": "current_official_help",
+      "published_at": null,
+      "observed_at": "2026-10-07",
+      "read_level": "完整短篇主文",
+      "actual_read_scope": "Writing messages to buyers及Communicating about specific scenarios",
+      "fact": "及時、同理、簡潔、按實際情況處理；損壞／與描述不符、延誤、遺失等有不同後續。",
+      "evidence_grade": "平台指引",
+      "limits": "不將一般指引變成未核實的本店退款／保護資格或供應商承諾。"
+    },
+    {
+      "source_id": "NC6-OG-E3",
+      "url": "https://www.etsy.com/seller-handbook/article/651599486443",
+      "title": "New Tools to Help You Communicate With Buyers",
+      "source_kind": "official_seller_handbook",
+      "published_at": null,
+      "observed_at": "2026-10-07",
+      "read_level": "相關主文已讀",
+      "actual_read_scope": "文章簡介、Quick Replies及Coupons小節；採用範圍只限Quick Replies",
+      "fact": "Quick Replies容許預寫並按買家情況修改回覆。",
+      "evidence_grade": "官方功能存在佐證",
+      "limits": "不採頁面相關性數據為本店因果效果；未設定功能、未發訊。"
+    },
+    {
+      "source_id": "NC6-RR1",
+      "url": "https://rachelrofe.com/use-etsy-gift-card-images-to-prevent-more-refunds-and-cancellations",
+      "title": "Use Etsy gift card images to prevent more refunds and cancellations",
+      "published_date": "2020-05-29T22:47:49+00:00",
+      "read_level": "完整教學正文已讀；圖片未逐張審查",
+      "source_type": "官方第一人稱實作文章",
+      "scope": "建立含已購商品圖片的數位卡，供買家在實物未到時送給收禮者；提供模板與按需要填圖的具體步驟。減少退款／取消是作者主張，無獨立成效資料。",
+      "accessed_date": "2026-10-07",
+      "modified_date": "2022-05-12T03:11:17+00:00",
+      "date_basis": "實際頁面擷取回傳的 publication／modified metadata；不是爬取日。",
+      "metadata_observed_at_utc": "2026-10-07T17:35:00Z"
+    },
+    {
+      "source_id": "NC6-RR2",
+      "url": "https://rachelrofe.com/selling-journals-on-amazon-and-etsy-101-guide-to-earning-more-pod-sales",
+      "title": "Selling journals on Amazon and Etsy 101 Guide",
+      "published_date": "2023-05-03T17:16:47+00:00",
+      "read_level": "完整教學正文已讀；圖內關鍵詞表及影音未另審",
+      "source_type": "官方POD journal教學文章",
+      "scope": "本人確有Amazon／Etsy journal教學，實物語境為CustomHappy的112頁間線款；只核身份與產品差異，不搬用到本店200頁款。",
+      "accessed_date": "2026-10-07",
+      "modified_date": null,
+      "date_basis": "實際頁面擷取回傳的 publication／modified metadata；不是爬取日。",
+      "metadata_observed_at_utc": "2026-10-07T17:35:00Z"
+    },
+    {
+      "source_id": "NC6-RR3",
+      "url": "https://rachelrofe.com/about",
+      "title": "About Rachel Rofé",
+      "published_date": null,
+      "read_level": "完整身份／業務介紹相關正文已讀",
+      "source_type": "官方人物介紹",
+      "scope": "本人介紹Low Hanging System教學、POD經營及CustomHappy供應業務；七位數銷售、學生數與供應量均為自述，未獨立審計。",
+      "accessed_date": "2026-10-07"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "NC6-C01",
+      "name": "Amy Eaton",
+      "role": "商品攝影及創意商務教練",
+      "admission": "採用有限方法；已獨立覆核，待正式發布。",
+      "source_ids": [
+        "NC6-AE1",
+        "NC6-AE2",
+        "NC6-AE3"
+      ],
+      "fit": "補充真實商品拍攝的光線、色彩與透視診斷；適合印刷日誌素材及UGC底圖。不是Christian journal銷量專家。",
+      "distinct_contribution": "既有卡說明圖片要回答甚麼；本卡處理拍攝時如何得到可信的顏色、輪廓和紋理，以及光源與可用時段不匹配的問題。",
+      "steps": [
+        "先確認實物或權利清楚的真實照片，以及需證明的封面／內頁細節。",
+        "依拍攝時段選可控制的光源；在同一光源下柔化光線，必要時補暗側。",
+        "選能清楚分離產品輪廓的中性背景，調整拍攝角度避免透視誇大。",
+        "以實物對照色彩，修正曝光與白平衡；檢查封面文字、印刷質感與比例。"
+      ],
+      "test": "在一次既有拍攝時段，以同一實物及角度比較原有光線與補光後照片，保留產品最準確的一張草稿。",
+      "time_budget_minutes": 20,
+      "metrics": [
+        "封面字是否清楚",
+        "與實物色彩及比例是否相符",
+        "製作分鐘數；不將照片QA直接當成交改善"
+      ],
+      "reject": [
+        "不採任何背景必勝或保證轉換主張。",
+        "不採舊Adobe價格，不因此購買軟件／燈具。",
+        "不把校色變成改色；不能移除真實產品特徵或改成雕刻。",
+        "沒有真實素材就只交拍攝計劃，不製造已拍實物證據。"
+      ],
+      "proof": "官方教學身份與具體方法可核。自述六位數為攝影／教育事業歷史，不是Etsy日誌實績；學員數與轉換成效未審計。",
+      "commercial_interests": "付費攝影課、會員、教練與軟件推薦。",
+      "freshness": "兩篇教學確切發表日未顯示，不用近期爬取日期冒充新發表。光線原理作有限方法；平台圖像規格另查官方。",
+      "formal_status": "admitted_bounded_business_perspective_in_2026.10.07.8",
+      "business_roster_increment_if_accepted": 1
+    },
+    {
+      "id": "NC6-C02",
+      "name": "Janet LeBlanc",
+      "role": "Etsy賣家財務教育者及Paper + Spark創辦人",
+      "admission": "採用有限方法；已獨立覆核，待正式發布。",
+      "source_ids": [
+        "NC6-JL1",
+        "NC6-JL2"
+      ],
+      "fit": "補充POD店舖毛收入、平台扣費、供應商支出及銀行實收的核對。只作經營紀錄判讀。",
+      "distinct_contribution": "讓每單利潤與工時決策建立在完整收入／成本紀錄，特別防止用淨入帳當毛收入，或把平台已扣費再重扣。",
+      "steps": [
+        "先列本店真正使用的銷售、收款與支出來源。",
+        "選一個已完成期間，以平台訂單／退款／費用資料保留原始口徑。",
+        "把供應商、運費及其他店舖支出另列；銀行入帳是結算結果，單獨核對。",
+        "對差額保留日期、退款、延後結算等待核原因，資料缺少時不宣稱已算出利潤。"
+      ],
+      "test": "用已授權現有記錄核對一個訂單或一個短期間；沒有資料先交欄位樣板及缺口。",
+      "time_budget_minutes": 20,
+      "metrics": [
+        "是否能對回原始訂單與結算",
+        "差額是否具可追溯解釋",
+        "是否避免費用重複計入"
+      ],
+      "reject": [
+        "不把美國客人佔比當成店主美國稅務身份。",
+        "不採Schedule C、稅務扣除、公司實體或存貨稅務建議。",
+        "不照搬8–20小時補帳估計或規定每週工作頻率。",
+        "不購買模板、連接帳戶或要求上傳敏感財務資料至外部。"
+      ],
+      "proof": "官方自述CPA與Etsy經營背景；本輪未查牌照或審計營收。2026具體步驟與FAQ已核讀，不靠自稱業績認證。",
+      "commercial_interests": "記帳試算表、課程及財務教練服務。",
+      "freshness": "核心文章2026-01-06發表／修改。僅移植可追溯的管理記錄方法，當期平台費率與個別稅務另核。",
+      "formal_status": "admitted_bounded_business_perspective_in_2026.10.07.8",
+      "business_roster_increment_if_accepted": 1
+    },
+    {
+      "id": "NC6-C03",
+      "name": "Pam Duthie",
+      "role": "Etsy教練及eRank教學作者",
+      "admission": "採用有限方法；已獨立覆核，待正式發布。",
+      "source_ids": [
+        "NC6-PD1",
+        "NC6-PD2",
+        "NC6-PD3"
+      ],
+      "fit": "補充日誌短片的鏡頭選擇、節奏與既有素材再用，服務商品理解及自然內容。",
+      "distinct_contribution": "把影片抽象需求轉成可選的拍攝／剪接做法，並把同一次拍攝用於商品頁和已存在的社交渠道，減少重新製作。",
+      "steps": [
+        "先寫一個買家要看懂的問題，再選產品特寫、翻頁、比例或實際使用片段。",
+        "用相容的平穩節奏及角度呈現；文字只補無聲仍需知道的事實。",
+        "沒有影片時，可用已核實且權利清楚的商品照片，明確保留圖像演示性質。",
+        "輸出商品頁與一個既有社交渠道各自的草稿；尺寸、時長及音訊規則另按當期官方資料核實。"
+      ],
+      "test": "重用既有兩至三張真實產品圖或已拍片段，草擬一段回答單一買家疑問的無聲短片。",
+      "time_budget_minutes": 25,
+      "metrics": [
+        "不開聲是否仍可理解商品與個人化",
+        "畫面有否誤示手工、雕刻或內頁內容",
+        "製作時間與批準後可取得的有效外連訊號分開記"
+      ],
+      "reject": [
+        "不採2020 beta狀態、2021 Shorts推出資料或Google排名優勢作現行事實。",
+        "不保證瀏覽量、影片帶單或按年齡套用固定審美。",
+        "不把POD商品演成店主親手製造；不可複製別店片段。",
+        "不因此新開YouTube、購買器材或套用多影片發布頻率。"
+      ],
+      "proof": "2021第一人稱文章把本人與2020兩篇教學相連，正文有可操作鏡頭方式。未核實Christian journal銷售或教學因果。",
+      "commercial_interests": "eRank商業工具平台、本人教學頻道；工具不是Etsy官方政策。",
+      "freshness": "主要方法2020／2021，明標歷史技術範例；不宣稱已完成2026頻道更新。 另讀2026-01-15官方團隊文章，確認Pam仍列共同Contributor；不等於新影片逐字稿已讀。",
+      "formal_status": "admitted_bounded_business_perspective_in_2026.10.07.8",
+      "business_roster_increment_if_accepted": 1
+    },
+    {
+      "id": "NC6-C04",
+      "name": "Steph Cole-Lewis",
+      "role": "Handmade Bosses Etsy商務教練",
+      "admission": "採用有限方法；已獨立覆核，待正式發布。",
+      "source_ids": [
+        "NC6-SC1",
+        "NC6-SC2"
+      ],
+      "fit": "補充有限工時下的自然內容準備、批次製作及備用素材。不是本店利潤公式來源。",
+      "distinct_contribution": "把內容決策、製作與發布分開安排，利用可重用的備用內容降低每次從零開始的時間；與單一題材用途文案卡互補。",
+      "steps": [
+        "先扣除履約與客服時間，再選一個本店相容的本週主題。",
+        "從同一真實素材草擬故事、產品或用途其中一種內容；按素材類型集中處理。",
+        "保留一份無過期價格／節日資訊的常青備用稿及來源權利紀錄。",
+        "批準後才在現有渠道使用，下一次按工時與有效訊號調整，不以每日出現作硬性任務。"
+      ],
+      "test": "以一個既有SKU的一張真實圖，準備本週稿與一份可重用備用稿；原文三種帖子只作選擇，不是全部執行。",
+      "time_budget_minutes": 25,
+      "metrics": [
+        "草稿製作與日後重用花費的分鐘數",
+        "素材是否仍符合產品／日期",
+        "批準發布後有效外連點擊；按讚不代表訂單"
+      ],
+      "reject": [
+        "不採20分鐘暖場互動能令觸及翻倍的主張，不執行未授權按讚／留言。",
+        "不要求每週三帖、每日發文或五份SOS素材。",
+        "不採10–15%費用預留、10–20%利潤比例或將加價率當利潤率的粗略算法。",
+        "不購買SMS模板或假借POD供應商流程為自家手作幕後。"
+      ],
+      "proof": "官方文章和內嵌Podcast作者確認完整姓名；自述2016年起全職Etsy，4／5位數月收入與學生結果未核帳。",
+      "commercial_interests": "Social Media Sidekick訂閱、課程及教練服務。",
+      "freshness": "2025-12-10完整內容流程已讀；2026-04-22價格文章只用於身份與拒用範圍，未聽音訊。",
+      "formal_status": "admitted_bounded_business_perspective_in_2026.10.07.8",
+      "business_roster_increment_if_accepted": 1
+    },
+    {
+      "id": "NC6-C05",
+      "name": "Erin Mooney",
+      "role": "Made Urban創辦人及手作／Etsy商務教學作者",
+      "admission": "採用有限方法；已獨立覆核，待正式發布。",
+      "business_roster_increment_if_accepted": 1,
+      "source_ids": [
+        "NC6-EM1",
+        "NC6-EM2",
+        "NC6-EM3"
+      ],
+      "fit": "適用多款關係禮物已有商品，但展示用途、視覺或下一步不連貫的問題；不是Christian日誌專家。",
+      "distinct_contribution": "在既有選品和單一listing流程之上，審查小組現有商品是否服務同一送禮任務，以及哪一組應優先呈現；與Morgan從買家要求驗證新組合不同。",
+      "source_observation": "原文用真實Etsy店作示範，將目標顧客、共同用途及視覺識別串起來，並主張先小幅調整與觀察，不立即移除全部不符合產品。",
+      "steps": [
+        "沿用已核買家證據，選一個真實送禮任務。",
+        "只看一小組現有商品，記下各自用途、款式關係與是否容易被同一買家理解。",
+        "在不改產品事實或藝術稿的前提下，找出一項可統一的展示線索，例如圖像構圖或用途標籤。",
+        "只提出一個小組的陳列／介紹優先次序草稿，保留原有贏家及不確定項目。"
+      ],
+      "test": "用三個已確認現有listing製作文字／縮圖排序草稿；沒有三個相容款就只評一個買家旅程，不為湊系列新增SKU。",
+      "time_budget_minutes": 20,
+      "metrics": [
+        "是否一眼看懂同組商品的共同用途和差別",
+        "有無把兩種不同買家任務硬併",
+        "批準套用後才記同期間同範圍到訪、訂單及混雜因素；小樣本不稱A/B因果"
+      ],
+      "reject": [
+        "不採原文未附提供者／期間的高搜尋量說法。",
+        "不把市集人流、手工陶瓷或加拿大背景直接等同美國Etsy日誌需求。",
+        "不照抄3至5件規模、全面統一藝術稿、一次刪除商品或保證交叉購買。",
+        "不把喜愛同一風格當成必然買同套；不承諾供應商可合併包裝。"
+      ],
+      "proof": "官方教程、About及原始訪談互相核對身份；本輪未核實本人Etsy店名或教練客戶的成交改善。",
+      "commercial_interests": "Made Urban電子書、教學內容及商業出版訪談。",
+      "freshness": "核心文章精確發表／更新日期未確認；查閱日不是發表日。只採穩定的商品展示診斷，不採未核當期市場數字。",
+      "formal_status": "admitted_bounded_business_perspective_in_2026.10.07.8"
+    },
+    {
+      "id": "NC6-PER-C01",
+      "name": "Lauren Keplinger",
+      "role": "有原刊教學與 Etsy 實體個人化商品經營足跡的歷史教練／賣家",
+      "admission": "暫緩正式新增：來源方法與既有Anna容量管理及個人化品質核對重複，未證明足夠不同的新增決策用途。",
+      "business_roster_increment_if_accepted": 0,
+      "source_ids": [
+        "NC6-LK1",
+        "NC6-LK2",
+        "NC6-LK3",
+        "NC6-LK4"
+      ],
+      "distinct_contribution": "已讀資料可支持個人化選項與履約容量的歷史案例，但本次未找到足以超出既有Anna容量管理及個人化品質核對的獨立方法。",
+      "source_method": "原節目敘事記錄她按買家回應調整產品，後來縮到少數產品族以維持生產速度。其直接引述強調讓顧客回饋影響產品方向。現有 Etsy FAQ 的不接急單說明，限制了把歷史速度當成永久能力的推論。",
+      "steps": [
+        "先看已有且已授權的詢問／訂單，只挑一種反覆出現的客製需求；沒有紀錄時標為假設。",
+        "對一個既有 journal SKU 分清固定版面、可替換欄位、超出現有供應商能力的例外。",
+        "用一個一般名字與一個較長名字在同一版面做離線試填，計時記錄修改、核對與交付檔案的工作。",
+        "只有可重複、產品正確且不擠壓履約時間的選項才交店主審查；交期仍由本店實際供應商與客服容量決定。"
+      ],
+      "adaptation_label": "上述步驟是依來源原則為 MyGiftStyle 做的本店推論，不宣稱 Lauren 教過本店日誌、此測試或此工具。",
+      "test": "只用已有模板與假名字，做一次兩種名字長度的個人化處理 dry run；同一產品與價格不變。",
+      "time_budget_minutes": 20,
+      "metrics": [
+        "每次客製所需分鐘數",
+        "是否需要新增自由設計／反覆 proof 溝通",
+        "長名是否仍保持可讀及產品鎖定",
+        "本週履約、客服加測試後是否仍落在 3–5 小時內"
+      ],
+      "stop_condition": "超出 20 分鐘、需要新增付費工具、無法保持產品事實或需承諾未核交期時停在草稿。",
+      "evidence_status": {
+        "identity": "原刊教學身份與平台店主姓名交叉相連。",
+        "platform_footprint": "讀到 Etsy 歷史累積銷售 25,359；只是平台足跡，不證明方法因果。",
+        "success_claims": "原故事年營收、回購次數，以及其他來源收入為自報／發布者轉述，未審計。",
+        "current_status": "Etsy 頁面暫停接單，店主指向自站；FAQ 不接急單。是否仍提供教練服務未核。",
+        "niche_fit": "個人化實物履約相近；不是 Christian journal、ShineOn、49.95 美元或美國祈禱日誌需求專家。"
+      },
+      "commercial_interests": "來源連結過往付費課程、教練及聯盟推薦；本輪未購買、註冊或聯絡。",
+      "reject": [
+        "不採『永不飽和』或有競爭就能證明需求的絕對說法。",
+        "不將 2021 接急單做法當 2026 現況，更不承諾 MyGiftStyle 快速送達。",
+        "不採每天出貨／更新能令排名或銷售提升的未核因果。",
+        "不把後期 Crickets to Cha-Chings 的 Julie Berninger 或來賓教學歸給 Lauren。",
+        "不搬用她的退貨／取消／proof 政策，更不自動發佈或修改店舖。"
+      ],
+      "formal_status": "獨立覆核後暫緩，正式新增計數為0；保留身份、平台足跡與方法邊界。"
+    },
+    {
+      "id": "NC6-PER-C02",
+      "name": "Danielle Spurge",
+      "role": "The Merriweather Council 歷史手作商務教育者",
+      "admission": "保留可用歷史方法；本輪不列正式新增教練建議",
+      "business_roster_increment_if_accepted": 0,
+      "source_ids": [
+        "NC6-DS1",
+        "NC6-DS2",
+        "NC6-DS3"
+      ],
+      "distinct_contribution": "每單全工時與接單負荷壓力檢查。Janet LeBlanc 負責記錄完整與結算核對；本卡只問訂單變多後工時與容量是否仍可承受。",
+      "source_method": "她的客座教學把製作以外的拍照、上架、採購、包裝與寄送工時放回收益判斷；原訪談引言另支持按生活與其他工作調節產量。",
+      "steps": [
+        "選一個現有訂單流程，列個人化處理、核對、客服、供應商交接與售後時間；共享拍照／上架另列。",
+        "使用可核的實收、退款、當期平台費與供應商成本；缺資料就保持空白，不從舊文章費率補值。",
+        "先分清每單變動時間與一次性工作，避免把整次攝影時間全灌入單一訂單或完全漏算。",
+        "在不加新承諾下比較一張與數張訂單的總工時，檢查有否超出每週 3–5 小時；優先縮減無界限的客製流程，價格變更另待店主決定。"
+      ],
+      "adaptation_label": "上述 POD 工時分類及情境測試為本店管理推論，不是稅務計算，也不是 Danielle 原話。",
+      "test": "用一個已知流程建立時間清單；最多計時一次，不要求新增訂單或重跑一週。",
+      "time_budget_minutes": 15,
+      "metrics": [
+        "漏計的工作種類",
+        "每單變動工時",
+        "既有總工時加測試後的剩餘容量",
+        "缺失成本欄位數"
+      ],
+      "stop_condition": "沒有當期成本或工作記錄就只交缺口清單；不輸出假利潤、不提高售價、不改服務承諾。",
+      "evidence_status": {
+        "identity": "原刊具署名歸屬的具體教學及 2018 原發布者顧問介紹。",
+        "platform_footprint": "Etsy 歷史銷售 4,783，不能證明其方法成效。",
+        "current_status": "店主公告明示 The Merriweather Council 已關閉，頁面公告日期 2025-12-16；不得稱該業務現役。",
+        "niche_fit": "歷史刺繡個人化商品經驗可類比全工時問題；不證明 Christian journal 需求或 ShineOn 效率。"
+      },
+      "commercial_interests": "來源連到當年課程及教學服務；目前該業務已公告關閉。",
+      "reject": [
+        "不採原文 Etsy／PayPal 固定費率、舊時薪數字或法定最低工資結論。",
+        "不把店主勞動當稅務扣除；不作稅務或法律建議。",
+        "不以低價必然損害所有同行、加價必定有人買等絕對說法作決策。",
+        "不沿用『愈多 listing 愈好』、2014 treasuries／renewal、反對所有外部 Etsy 導流等概括建議。",
+        "不因名額目標把關閉業務改稱現役。"
+      ],
+      "formal_status": "歷史輔助保留，正式新增計數為 0。"
+    },
+    {
+      "name": "Morgan Nield",
+      "prior_status": "前34候選以外的新人物",
+      "decision": "建議加入有限商務方法",
+      "perspective": "收到真實買家要求後，驗證相容組合是否可交付及值得建立",
+      "source_ids": [
+        "NC6-OG-M1",
+        "NC6-OG-M2",
+        "NC6-OG-M3"
+      ],
+      "fit": "實體Etsy歷史賣家之組合決策可以移植為低工時判斷；無直接Christian journal專業證據",
+      "distinct_from": [
+        "Emily Odio-Sutton：受贈人身份",
+        "Mei Pak：付款者／讀者角色",
+        "Dalia Abdalla：買家疑問轉圖片",
+        "Danae：個人化選項清晰度",
+        "Erin Mooney研究中：商品系列共通用途與陳列"
+      ],
+      "mygiftstyle_adaptation": "確認真實要求→區分詢問／成交／完成交付→驗證同單、分件、包裝、運費、個人化與工時→優先沿用單品→必要才給店主一個組合草案",
+      "test_budget": "一次最多25分鐘；若無真實需求則暫緩，不新增SKU",
+      "review_signal": "可交付證據、需求層級、貢獻與履約分鐘，不用興趣代替訂單",
+      "boundaries": "未知ShineOn組合／包裝／合單出貨能力；不得稱現有套裝；不新建渠道、不照抄收入、數量及折扣。",
+      "full_av_reads": 0,
+      "id": "NC6-OG-C1",
+      "business_roster_increment_if_accepted": 1,
+      "formal_status": "admitted_bounded_business_perspective_in_2026.10.07.8",
+      "admission": "採用有限方法；已獨立覆核，待正式發布。"
+    },
+    {
+      "name": "Nancy Badillo",
+      "prior_status": "NC5-C3，前34候選內，先前因來源不足暫緩",
+      "decision": "原候選重新核讀後建議加入有限商務方法",
+      "perspective": "有證據的個人化POD售後回覆與結案",
+      "source_ids": [
+        "NC6-OG-N1",
+        "NC6-OG-N2",
+        "NC6-OG-E1",
+        "NC6-OG-E2",
+        "NC6-OG-E3"
+      ],
+      "fit": "可用於節省客服重複工作及避免錯誤承諾；不以祈禱生活文認證產品專家",
+      "distinct_from": [
+        "Dalia：事前圖像說明",
+        "Morgan：組合產品決策",
+        "商品攝影：視覺轉換"
+      ],
+      "mygiftstyle_adaptation": "三類真實問題→查原始文字／已確認稿／供應／追蹤證據→模板填入已知、未知、下一步與更新時間→授權範圍內方案→記結案證據及工時",
+      "test_budget": "一次最多20分鐘離線框架；每週最多5分鐘檢查，均含在總3–5小時；真實回覆屬既有履約時間",
+      "review_signal": "漏資料、重複追問、錯誤承諾、結案時間、實際新增分鐘；無案例不宣稱改善",
+      "boundaries": "無自動發訊／email整合／促銷／未核退款；不以小樣本宣稱復購增長；不新增候選人物計數。",
+      "full_av_reads": 0,
+      "id": "NC6-OG-C2",
+      "business_roster_increment_if_accepted": 1,
+      "formal_status": "admitted_bounded_business_perspective_in_2026.10.07.8",
+      "admission": "採用有限方法；已獨立覆核，待正式發布。"
+    },
+    {
+      "id": "NC6-C06",
+      "name": "Rachel Rofé",
+      "aliases": [
+        "Rachel Rofe"
+      ],
+      "role": "POD與Etsy商務教學者、CustomHappy創辦人",
+      "admission": "採用有限方法；已獨立覆核，待正式發布。",
+      "business_roster_increment_if_accepted": 1,
+      "source_ids": [
+        "NC6-RR1",
+        "NC6-RR2",
+        "NC6-RR3"
+      ],
+      "distinct_contribution": "處理商品可交付、但實物可能晚於送禮時刻的情境：在買家自願選擇下，準備一張商品準確的禮物預告卡。這是送禮者交給收禮者的輔助物，不是Nancy一般售後回覆流程。",
+      "source_method": "原文先說明數位卡用途，再以可重用模板留商品圖片位置，按需要放入真實已購商品圖並輸出PNG／JPG；作者也提到大量預製，但不適合本店工時。",
+      "steps": [
+        "只有真實既有訂單才評估；先核實物狀態和交期，正常處理延遲問題。",
+        "問這張可選預告卡是否對原本送禮安排有用；它不能取代退款、取消、重製或其他本來適用的處理。此輪僅草稿，不發訊。",
+        "用權利清楚且與該SKU相符的產品圖建立一個可重用模板，標清只是禮物預告而非可兌換金額／官方Etsy禮卡。",
+        "文字按真實狀態寫；尚未交承運商不能寫已寄出或在途，也不能保證未確認的到貨日。",
+        "由店主審閱後決定是否在原訂單服務中提供；不批次寄送、上架販售或產生新的帳戶／平台。"
+      ],
+      "adaptation_label": "自願選擇、準確運送狀態、既有處理權利及不混淆電子禮券，是本店加上的適配限制，不冒稱作者完整原法。",
+      "test": "最多15分鐘，用一個已有SKU與虛構姓名製作離線預告卡草稿；若沒有這類真實需求就只保留方法，不製作全店模板。",
+      "time_budget_minutes": 15,
+      "metrics": [
+        "圖片是否吻合實際商品及個人化範圍",
+        "字句是否準確區分預告、製作中與已寄出",
+        "店主製作／修改所需分鐘；真實採用後才記買家自願選擇，不宣稱退款改善因果"
+      ],
+      "reject": [
+        "不保證可防止取消、退款、負評或提高轉換。",
+        "不用預告卡勸阻本來適用的處理，不把它當已交貨證明。",
+        "不借用其他供應商journal mockup、112頁、water-resistant等產品說法。",
+        "不採一黑字體必勝、關鍵詞人氣清單、折扣／廣告／多渠道／免費樣本全面推廣。",
+        "不採歷史eBay朋友互留回饋、假UGC或捏造收禮反應。",
+        "不註冊取得模板、不開付費試用，不更換ShineOn。"
+      ],
+      "evidence_status": "官方身份、POD供應／教學背景與完整步驟可核；未核其獲利、期望效果或Christian journal成績。",
+      "commercial_interests": "Low Hanging System、Easy POD教練／課程、CustomHappy供應商業務及聯盟連結；屬有明顯商業利益的來源。",
+      "freshness": "預告卡文章發表於2020-05-29，最後更新2022-05-12；journal文章發表於2023-05-03，未取得修改日。日期來自本次實際頁面metadata。屬歷史教學，只採有限用途溝通，不採當期費率、運送截止日或效果承諾。",
+      "formal_status": "admitted_bounded_business_perspective_in_2026.10.07.8"
+    }
+  ],
+  "shared_capacity_rule": "所有方法共用一個可用試驗時段，先扣履約與客服；只選當前瓶頸需要的一張卡，不將各卡分鐘數疊加為固定週任務。",
+  "integrity_rules": [
+    "8個已覆核建議仍待正式發布，不能先稱已發布30。",
+    "Nancy由既有34候選升級，不新增候選。",
+    "Hannah Gardner已在既有候選池，另行入選不增加新候選。",
+    "Lauren因重複暫緩、Danielle保留歷史方法，兩者正式增量均為零。",
+    "原21＋Hannah＋8正式發布後才合計30個有限商務視角，不是30位Christian journal專家。",
+    "原始capture只供私有覆核，正式技能包與報告不包含原文。"
+  ],
+  "release": "2026.10.07.8",
+  "shared_execution_rule": "每次只選一個主方法及一個現有工時內的改善；所有卡的小測試互斥，履約客服優先；方法不授權發訊、退款、刊登、帳戶或付費。"
+}

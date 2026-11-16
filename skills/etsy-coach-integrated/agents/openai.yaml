@@ -1,0 +1,15 @@
+interface:
+  display_name: Etsy 整合教練
+  short_description: One Etsy coach through verified private APOD listing readiness
+  default_prompt: Use $etsy-coach-integrated to build my identified listing through
+    verified private APOD readiness, following the mockup-first sequence and leaving
+    Etsy push to me.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

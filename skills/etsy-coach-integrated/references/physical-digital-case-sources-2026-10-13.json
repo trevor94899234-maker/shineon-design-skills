@@ -1,0 +1,63 @@
+{
+  "checked_at_utc": "2026-10-13T10:26:00Z",
+  "sources": [
+    {
+      "id": "Y1",
+      "url": "https://www.youtube.com/watch?v=ypMuJ99jliU",
+      "author": "Brayden Chen",
+      "upload_date": "2024-12-22",
+      "data_as_of_stated": "2024-12-17",
+      "read_level": "metadata, full description, all returned English transcript; no audio/frame viewing; translation accuracy unverified",
+      "tool": "Firecrawl normal basic proxy, youtube postprocessor",
+      "limits": [
+        "No phrase-level timestamps",
+        "Historical tools estimates not audited",
+        "Printify explicitly assumed by speaker",
+        "Description chapter times only",
+        "No enrollment, subscription or new monitoring"
+      ]
+    },
+    {
+      "id": "S1",
+      "url": "https://www.etsy.com/shop/VoxFeline",
+      "read_level": "live web text including current categories, About, production partner and FAQ",
+      "limits": [
+        "Single public snapshot; not all listings",
+        "Broader catalog than 2024 black-cat description",
+        "Printify identity unconfirmed",
+        "No private business performance"
+      ]
+    },
+    {
+      "id": "E1",
+      "url": "https://help.etsy.com/hc/en-us/articles/115015628347-How-to-Manage-Your-Digital-Listings",
+      "read_level": "full official article text",
+      "finding": "Instant versus made-to-order downloads; five files each20MB; no variations; original seller-designed content"
+    },
+    {
+      "id": "E2",
+      "url": "https://www.etsy.com/seller-handbook/article/1399426136697",
+      "read_level": "official article text",
+      "finding": "Clear buyer-friendly titles; key traits; relevant recipients/occasions only; no mandatory-gift editorial guarantee"
+    },
+    {
+      "id": "D1",
+      "url": "https://docs.google.com/document/d/1cn8aSLfEY9s1sdJNvglz1WNfIlBQocXPTxemvsu8rdQ/edit?usp=sharing",
+      "source_modified_at": "2026-10-07T18:08:12.172Z",
+      "read_level": "local full official-guide extraction,187lines/11sections",
+      "limits": [
+        "Not current account UI or capability execution proof"
+      ]
+    },
+    {
+      "id": "D2",
+      "url": "https://anywherepod.com/digital/",
+      "read_level": "current official feature page and FAQ",
+      "limits": [
+        "Vendor claims not account verification",
+        "Not Etsy endorsement",
+        "Not keyword demand or sales proof"
+      ]
+    }
+  ]
+}

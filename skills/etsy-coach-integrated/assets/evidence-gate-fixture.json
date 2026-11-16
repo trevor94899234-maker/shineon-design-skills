@@ -1,0 +1,115 @@
+{
+  "synthetic_fixture": true,
+  "artifact_version": "fixture-v1",
+  "baseline": {
+    "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "overlay": {
+    "version": "overlay-v2",
+    "baseline_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "raw_sources": [
+    {
+      "id": "csv1",
+      "kind": "native_csv",
+      "full_index_checked": true
+    },
+    {
+      "id": "raw2",
+      "kind": "raw_ui",
+      "full_index_checked": true
+    }
+  ],
+  "observations": [
+    {
+      "id": "obs1",
+      "query": "gift for grandson from grandma",
+      "source_id": "csv1",
+      "raw_locator": "row 2",
+      "provider": "synthetic",
+      "market": "US",
+      "market_verification": "visible",
+      "measurement_window": "12-month average; exact bounds undocumented",
+      "capture_status": "captured at 2026-10-08T00:00:00Z",
+      "measurement_mode": "near_match_aggregate",
+      "metrics": {
+        "avg_searches": {
+          "raw": "125",
+          "state": "numeric_display"
+        },
+        "competition": {
+          "raw": "1,200",
+          "state": "numeric_display"
+        }
+      }
+    },
+    {
+      "id": "obs2",
+      "query": "grandson journal",
+      "source_id": "raw2",
+      "raw_locator": "row 3",
+      "provider": "synthetic",
+      "market": "US",
+      "market_verification": "visible",
+      "measurement_window": "12-month average; exact bounds undocumented",
+      "capture_status": "captured at 2026-10-08T00:00:00Z",
+      "measurement_mode": "near_match_aggregate",
+      "metrics": {
+        "avg_searches": {
+          "raw": "Unknown",
+          "state": "unknown"
+        }
+      }
+    }
+  ],
+  "actual_fields": {
+    "tags": [
+      "gift from grandma",
+      "grandson journal"
+    ],
+    "title_queries": []
+  },
+  "phrase_uses": [
+    {
+      "phrase": "gift from grandma",
+      "field": "tag",
+      "relation": "related",
+      "observation_ids": [
+        "obs1"
+      ],
+      "numeric_claims": [],
+      "reason": "Sender language retained as an unquantified test.",
+      "product_intent_review": "Grandmother sends the journal; grandson writes."
+    },
+    {
+      "phrase": "grandson journal",
+      "field": "tag",
+      "relation": "direct",
+      "observation_ids": [
+        "obs2"
+      ],
+      "numeric_claims": [],
+      "reason": "Truthful recipient identity despite unknown volume.",
+      "product_intent_review": "Recipient writes on plain lined pages."
+    }
+  ],
+  "missing_or_requery": [
+    {
+      "query": "gift from grandma",
+      "unresolved_field": "avg_searches",
+      "checked_source_ids": [
+        "csv1",
+        "raw2"
+      ],
+      "reason": "Only the longer phrase was observed."
+    }
+  ],
+  "category_attribute_coverage": {
+    "state": "unknown"
+  },
+  "competitor_review_refs": [],
+  "stage": "draft",
+  "release_label": "draft",
+  "images_required": true,
+  "gates": {}
+}

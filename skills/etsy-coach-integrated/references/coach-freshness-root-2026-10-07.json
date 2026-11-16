@@ -1,0 +1,1520 @@
+{
+  "schema_version": "1.0",
+  "checked_at_end": "2026-10-07T17:33:08.651139+00:00",
+  "scope": "7個原有商務視角＋條件批準Hannah；其中2個是公司渠道，歸屬另列",
+  "counts": {
+    "official_feeds": 8,
+    "feed_entries": 120,
+    "person_rows": 8,
+    "selected_sources": 12,
+    "full_extracted_transcripts_reviewed": 6,
+    "partial_or_near_full_transcripts_reviewed": 4,
+    "audio_video_watched": 0,
+    "complete_channel_inventories": 0
+  },
+  "channels": [
+    {
+      "coach": "George McConnell",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "george",
+        "video_id": "m_t7N9acoew",
+        "url": "https://www.youtube.com/watch?v=m_t7N9acoew",
+        "title": "I Found a Simple Stupid Way To Make Money Online",
+        "published": "2026-10-05T14:30:11+00:00",
+        "updated": "2026-10-07T01:01:25+00:00"
+      },
+      "last_processed_before_this_refresh": {
+        "source_id": "GEO-V002",
+        "published": "2026-09-29T06:42:52-07:00",
+        "url": "https://www.youtube.com/watch?v=Ubyo0fX_9_w",
+        "processing_time": "2026-10-07較早來源台帳，精確時刻未存"
+      },
+      "newly_processed_source_ids": [
+        "FR-GEO-01",
+        "FR-GEO-02",
+        "FR-GEO-03"
+      ],
+      "latest_full_transcript_processed_in_this_pass": {
+        "source_id": "FR-GEO-01",
+        "published": "2026-09-30T14:30:13-07:00",
+        "url": "https://www.youtube.com/watch?v=2wwkGPNmy_I"
+      },
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。"
+      ],
+      "inventory": [
+        {
+          "coach_source": "george",
+          "video_id": "m_t7N9acoew",
+          "url": "https://www.youtube.com/watch?v=m_t7N9acoew",
+          "title": "I Found a Simple Stupid Way To Make Money Online",
+          "published": "2026-10-05T14:30:11+00:00",
+          "updated": "2026-10-07T01:01:25+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "2wwkGPNmy_I",
+          "url": "https://www.youtube.com/watch?v=2wwkGPNmy_I",
+          "title": "Laziest Way to Make Money with AI (If You're Broke)",
+          "published": "2026-09-30T21:30:13+00:00",
+          "updated": "2026-10-04T23:43:04+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "Mo3nUK9S8tI",
+          "url": "https://www.youtube.com/watch?v=Mo3nUK9S8tI",
+          "title": "Claude Opus 5.5 + Higgsfield AI: 7 CRAZY Use Cases",
+          "published": "2026-09-27T15:30:11+00:00",
+          "updated": "2026-10-03T08:26:51+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "Ngzy_aFlS_0",
+          "url": "https://www.youtube.com/watch?v=Ngzy_aFlS_0",
+          "title": "The End Of Monthly AI Subscriptions?",
+          "published": "2026-09-24T15:30:04+00:00",
+          "updated": "2026-10-03T15:44:40+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "zK12R4Edm6k",
+          "url": "https://www.youtube.com/watch?v=zK12R4Edm6k",
+          "title": "I Built a Luxury Brand in 30 Minutes with GPT-6 Astra",
+          "published": "2026-09-20T16:00:27+00:00",
+          "updated": "2026-10-01T00:03:40+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "YaE6Iwysp1Q",
+          "url": "https://www.youtube.com/watch?v=YaE6Iwysp1Q",
+          "title": "I Built a Clothing Brand From $0 in One Weekend (FREE COURSE)",
+          "published": "2026-09-16T14:30:33+00:00",
+          "updated": "2026-10-02T08:51:44+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "p3afXA65dIs",
+          "url": "https://www.youtube.com/watch?v=p3afXA65dIs",
+          "title": "I Mixed GPT-6 Astra with Higgsfield - It’s INSANE",
+          "published": "2026-09-14T13:00:02+00:00",
+          "updated": "2026-09-28T19:23:16+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "lDRbRLxPfjg",
+          "url": "https://www.youtube.com/watch?v=lDRbRLxPfjg",
+          "title": "I Tested Higgsfield and Blender: Here Are The Results",
+          "published": "2026-09-10T15:30:24+00:00",
+          "updated": "2026-09-28T08:29:53+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "pjynEWi1Y24",
+          "url": "https://www.youtube.com/watch?v=pjynEWi1Y24",
+          "title": "Watch Me Build a Million Dollar Brand in 25 Minutes",
+          "published": "2026-09-03T15:30:32+00:00",
+          "updated": "2026-09-29T02:35:46+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "_oHffSHnMok",
+          "url": "https://www.youtube.com/watch?v=_oHffSHnMok",
+          "title": "Nobody’s Talking About These… But People Keep Buying Them",
+          "published": "2026-08-30T16:00:21+00:00",
+          "updated": "2026-10-06T00:59:04+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "lkojZnokF40",
+          "url": "https://www.youtube.com/watch?v=lkojZnokF40",
+          "title": "The Truth About Gelato: Is It Better Than Printify?",
+          "published": "2026-08-24T16:00:28+00:00",
+          "updated": "2026-10-05T03:05:27+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "F1SeIW0Q-4M",
+          "url": "https://www.youtube.com/watch?v=F1SeIW0Q-4M",
+          "title": "Every Clothing Brand Is About To Use This",
+          "published": "2026-08-16T14:30:31+00:00",
+          "updated": "2026-10-04T00:38:20+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "RUVvH8yVA6M",
+          "url": "https://www.youtube.com/watch?v=RUVvH8yVA6M",
+          "title": "Nobody Is Talking About This $146 Billion Print on Demand Season",
+          "published": "2026-07-31T16:00:37+00:00",
+          "updated": "2026-10-01T21:21:08+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "2saXr3B7Kog",
+          "url": "https://www.youtube.com/watch?v=2saXr3B7Kog",
+          "title": "NEW Claude AI Side Hustle Nobody Is Talking About",
+          "published": "2026-07-27T14:00:28+00:00",
+          "updated": "2026-10-03T04:05:45+00:00"
+        },
+        {
+          "coach_source": "george",
+          "video_id": "tt1ebKXSxHw",
+          "url": "https://www.youtube.com/watch?v=tt1ebKXSxHw",
+          "title": "Everyone Is Selling This T-Shirt, and It's Killing Their Business",
+          "published": "2026-07-22T15:00:41+00:00",
+          "updated": "2026-09-29T10:06:39+00:00"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach": "Luna Vega",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "luna",
+        "video_id": "K6JN1WdAqvA",
+        "title": "I Made $1,000,000 Selling Digital Products - 6 Things You Are Missing!",
+        "published": "2026-09-29T14:00:34+00:00",
+        "updated": "2026-10-03T03:01:10+00:00",
+        "url": "https://www.youtube.com/watch?v=K6JN1WdAqvA"
+      },
+      "last_processed_before_this_refresh": {
+        "source_id": "LUN-V001",
+        "published": "2025-12-22",
+        "url": "https://www.youtube.com/watch?v=eNR_HHMa-MU",
+        "processing_time": "較早已存台帳，精確時刻未存"
+      },
+      "newly_processed_source_ids": [
+        "FR-LUN-01"
+      ],
+      "latest_full_transcript_processed_in_this_pass": {
+        "source_id": "FR-LUN-01",
+        "published": "2026-09-29T07:00:34-07:00",
+        "url": "https://www.youtube.com/watch?v=K6JN1WdAqvA"
+      },
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。"
+      ],
+      "inventory": [
+        {
+          "coach_source": "luna",
+          "video_id": "K6JN1WdAqvA",
+          "title": "I Made $1,000,000 Selling Digital Products - 6 Things You Are Missing!",
+          "published": "2026-09-29T14:00:34+00:00",
+          "updated": "2026-10-03T03:01:10+00:00",
+          "url": "https://www.youtube.com/watch?v=K6JN1WdAqvA"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "EgLsi6L_6ZQ",
+          "title": "ChatGPT Astra Built Me a Digital Product That PRINTS Money!",
+          "published": "2026-09-22T14:00:16+00:00",
+          "updated": "2026-09-29T17:55:37+00:00",
+          "url": "https://www.youtube.com/watch?v=EgLsi6L_6ZQ"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "EIoZtzqYTnk",
+          "title": "YouTubers Are LYING About AI Digital Products (Don't Fall For It)",
+          "published": "2026-09-11T15:08:41+00:00",
+          "updated": "2026-09-26T00:51:48+00:00",
+          "url": "https://www.youtube.com/watch?v=EIoZtzqYTnk"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "xWsMpFrHmEw",
+          "title": "5 PROFITABLE Claude AI Side Hustle That Will Make You RICH!",
+          "published": "2026-09-08T14:00:29+00:00",
+          "updated": "2026-10-05T04:33:47+00:00",
+          "url": "https://www.youtube.com/watch?v=xWsMpFrHmEw"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "KbJdym7fcg4",
+          "title": "My Life as a 7-Figure Digital Nomad Traveling Europe",
+          "published": "2026-09-04T14:00:21+00:00",
+          "updated": "2026-10-01T18:06:33+00:00",
+          "url": "https://www.youtube.com/watch?v=KbJdym7fcg4"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "9GMfP5ypec4",
+          "title": "Claude + Higgfield MCP Will Make You Crazy Rich (Just Copy Me)",
+          "published": "2026-09-02T14:00:08+00:00",
+          "updated": "2026-10-02T01:49:10+00:00",
+          "url": "https://www.youtube.com/watch?v=9GMfP5ypec4"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "JpTzczIFM10",
+          "title": "I Wasted My 30s Chasing the Wrong Life (Here's What Finally Changed)",
+          "published": "2026-08-28T16:15:23+00:00",
+          "updated": "2026-10-04T02:26:00+00:00",
+          "url": "https://www.youtube.com/watch?v=JpTzczIFM10"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "DYZIn4cD4GA",
+          "title": "I Would Love to Be a Trophy Wife",
+          "published": "2026-08-25T09:40:55+00:00",
+          "updated": "2026-10-01T13:44:42+00:00",
+          "url": "https://www.youtube.com/watch?v=DYZIn4cD4GA"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "3ilqcbVB4Q4",
+          "title": "How I’d Start an Online Business With 0 Followers",
+          "published": "2026-08-21T18:00:37+00:00",
+          "updated": "2026-10-01T19:51:29+00:00",
+          "url": "https://www.youtube.com/watch?v=3ilqcbVB4Q4"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "iL_zC7vwOKM",
+          "title": "How I Turned a Failing Ebook Into a $50K Business With AI",
+          "published": "2026-08-20T15:28:39+00:00",
+          "updated": "2026-10-05T04:06:31+00:00",
+          "url": "https://www.youtube.com/watch?v=iL_zC7vwOKM"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "LMLQMc503lw",
+          "title": "From Product Guessing to $12K in Sales With Claude",
+          "published": "2026-08-19T20:00:10+00:00",
+          "updated": "2026-10-04T08:07:40+00:00",
+          "url": "https://www.youtube.com/watch?v=LMLQMc503lw"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "hRU_22iTBKg",
+          "title": "How I Started Creating Money Online With Digital Marketing + Claude",
+          "published": "2026-08-19T13:00:17+00:00",
+          "updated": "2026-10-05T08:41:30+00:00",
+          "url": "https://www.youtube.com/watch?v=hRU_22iTBKg"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "4nqNpOqx9Io",
+          "title": "Getting Fired wasn’t Part of My Plan.",
+          "published": "2026-08-18T10:48:23+00:00",
+          "updated": "2026-10-01T16:34:18+00:00",
+          "url": "https://www.youtube.com/watch?v=4nqNpOqx9Io"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "lJbmCkmOnvQ",
+          "title": "How I Create Digital Products Without Weeks of Research",
+          "published": "2026-08-16T22:00:09+00:00",
+          "updated": "2026-09-30T09:31:22+00:00",
+          "url": "https://www.youtube.com/watch?v=lJbmCkmOnvQ"
+        },
+        {
+          "coach_source": "luna",
+          "video_id": "IkpIO1dt61M",
+          "title": "From Idea to Digital Product in Under 1 Hour",
+          "published": "2026-08-16T14:15:18+00:00",
+          "updated": "2026-10-04T12:55:51+00:00",
+          "url": "https://www.youtube.com/watch?v=IkpIO1dt61M"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach": "Ronnie McKenzie",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "ronnie",
+        "video_id": "2YRUENCZk8M",
+        "title": "I asked Nano Banana to create a metal art design that could actually make money.",
+        "published": "2026-07-21T21:13:44+00:00",
+        "updated": "2026-10-03T18:06:24+00:00",
+        "url": "https://www.youtube.com/watch?v=2YRUENCZk8M"
+      },
+      "last_processed_before_this_refresh": {
+        "source_id": "RON-A001",
+        "published": "2024-09-12",
+        "url": "https://storehacks.com/print-on-demand-designs/",
+        "processing_time": "較早已存台帳，精確時刻未存"
+      },
+      "newly_processed_source_ids": [
+        "FR-RON-01"
+      ],
+      "latest_full_transcript_processed_in_this_pass": {
+        "source_id": "FR-RON-01",
+        "published": "2026-07-08T02:50:00-07:00",
+        "url": "https://www.youtube.com/watch?v=7yF0oZhQcB8"
+      },
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。"
+      ],
+      "inventory": [
+        {
+          "coach_source": "ronnie",
+          "video_id": "2YRUENCZk8M",
+          "title": "I asked Nano Banana to create a metal art design that could actually make money.",
+          "published": "2026-07-21T21:13:44+00:00",
+          "updated": "2026-10-03T18:06:24+00:00",
+          "url": "https://www.youtube.com/watch?v=2YRUENCZk8M"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "QBtz5LlcPA0",
+          "title": "Most people quit print-on-demand before they figure out the one move that changes everything.",
+          "published": "2026-07-20T23:13:19+00:00",
+          "updated": "2026-10-01T22:30:59+00:00",
+          "url": "https://www.youtube.com/watch?v=QBtz5LlcPA0"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "7yF0oZhQcB8",
+          "title": "Make Your First $1,000 with this New Claude Side Hustle",
+          "published": "2026-07-08T09:50:00+00:00",
+          "updated": "2026-10-04T09:23:49+00:00",
+          "url": "https://www.youtube.com/watch?v=7yF0oZhQcB8"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "un7F4Vxq7-M",
+          "title": "The Claude AI Side Hustle To Make $125K Before July 5th",
+          "published": "2026-07-01T05:00:09+00:00",
+          "updated": "2026-10-03T23:47:44+00:00",
+          "url": "https://www.youtube.com/watch?v=un7F4Vxq7-M"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "bGMmYzk3vPo",
+          "title": "New AI side hustle making $7,000/month",
+          "published": "2026-06-22T05:47:43+00:00",
+          "updated": "2026-10-04T17:08:52+00:00",
+          "url": "https://www.youtube.com/watch?v=bGMmYzk3vPo"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "F3pczk6OBzs",
+          "title": "Nano Banana + Canva + Metal Art that makes $1,100/mo (Step-by-Step)",
+          "published": "2026-06-19T02:57:21+00:00",
+          "updated": "2026-10-01T13:03:33+00:00",
+          "url": "https://www.youtube.com/watch?v=F3pczk6OBzs"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "AXWtAfIq528",
+          "title": "Store Autopsy #1: Diagnosing a Failed Print on Demand Store",
+          "published": "2026-06-17T09:44:25+00:00",
+          "updated": "2026-10-03T12:15:31+00:00",
+          "url": "https://www.youtube.com/watch?v=AXWtAfIq528"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "tXJxkhxYXgY",
+          "title": "Why 99% of Jewelry Sellers Fail (And the 1% Secret)",
+          "published": "2026-06-12T09:01:52+00:00",
+          "updated": "2026-09-24T04:49:39+00:00",
+          "url": "https://www.youtube.com/watch?v=tXJxkhxYXgY"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "pmBX9FQhiEQ",
+          "title": "11 June 2026",
+          "published": "2026-06-11T02:24:22+00:00",
+          "updated": "2026-10-04T19:53:11+00:00",
+          "url": "https://www.youtube.com/watch?v=pmBX9FQhiEQ"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "r2g7DYwBJz4",
+          "title": "10 June 2026",
+          "published": "2026-06-10T02:55:03+00:00",
+          "updated": "2026-10-05T05:27:46+00:00",
+          "url": "https://www.youtube.com/watch?v=r2g7DYwBJz4"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "G2oeHvoqm0I",
+          "title": "Have you heard of this trend?",
+          "published": "2026-06-09T07:14:57+00:00",
+          "updated": "2026-10-02T04:33:45+00:00",
+          "url": "https://www.youtube.com/watch?v=G2oeHvoqm0I"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "8G6Hs3MB5ME",
+          "title": "8 June 2026",
+          "published": "2026-06-09T00:04:05+00:00",
+          "updated": "2026-10-03T19:54:06+00:00",
+          "url": "https://www.youtube.com/watch?v=8G6Hs3MB5ME"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "NBK2uy2d4vU",
+          "title": "I Used 5 AI Tools to Build a Print on Demand Metal Art Product From Scratch",
+          "published": "2026-06-08T22:22:40+00:00",
+          "updated": "2026-10-04T07:22:30+00:00",
+          "url": "https://www.youtube.com/watch?v=NBK2uy2d4vU"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "VM2FF4t4Jz4",
+          "title": "Comment the word TUBES below & I will send you the full tutorial",
+          "published": "2026-06-05T04:47:09+00:00",
+          "updated": "2026-09-27T17:15:13+00:00",
+          "url": "https://www.youtube.com/watch?v=VM2FF4t4Jz4"
+        },
+        {
+          "coach_source": "ronnie",
+          "video_id": "OIUlYK2LHxY",
+          "title": "I Tested This AI Print on Demand Product With $30 in Facebook Ads - Here's Exactly What Happened",
+          "published": "2026-06-04T03:00:15+00:00",
+          "updated": "2026-10-03T13:27:58+00:00",
+          "url": "https://www.youtube.com/watch?v=OIUlYK2LHxY"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach": "Mario Menduni",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "mario",
+        "video_id": "0guqw-VMVnw",
+        "url": "https://www.youtube.com/watch?v=0guqw-VMVnw",
+        "title": "ShineOn Scaling Master Class with Mario Menduni q4 2024 2 of 2",
+        "published": "2024-09-30T11:41:33+00:00",
+        "updated": "2026-10-04T13:23:20+00:00"
+      },
+      "last_processed_before_this_refresh": {
+        "source_id": "MAR-V001",
+        "published": "2024-09-19",
+        "url": "https://www.youtube.com/watch?v=gcqZdELhEv8",
+        "read_state": "完整短宣傳文字已讀，沒有方法；較早MAR-V002才是保留的方法來源"
+      },
+      "newly_processed_source_ids": [
+        "FR-MAR-01"
+      ],
+      "latest_full_transcript_processed_in_this_pass": null,
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。"
+      ],
+      "inventory": [
+        {
+          "coach_source": "mario",
+          "video_id": "0guqw-VMVnw",
+          "url": "https://www.youtube.com/watch?v=0guqw-VMVnw",
+          "title": "ShineOn Scaling Master Class with Mario Menduni q4 2024 2 of 2",
+          "published": "2024-09-30T11:41:33+00:00",
+          "updated": "2026-10-04T13:23:20+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "Lqu0m9IUa4s",
+          "url": "https://www.youtube.com/watch?v=Lqu0m9IUa4s",
+          "title": "Mothers Day Millions Print On Demand Training",
+          "published": "2024-09-19T14:06:08+00:00",
+          "updated": "2026-10-01T20:00:20+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "gcqZdELhEv8",
+          "url": "https://www.youtube.com/watch?v=gcqZdELhEv8",
+          "title": "Print on Demand Mario Menduni Masterclass Free Skool Group Intro",
+          "published": "2024-09-19T13:31:42+00:00",
+          "updated": "2026-10-04T02:49:02+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "vPnNGFki2ZM",
+          "url": "https://www.youtube.com/watch?v=vPnNGFki2ZM",
+          "title": "Print on Demand Dropshipping 7 figure Master Class q4 1 of 2",
+          "published": "2024-09-19T12:54:11+00:00",
+          "updated": "2026-10-05T07:23:18+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "bLmVFw93U9c",
+          "url": "https://www.youtube.com/watch?v=bLmVFw93U9c",
+          "title": "100 times easier to make $50k in one month than $5k a month in ecom",
+          "published": "2024-09-03T18:17:34+00:00",
+          "updated": "2026-09-29T06:16:20+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "KuhewdrsABM",
+          "url": "https://www.youtube.com/watch?v=KuhewdrsABM",
+          "title": "7.5 million in ShineOn Print on Demand Sales Matt Bahe",
+          "published": "2024-08-13T13:20:48+00:00",
+          "updated": "2026-10-01T18:45:09+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "2W1ll3Y3nzs",
+          "url": "https://www.youtube.com/watch?v=2W1ll3Y3nzs",
+          "title": "Best Ecom Opportunity 2024 selling ShineOn Print on Demand",
+          "published": "2024-07-30T14:21:21+00:00",
+          "updated": "2026-10-01T05:20:28+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "FOlpISLbz30",
+          "url": "https://www.youtube.com/watch?v=FOlpISLbz30",
+          "title": "99% fail in ecom because they don't do this",
+          "published": "2024-07-22T16:02:12+00:00",
+          "updated": "2026-10-04T08:52:52+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "beYtTcbQmvU",
+          "url": "https://www.youtube.com/watch?v=beYtTcbQmvU",
+          "title": "matt Bahe on what it takes to build an 8 figure print on demand Shineon store.",
+          "published": "2024-07-17T12:15:31+00:00",
+          "updated": "2026-10-04T23:46:38+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "wkpE5V8wEcs",
+          "url": "https://www.youtube.com/watch?v=wkpE5V8wEcs",
+          "title": "mastermind member does $1.7mil mothers day selling ShineOn Print on Demand mariomenduni.com",
+          "published": "2024-07-16T13:37:12+00:00",
+          "updated": "2026-10-04T19:06:33+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "dgMOwPgjJss",
+          "url": "https://www.youtube.com/watch?v=dgMOwPgjJss",
+          "title": "Want To Make Money Selling Gifts For Mothers Day 2024",
+          "published": "2024-03-22T15:57:33+00:00",
+          "updated": "2026-10-03T18:22:52+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "f_I0pyHlDAY",
+          "url": "https://www.youtube.com/watch?v=f_I0pyHlDAY",
+          "title": "POD Profits Free Course video19  The Etsy of It All   Titles & Tags The Big Three with Gina Menduni",
+          "published": "2024-02-23T12:28:53+00:00",
+          "updated": "2026-10-05T04:45:00+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "ARFzysx15jM",
+          "url": "https://www.youtube.com/watch?v=ARFzysx15jM",
+          "title": "POD Profits Free Course video18  The Etsy of It All   Quick E rank Guide with Coach Gina Menduni",
+          "published": "2024-02-22T16:29:57+00:00",
+          "updated": "2026-10-01T07:18:55+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "We-iPgSHzjg",
+          "url": "https://www.youtube.com/watch?v=We-iPgSHzjg",
+          "title": "POD Profits Free Course video17  The Etsy of It All   Keywords 101 with Coach Gina Menduni",
+          "published": "2024-02-21T12:11:24+00:00",
+          "updated": "2026-09-24T13:28:08+00:00"
+        },
+        {
+          "coach_source": "mario",
+          "video_id": "xI3VreqCFgw",
+          "url": "https://www.youtube.com/watch?v=xI3VreqCFgw",
+          "title": "POD Prifuts Free Course ivideo16  The Etsy of It All   Workflow Overview with Coach",
+          "published": "2024-02-21T12:04:40+00:00",
+          "updated": "2026-10-04T02:22:32+00:00"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach": "Gina Menduni",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "gina",
+        "video_id": "hXBPDwWp1HU",
+        "url": "https://www.youtube.com/watch?v=hXBPDwWp1HU",
+        "title": "My #visionboard worked 🫶",
+        "published": "2024-11-21T19:31:09+00:00",
+        "updated": "2026-10-05T02:42:34+00:00"
+      },
+      "last_processed_before_this_refresh": {
+        "source_id": "GIN-V003",
+        "published": "2024-02-21",
+        "url": "https://www.youtube.com/watch?v=We-iPgSHzjg",
+        "processing_time": "較早已存台帳，精確時刻未存"
+      },
+      "newly_processed_source_ids": [
+        "FR-GIN-01"
+      ],
+      "latest_full_transcript_processed_in_this_pass": {
+        "source_id": "FR-GIN-01",
+        "published": "2024-11-19T17:40:06-08:00",
+        "url": "https://www.youtube.com/watch?v=eu8vuycT1zI"
+      },
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。"
+      ],
+      "inventory": [
+        {
+          "coach_source": "gina",
+          "video_id": "hXBPDwWp1HU",
+          "url": "https://www.youtube.com/watch?v=hXBPDwWp1HU",
+          "title": "My #visionboard worked 🫶",
+          "published": "2024-11-21T19:31:09+00:00",
+          "updated": "2026-10-05T02:42:34+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "TXnpgukkeLg",
+          "url": "https://www.youtube.com/watch?v=TXnpgukkeLg",
+          "title": "Uploading a custom #font to #canva from #creativefabrica ✌️ #canvatutorial #graphicdesigntips",
+          "published": "2024-11-20T16:21:17+00:00",
+          "updated": "2026-10-03T08:18:22+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "eu8vuycT1zI",
+          "url": "https://www.youtube.com/watch?v=eu8vuycT1zI",
+          "title": "How to Upload a Font to Canva - Downloading Custom Fonts on Creative Fabrica",
+          "published": "2024-11-20T01:40:06+00:00",
+          "updated": "2026-10-05T06:24:21+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "fjcmKdhYaTI",
+          "url": "https://www.youtube.com/watch?v=fjcmKdhYaTI",
+          "title": "Lets make a print on demand acrylic #printondemand #onlinebusinessideas #howtomakemoneyathome",
+          "published": "2024-08-01T17:27:12+00:00",
+          "updated": "2026-10-01T12:15:23+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "3DNQ4IUrW_A",
+          "url": "https://www.youtube.com/watch?v=3DNQ4IUrW_A",
+          "title": "6 years adventuring with you 💗 #adventurenthusiasts #travelcouple #workfromanywhere🌎",
+          "published": "2024-07-29T00:10:09+00:00",
+          "updated": "2026-10-04T06:59:01+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "zI9wjrbdeZ8",
+          "url": "https://www.youtube.com/watch?v=zI9wjrbdeZ8",
+          "title": "Zero to 10 MILLION in ShineOn Print on Demand Sales - Matt Bahe & Gina Menduni The Mindset Interview",
+          "published": "2024-07-12T17:32:28+00:00",
+          "updated": "2026-09-24T14:46:52+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "H9Wm3zBQzEU",
+          "url": "https://www.youtube.com/watch?v=H9Wm3zBQzEU",
+          "title": "How Matt Bahe Sold Over $6,000,000 on His Print on Demand Store 2024, ShineOn's Coffee with Michale",
+          "published": "2024-06-11T15:25:36+00:00",
+          "updated": "2026-10-01T15:48:34+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "D15jenajp0Q",
+          "url": "https://www.youtube.com/watch?v=D15jenajp0Q",
+          "title": "Print on Demand Tips - Understanding Seasonality & Using it to Make More Money Online, Mario Menduni",
+          "published": "2024-06-11T15:00:42+00:00",
+          "updated": "2026-10-01T10:37:00+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "v0a0Xz_ApOQ",
+          "url": "https://www.youtube.com/watch?v=v0a0Xz_ApOQ",
+          "title": "What is Print on Demand (POD) - in Under 5 Mins with Gina Menduni",
+          "published": "2024-06-11T14:49:29+00:00",
+          "updated": "2026-10-04T12:43:31+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "j_K7Xvspy0w",
+          "url": "https://www.youtube.com/watch?v=j_K7Xvspy0w",
+          "title": "Print on Demand Success Story - How EPM Member, Cyndy Schatz generated $782K+ in the last 12 months",
+          "published": "2024-06-11T14:31:58+00:00",
+          "updated": "2026-10-04T23:13:58+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "W5gNtOfz0fY",
+          "url": "https://www.youtube.com/watch?v=W5gNtOfz0fY",
+          "title": "How to Run Facebook Ads for Print on Demand - Mario Menduni - ShineOn's Coffee with Michael",
+          "published": "2024-06-11T10:42:30+00:00",
+          "updated": "2026-09-29T14:58:02+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "q8g0AZiqjc8",
+          "url": "https://www.youtube.com/watch?v=q8g0AZiqjc8",
+          "title": "Last year I did $140k in sales on one of my print on demand stores #printondemand #sidehustle",
+          "published": "2023-06-28T22:42:36+00:00",
+          "updated": "2026-09-29T01:28:15+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "88j7N0D-o0k",
+          "url": "https://www.youtube.com/watch?v=88j7N0D-o0k",
+          "title": "Mini Etsy Store Audit 🔥 #etsy #etsytips #etsyshop #etsyseller #etsysellingtips #etsyjewelry",
+          "published": "2023-05-19T22:56:19+00:00",
+          "updated": "2026-10-03T19:22:19+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "rpQsEQXDszA",
+          "url": "https://www.youtube.com/watch?v=rpQsEQXDszA",
+          "title": "Free Printify Mini Course is ⚡️LIVE⚡️ #printondemand #remotejobs #rvlifestyle #etsyseller #printify",
+          "published": "2023-05-12T20:17:20+00:00",
+          "updated": "2026-10-05T07:29:30+00:00"
+        },
+        {
+          "coach_source": "gina",
+          "video_id": "5_rd34mcIxY",
+          "url": "https://www.youtube.com/watch?v=5_rd34mcIxY",
+          "title": "Mindset shift 💓 #mindset #mindsetmatters #entrepreneur #womanownedbusiness #printondemand #etsytips",
+          "published": "2023-05-10T21:39:16+00:00",
+          "updated": "2026-10-03T16:29:30+00:00"
+        }
+      ],
+      "full_channel_coverage": false,
+      "additional_preexisting_review_outside_skill_ledger": {
+        "url": "https://www.youtube.com/watch?v=j_K7Xvspy0w",
+        "published": "2024-06-11T14:31:58Z",
+        "read_state": "截圖來源核對已讀完整抽取訪談，主題Cyndy／Shopify付費廣告，沒有新增方法"
+      }
+    },
+    {
+      "coach": "Chris Blair",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "shineon",
+        "video_id": "5ixn2nbWEMc",
+        "url": "https://www.youtube.com/watch?v=5ixn2nbWEMc",
+        "title": "From Never Quit to Winning Big",
+        "published": "2026-10-02T15:28:38+00:00",
+        "updated": "2026-10-02T20:06:34+00:00"
+      },
+      "last_processed_before_this_refresh": {
+        "source_id": "CHR-V001",
+        "published": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=uG1jjZllSZk",
+        "processing_time": "較早已存台帳，精確時刻未存"
+      },
+      "newly_processed_source_ids": [],
+      "latest_full_transcript_processed_in_this_pass": null,
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。",
+        "公司其他講者與同名Chris不得歸給Chris Blair。"
+      ],
+      "inventory": [
+        {
+          "coach_source": "shineon",
+          "video_id": "5ixn2nbWEMc",
+          "url": "https://www.youtube.com/watch?v=5ixn2nbWEMc",
+          "title": "From Never Quit to Winning Big",
+          "published": "2026-10-02T15:28:38+00:00",
+          "updated": "2026-10-02T20:06:34+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "uG1jjZllSZk",
+          "url": "https://www.youtube.com/watch?v=uG1jjZllSZk",
+          "title": "Why POD Sellers Run Out of Ad Money Before a Product Ever Wins",
+          "published": "2026-09-30T15:30:47+00:00",
+          "updated": "2026-10-04T23:31:47+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "6tYZHL21BEM",
+          "url": "https://www.youtube.com/watch?v=6tYZHL21BEM",
+          "title": "Watch AI Agents Run a POD Store (Live Demo)",
+          "published": "2026-09-25T17:09:17+00:00",
+          "updated": "2026-10-02T10:41:13+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "HMf4q_LZwDo",
+          "url": "https://www.youtube.com/watch?v=HMf4q_LZwDo",
+          "title": "10 Etsy Ranking Tips Most POD Sellers Completely Ignore",
+          "published": "2026-09-23T16:15:24+00:00",
+          "updated": "2026-10-01T11:17:33+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "UoRBYlH1Bnc",
+          "url": "https://www.youtube.com/watch?v=UoRBYlH1Bnc",
+          "title": "Why Most POD Sellers Lose Q4 (And How Not To)",
+          "published": "2026-09-18T16:15:05+00:00",
+          "updated": "2026-10-03T20:13:56+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "xhCzgIhQY44",
+          "url": "https://www.youtube.com/watch?v=xhCzgIhQY44",
+          "title": "🚀 Q&A PREP FOR Q4 🎯",
+          "published": "2026-09-12T04:40:30+00:00",
+          "updated": "2026-09-28T17:37:56+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "7t_y65ocdeI",
+          "url": "https://www.youtube.com/watch?v=7t_y65ocdeI",
+          "title": "✨ SPECIAL DAYS IN Q4 — LET’S GET READY! 🎄🎃🦃",
+          "published": "2026-08-29T04:28:12+00:00",
+          "updated": "2026-10-02T16:14:55+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "OCU4wAJ5BKs",
+          "url": "https://www.youtube.com/watch?v=OCU4wAJ5BKs",
+          "title": "How to Build & Test Winning Products (Secrets from an 8-Figure Coach)",
+          "published": "2026-08-22T03:47:35+00:00",
+          "updated": "2026-10-04T06:31:11+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "Ud3TCfO-V-s",
+          "url": "https://www.youtube.com/watch?v=Ud3TCfO-V-s",
+          "title": "Low Budget Facebook Ad Methods to Get Your First Sale",
+          "published": "2026-08-15T05:16:48+00:00",
+          "updated": "2026-10-01T01:35:52+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "D3VCWyMfy4U",
+          "url": "https://www.youtube.com/watch?v=D3VCWyMfy4U",
+          "title": "What 700,000 Orders Taught Us About Winning Jewelry Phrases",
+          "published": "2026-08-08T04:50:13+00:00",
+          "updated": "2026-10-01T20:53:50+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "fvuMRhE9fgI",
+          "url": "https://www.youtube.com/watch?v=fvuMRhE9fgI",
+          "title": "The Beginner's Guide to Selling POD Jewelry",
+          "published": "2026-08-01T04:56:39+00:00",
+          "updated": "2026-09-30T07:11:12+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "gTU0ou4d_yk",
+          "url": "https://www.youtube.com/watch?v=gTU0ou4d_yk",
+          "title": "💍✨ Great Ideas for Wedding Season ✨💍",
+          "published": "2026-07-25T03:35:46+00:00",
+          "updated": "2026-09-27T20:29:33+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "F1aJHNvHcPk",
+          "url": "https://www.youtube.com/watch?v=F1aJHNvHcPk",
+          "title": "How to build Etsy products that SELL 🚀  Tutorial",
+          "published": "2026-07-18T04:35:48+00:00",
+          "updated": "2026-09-28T02:35:20+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "_vdzj5x_xf0",
+          "url": "https://www.youtube.com/watch?v=_vdzj5x_xf0",
+          "title": "Getting Started with ShineOn (The Ultimate Beginner's Guide)",
+          "published": "2026-07-11T04:09:23+00:00",
+          "updated": "2026-09-28T04:02:49+00:00"
+        },
+        {
+          "coach_source": "shineon",
+          "video_id": "pQXp3Xqm8GM",
+          "url": "https://www.youtube.com/watch?v=pQXp3Xqm8GM",
+          "title": "You Have Everything—So Why Are You Still Lacking Sales on TikTok?",
+          "published": "2026-07-04T03:45:56+00:00",
+          "updated": "2026-09-29T06:53:06+00:00"
+        }
+      ],
+      "full_channel_coverage": false,
+      "latest_attributed_person_observed": {
+        "coach_source": "shineon",
+        "video_id": "uG1jjZllSZk",
+        "url": "https://www.youtube.com/watch?v=uG1jjZllSZk",
+        "title": "Why POD Sellers Run Out of Ad Money Before a Product Ever Wins",
+        "published": "2026-09-30T15:30:47+00:00",
+        "updated": "2026-10-04T23:31:47+00:00"
+      },
+      "latest_observed_scope": "ShineOn公司頻道最新上傳；不是Chris Blair本人全部發布"
+    },
+    {
+      "coach": "Anna Beck",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "anywherepod",
+        "video_id": "keAt8kEOX3E",
+        "url": "https://www.youtube.com/watch?v=keAt8kEOX3E",
+        "title": "MASSIVE UPDATE: AI Auto Personalization & Text w/AnywherePOD (Tutorial)",
+        "published": "2026-09-15T17:22:17+00:00",
+        "updated": "2026-09-18T00:55:08+00:00"
+      },
+      "last_processed_before_this_refresh": {
+        "source_id": "ANN-V002",
+        "published": "2025-11-18",
+        "url": "https://www.youtube.com/watch?v=bMcK52E3xas",
+        "processing_time": "較早已存台帳，精確時刻未存"
+      },
+      "newly_processed_source_ids": [
+        "FR-ANN-EVENT"
+      ],
+      "latest_full_transcript_processed_in_this_pass": null,
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。",
+        "Anna個人完整發布索引未確認；May2026活動頁只有標題／人物介紹，未讀課。"
+      ],
+      "inventory": [
+        {
+          "coach_source": "anywherepod",
+          "video_id": "keAt8kEOX3E",
+          "url": "https://www.youtube.com/watch?v=keAt8kEOX3E",
+          "title": "MASSIVE UPDATE: AI Auto Personalization & Text w/AnywherePOD (Tutorial)",
+          "published": "2026-09-15T17:22:17+00:00",
+          "updated": "2026-09-18T00:55:08+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "IX98OnQqw3U",
+          "url": "https://www.youtube.com/watch?v=IX98OnQqw3U",
+          "title": "This AI Creates Hundreds of Listings in Seconds | AnywherePOD Tutorial",
+          "published": "2026-08-03T16:46:52+00:00",
+          "updated": "2026-10-04T13:01:44+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "uYjUzRFfZi4",
+          "url": "https://www.youtube.com/watch?v=uYjUzRFfZi4",
+          "title": "New Designer, Easily Add Variants, Simpler Personalization (Print on Demand Update)",
+          "published": "2026-07-16T16:13:03+00:00",
+          "updated": "2026-10-04T09:04:49+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "EtTVvujP54I",
+          "url": "https://www.youtube.com/watch?v=EtTVvujP54I",
+          "title": "BREAKING: Good News for Etsy Personalized POD Sellers!",
+          "published": "2026-05-13T04:48:17+00:00",
+          "updated": "2026-10-01T00:21:29+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "o811upEeH8I",
+          "url": "https://www.youtube.com/watch?v=o811upEeH8I",
+          "title": "These 3 AI Designs Are Making Etsy Sellers $$$$ #etsy #ai #money",
+          "published": "2026-05-01T00:30:47+00:00",
+          "updated": "2026-09-30T01:59:19+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "oOA2ap3pK_M",
+          "url": "https://www.youtube.com/watch?v=oOA2ap3pK_M",
+          "title": "Watch Me Design a Golf Towel Using AI #design #shorts #tutorial",
+          "published": "2026-04-30T21:01:01+00:00",
+          "updated": "2026-10-04T17:52:00+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "YBgjm1M2Rz0",
+          "url": "https://www.youtube.com/watch?v=YBgjm1M2Rz0",
+          "title": "These Personalized AI Designs Are Taking Over Etsy Right Now",
+          "published": "2026-04-30T18:00:06+00:00",
+          "updated": "2026-10-04T09:28:25+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "LM4ODlDkg6c",
+          "url": "https://www.youtube.com/watch?v=LM4ODlDkg6c",
+          "title": "Stop Creating Listings Manually (Use This Instead) #EtsyAutomation #ProductiveHacks #POD",
+          "published": "2026-04-24T00:00:21+00:00",
+          "updated": "2026-10-03T12:34:07+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "mZAlv9upvpw",
+          "url": "https://www.youtube.com/watch?v=mZAlv9upvpw",
+          "title": "Wedding Journals Crushing It On Etsy Right Now #printondema​nd #sidehustle #trending",
+          "published": "2026-04-23T22:01:02+00:00",
+          "updated": "2026-10-04T01:40:47+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "MjTYgEW1IJo",
+          "url": "https://www.youtube.com/watch?v=MjTYgEW1IJo",
+          "title": "How to Create a Journal to Sell on Etsy: 3 Niches Making $5K/Month with Print on Demand",
+          "published": "2026-04-23T18:00:06+00:00",
+          "updated": "2026-10-03T09:38:09+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "WFxPOTYnkrQ",
+          "url": "https://www.youtube.com/watch?v=WFxPOTYnkrQ",
+          "title": "The Etsy Hack Nobody Talks About #etsoseller #smallbusiness",
+          "published": "2026-04-16T22:00:38+00:00",
+          "updated": "2026-10-05T07:52:17+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "5GSWCCqS8GA",
+          "url": "https://www.youtube.com/watch?v=5GSWCCqS8GA",
+          "title": "Print-on-Demand Listings: Then vs Now #POD #tutorial",
+          "published": "2026-04-16T19:30:01+00:00",
+          "updated": "2026-10-01T23:26:37+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "8zihL5YVKMU",
+          "url": "https://www.youtube.com/watch?v=8zihL5YVKMU",
+          "title": "You're Wasting Time Creating New Etsy Listings",
+          "published": "2026-04-16T18:00:06+00:00",
+          "updated": "2026-10-02T08:58:39+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "4sLtSBYMLlE",
+          "url": "https://www.youtube.com/watch?v=4sLtSBYMLlE",
+          "title": "Nobody's Doing Monogram Platters Like This #shorts #Innovation",
+          "published": "2026-04-10T16:00:09+00:00",
+          "updated": "2026-09-30T09:50:51+00:00"
+        },
+        {
+          "coach_source": "anywherepod",
+          "video_id": "tNJg_Ajw9o4",
+          "url": "https://www.youtube.com/watch?v=tNJg_Ajw9o4",
+          "title": "This niche market is completely untouched on Etsy #etsytrend #earlyadopter",
+          "published": "2026-04-09T22:01:07+00:00",
+          "updated": "2026-09-27T23:26:46+00:00"
+        }
+      ],
+      "full_channel_coverage": false,
+      "latest_observed_scope": "AnywherePOD公司頻道；最新示範Anna只在聊天室，非主講",
+      "latest_attributed_person_observed": {
+        "source_id": "FR-ANN-EVENT",
+        "date": null,
+        "teaching_read": false
+      }
+    },
+    {
+      "coach": "Hannah Gardner",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "hannah",
+        "video_id": "2CxL3TlKZyo",
+        "url": "https://www.youtube.com/watch?v=2CxL3TlKZyo",
+        "title": "Claude AI Just Exposed How to Fix a Dead Etsy Listing",
+        "published": "2026-10-07T16:00:03+00:00",
+        "updated": "2026-10-07T16:00:04+00:00"
+      },
+      "last_processed_before_this_refresh": {
+        "source_id": "NC2-SHOP-HG01",
+        "published": "2025-01-09",
+        "url": "https://edenfried.com/etsy-ads/",
+        "processing_time": "較早已存台帳，精確時刻未存"
+      },
+      "newly_processed_source_ids": [
+        "FR-HAN-01",
+        "FR-HAN-02"
+      ],
+      "latest_full_transcript_processed_in_this_pass": null,
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。",
+        "最新影片近完整抽取已由來源審查讀到，末句截斷且原全文未留存；編輯者只重核metadata／原訪談及方法位置。"
+      ],
+      "inventory": [
+        {
+          "coach_source": "hannah",
+          "video_id": "2CxL3TlKZyo",
+          "url": "https://www.youtube.com/watch?v=2CxL3TlKZyo",
+          "title": "Claude AI Just Exposed How to Fix a Dead Etsy Listing",
+          "published": "2026-10-07T16:00:03+00:00",
+          "updated": "2026-10-07T16:00:04+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "zgVnCJNRLck",
+          "url": "https://www.youtube.com/watch?v=zgVnCJNRLck",
+          "title": "How to Connect Claude to Your Etsy Shop & Find What’s Actually Selling",
+          "published": "2026-09-25T16:34:05+00:00",
+          "updated": "2026-10-01T00:31:04+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "OacUWJ7diT0",
+          "url": "https://www.youtube.com/watch?v=OacUWJ7diT0",
+          "title": "How to get daily Etsy sales without a Following",
+          "published": "2026-09-08T16:00:25+00:00",
+          "updated": "2026-10-04T09:50:38+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "N8um2QEAU50",
+          "url": "https://www.youtube.com/watch?v=N8um2QEAU50",
+          "title": "5 Etsy Best Selling T-shirt Designs with Juna & Jay (Redesigned Failing Listings)",
+          "published": "2026-08-27T16:00:18+00:00",
+          "updated": "2026-10-01T06:11:30+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "Swri2G1RABY",
+          "url": "https://www.youtube.com/watch?v=Swri2G1RABY",
+          "title": "5 Highly PROFITABLE Unsaturated Etsy Trends Exploding Right Now",
+          "published": "2026-08-12T16:00:06+00:00",
+          "updated": "2026-10-01T06:46:30+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "A5JbP-UjLZA",
+          "url": "https://www.youtube.com/watch?v=A5JbP-UjLZA",
+          "title": "I asked AI to Find a Winning Etsy Niche",
+          "published": "2026-08-03T13:32:05+00:00",
+          "updated": "2026-09-28T13:22:34+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "YD2IAM4N8Gk",
+          "url": "https://www.youtube.com/watch?v=YD2IAM4N8Gk",
+          "title": "$1.2M on Etsy, they said it wasn't possible",
+          "published": "2026-07-31T16:00:19+00:00",
+          "updated": "2026-09-29T04:05:01+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "Bexz6lpzYQU",
+          "url": "https://www.youtube.com/watch?v=Bexz6lpzYQU",
+          "title": "10X Etsy Sales: Do These 3 Things to Get Consistent Etsy Sales",
+          "published": "2026-07-13T16:00:24+00:00",
+          "updated": "2026-09-28T16:24:07+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "_HnM8JAoqx4",
+          "url": "https://www.youtube.com/watch?v=_HnM8JAoqx4",
+          "title": "This Is What \"Running an Etsy Shop Remotely\" Really Looks Like",
+          "published": "2026-07-07T16:00:07+00:00",
+          "updated": "2026-09-30T20:54:36+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "T83Zz4VRw1g",
+          "url": "https://www.youtube.com/watch?v=T83Zz4VRw1g",
+          "title": "I Built a Viral Shopify Store in One Afternoon Using AI",
+          "published": "2026-07-06T16:00:01+00:00",
+          "updated": "2026-10-01T12:45:09+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "MlnBU-j42Fg",
+          "url": "https://www.youtube.com/watch?v=MlnBU-j42Fg",
+          "title": "Do you Need Help Getting Etsy Sales?",
+          "published": "2026-07-03T16:00:13+00:00",
+          "updated": "2026-10-01T08:57:44+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "bXwPyG0gLXM",
+          "url": "https://www.youtube.com/watch?v=bXwPyG0gLXM",
+          "title": "4 Etsy Products Almost Nobody Is Talking About (They're Selling Like Crazy)",
+          "published": "2026-06-29T16:00:11+00:00",
+          "updated": "2026-10-01T11:14:29+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "9-7pjWWadE0",
+          "url": "https://www.youtube.com/watch?v=9-7pjWWadE0",
+          "title": "4 Must Watch Etsy Videos That Put You Ahead of 99% Sellers",
+          "published": "2026-06-22T20:30:17+00:00",
+          "updated": "2026-10-01T23:21:41+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "tdE0EuI7ySk",
+          "url": "https://www.youtube.com/watch?v=tdE0EuI7ySk",
+          "title": "A Low Competition Etsy Niche Won't Save You If You Miss This",
+          "published": "2026-06-22T16:00:21+00:00",
+          "updated": "2026-10-03T22:46:32+00:00"
+        },
+        {
+          "coach_source": "hannah",
+          "video_id": "1y6CYmG564Y",
+          "url": "https://www.youtube.com/watch?v=1y6CYmG564Y",
+          "title": "How This Simple Print On Demand Product Makes $8,000/Month",
+          "published": "2026-06-16T16:00:18+00:00",
+          "updated": "2026-09-27T12:26:40+00:00"
+        }
+      ],
+      "full_channel_coverage": false
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "FR-GEO-01",
+      "coach": "George McConnell",
+      "url": "https://www.youtube.com/watch?v=2wwkGPNmy_I",
+      "title": "Laziest Way to Make Money with AI (If You're Broke)",
+      "published_at": "2026-09-30T14:30:13-07:00",
+      "duration": "PT9M8S",
+      "checked_at_utc": "2026-10-07T17:33:08.651139+00:00",
+      "observation_basis": "本輪公開工具回傳已持存後核讀；此時間為整合覆核時點，非發布／首取時間",
+      "read_state": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "transcript_available": true,
+      "returned_transcript_words": 1946,
+      "transcript_sha256": "d996c1e66412cd6ba9b2b8fbcba740eb4cc0fe4edb0af482fa4736f507ca5ac3",
+      "method_zh": "實際姓名／日期／地點等訂製輸入須先核準，再查製作檔；屬既有個人化QA的補充示範。",
+      "reject_zh": [
+        "星圖準確性未驗證；AI生成星座不能當天文資料。",
+        "EverBee估算、Amazon標示及片中營收不是已核利潤。",
+        "不採立即賺錢承諾、照抄藝術稿或供應商產品規格轉移。"
+      ],
+      "author_scope": "George McConnell",
+      "new_since_2026_10_05": false
+    },
+    {
+      "source_id": "FR-GEO-02",
+      "coach": "George McConnell",
+      "url": "https://www.youtube.com/watch?v=Mo3nUK9S8tI",
+      "title": "Claude Opus 5.5 + Higgsfield AI: 7 CRAZY Use Cases",
+      "published_at": "2026-09-27T08:30:11-07:00",
+      "duration": "PT23M36S",
+      "checked_at_utc": "2026-10-07T17:33:08.651139+00:00",
+      "observation_basis": "本輪公開工具回傳已持存後核讀；此時間為整合覆核時點，非發布／首取時間",
+      "read_state": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "transcript_available": true,
+      "returned_transcript_words": 4865,
+      "transcript_sha256": "f13dc304d6d79f4c1bc84ec3e817c983d0cec46fc1f56cd42accc8a6626791ed",
+      "method_zh": "示範中漏列衣物參考後生成圖缺衣物，文字與角色也會走樣。可補充逐件列明參考及人工核產品真實性的失敗案例。",
+      "reject_zh": [
+        "AI自評分數不是正確或轉換證據；不製造顧客使用見證。",
+        "不採工具價格／版本宣傳為目前官方能力，也不因此接帳戶或付費。"
+      ],
+      "author_scope": "George McConnell",
+      "new_since_2026_10_05": false
+    },
+    {
+      "source_id": "FR-GEO-03",
+      "coach": "George McConnell",
+      "url": "https://www.youtube.com/watch?v=m_t7N9acoew",
+      "title": "I Found a Simple Stupid Way To Make Money Online",
+      "published_at": "2026-10-05T07:30:11-07:00",
+      "duration": "PT25M52S",
+      "checked_at_utc": "2026-10-07T17:33:08.651139+00:00",
+      "observation_basis": "本輪公開工具回傳已持存後核讀；此時間為整合覆核時點，非發布／首取時間",
+      "read_state": "partial_extracted_transcript_all_returned_read",
+      "audio_video_watched": false,
+      "transcript_available": true,
+      "returned_transcript_words": 5255,
+      "transcript_sha256": "5151c865e7450862c895949587b215a37fc0a8265ba8f7b5bf2e36ba4e0337c4",
+      "method_zh": "地方服務商網站改版及外聯生意，與本店當前日誌經營適配低；不增新方法。",
+      "reject_zh": [
+        "末句截斷，不能標完整字幕。",
+        "每月十萬美元為自報；示範頁聲稱數字／評語未獨立核。",
+        "不採每日十至二十個陌生外聯或另開代理業務。"
+      ],
+      "author_scope": "George McConnell",
+      "new_since_2026_10_05": false,
+      "title_observation_note": "同一ID的watch metadata／截圖為The EASIEST Way To Make Money with AI (Beginner Friendly)，RSS與抽取正文為I Found a Simple Stupid Way To Make Money Online。保留兩個觀察，不推定何時改名。"
+    },
+    {
+      "source_id": "FR-LUN-01",
+      "coach": "Luna Vega",
+      "url": "https://www.youtube.com/watch?v=K6JN1WdAqvA",
+      "title": "I Made $1,000,000 Selling Digital Products - 6 Things You Are Missing!",
+      "published_at": "2026-09-29T07:00:34-07:00",
+      "duration": "PT12M58S",
+      "checked_at_utc": "2026-10-07T17:33:08.651139+00:00",
+      "observation_basis": "本輪公開工具回傳已持存後核讀；此時間為整合覆核時點，非發布／首取時間",
+      "read_state": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "transcript_available": true,
+      "returned_transcript_words": 2577,
+      "transcript_sha256": "36ae10123ef2b1ec7746307ae7d6ab1ce60a4c2a4bdab1db99a97910f5f34d12",
+      "method_zh": "以一句清楚說明買家用途，並使用真實經驗／評語支持信任；保留為既有清晰度方法的例子。",
+      "reject_zh": [
+        "不採爬蟲腦、所有購買非理性或產品本身不重要等泛化。",
+        "不把日誌說成能治療、保證轉變生活；不編造創辦人故事／成果。",
+        "數碼產品脈絡及自報百萬收入不構成本店需求或結果。"
+      ],
+      "author_scope": "Luna Vega",
+      "new_since_2026_10_05": false
+    },
+    {
+      "source_id": "FR-RON-01",
+      "coach": "Ronnie McKenzie",
+      "url": "https://www.youtube.com/watch?v=7yF0oZhQcB8",
+      "title": "Make Your First $1,000 with this New Claude Side Hustle",
+      "published_at": "2026-07-08T02:50:00-07:00",
+      "duration": "PT9M51S",
+      "checked_at_utc": "2026-10-07T17:33:08.651139+00:00",
+      "observation_basis": "本輪公開工具回傳已持存後核讀；此時間為整合覆核時點，非發布／首取時間",
+      "read_state": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "transcript_available": true,
+      "returned_transcript_words": 1851,
+      "transcript_sha256": "61fbb9d6d7719b1dc8a9b28165bff8101b4a3583e2576449bd2f4f73e2655858",
+      "method_zh": "保留訂製訂單需先人工處理、用實際產品檔核對圖片的有限操作提醒；未有新增需求規則。",
+      "reject_zh": [
+        "明確拒絕把reviews固定當銷量2–3%、AI估算當利潤或100%加價當100%利潤率。",
+        "不可把別店主圖作微改、生成商品圖視作真實實物證據。",
+        "砧板及付費廣告脈絡不自動移植日誌。"
+      ],
+      "author_scope": "Ronnie McKenzie",
+      "new_since_2026_10_05": false
+    },
+    {
+      "source_id": "FR-GIN-01",
+      "coach": "Gina Menduni",
+      "url": "https://www.youtube.com/watch?v=eu8vuycT1zI",
+      "title": "How to Upload a Font to Canva - Downloading Custom Fonts on Creative Fabrica",
+      "published_at": "2024-11-19T17:40:06-08:00",
+      "duration": "PT2M47S",
+      "checked_at_utc": "2026-10-07T17:33:08.651139+00:00",
+      "observation_basis": "本輪公開工具回傳已持存後核讀；此時間為整合覆核時點，非發布／首取時間",
+      "read_state": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "transcript_available": true,
+      "returned_transcript_words": 478,
+      "transcript_sha256": "b22335684dcb56882d50db78928a3efe36fb9029bb48f0ed5c09395d7cfdf775",
+      "method_zh": "同一字型的大小寫可對應不同字形，測試實際訂製姓名的可讀性與版位；由既有Canva產品圖方法承接。",
+      "reject_zh": [
+        "下載來源不等於所有商用／POD授權已核。",
+        "2024價格、介面、訂閱與上傳權限不當2026事實。"
+      ],
+      "author_scope": "Gina Menduni",
+      "new_since_2026_10_05": false
+    },
+    {
+      "source_id": "FR-MAR-01",
+      "coach": "Mario Menduni",
+      "url": "https://www.youtube.com/watch?v=0guqw-VMVnw",
+      "title": "ShineOn Scaling Master Class with Mario Menduni q4 2024 2 of 2",
+      "published_at": "2024-09-30T04:41:33-07:00",
+      "duration": "PT136M9S",
+      "checked_at_utc": "2026-10-07T17:33:08.651139+00:00",
+      "observation_basis": "本輪公開工具回傳已持存後核讀；此時間為整合覆核時點，非發布／首取時間",
+      "read_state": "partial_transcript_intro_and_closing_reviewed",
+      "audio_video_watched": false,
+      "transcript_available": true,
+      "returned_transcript_words": 22990,
+      "transcript_sha256": "b4d399170573cd571c2eeac3dcaf2a41f1db59bd56328d1ddcf22d17bfdf64e1",
+      "method_zh": "核讀開首及結尾：Q4高客單價／Meta擴量及歷史案例，主要不合零廣告工時範圍；不增方法。",
+      "reject_zh": [
+        "2小時16分來源僅選段核讀，不能稱全集已讀。",
+        "性別、Q4、客單價、政治廣告競價及收入敘述皆非本店預測。"
+      ],
+      "author_scope": "Mario Menduni",
+      "new_since_2026_10_05": false
+    },
+    {
+      "source_id": "FR-APOD-01",
+      "coach": "AnywherePOD 公司來源",
+      "url": "https://www.youtube.com/watch?v=keAt8kEOX3E",
+      "title": "MASSIVE UPDATE: AI Auto Personalization & Text w/AnywherePOD (Tutorial)",
+      "published_at": "2026-09-15T10:22:17-07:00",
+      "duration": "PT71M50S",
+      "checked_at_utc": "2026-10-07T17:33:08.651139+00:00",
+      "observation_basis": "本輪公開工具回傳已持存後核讀；此時間為整合覆核時點，非發布／首取時間",
+      "read_state": "partial_transcript_intro_identity_text_formatting_and_final_QA_reviewed",
+      "audio_video_watched": false,
+      "transcript_available": true,
+      "returned_transcript_words": 12051,
+      "transcript_sha256": "ece69769b263af06f668ff278ddc28e7c39091aed3ff4273a2705d497f7a8cd6",
+      "method_zh": "公司示範AI文本格式及圖像訂製；實例顯示姓氏複數未如預期，仍需測試。末段明說AI圖像文字不是實際字型檔。",
+      "reject_zh": [
+        "Anna只被提及在聊天室，不能歸她主講。",
+        "只讀開首、身份、格式測試及末段QA，不稱整場已讀。",
+        "格式輸入須與買家批準原字一致，未授權不可自動改名或接供應商。"
+      ],
+      "author_scope": "AnywherePOD講者Chris；本片未確認姓氏，不當Chris Blair",
+      "new_since_2026_10_05": false
+    },
+    {
+      "source_id": "FR-APOD-02",
+      "coach": "AnywherePOD 公司來源",
+      "url": "https://www.youtube.com/watch?v=MjTYgEW1IJo",
+      "title": "How to Create a Journal to Sell on Etsy: 3 Niches Making $5K/Month with Print on Demand",
+      "published_at": "2026-04-23T11:00:06-07:00",
+      "duration": "PT9M55S",
+      "checked_at_utc": "2026-10-07T17:33:08.651139+00:00",
+      "observation_basis": "本輪公開工具回傳已持存後核讀；此時間為整合覆核時點，非發布／首取時間",
+      "read_state": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "transcript_available": true,
+      "returned_transcript_words": 1890,
+      "transcript_sha256": "670c2e8bcedbbf3d8bcc34dfa5456a650586107b11fb0510548572a28b87527a",
+      "method_zh": "示範姓名圖層和可交付變體對齊；三個場合只作候選用途，先核本店商品再採用。",
+      "reject_zh": [
+        "講者自稱AnywherePOD創辦人Chris，不是Anna或已核Chris Blair。",
+        "片中收入、需求高及多顏色必增銷量未驗證。",
+        "不承諾本店可送禮包裝、不同紙本底物、全底色變體或哀傷療效。"
+      ],
+      "author_scope": "公司創辦人Chris，姓氏本輪未確認",
+      "new_since_2026_10_05": false
+    },
+    {
+      "source_id": "FR-HAN-01",
+      "coach": "Hannah Gardner",
+      "url": "https://www.youtube.com/watch?v=2CxL3TlKZyo",
+      "title": "Claude AI Just Exposed How to Fix a Dead Etsy Listing",
+      "published_at": "2026-10-07T16:00:03Z",
+      "checked_at_utc": "2026-10-07T16:22:24Z",
+      "read_state": "near_complete_returned_transcript_read_by_source_reviewer; independent_writer_checked_identity_anchors_context_and_old_primary_article",
+      "audio_video_watched": false,
+      "new_since_2026_10_05": true,
+      "storage_note": "成功抽取曾全段核讀，但原始全文未持存；本次獨立重取只得malformed頁，未作字幕證據。保留已讀位置與短引句，不重建全文。",
+      "method_zh": "選相同買家的競品，將供貨／尺寸／配送／評語／tags／首圖一起診斷，分小步驗證。",
+      "reject_zh": [
+        "AI評級B到A不是成交／排序改善；沒有改後銷量證據。",
+        "首圖自動抓取當時未完成，仍需提供真實原圖。",
+        "固定前四個詞不是現行Etsy排序定律。",
+        "競品評語、免運及更多尺寸只產生假設，不證因果。",
+        "ProfitTree資料完整性、精度及獨家接駁屬未核商業主張；不假定有付費Claude或帳戶權限。"
+      ],
+      "attribution_note": "Hannah Gardner，與Hannah Ebeling不同。",
+      "near_full_not_exact_complete": true
+    },
+    {
+      "source_id": "FR-HAN-02",
+      "coach": "Hannah Gardner",
+      "url": "https://edenfried.com/etsy-ads/",
+      "title": "Etsy Ads Secrets: Know Your Numbers & Boost Your Shop’s Earnings",
+      "published_at": "2025-01-09",
+      "checked_at_utc": "2026-10-07T17:33:08.651139+00:00",
+      "read_state": "primary_interview_article_full_body_independently_reviewed; linked_audio_video_not_read",
+      "method_zh": "檢查完整成本後的利潤，不能把營收或廣告表面回報當淨利。",
+      "reject_zh": [
+        "不採廣告保證帶動自然流量、永不降預算、固定30–50美元門檻或算法混亂說。",
+        "主持文章中的自報收入與宣傳不是獨立核帳；本店零owner廣告限制保持。"
+      ]
+    },
+    {
+      "source_id": "FR-ANN-EVENT",
+      "coach": "Anna Beck",
+      "url": "https://create.rebelbosses.com/abeck-may2026/",
+      "title": "Text Sells: Turn Simple Words into Best-Selling Print-on-Demand Products",
+      "published_at": null,
+      "event_label": "May2026僅來自頁面locator，精確發表日未見",
+      "checked_at_utc": "2026-10-07T17:33:08.651139+00:00",
+      "read_state": "official_event_title_and_speaker_bio_only; teaching_not_read",
+      "method_zh": "公開頁確認Anna角色和課題；未取得課堂正文，不新增教學。",
+      "reject_zh": [
+        "不因標題或VIP銷售頁認定已讀課程；未付費或登入。"
+      ]
+    }
+  ],
+  "excluded_misattribution": [
+    {
+      "url": "https://www.youtube.com/watch?v=6cUWj-Sjs4o",
+      "reason": "另一位創作者Make Money With Remons，不是George McConnell，不採用。"
+    }
+  ]
+}

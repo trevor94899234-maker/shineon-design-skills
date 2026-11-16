@@ -1,0 +1,2360 @@
+{
+  "release": "2026.10.09.1",
+  "as_of": "2026-10-09",
+  "scope": "All 30 admitted business perspectives; source-based AI evaluation, no live coach participation or measured coaching effectiveness.",
+  "sort_rule": "Contextual fit first, then potential practical impact, then task-specific marginal contribution; ties are editorial, not statistically distinct. Evidence quality, completeness and freshness remain separate, never hidden in a composite.",
+  "shop_constraints": {
+    "product": "printed vegan-leather journal, 200 lined pages, name-only",
+    "products": [
+      "Couples OurSeasonsGrace / TheBennetts",
+      "Grandson / Ethan"
+    ],
+    "market": "US 90–95% owner-reported",
+    "price_reference": "USD49.95 owner context, not current live price audit",
+    "capacity": "3–5 hours/week, zero ad spend"
+  },
+  "rubric": {
+    "fit": "1 mainly outside current model; 2 optional/rare overlap; 3 transferable specialty; 4 direct product/workflow fit; 5 directly resolves buyer/search/product decision at issue.",
+    "impact": "1 negligible; 2 conditional small task; 3 useful risk/time reduction; 4 material decision or fidelity improvement; 5 addresses the earliest current evidence/commercial bottleneck. Potential only, not measured sales uplift.",
+    "evidence_quality": "1 names/snippets only; 2 selected/partial original material; 3 complete returned transcript or original interview with media/commercial limits; 4 complete attributable official/author text with clear provenance and boundaries; 5 independently triangulated decision evidence. This rates source support, not creator honesty or market success.",
+    "selected_method_completeness": "1 label; 2 isolated example/segment; 3 usable bounded method with gaps; 4 coherent steps and exceptions available for selected question; 5 full relevant method independently exercised. Never a full channel/course completeness claim.",
+    "freshness": "Use actual selected teaching date, source check date and latest observed metadata separately. 2026 publication alone does not establish current validity; undated does not mean stale or current."
+  },
+  "all_complete_frameworks_available": false,
+  "new_full_coach_channel_refresh_performed": false,
+  "financial_or_sales_claims_used_for_ranking": false,
+  "rankings": [
+    {
+      "contextual_rank": 1,
+      "name": "Starla Moore",
+      "scores": {
+        "fit": 5,
+        "impact": 5,
+        "evidence_quality": 4,
+        "selected_method_completeness": 4
+      },
+      "specialty": "SEO與可驗證實驗",
+      "why_this_context": "把選詞變成可驗證假說，分清資訊、點擊與成交。",
+      "limits": "eRank作者／團隊關聯；舊SEO或評論說法須由現行Etsy校正。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-10-06",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:12:50.712Z",
+        "latest_observed": {
+          "source_id": "REFRESH-20261008-STA-01",
+          "coach": "Starla Moore",
+          "video_id": "kUpvoJUjFgo",
+          "url": "https://www.youtube.com/watch?v=kUpvoJUjFgo",
+          "title": "Is a 4 Star Review BAD on Etsy? #etsy #etsytips #etsysellers",
+          "published_at_utc": "2026-10-07T17:15:07Z",
+          "publish_date_raw": "2026-10-07T10:15:07-07:00",
+          "upload_date_raw": "2026-10-07T10:15:07-07:00",
+          "checked_at": "2026-10-08T03:29:49.720791+00:00",
+          "read_depth": "official_watch_metadata_and_description_only",
+          "new_methods_admitted": [],
+          "transcript_read": false,
+          "video_watched": false,
+          "prior_person_checked_at": "2026-10-07T17:12:50.712Z",
+          "publication_after_prior_person_check": true,
+          "published_after_prior_review_end": false,
+          "recording_date": null,
+          "republication_status": "unknown",
+          "content_summary_and_limit": "Description presents a four-star review as an opportunity for feedback and improvement. No message script or review-policy details read. Only descriptive context; retained Nancy aftercare and current Etsy policy still govern.",
+          "evidence_decision": "new_publication_verified_description_only_not_new_method",
+          "capture_sha256": "0e21ee54e55a4285b5fbcd385b605b07d82c0cf59a8a117f6620202a0becd24f",
+          "content_status_source": "coach-video-content-2026-10-08.json",
+          "subsequent_content_status": [
+            {
+              "source_id": "REFRESH-20261008-STA-01",
+              "status": "visible_transcript_read_bounded_aftercare_clarification",
+              "read_level": null,
+              "read_depth": "all_visible_official_English_transcript_segments_semantically_reviewed",
+              "original_recording_date": null,
+              "bounded_adoption_zh": "補強既有Nancy售後卡的情緒與資訊分流；本店草稿改成中性詢問商品／服務體驗，不沿用「怎樣才給五星」句式。",
+              "novelty": "有限補強既有售後方法，不新增Coach或獨立任務"
+            }
+          ]
+        },
+        "coverage_gaps": [
+          "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+          "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+          "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles.",
+          "3LRjRtcHCpE extracted text ends mid-sentence; partial review only."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@StarlaMoore/videos",
+              "checked_at": "2026-10-08T03:24:28.304363+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@StarlaMoore/shorts",
+              "checked_at": "2026-10-08T03:24:28.512360+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@StarlaMoore/streams",
+              "checked_at": "2026-10-08T03:24:28.559051+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "STA-A001",
+          "url": "https://help.erank.com/blog/etsy-seo-using-the-scientific-method/",
+          "ledger": "coach-source-ledger-2026-10-05.json",
+          "title": "Etsy SEO Using the Scientific Method",
+          "published": "2021-02-16",
+          "reading": "full_article_reviewed"
+        },
+        {
+          "source_id": "STA-V002",
+          "url": "https://www.youtube.com/watch?v=wqF9ky8p_XQ",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "5 Etsy Growth Tips that NO ONE talks about",
+          "published": "2026-10-06T09:15:22-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 1,
+        "impact": 1,
+        "evidence_quality": 1,
+        "selected_method_completeness": 1
+      }
+    },
+    {
+      "contextual_rank": 2,
+      "name": "Mei Pak",
+      "scores": {
+        "fit": 5,
+        "impact": 5,
+        "evidence_quality": 4,
+        "selected_method_completeness": 4
+      },
+      "specialty": "付款者／收禮人與商業意圖",
+      "why_this_context": "直接防止把祖父母、孫子、實際書寫者及最終讀者混成一個persona。",
+      "limits": "主張來自首飾／自站等情境；未證明本店Christian journal需求。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-09-26",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:17:43.165574Z",
+        "latest_observed": {
+          "source_id": "REFRESH-20261008-MEI-01",
+          "coach": "Mei Pak",
+          "video_id": "3r6Na54iOM0",
+          "url": "https://www.youtube.com/watch?v=3r6Na54iOM0",
+          "title": "It’s never too late to start something you really want to do ♥️",
+          "published_at_utc": "2026-10-08T01:00:29Z",
+          "publish_date_raw": "2026-10-07T18:00:29-07:00",
+          "upload_date_raw": "2026-10-07T18:00:29-07:00",
+          "checked_at": "2026-10-08T03:29:56.698335+00:00",
+          "read_depth": "official_watch_metadata_and_description_only",
+          "new_methods_admitted": [],
+          "transcript_read": false,
+          "video_watched": false,
+          "prior_person_checked_at": "2026-10-07T17:17:43.165574Z",
+          "publication_after_prior_person_check": true,
+          "published_after_prior_review_end": true,
+          "recording_date": null,
+          "republication_status": "unknown",
+          "content_summary_and_limit": "Motivational description about beginning a handmade business; no new operational method and no evidence to change current journal priorities.",
+          "evidence_decision": "new_publication_verified_description_only_not_new_method",
+          "capture_sha256": "d7d0100582faa6d961f0870c57116f4c09d67a5a3f800a581094928970669194",
+          "content_status_source": "coach-video-content-2026-10-08.json",
+          "subsequent_content_status": "No subsequently completed content review; teaching remains unread."
+        },
+        "coverage_gaps": [
+          "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+          "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+          "2026-10-06最新Short只讀公開描述；本輪完整方法來源為2026-09-26長片。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/channel/UCw6Dxk_YQdVE-Vy-OVJsRYQ/videos",
+              "checked_at": "2026-10-08T03:27:23.632098+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UCw6Dxk_YQdVE-Vy-OVJsRYQ/shorts",
+              "checked_at": "2026-10-08T03:27:23.653882+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UCw6Dxk_YQdVE-Vy-OVJsRYQ/streams",
+              "checked_at": "2026-10-08T03:27:24.122381+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "NC2-SHOP-M03",
+          "url": "https://www.creativehiveco.com/5-questions-to-ask-to-understand-your-ideal-customer/",
+          "ledger": "coach-freshness-overview-2026-10-07.json",
+          "title": "5 Questions to Ask to Understand Your Ideal Customer",
+          "published": null,
+          "reading": "full_article_text_read"
+        },
+        {
+          "source_id": "FR6-029",
+          "url": "https://www.youtube.com/watch?v=MtFT1MBVedI",
+          "ledger": "coach-freshness-six-2026-10-07.json",
+          "title": "I built a business from scratch to prove you can too (It made me $11,414) - YouTube",
+          "published": "2026-09-26T15:00:26+00:00",
+          "reading": "complete_returned_transcript_text_read"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 1,
+        "impact": 1,
+        "evidence_quality": 1,
+        "selected_method_completeness": 1
+      }
+    },
+    {
+      "contextual_rank": 3,
+      "name": "Hannah Gardner",
+      "scores": {
+        "fit": 5,
+        "impact": 5,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "同買家競品與單listing診斷",
+      "why_this_context": "從真實可交付商品、總價和履約找最早缺口，適合兩款現成journal。",
+      "limits": "新片近完整文字末句截斷，成功全文未持存；舊訪談完整；沒有改後因果證據。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-10-07",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:33:08.651139+00:00",
+        "latest_observed": {
+          "coach_source": "hannah",
+          "video_id": "2CxL3TlKZyo",
+          "url": "https://www.youtube.com/watch?v=2CxL3TlKZyo",
+          "title": "Claude AI Just Exposed How to Fix a Dead Etsy Listing",
+          "published": "2026-10-07T16:00:03+00:00",
+          "updated": "2026-10-07T16:00:04+00:00"
+        },
+        "coverage_gaps": [
+          "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+          "未選正文的項目保留metadata-only，不能由標題推導教學。",
+          "最新影片近完整抽取已由來源審查讀到，末句截斷且原全文未留存；編輯者只重核metadata／原訪談及方法位置。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@EcomHannah/videos",
+              "checked_at": "2026-10-08T03:26:30.069018+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@EcomHannah/shorts",
+              "checked_at": "2026-10-08T03:26:30.076701+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@EcomHannah/streams",
+              "checked_at": "2026-10-08T03:26:30.171493+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "FR-HAN-01",
+          "url": "https://www.youtube.com/watch?v=2CxL3TlKZyo",
+          "ledger": "coach-freshness-root-2026-10-07.json",
+          "title": "Claude AI Just Exposed How to Fix a Dead Etsy Listing",
+          "published": "2026-10-07T16:00:03Z",
+          "reading": "near_complete_returned_transcript_read_by_source_reviewer; independent_writer_checked_identity_anchors_context_and_old_primary_article"
+        },
+        {
+          "source_id": "FR-HAN-02",
+          "url": "https://edenfried.com/etsy-ads/",
+          "ledger": "coach-freshness-root-2026-10-07.json",
+          "title": "Etsy Ads Secrets: Know Your Numbers & Boost Your Shop’s Earnings",
+          "published": "2025-01-09",
+          "reading": "primary_interview_article_full_body_independently_reviewed; linked_audio_video_not_read"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 1,
+        "impact": 1,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 4,
+      "name": "Emily Odio-Sutton",
+      "scores": {
+        "fit": 5,
+        "impact": 4,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "journal送禮語言",
+      "why_this_context": "現有方法最接近journal載體，可由真實評論反推誰買給誰。",
+      "limits": "Printify訪談有供應商利益；硬皮商品、職業禮品和收益不得移植。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-10-06",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:22:23.002984Z",
+        "latest_observed": {
+          "video_id": "fxCihs3NUk0",
+          "title": "Etsy Q4 Print on Demand: 3 Untapped Products Before It’s Too Late",
+          "url": "https://www.youtube.com/watch?v=fxCihs3NUk0",
+          "publication_date": "2026-10-06T13:00:10+00:00",
+          "updated_at": "2026-10-06T19:35:42+00:00"
+        },
+        "coverage_gaps": [
+          "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+          "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+          "2026-09-29 Pinterest嘉賓訪談只部分閱讀，不能說學完完整教學；完整內容已取得不等於完成分析。",
+          "Podia公開頁由先前empty body改善為可讀；課程仍未讀。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/channel/UCAAdHNShqOQagHJfhw884Bg/videos",
+              "checked_at": "2026-10-08T03:27:23.567440+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UCAAdHNShqOQagHJfhw884Bg/shorts",
+              "checked_at": "2026-10-08T03:27:23.628446+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UCAAdHNShqOQagHJfhw884Bg/streams",
+              "checked_at": "2026-10-08T03:27:23.629373+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "NC2-POD-EE01",
+          "url": "https://printify.com/blog/how-printify-helped-this-mom-quit-her-job/",
+          "ledger": "coach-freshness-overview-2026-10-07.json",
+          "title": "From side hustle to $500k: How Printify helped this mom quit her job",
+          "published": "2025-07-02",
+          "reading": "full_article_read"
+        },
+        {
+          "source_id": "FR6-014",
+          "url": "https://www.youtube.com/watch?v=fxCihs3NUk0",
+          "ledger": "coach-freshness-six-2026-10-07.json",
+          "title": "Etsy Q4 Print on Demand: 3 Untapped Products Before It’s Too Late - YouTube",
+          "published": "2026-10-06T13:00:10+00:00",
+          "reading": "complete_returned_transcript_text_read"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 1,
+        "impact": 5,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 5,
+      "name": "Christina Umerez",
+      "scores": {
+        "fit": 4,
+        "impact": 5,
+        "evidence_quality": 3,
+        "selected_method_completeness": 4
+      },
+      "specialty": "數據時間與季節／常青",
+      "why_this_context": "對這次平均值掩蓋低單月的失誤有直接攔截作用。",
+      "limits": "飾品數據與單月只是線索；發布新不等於觀察新，US範圍未自動核實。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-10-06",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:12:50.712Z",
+        "latest_observed": {
+          "video_id": "SVdk4RyGuaQ",
+          "url": "https://www.youtube.com/watch?v=SVdk4RyGuaQ",
+          "title": "TOP 2026 Trending Ornament Niches To Add Now (Research Tutorial)",
+          "published": "2026-10-06T16:00:20+00:00",
+          "updated": "2026-10-07T13:55:46+00:00"
+        },
+        "coverage_gaps": [
+          "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+          "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+          "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@c.u.online/videos",
+              "checked_at": "2026-10-08T03:24:28.578548+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@c.u.online/shorts",
+              "checked_at": "2026-10-08T03:24:28.621263+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@c.u.online/streams",
+              "checked_at": "2026-10-08T03:24:28.779571+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "CHU-V002",
+          "url": "https://www.youtube.com/watch?v=SVdk4RyGuaQ",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "TOP 2026 Trending Ornament Niches To Add Now (Research Tutorial)",
+          "published": "2026-10-06T09:00:20-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        },
+        {
+          "source_id": "CHU-A001",
+          "url": "https://printify.com/blog/sell-more-after-the-holidays-with-christina-umerez/",
+          "ledger": "coach-source-ledger-2026-10-05.json",
+          "title": "Sell more after the holidays with Christina Umerez",
+          "published": "2022 teaching context; exact publication not extracted",
+          "reading": "full_article_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 5,
+        "impact": 1,
+        "evidence_quality": 10,
+        "selected_method_completeness": 1
+      }
+    },
+    {
+      "contextual_rank": 6,
+      "name": "Mandy Dobosenski",
+      "scores": {
+        "fit": 4,
+        "impact": 4,
+        "evidence_quality": 3,
+        "selected_method_completeness": 4
+      },
+      "specialty": "真實客製請求分流",
+      "why_this_context": "把buyer identity／occasion放入可交付性、工時及既有listing的決策。",
+      "limits": "一個詢問不是已驗證市場，不照抄年份利基或新增大量款式。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-09-18",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:17:49.777687Z",
+        "latest_observed": {
+          "video_id": "7He778_Cysk",
+          "title": "Is this the fastest way to list on Etsy? #printondemand #etsyseller #shorts",
+          "url": "https://www.youtube.com/shorts/7He778_Cysk",
+          "publication_date": "2026-10-07T13:00:20+00:00",
+          "updated_at": "2026-10-07T13:00:26+00:00"
+        },
+        "coverage_gaps": [
+          "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+          "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+          "先前取消的3qsXRrglfDY保持retrieval_cancelled_not_retried，未重新請求或換路重試。",
+          "最新2026-10-07短片只讀RSS描述；較新的ornament供應商比較未作全文教學抽取，優先處理較貼近本店的2026-09-18顧客請求。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/channel/UCh22ofFv6DheCUMo8J06zSw/videos",
+              "checked_at": "2026-10-08T03:26:53.469512+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UCh22ofFv6DheCUMo8J06zSw/shorts",
+              "checked_at": "2026-10-08T03:26:53.537280+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UCh22ofFv6DheCUMo8J06zSw/streams",
+              "checked_at": "2026-10-08T03:26:53.567050+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "FR6-025",
+          "url": "https://www.youtube.com/watch?v=IeYmcLLhNUc",
+          "ledger": "coach-freshness-six-2026-10-07.json",
+          "title": "Turn Customer Questions Into Etsy Bestsellers (My 2-Minute System) - YouTube",
+          "published": "2026-09-18T14:00:06+00:00",
+          "reading": "complete_returned_transcript_text_read"
+        },
+        {
+          "source_id": "NC-M1",
+          "url": "https://www.studiomdesignsco.com/blog/top-5-niches-for-2024-etsy-print-on-demand",
+          "ledger": "coach-freshness-overview-2026-10-07.json",
+          "title": null,
+          "published": null,
+          "reading": "full_text"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 5,
+        "impact": 5,
+        "evidence_quality": 10,
+        "selected_method_completeness": 1
+      }
+    },
+    {
+      "contextual_rank": 7,
+      "name": "Cassiy Johnson",
+      "scores": {
+        "fit": 4,
+        "impact": 4,
+        "evidence_quality": 3,
+        "selected_method_completeness": 4
+      },
+      "specialty": "AI圖文與送禮設計QA",
+      "why_this_context": "能檢查姓名、小字、符號堆砌與不自然裝飾，對產品主圖可立即使用。",
+      "limits": "沒有搜尋量或真人購買測試支持，不能擔任需求放行人。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-09-22",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:19:47.971667Z",
+        "latest_observed": {
+          "video_id": "jW-WMsIPJCA",
+          "title": "Your ChatGPT Etsy Designs Look Like AI: Here's How to Fix It",
+          "url": "https://www.youtube.com/watch?v=jW-WMsIPJCA",
+          "publication_date": "2026-09-22T14:00:33+00:00",
+          "updated_at": "2026-10-04T17:07:09+00:00"
+        },
+        "coverage_gaps": [
+          "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+          "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+          "未開免費留言領取素材或會員，沒有訂閱／付款。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/channel/UCLO9E4VY1fjn_aIPByy9HSA/videos",
+              "checked_at": "2026-10-08T03:26:53.568832+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UCLO9E4VY1fjn_aIPByy9HSA/shorts",
+              "checked_at": "2026-10-08T03:26:53.587574+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UCLO9E4VY1fjn_aIPByy9HSA/streams",
+              "checked_at": "2026-10-08T03:26:53.632060+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "FR6-003",
+          "url": "https://www.youtube.com/watch?v=jW-WMsIPJCA",
+          "ledger": "coach-freshness-six-2026-10-07.json",
+          "title": "Your ChatGPT Etsy Designs Look Like AI: Here's How to Fix It - YouTube",
+          "published": "2026-09-22T14:00:33+00:00",
+          "reading": "complete_returned_transcript_text_read"
+        },
+        {
+          "source_id": "NC-C1",
+          "url": "https://printify.com/blog/cassiy-helps-small-businesses-make-1000s/",
+          "ledger": "coach-freshness-overview-2026-10-07.json",
+          "title": null,
+          "published": "2022-04-14",
+          "reading": "full_text"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 5,
+        "impact": 5,
+        "evidence_quality": 10,
+        "selected_method_completeness": 1
+      }
+    },
+    {
+      "contextual_rank": 8,
+      "name": "Amy Eaton",
+      "scores": {
+        "fit": 4,
+        "impact": 4,
+        "evidence_quality": 4,
+        "selected_method_completeness": 4
+      },
+      "specialty": "實物拍攝與色彩",
+      "why_this_context": "保護封面真色、輪廓、陰影與姓名可讀；減少生成圖冒充實拍。",
+      "limits": "核心文章發布日未知；10月8日字幕閱讀不等於新拍攝，沒有樣品只可做拍攝計畫。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-10-07",
+        "band": "2026 publication; original recording unknown / historical-content caution",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07 selected method review; no full channel refresh",
+        "latest_observed": {
+          "source_id": "REFRESH-20261008-AMY-01",
+          "coach": "Amy Eaton",
+          "video_id": "-EsK4kcC8lI",
+          "url": "https://www.youtube.com/watch?v=-EsK4kcC8lI",
+          "title": "3 Steps To Product Photos That Sell",
+          "published_at_utc": "2026-10-07T21:13:11Z",
+          "publish_date_raw": "2026-10-07T14:13:11-07:00",
+          "upload_date_raw": "2026-10-07T14:13:11-07:00",
+          "checked_at": "2026-10-08T03:31:06.501366Z",
+          "read_depth": "official_watch_metadata_reviewed_description_empty_no_transcript",
+          "new_methods_admitted": [],
+          "transcript_read": false,
+          "video_watched": false,
+          "publication_after_prior_person_check": null,
+          "prior_person_checked_at": null,
+          "published_after_prior_review_end": true,
+          "recording_date": null,
+          "republication_status": "unknown",
+          "caption_read_outcome": {
+            "method": "One ordinary GET to the public caption baseUrl exposed in the watch page",
+            "track": "English (auto-generated)",
+            "http_status": 200,
+            "response_bytes": 0,
+            "outcome": "empty response; no subtitle text read",
+            "attempt_count": 1
+          },
+          "relevance": "Photography can be relevant if substantive content becomes readable.",
+          "evidence_decision": "new_publication_verified_teaching_pending",
+          "content_status_source": "coach-video-content-2026-10-08.json",
+          "subsequent_content_status": [
+            {
+              "source_id": "REFRESH-20261008-AMY-01",
+              "status": "visible_transcript_read_bounded_photography_increment",
+              "read_level": "All 300 displayed caption segments semantically read; page chrome, comments and recommendations excluded",
+              "read_depth": null,
+              "original_recording_date": null,
+              "bounded_adoption_zh": null,
+              "novelty": null
+            }
+          ]
+        },
+        "coverage_gaps": [
+          "No complete channel or complete course inventory; selected sources only."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@AmyEaton/videos",
+              "checked_at": "2026-10-08T03:26:52.345033+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@AmyEaton/shorts",
+              "checked_at": "2026-10-08T03:26:52.346023+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@AmyEaton/streams",
+              "checked_at": "2026-10-08T03:26:52.346687+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "NC6-AE1",
+          "url": "https://www.amytakespictures.com/5-steps-to-awesome-diy-product-photos/",
+          "ledger": "coach-admissions-NC6-2026-10-07.json",
+          "title": "5 Steps To Awesome DIY Product Photos For Your Etsy Shop",
+          "published": null,
+          "reading": "完整教學正文已讀，未逐張審查附圖"
+        },
+        {
+          "source_id": "NC6-AE2",
+          "url": "https://www.amytakespictures.com/types-of-diy-product-photography-lighting/",
+          "ledger": "coach-admissions-NC6-2026-10-07.json",
+          "title": "Types Of DIY Product Photography Lighting",
+          "published": null,
+          "reading": "完整教學正文已讀，未逐張審查附圖"
+        },
+        {
+          "source_id": "REFRESH-20261008-AMY-01",
+          "url": "https://www.youtube.com/watch?v=-EsK4kcC8lI",
+          "ledger": "coach-video-content-2026-10-08.json",
+          "title": "3 Steps To Product Photos That Sell",
+          "published": "2026-10-07T21:13:11Z",
+          "reading": "All 300 displayed caption segments semantically read; page chrome, comments and recommendations excluded"
+        },
+        {
+          "source_id": "REFRESH-20261008-AMY-02",
+          "url": "https://www.youtube.com/watch?v=8MQlQ2PaoDs",
+          "ledger": "coach-video-content-2026-10-08.json",
+          "title": "Demystifying The Perfect White Background Photo with Amy Eaton",
+          "published": "2026-10-07T21:11:24Z",
+          "reading": "All 251 displayed caption segments semantically read; page chrome, comments and recommendations excluded from teaching"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 5,
+        "impact": 5,
+        "evidence_quality": 1,
+        "selected_method_completeness": 1
+      }
+    },
+    {
+      "contextual_rank": 9,
+      "name": "Gina Menduni",
+      "scores": {
+        "fit": 4,
+        "impact": 4,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "個人化資料及字型QA",
+      "why_this_context": "核對name-only輸入、大小寫字形、長短姓名，對本SKU直接。",
+      "limits": "2023／2024歷史來源；塞滿title／tags等SEO捷徑拒用。",
+      "freshness": {
+        "selected_source_latest_publication": "2024-11-19",
+        "band": "historical selected teaching",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:33:08.651139+00:00",
+        "latest_observed": {
+          "coach_source": "gina",
+          "video_id": "hXBPDwWp1HU",
+          "url": "https://www.youtube.com/watch?v=hXBPDwWp1HU",
+          "title": "My #visionboard worked 🫶",
+          "published": "2024-11-21T19:31:09+00:00",
+          "updated": "2026-10-05T02:42:34+00:00"
+        },
+        "coverage_gaps": [
+          "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+          "未選正文的項目保留metadata-only，不能由標題推導教學。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@ginamenduni/videos",
+              "checked_at": "2026-10-08T03:26:15.583941+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@ginamenduni/shorts",
+              "checked_at": "2026-10-08T03:26:15.612675+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@ginamenduni/streams",
+              "checked_at": "2026-10-08T03:26:15.641927+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "GIN-V001",
+          "url": "https://www.youtube.com/watch?v=7gGZbyufD88",
+          "ledger": "coach-source-ledger-2026-10-05.json",
+          "title": "Customize your Etsy store! Shine On + Customily + Get a FREE COURSE with Gina Menduni! - YouTube",
+          "published": "2023-08-22T17:15:08-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        },
+        {
+          "source_id": "FR-GIN-01",
+          "url": "https://www.youtube.com/watch?v=eu8vuycT1zI",
+          "ledger": "coach-freshness-root-2026-10-07.json",
+          "title": "How to Upload a Font to Canva - Downloading Custom Fonts on Creative Fabrica",
+          "published": "2024-11-19T17:40:06-08:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 5,
+        "impact": 5,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 10,
+      "name": "Jesse Teaches",
+      "scores": {
+        "fit": 4,
+        "impact": 4,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "不同買家任務與真實印刷面",
+      "why_this_context": "釐清夫妻與孫子用途，核姓名／故事在實際印刷面上的可讀性。",
+      "limits": "飾物、折扣與低價proof配方不沿用；競品估算不是交易。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-09-21",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:12:50.712Z",
+        "latest_observed": {
+          "video_id": "sFFADWlPaDQ",
+          "url": "https://www.youtube.com/watch?v=sFFADWlPaDQ",
+          "title": "We Just Cracked the Etsy Ornament Market",
+          "published": "2026-09-21T21:18:02+00:00",
+          "updated": "2026-09-26T19:16:43+00:00"
+        },
+        "coverage_gaps": [
+          "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+          "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+          "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@jesseteaches/videos",
+              "checked_at": "2026-10-08T03:24:58.641308+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@jesseteaches/shorts",
+              "checked_at": "2026-10-08T03:24:58.691557+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@jesseteaches/streams",
+              "checked_at": "2026-10-08T03:24:58.740358+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "JES-V001",
+          "url": "https://www.youtube.com/watch?v=4xP4Wo9aAKE",
+          "ledger": "coach-source-ledger-2026-10-05.json",
+          "title": "I Sold 50,000 Ornaments on Etsy — Here's What I'd Do in 2026 - YouTube",
+          "published": "2026-07-31T07:00:29-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        },
+        {
+          "source_id": "F8-JES-01",
+          "url": "https://www.youtube.com/watch?v=sFFADWlPaDQ",
+          "ledger": "coach-freshness-eight-2026-10-07.json",
+          "title": "We Just Cracked the Etsy Ornament Market",
+          "published": "2026-09-21T14:18:02-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 5,
+        "impact": 5,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 11,
+      "name": "Dylan Jahraus",
+      "scores": {
+        "fit": 4,
+        "impact": 4,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "買家任務及產品家族",
+      "why_this_context": "提供買家延續性與先品質再擴款的早期問題框架。",
+      "limits": "新宣傳短片不增加教學；收入、排名權重、產品數配方不可採。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-10-01",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:12:50.711Z",
+        "latest_observed": {
+          "source_id": "REFRESH-20261008-DYL-01",
+          "coach": "Dylan Jahraus",
+          "video_id": "gu6jtgof7nw",
+          "url": "https://www.youtube.com/watch?v=gu6jtgof7nw",
+          "title": "Still not getting Etsy traffic?",
+          "published_at_utc": "2026-10-07T21:00:05Z",
+          "publish_date_raw": "2026-10-07T14:00:05-07:00",
+          "upload_date_raw": "2026-10-07T14:00:05-07:00",
+          "checked_at": "2026-10-08T03:29:49.719948+00:00",
+          "read_depth": "official_watch_metadata_and_description_only",
+          "new_methods_admitted": [],
+          "transcript_read": false,
+          "video_watched": false,
+          "prior_person_checked_at": "2026-10-07T17:12:50.711Z",
+          "publication_after_prior_person_check": true,
+          "published_after_prior_review_end": true,
+          "recording_date": null,
+          "republication_status": "unknown",
+          "content_summary_and_limit": "Promotional description for a free external-traffic webinar; no ten-step lesson read. Do not start additional channels from this promotion.",
+          "evidence_decision": "new_publication_verified_description_only_not_new_method",
+          "capture_sha256": "0a3ce33a471ce50f9fbfe253d967d886b3745a1fe6845fb8abfb1bdf7ca20ad1",
+          "content_status_source": "coach-video-content-2026-10-08.json",
+          "subsequent_content_status": [
+            {
+              "source_id": "REFRESH-20261008-DYL-01",
+              "status": "visible_transcript_read_promotion_only_no_new_method",
+              "read_level": null,
+              "read_depth": "all_visible_official_English_transcript_segments_semantically_reviewed",
+              "original_recording_date": null,
+              "bounded_adoption_zh": "只能把列舉渠道當可選研究題目；不在每週3–5小時內疊加渠道或自動化，品牌技能既有單渠道／單指標工時閘門不變。",
+              "novelty": "無新增可操作方法；短片promotion_only結論現已由實際字幕支持"
+            }
+          ]
+        },
+        "coverage_gaps": [
+          "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+          "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+          "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles.",
+          "vjKV9ol6BBA prior watch fetch was cancelled; no retry, no teaching adopted."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@dylanjahraus/videos",
+              "checked_at": "2026-10-08T03:24:09.550374+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@dylanjahraus/shorts",
+              "checked_at": "2026-10-08T03:24:09.551189+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@dylanjahraus/streams",
+              "checked_at": "2026-10-08T03:24:09.551642+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "DYL-A002",
+          "url": "https://dylanjahraus.com/the-etsy-product-ideas-that-sell-themselves/",
+          "ledger": "coach-source-ledger-2026-10-05.json",
+          "title": "The Etsy Product Ideas That Sell Themselves",
+          "published": "2026-09-29",
+          "reading": "full_article_reviewed"
+        },
+        {
+          "source_id": "DYL-V002",
+          "url": "https://www.youtube.com/watch?v=BEMCOSvnTN8",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "You’re Not Lazy, You’re Actually Just Doing Etsy Wrong",
+          "published": "2026-10-01T06:00:08-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 5,
+        "impact": 5,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 12,
+      "name": "Dalia Abdalla",
+      "scores": {
+        "fit": 4,
+        "impact": 4,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "顧客疑問到商品圖片",
+      "why_this_context": "把name-only與普通橫線內頁疑問變成一张事實圖。",
+      "limits": "核心方法2018／2023；2024暫停正式教學紀錄，非已查遍全網。",
+      "freshness": {
+        "selected_source_latest_publication": "2023-12-05",
+        "band": "historical selected teaching",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:21:41.190133Z",
+        "latest_observed": {
+          "video_id": "wM07RP2x88o",
+          "title": "my business CRISIS, explained + etsy is going downhill (PROOF)",
+          "url": "https://www.youtube.com/watch?v=wM07RP2x88o",
+          "publication_date": "2024-04-23T14:00:44+00:00",
+          "updated_at": "2026-09-29T11:24:31+00:00"
+        },
+        "coverage_gaps": [
+          "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+          "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+          "最近15項RSS最晚為2024-04-23；這不是全網無新內容的證明。",
+          "2024-04-23本人表示暫停sit-down teaching、改為聊天直到另有通知；未找到更近期第一方恢復教學聲明。",
+          "最新影片中無關私人健康內容不納入方法或公開摘要。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/channel/UCi4knCW3dzKuB5os6KFP4mQ/videos",
+              "checked_at": "2026-10-08T03:27:43.593028+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UCi4knCW3dzKuB5os6KFP4mQ/shorts",
+              "checked_at": "2026-10-08T03:27:43.639345+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UCi4knCW3dzKuB5os6KFP4mQ/streams",
+              "checked_at": "2026-10-08T03:27:43.716285+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "NC2-SHOP-D04",
+          "url": "https://blog.marmalead.com/pinterest-for-etsy-sellers-with-dalia-from-the-handmade-mastermind/",
+          "ledger": "coach-freshness-overview-2026-10-07.json",
+          "title": "Pinterest for Etsy Sellers with Dalia from the Handmade Mastermind",
+          "published": "2018-10-01",
+          "reading": "full_article_text_read"
+        },
+        {
+          "source_id": "FR6-008",
+          "url": "https://www.youtube.com/watch?v=5QQVwKfhz6w",
+          "ledger": "coach-freshness-six-2026-10-07.json",
+          "title": "Do Product Research with Me - MY EXACT PROCESS - YouTube",
+          "published": "2023-12-05T15:00:06+00:00",
+          "reading": "complete_returned_transcript_text_read"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 5,
+        "impact": 5,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 13,
+      "name": "Anna Beck",
+      "scores": {
+        "fit": 4,
+        "impact": 4,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "個人化流程與容量",
+      "why_this_context": "以真實姓名層、款式及preview QA減少重工，符合有限工時。",
+      "limits": "公司頻道別人的journal課不算Anna；2026課名／bio不是已讀教學。",
+      "freshness": {
+        "selected_source_latest_publication": "2025-11-18",
+        "band": "historical selected teaching",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:33:08.651139+00:00",
+        "latest_observed": {
+          "coach_source": "anywherepod",
+          "video_id": "keAt8kEOX3E",
+          "url": "https://www.youtube.com/watch?v=keAt8kEOX3E",
+          "title": "MASSIVE UPDATE: AI Auto Personalization & Text w/AnywherePOD (Tutorial)",
+          "published": "2026-09-15T17:22:17+00:00",
+          "updated": "2026-09-18T00:55:08+00:00"
+        },
+        "coverage_gaps": [
+          "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+          "未選正文的項目保留metadata-only，不能由標題推導教學。",
+          "Anna個人完整發布索引未確認；May2026活動頁只有標題／人物介紹，未讀課。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@AnywherePOD/videos",
+              "checked_at": "2026-10-08T03:25:16.188000+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@AnywherePOD/shorts",
+              "checked_at": "2026-10-08T03:25:16.261777+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@AnywherePOD/streams",
+              "checked_at": "2026-10-08T03:25:16.295772+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "ANN-V002",
+          "url": "https://www.youtube.com/watch?v=bMcK52E3xas",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "I Uploaded 100 Etsy Listings in 1 Click… Here’s How",
+          "published": "2025-11-18T05:51:04-08:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 5,
+        "impact": 5,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 14,
+      "name": "Janet LeBlanc",
+      "scores": {
+        "fit": 4,
+        "impact": 4,
+        "evidence_quality": 4,
+        "selected_method_completeness": 4
+      },
+      "specialty": "每單經濟與入帳",
+      "why_this_context": "拆開毛收入、費用與淨入帳，避免只看訂單／營收做投入決定。",
+      "limits": "管理核對方法；未驗CPA牌照，不提供本店稅務結論或固定利潤率。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-01-06",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07 selected method review; no full channel refresh",
+        "latest_observed": null,
+        "coverage_gaps": [
+          "No complete channel or complete course inventory; selected sources only."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/c/janetleblanc/videos",
+              "checked_at": "2026-10-08T03:26:52.347084+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/c/janetleblanc/shorts",
+              "checked_at": "2026-10-08T03:26:52.347875+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/c/janetleblanc/streams",
+              "checked_at": "2026-10-08T03:26:52.348964+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "NC6-JL1",
+          "url": "https://paperandspark.com/catch-up-on-your-bookkeeping/",
+          "ledger": "coach-admissions-NC6-2026-10-07.json",
+          "title": "How to Catch Up on Your 2025 Bookkeeping Fast",
+          "published": "2026-01-06",
+          "reading": "完整步驟及FAQ正文已讀"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 5,
+        "impact": 5,
+        "evidence_quality": 1,
+        "selected_method_completeness": 1
+      }
+    },
+    {
+      "contextual_rank": 15,
+      "name": "Nancy Badillo",
+      "scores": {
+        "fit": 4,
+        "impact": 3,
+        "evidence_quality": 4,
+        "selected_method_completeness": 4
+      },
+      "specialty": "個人化售後",
+      "why_this_context": "有名字錯誤／延遲真實事件時，以訂單證據降低往返和承諾風險。",
+      "limits": "歷史訊息方法需現行Etsy規則校正，無案例不主動發訊或新增售後工作。",
+      "freshness": {
+        "selected_source_latest_publication": "2023-06-25",
+        "band": "historical selected teaching",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07 selected method review; no full channel refresh",
+        "latest_observed": null,
+        "coverage_gaps": [
+          "No complete channel or complete course inventory; selected sources only."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/nancybadillo/videos",
+              "checked_at": "2026-10-08T03:27:23.939121+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/nancybadillo/shorts",
+              "checked_at": "2026-10-08T03:27:23.952171+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/nancybadillo/streams",
+              "checked_at": "2026-10-08T03:27:24.079668+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "NC6-OG-N1",
+          "url": "https://nancybadillo.com/etsy-message-to-buyers-examples/",
+          "ledger": "coach-admissions-NC6-2026-10-07.json",
+          "title": "The Ultimate Guide: Etsy Message To Buyers Examples",
+          "published": "2023-06-25T21:14:21+00:00",
+          "reading": "完整文章主文已讀，動態社交嵌入未審"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 5,
+        "impact": 18,
+        "evidence_quality": 1,
+        "selected_method_completeness": 1
+      }
+    },
+    {
+      "contextual_rank": 16,
+      "name": "Lizzie Smiley",
+      "scores": {
+        "fit": 4,
+        "impact": 3,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "可交付底物與圖片資訊",
+      "why_this_context": "讓mockup符合實際journal及道具範圍，避免圖片可看但商品不真。",
+      "limits": "2021PDF完整文字非視覺逐頁審計；新來賓內容不歸本人。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-09-03",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:19:31.175385Z",
+        "latest_observed": {
+          "video_id": "j8vva-7JEjI",
+          "title": "Ep 253 | She earned $14k on Etsy during the slow months selling PNGs -with Shannon Davis",
+          "url": "https://www.youtube.com/watch?v=j8vva-7JEjI",
+          "publication_date": "2026-10-01T09:00:28+00:00",
+          "updated_at": "2026-10-06T19:04:29+00:00"
+        },
+        "coverage_gaps": [
+          "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+          "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+          "2026-10-01最新集為Shannon Davis訪談，其教學未完整處理且不歸作Lizzie原創；本輪選2026-09-03本人單講。",
+          "2026-07-09 Q4頁只讀概要，未處理音訊。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/channel/UC2qJIroXGPooUo-29YrRY8A/videos",
+              "checked_at": "2026-10-08T03:27:43.734737+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UC2qJIroXGPooUo-29YrRY8A/shorts",
+              "checked_at": "2026-10-08T03:27:43.770634+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UC2qJIroXGPooUo-29YrRY8A/streams",
+              "checked_at": "2026-10-08T03:27:43.783780+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "NC2-POD-LS02",
+          "url": "https://s3.amazonaws.com/kajabi-storefronts-production/sites/2147505103/themes/2148175372/downloads/18qCp2UlRleaTQk0fadO_4_Strategies_I_used_to_grow_my_Etsy_shop_from_25_to_6000.pdf",
+          "ledger": "coach-freshness-overview-2026-10-07.json",
+          "title": "4 Strategies I used to grow my Etsy shop from $25 to $6000",
+          "published": "2021 copyright",
+          "reading": "full_text_read"
+        },
+        {
+          "source_id": "FR6-023",
+          "url": "https://www.youtube.com/watch?v=fajjU5rl7Nc",
+          "ledger": "coach-freshness-six-2026-10-07.json",
+          "title": "Ep 249 | The Hottest Etsy Trends Right Now - YouTube",
+          "published": "2026-09-03T09:00:00+00:00",
+          "reading": "complete_returned_transcript_text_read"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 5,
+        "impact": 18,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 17,
+      "name": "Joe Robert",
+      "scores": {
+        "fit": 3,
+        "impact": 4,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "受眾測試單位與資金时點",
+      "why_this_context": "可用完整成本與清楚個人化做單一測試；避開錯誤自動化假設。",
+      "limits": "重點獨立站／工具生態；不可當Etsy search或本SKU需求專家。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-09-30",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:12:50.712Z",
+        "latest_observed": {
+          "source_id": "REFRESH-20261008-JOE-01",
+          "coach": "Joe Robert",
+          "video_id": "uJXhCr-iPdU",
+          "url": "https://www.youtube.com/watch?v=uJXhCr-iPdU",
+          "title": "My SIMPLE $10k/Month Print On Demand Plan For A NEW Store",
+          "published_at_utc": "2026-10-07T17:14:22Z",
+          "publish_date_raw": "2026-10-07T10:14:22-07:00",
+          "upload_date_raw": "2026-10-07T10:14:22-07:00",
+          "checked_at": "2026-10-08T03:27:31.267128Z",
+          "read_depth": "full_official_description_and_watch_metadata_reviewed_no_transcript",
+          "new_methods_admitted": [],
+          "transcript_read": false,
+          "video_watched": false,
+          "publication_after_prior_person_check": true,
+          "prior_person_checked_at": "2026-10-07T17:12:50.712Z",
+          "published_after_prior_review_end": false,
+          "recording_date": null,
+          "republication_status": "unknown",
+          "caption_read_outcome": {
+            "method": "One ordinary GET to the public caption baseUrl exposed in the watch page",
+            "track": "French (auto-generated)",
+            "language_code": "fr",
+            "reason_for_non_english": "English track was not exposed; 20 automatic non-English tracks were listed",
+            "http_status": 200,
+            "response_bytes": 0,
+            "outcome": "empty response; no subtitle text read",
+            "attempt_count": 1
+          },
+          "relevance": "Paid/owned-store promotional context in description; new video method unverified, not adopted into zero-ad Etsy plan.",
+          "evidence_decision": "new_publication_verified_teaching_pending",
+          "content_status_source": "coach-video-content-2026-10-08.json",
+          "subsequent_content_status": "No subsequently completed content review; teaching remains unread."
+        },
+        "coverage_gaps": [
+          "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+          "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+          "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@RealJoeRobert/videos",
+              "checked_at": "2026-10-08T03:24:09.552471+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@RealJoeRobert/shorts",
+              "checked_at": "2026-10-08T03:24:09.553305+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@RealJoeRobert/streams",
+              "checked_at": "2026-10-08T03:24:09.555015+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "JOE-V002",
+          "url": "https://www.youtube.com/watch?v=eyd4e0CoWAA",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "This EASY Design Trend Is Making Beginners THOUSANDS!",
+          "published": "2026-09-20T05:16:19-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        },
+        {
+          "source_id": "JOE-V003",
+          "url": "https://www.youtube.com/watch?v=XmwpXNDDH78",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "What I WISH I Knew Before Using OpoShop For My Print On Demand Store",
+          "published": "2026-09-30T04:12:35-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 17,
+        "impact": 5,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 18,
+      "name": "George McConnell",
+      "scores": {
+        "fit": 3,
+        "impact": 4,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "履約容量與生成失誤",
+      "why_this_context": "檢查旺季工時、缺參考物、字形走樣，防止擴張算式假預測。",
+      "limits": "主要POD與工具例子；營收乘法和AI演示不證明商業成效。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-09-29",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:33:08.651139+00:00",
+        "latest_observed": {
+          "coach_source": "george",
+          "video_id": "m_t7N9acoew",
+          "url": "https://www.youtube.com/watch?v=m_t7N9acoew",
+          "title": "I Found a Simple Stupid Way To Make Money Online",
+          "published": "2026-10-05T14:30:11+00:00",
+          "updated": "2026-10-07T01:01:25+00:00"
+        },
+        "coverage_gaps": [
+          "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+          "未選正文的項目保留metadata-only，不能由標題推導教學。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@GeorgeDMcConnell/videos",
+              "checked_at": "2026-10-08T03:25:36.542052+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@GeorgeDMcConnell/shorts",
+              "checked_at": "2026-10-08T03:25:36.543180+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@GeorgeDMcConnell/streams",
+              "checked_at": "2026-10-08T03:25:36.570088+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "GEO-V002",
+          "url": "https://www.youtube.com/watch?v=Ubyo0fX_9_w",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "Episode 2 | Print On Demand Peak Playbook with George McConnell - Peak Multiplied",
+          "published": "2026-09-29T06:42:52-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        },
+        {
+          "source_id": "FR-GEO-02",
+          "url": "https://www.youtube.com/watch?v=Mo3nUK9S8tI",
+          "ledger": "coach-freshness-root-2026-10-07.json",
+          "title": "Claude Opus 5.5 + Higgsfield AI: 7 CRAZY Use Cases",
+          "published": "2026-09-27T08:30:11-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 17,
+        "impact": 5,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 19,
+      "name": "Meg Heckman",
+      "scores": {
+        "fit": 3,
+        "impact": 4,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "概念／展示／流量瓶頸",
+      "why_this_context": "將產品概念與展示缺陷分开，可防全套一起改而无法歸因。",
+      "limits": "主要Shopify服飾及付費社交，零廣告現店只能有界轉譯。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-10-06",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:12:50.712Z",
+        "latest_observed": {
+          "video_id": "XX1Zbbnmim4",
+          "url": "https://www.youtube.com/shorts/XX1Zbbnmim4",
+          "title": "The Sale Happens in the Half Second the Buyer Gets the Joke",
+          "published": "2026-10-07T15:30:16+00:00",
+          "updated": "2026-10-07T15:30:18+00:00"
+        },
+        "coverage_gaps": [
+          "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+          "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+          "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@itsmegheckman/videos",
+              "checked_at": "2026-10-08T03:24:58.523989+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@itsmegheckman/shorts",
+              "checked_at": "2026-10-08T03:24:58.618524+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@itsmegheckman/streams",
+              "checked_at": "2026-10-08T03:24:58.627442+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "MEG-V002",
+          "url": "https://www.youtube.com/watch?v=pv3nTvpq6G0",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "Brutally Honest Advice for Anyone Starting Print On Demand",
+          "published": "2026-09-22T09:00:01-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        },
+        {
+          "source_id": "MEG-V003",
+          "url": "https://www.youtube.com/watch?v=6qWlxOwC4tI",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "YouTube",
+          "published": "2026-10-06T09:00:31-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 17,
+        "impact": 5,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 20,
+      "name": "Pam Duthie",
+      "scores": {
+        "fit": 3,
+        "impact": 3,
+        "evidence_quality": 4,
+        "selected_method_completeness": 4
+      },
+      "specialty": "商品影片與素材再用",
+      "why_this_context": "若影片在scope，可把內頁、比例和個人化真實證據加入無聲鏡頭。",
+      "limits": "2020／2021方法；2026共同Contributor身份不使舊教學变新或全部歸她。",
+      "freshness": {
+        "selected_source_latest_publication": "2021-07-20",
+        "band": "historical selected teaching",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07 selected method review; no full channel refresh",
+        "latest_observed": null,
+        "coverage_gaps": [
+          "No complete channel or complete course inventory; selected sources only."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/channel/UC0xN_-o7z3GHEFA6IBCH19Q/videos",
+              "checked_at": "2026-10-08T03:28:22.206833+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UC0xN_-o7z3GHEFA6IBCH19Q/shorts",
+              "checked_at": "2026-10-08T03:28:22.207674+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/channel/UC0xN_-o7z3GHEFA6IBCH19Q/streams",
+              "checked_at": "2026-10-08T03:28:22.208366+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "NC6-PD1",
+          "url": "https://help.erank.com/blog/etsy-seller-tips-epic-video-techniques-and-inspiration-for-creating-listing-videos/",
+          "ledger": "coach-admissions-NC6-2026-10-07.json",
+          "title": "Epic Tips for Etsy Listing Videos",
+          "published": "2020-07-23",
+          "reading": "完整教學正文已讀；嵌入動圖及影音未逐一視查"
+        },
+        {
+          "source_id": "NC6-PD2",
+          "url": "https://help.erank.com/blog/the-secret-to-more-sales-on-etsy-youtube/",
+          "ledger": "coach-admissions-NC6-2026-10-07.json",
+          "title": "The Secret to More Sales on Etsy YouTube",
+          "published": "2021-07-20",
+          "reading": "完整正文已讀；連結影片未讀"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 17,
+        "impact": 18,
+        "evidence_quality": 1,
+        "selected_method_completeness": 1
+      }
+    },
+    {
+      "contextual_rank": 21,
+      "name": "Erin Mooney",
+      "scores": {
+        "fit": 3,
+        "impact": 3,
+        "evidence_quality": 4,
+        "selected_method_completeness": 4
+      },
+      "specialty": "既有系列與展示次序",
+      "why_this_context": "在現有SKU共同送禮用途上改善理解，不必增加商品數。",
+      "limits": "核心文章日期未知；陶瓷公開建議沒有改後成效，不能驗證Christian需求。",
+      "freshness": {
+        "selected_source_latest_publication": null,
+        "band": "publication date unknown",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07 selected method review; no full channel refresh",
+        "latest_observed": null,
+        "coverage_gaps": [
+          "No complete channel or complete course inventory; selected sources only."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@MadeUrban/videos",
+              "checked_at": "2026-10-08T03:27:23.806904+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@MadeUrban/shorts",
+              "checked_at": "2026-10-08T03:27:23.886668+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@MadeUrban/streams",
+              "checked_at": "2026-10-08T03:27:23.930288+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "NC6-EM1",
+          "url": "https://www.madeurban.com/blog/etsy-product-line-critique-coaching-plan-gi-ceramics/",
+          "ledger": "coach-admissions-NC6-2026-10-07.json",
+          "title": "Etsy Product Line Critique & Coaching Plan GI Ceramics",
+          "published": null,
+          "reading": "完整正文已讀；文章插圖未逐張視查"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 17,
+        "impact": 18,
+        "evidence_quality": 1,
+        "selected_method_completeness": 1
+      }
+    },
+    {
+      "contextual_rank": 22,
+      "name": "Ronnie McKenzie",
+      "scores": {
+        "fit": 3,
+        "impact": 3,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "成本／供應與個人化交付",
+      "why_this_context": "有供應或交付問題時先核實際檔案及SKU條件。",
+      "limits": "舊供應商比較與AI副業例子不能當現行价格／SLA／需求。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-07-08",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:33:08.651139+00:00",
+        "latest_observed": {
+          "coach_source": "ronnie",
+          "video_id": "2YRUENCZk8M",
+          "title": "I asked Nano Banana to create a metal art design that could actually make money.",
+          "published": "2026-07-21T21:13:44+00:00",
+          "updated": "2026-10-03T18:06:24+00:00",
+          "url": "https://www.youtube.com/watch?v=2YRUENCZk8M"
+        },
+        "coverage_gaps": [
+          "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+          "未選正文的項目保留metadata-only，不能由標題推導教學。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@RonnieMcKenzie/videos",
+              "checked_at": "2026-10-08T03:25:55.597300+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@RonnieMcKenzie/shorts",
+              "checked_at": "2026-10-08T03:25:55.651339+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@RonnieMcKenzie/streams",
+              "checked_at": "2026-10-08T03:25:55.666671+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "RON-A001",
+          "url": "https://storehacks.com/print-on-demand-designs/",
+          "ledger": "coach-source-ledger-2026-10-05.json",
+          "title": "Creating Winning Print on Demand Designs That Sell Day-in Day-out",
+          "published": "2024-09-12",
+          "reading": "full_article_reviewed"
+        },
+        {
+          "source_id": "FR-RON-01",
+          "url": "https://www.youtube.com/watch?v=7yF0oZhQcB8",
+          "ledger": "coach-freshness-root-2026-10-07.json",
+          "title": "Make Your First $1,000 with this New Claude Side Hustle",
+          "published": "2026-07-08T02:50:00-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 17,
+        "impact": 18,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 23,
+      "name": "RJ Martinez",
+      "scores": {
+        "fit": 3,
+        "impact": 3,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "原創過程與微利基",
+      "why_this_context": "保留真實創作／個人化證據，拒絕AI推薦的偽因果。",
+      "limits": "服飾或工具例子與本journal距離較遠；無Christian專家或AI排名背書。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-10-07",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:12:50.712Z",
+        "latest_observed": {
+          "video_id": "jqaT01aCAGc",
+          "url": "https://www.youtube.com/shorts/jqaT01aCAGc",
+          "title": "\"Grandma's a Small. Uncle Mike's a 4XL.\" (25-Shirt Etsy Orders)",
+          "published": "2026-10-07T16:41:34+00:00",
+          "updated": "2026-10-07T16:42:48+00:00"
+        },
+        "coverage_gaps": [
+          "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+          "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+          "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@rjmartinez/videos",
+              "checked_at": "2026-10-08T03:26:29.955218+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@rjmartinez/shorts",
+              "checked_at": "2026-10-08T03:26:29.969989+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@rjmartinez/streams",
+              "checked_at": "2026-10-08T03:26:29.982429+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "RJ-01",
+          "url": "https://www.youtube.com/watch?v=xZnKixhiv04",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "Sellers Are Quitting Etsy Over AI Slop. That's the Biggest Opening in 8 Years.",
+          "published": "2026-10-06T05:15:12-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        },
+        {
+          "source_id": "F8-RJ-01",
+          "url": "https://www.youtube.com/watch?v=jze90AO_EiM",
+          "ledger": "coach-freshness-eight-2026-10-07.json",
+          "title": "The Best Etsy Clothing Shops Aren't Out-Designing You. They're Using Better Blanks.",
+          "published": "2026-10-07T06:15:11-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 17,
+        "impact": 18,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 24,
+      "name": "Chris Blair",
+      "scores": {
+        "fit": 2,
+        "impact": 3,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "量度單位與付費案例邊界",
+      "why_this_context": "可提醒自然搜尋與中斷式廣告是不同漏斗，避免錯算轉換。",
+      "limits": "主要付費社交策略不合零廣告；ShineOn其他講者不能全歸他。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-09-18",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:33:08.651139+00:00",
+        "latest_observed": {
+          "coach_source": "shineon",
+          "video_id": "5ixn2nbWEMc",
+          "url": "https://www.youtube.com/watch?v=5ixn2nbWEMc",
+          "title": "From Never Quit to Winning Big",
+          "published": "2026-10-02T15:28:38+00:00",
+          "updated": "2026-10-02T20:06:34+00:00"
+        },
+        "coverage_gaps": [
+          "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+          "未選正文的項目保留metadata-only，不能由標題推導教學。",
+          "公司其他講者與同名Chris不得歸給Chris Blair。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@ShineOnPOD/videos",
+              "checked_at": "2026-10-08T03:26:15.507499+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@ShineOnPOD/shorts",
+              "checked_at": "2026-10-08T03:26:15.537273+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@ShineOnPOD/streams",
+              "checked_at": "2026-10-08T03:26:15.565759+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "CHR-V002",
+          "url": "https://www.youtube.com/watch?v=UoRBYlH1Bnc",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "Why Most POD Sellers Lose Q4 (And How Not To) - YouTube",
+          "published": "2026-09-18T09:15:05-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 24,
+        "impact": 18,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 25,
+      "name": "Courtney Nichole",
+      "scores": {
+        "fit": 2,
+        "impact": 3,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "外部發現及匯入previewQA",
+      "why_this_context": "可用於已有圖片／文字匯入與預覽檢查。",
+      "limits": "最新數码邀請工作流不等於實體name-only流程，未授權新渠道。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-10-07",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:12:50.712Z",
+        "latest_observed": {
+          "video_id": "CdEMIJhaK9A",
+          "url": "https://www.youtube.com/watch?v=CdEMIJhaK9A",
+          "title": "Your Etsy Buyers Never Have to Open Canva Again - AnywhereDigital Full Walkthrough",
+          "published": "2026-10-07T14:00:34+00:00",
+          "updated": "2026-10-07T14:20:18+00:00"
+        },
+        "coverage_gaps": [
+          "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+          "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+          "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@CourtneyNichole1/videos",
+              "checked_at": "2026-10-08T03:25:16.367829+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@CourtneyNichole1/shorts",
+              "checked_at": "2026-10-08T03:25:16.382512+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@CourtneyNichole1/streams",
+              "checked_at": "2026-10-08T03:25:16.401693+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "COU-V002",
+          "url": "https://www.youtube.com/watch?v=zDHf5OU3fKY",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "7 Things I See in Every Struggling Etsy Shop",
+          "published": "2026-08-31T08:27:17-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        },
+        {
+          "source_id": "F8-COU-01",
+          "url": "https://www.youtube.com/watch?v=CdEMIJhaK9A",
+          "ledger": "coach-freshness-eight-2026-10-07.json",
+          "title": "Your Etsy Buyers Never Have to Open Canva Again - AnywhereDigital Full Walkthrough",
+          "published": "2026-10-07T07:00:34-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 24,
+        "impact": 18,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 26,
+      "name": "Luna Vega",
+      "scores": {
+        "fit": 2,
+        "impact": 2,
+        "evidence_quality": 3,
+        "selected_method_completeness": 3
+      },
+      "specialty": "清楚用途與真實信任",
+      "why_this_context": "只保留一句清楚用途及真實見證，作弱主句的補充。",
+      "limits": "數碼產品及lead magnet範圍不合本次實體journal；不是Etsy SEO權威。",
+      "freshness": {
+        "selected_source_latest_publication": "2026-09-29",
+        "band": "2026 selected-source publication",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:33:08.651139+00:00",
+        "latest_observed": {
+          "coach_source": "luna",
+          "video_id": "K6JN1WdAqvA",
+          "title": "I Made $1,000,000 Selling Digital Products - 6 Things You Are Missing!",
+          "published": "2026-09-29T14:00:34+00:00",
+          "updated": "2026-10-03T03:01:10+00:00",
+          "url": "https://www.youtube.com/watch?v=K6JN1WdAqvA"
+        },
+        "coverage_gaps": [
+          "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+          "未選正文的項目保留metadata-only，不能由標題推導教學。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@misslunavega/videos",
+              "checked_at": "2026-10-08T03:25:36.584965+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@misslunavega/shorts",
+              "checked_at": "2026-10-08T03:25:36.655389+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@misslunavega/streams",
+              "checked_at": "2026-10-08T03:25:36.682596+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "FR-LUN-01",
+          "url": "https://www.youtube.com/watch?v=K6JN1WdAqvA",
+          "ledger": "coach-freshness-root-2026-10-07.json",
+          "title": "I Made $1,000,000 Selling Digital Products - 6 Things You Are Missing!",
+          "published": "2026-09-29T07:00:34-07:00",
+          "reading": "full_extracted_transcript_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 24,
+        "impact": 26,
+        "evidence_quality": 10,
+        "selected_method_completeness": 13
+      }
+    },
+    {
+      "contextual_rank": 27,
+      "name": "Steph Cole-Lewis",
+      "scores": {
+        "fit": 2,
+        "impact": 2,
+        "evidence_quality": 4,
+        "selected_method_completeness": 4
+      },
+      "specialty": "內容批次與備用稿",
+      "why_this_context": "只有既有渠道內容任務才用，減少每次從零開始。",
+      "limits": "不能為有此教練另開社交任務；固定頻率／粗略利潤公式不採。",
+      "freshness": {
+        "selected_source_latest_publication": "2025-12-10",
+        "band": "historical selected teaching",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07 selected method review; no full channel refresh",
+        "latest_observed": null,
+        "coverage_gaps": [
+          "No complete channel or complete course inventory; selected sources only."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@HandmadeBosses/videos",
+              "checked_at": "2026-10-08T03:27:47.359725+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@HandmadeBosses/shorts",
+              "checked_at": "2026-10-08T03:27:47.361225+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@HandmadeBosses/streams",
+              "checked_at": "2026-10-08T03:27:47.426038+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "NC6-SC1",
+          "url": "https://www.handmadebosses.com/blog/post-consistently",
+          "ledger": "coach-admissions-NC6-2026-10-07.json",
+          "title": "How To Post Consistently Even When You Have No Time",
+          "published": "2025-12-10",
+          "reading": "完整文章四步正文已讀；音訊未讀"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 24,
+        "impact": 26,
+        "evidence_quality": 1,
+        "selected_method_completeness": 1
+      }
+    },
+    {
+      "contextual_rank": 28,
+      "name": "Morgan Nield",
+      "scores": {
+        "fit": 2,
+        "impact": 2,
+        "evidence_quality": 2,
+        "selected_method_completeness": 2
+      },
+      "specialty": "真實要求到可交付組合",
+      "why_this_context": "已有多本／不同姓名要求時才有增量用途。",
+      "limits": "2021訪談選段與髮帶案例，未完整影音；沒有需求不建bundle。",
+      "freshness": {
+        "selected_source_latest_publication": "2021-02-03",
+        "band": "historical selected teaching",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07 selected method review; no full channel refresh",
+        "latest_observed": null,
+        "coverage_gaps": [
+          "No complete channel or complete course inventory; selected sources only."
+        ]
+      },
+      "source_references": [
+        {
+          "source_id": "NC6-OG-M1",
+          "url": "https://milotree.com/blog/discover-how-to-sell-and-win-big-on-etsy/",
+          "ledger": "coach-admissions-NC6-2026-10-07.json",
+          "title": "#159: Discover How to Sell and Win Big on Etsy",
+          "published": "2021-02-03T20:09:27+00:00",
+          "reading": "選定原始逐字稿段落，非全影音"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 24,
+        "impact": 26,
+        "evidence_quality": 29,
+        "selected_method_completeness": 29
+      }
+    },
+    {
+      "contextual_rank": 29,
+      "name": "Rachel Rofé",
+      "scores": {
+        "fit": 2,
+        "impact": 2,
+        "evidence_quality": 4,
+        "selected_method_completeness": 4
+      },
+      "specialty": "真實延遲時的可選預告卡",
+      "why_this_context": "僅在買家需要且自願時，提供準確的送禮預告草稿。",
+      "limits": "歷史小專項非一般需求教練；供應商利益、112頁／防水規格不移植。",
+      "freshness": {
+        "selected_source_latest_publication": "2023-05-03",
+        "band": "historical selected teaching",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07 selected method review; no full channel refresh",
+        "latest_observed": null,
+        "coverage_gaps": [
+          "No complete channel or complete course inventory; selected sources only."
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/user/rachelrofe/videos",
+              "checked_at": "2026-10-08T03:27:47.169354+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/user/rachelrofe/shorts",
+              "checked_at": "2026-10-08T03:27:47.189783+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/user/rachelrofe/streams",
+              "checked_at": "2026-10-08T03:27:47.222118+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "NC6-RR1",
+          "url": "https://rachelrofe.com/use-etsy-gift-card-images-to-prevent-more-refunds-and-cancellations",
+          "ledger": "coach-admissions-NC6-2026-10-07.json",
+          "title": "Use Etsy gift card images to prevent more refunds and cancellations",
+          "published": "2020-05-29T22:47:49+00:00",
+          "reading": "完整教學正文已讀；圖片未逐張審查"
+        },
+        {
+          "source_id": "NC6-RR2",
+          "url": "https://rachelrofe.com/selling-journals-on-amazon-and-etsy-101-guide-to-earning-more-pod-sales",
+          "ledger": "coach-admissions-NC6-2026-10-07.json",
+          "title": "Selling journals on Amazon and Etsy 101 Guide",
+          "published": "2023-05-03T17:16:47+00:00",
+          "reading": "完整教學正文已讀；圖內關鍵詞表及影音未另審"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 24,
+        "impact": 26,
+        "evidence_quality": 1,
+        "selected_method_completeness": 1
+      }
+    },
+    {
+      "contextual_rank": 30,
+      "name": "Mario Menduni",
+      "scores": {
+        "fit": 1,
+        "impact": 2,
+        "evidence_quality": 2,
+        "selected_method_completeness": 2
+      },
+      "specialty": "歷史季節性與概念對照",
+      "why_this_context": "僅作同季節／買家任務比較的歷史提醒。",
+      "limits": "主要Meta付費擴量；最新已知長片只選段，不合零廣告和現有工時。",
+      "freshness": {
+        "selected_source_latest_publication": "2024-09-30",
+        "band": "historical selected teaching",
+        "ranking_reaudited_at": "2026-10-09",
+        "source_corpus_last_checked_at": "2026-10-07T17:33:08.651139+00:00",
+        "latest_observed": {
+          "coach_source": "mario",
+          "video_id": "0guqw-VMVnw",
+          "url": "https://www.youtube.com/watch?v=0guqw-VMVnw",
+          "title": "ShineOn Scaling Master Class with Mario Menduni q4 2024 2 of 2",
+          "published": "2024-09-30T11:41:33+00:00",
+          "updated": "2026-10-04T13:23:20+00:00"
+        },
+        "coverage_gaps": [
+          "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+          "未選正文的項目保留metadata-only，不能由標題推導教學。"
+        ],
+        "subsequent_metadata_check": {
+          "reference": "coach-video-freshness-2026-10-08.json",
+          "checked_at_by_tab": [
+            {
+              "requested_url": "https://www.youtube.com/@MarioMenduni/videos",
+              "checked_at": "2026-10-08T03:25:55.716595+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@MarioMenduni/shorts",
+              "checked_at": "2026-10-08T03:25:55.763690+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            },
+            {
+              "requested_url": "https://www.youtube.com/@MarioMenduni/streams",
+              "checked_at": "2026-10-08T03:25:55.925420+00:00",
+              "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+            }
+          ],
+          "scope": "Initial-page metadata only; not complete channel or content review."
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "MAR-V002",
+          "url": "https://www.youtube.com/watch?v=KsSzlGl5U8U",
+          "ledger": "coach-source-ledger-2026-10-07.json",
+          "title": "Print on demand profits free course with mario menduni video2 Seasonality",
+          "published": "2024-02-16T08:10:22-08:00",
+          "reading": "full_extracted_transcript_reviewed"
+        },
+        {
+          "source_id": "FR-MAR-01",
+          "url": "https://www.youtube.com/watch?v=0guqw-VMVnw",
+          "ledger": "coach-freshness-root-2026-10-07.json",
+          "title": "ShineOn Scaling Master Class with Mario Menduni q4 2024 2 of 2",
+          "published": "2024-09-30T04:41:33-07:00",
+          "reading": "partial_transcript_intro_and_closing_reviewed"
+        }
+      ],
+      "dimension_rank": {
+        "fit": 30,
+        "impact": 26,
+        "evidence_quality": 29,
+        "selected_method_completeness": 29
+      }
+    }
+  ],
+  "separate_unranked_supplements": [
+    {
+      "name": "Lauren Ibach",
+      "owner_skill": "brand-marketing-growth",
+      "scope": "信仰送禮文案"
+    },
+    {
+      "name": "Melissa Flanagan / Lissa Sue",
+      "owner_skill": "brand-marketing-growth",
+      "scope": "現在書寫與日後交付的用途時序"
+    },
+    {
+      "name": "Robin Sampson",
+      "owner_skill": "brand-marketing-growth",
+      "scope": "一次可完成的用途內容結構"
+    },
+    {
+      "name": "Megan Auman",
+      "owner_skill": "brand-marketing-growth",
+      "scope": "歷史買家內容受眾診斷；按需且不另開渠道",
+      "reference": "references/coach-adjacent-supplements-NC7-2026-10-07.md"
+    },
+    {
+      "name": "Nora Wolf",
+      "owner_skill": "brand-marketing-growth",
+      "scope": "可選送禮指南適配篩選；未啟動PR或外部接觸",
+      "reference": "references/coach-adjacent-supplements-NC7-2026-10-07.md"
+    }
+  ],
+  "not_added": {
+    "Shine": "Host method preserved in shine-method.md; not a new person added to the 30.",
+    "providers": "eRank, EverBee and Marmalead are provider-source lenses, not coaches."
+  }
+}

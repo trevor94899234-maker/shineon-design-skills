@@ -1,0 +1,75 @@
+{
+  "version": "2026.10.10.1",
+  "baseline_commit": "5863579",
+  "scope": "Selected source review, not complete-channel inventory",
+  "sources": [
+    {
+      "source_id": "Q4O-01",
+      "url": "https://www.etsy.com/seller-handbook/article/1514470405837",
+      "published_at_displayed": "2026-10-05",
+      "checked_at": "2026-10-10",
+      "read_level": "visible_article_text",
+      "fact": "Cyber Specials dates and opt-in consideration; platform aggregate measurement scope; future report not yet read"
+    },
+    {
+      "source_id": "Q4O-02",
+      "url": "https://help.etsy.com/hc/en-us/articles/360039531534-How-to-Participate-in-Sales-Events-on-Etsy",
+      "published_at_displayed": null,
+      "checked_at": "2026-10-10",
+      "read_level": "visible_article_text",
+      "fact": "Cross-check event dates and marketing consideration; can join while event runs"
+    },
+    {
+      "source_id": "Q4O-03",
+      "url": "https://community.etsy.com/events/details/etsy-etsy-seller-events-presents-etseo-live-listing-critique-panel-holiday-2026/",
+      "published_at_displayed": null,
+      "checked_at": "2026-10-10",
+      "read_level": "visible_event_text",
+      "fact": "2026-10-13 17:00–18:00 UTC; submission window ended Sep29; event content not yet available"
+    },
+    {
+      "source_id": "Q4O-04",
+      "url": "https://www.etsy.com/seller-handbook/article/1503753198977",
+      "published_at_displayed": "2026-08-03",
+      "checked_at": "2026-10-10",
+      "read_level": "visible_article_text",
+      "fact": "Own-shop sharing and broader creator referral distinct; no enrollment or actual account check"
+    },
+    {
+      "source_id": "Q4O-05",
+      "url": "https://papersunday.com/blogs/dailydevotionals",
+      "published_at_displayed": null,
+      "checked_at": "2026-10-10",
+      "read_level": "cached_index_only",
+      "fact": "No verified newly dated article; not evidence of no recent publications"
+    },
+    {
+      "source_id": "Q4O-06",
+      "url": "https://resources.shineon.com/winter-holidays",
+      "published_at_displayed": null,
+      "checked_at": "2026-10-10",
+      "read_level": "visible_article_text",
+      "fact": "Duplicate SO09; no new verified dated method or holiday cutoff"
+    },
+    {
+      "source_id": "Q4O-07",
+      "url": "https://www.youtube.com/channel/UCz7XJeCrAjAmEf7ynG65yYA/videos",
+      "published_at_displayed": null,
+      "checked_at": "2026-10-10",
+      "read_level": "fetch_error",
+      "fact": "No new teaching inference"
+    },
+    {
+      "source_id": "Q4O-08",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz7XJeCrAjAmEf7ynG65yYA",
+      "published_at_displayed": null,
+      "checked_at": "2026-10-10",
+      "read_level": "fetch_error",
+      "fact": "No new teaching inference"
+    }
+  ],
+  "formal_business_perspectives": 30,
+  "brand_cohort": 50,
+  "firecrawl_used": false,
+  "monthly_trend_evidence": false
+}

@@ -1,0 +1,14 @@
+interface:
+  display_name: Canva Personalizable Product Art
+  short_description: Editable names and transparent PNG checks in Canva
+  default_prompt: Use $canva-personalizable-product-art to make an approved product
+    design editable in Canva and export a verified transparent PNG.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

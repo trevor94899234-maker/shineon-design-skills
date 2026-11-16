@@ -1,0 +1,1281 @@
+{
+  "schema_version": "1.0",
+  "audit_id": "FR6-2026-10-07",
+  "checked_at": "2026-10-07T17:34:00Z",
+  "language": "zh-Hant",
+  "scope": "六位既有商務視角的官方身份、可觀察最新發布、原本已處理來源與新教學核讀差額；核心技能唯讀。",
+  "retrieval": "Cloud Firecrawl normal public scrape/search, maxAge 0 for page/RSS/video. No local computer, login, purchase, subscription, new terms or access bypass.",
+  "source_counts": {
+    "coaches": 6,
+    "source_records": 30,
+    "public_youtube_rss_feeds": 6,
+    "rss_entries_observed": 90,
+    "complete_returned_transcript_texts_read": 7,
+    "partial_transcript_texts_read": 1,
+    "full_audio_or_visual_reviews": 0
+  },
+  "freshness_semantics": {
+    "latest_observed": "本輪在已確認官方RSS／索引中可見的最晚公開項目，不等於全網完整盤點。",
+    "baseline_last_processed": "本輪之前真正讀過的方法來源，保留原始混合schema及日期，不將metadata／show notes變為已讀影片。",
+    "latest_completed_method_sources": "本輪完整閱讀工具回傳逐字稿的相關來源；可以早於latest observed，理由與缺口逐人列。",
+    "checked_at": "實際取證時間，與發布日分開。"
+  },
+  "shop_guardrails": [
+    "Christian personalized family/friend gifts；200頁間線，printed leatherette，沒有guided／預印scripture內頁。",
+    "Typical USD49.95及90–95% US為既有店況，未由教師案例重新推定。",
+    "既有90日零廣告起算日未知，不重設；每週總3–5小時含履約客服，不增加六套工作。",
+    "不由教師自述、營收標題、競品存在或CTR推導本店需求。",
+    "只有同期間同範圍visits可得才計orders/visits；沒有曝光分母不算CTR。",
+    "方法研究不授權修改listing、發布、買工具、寄信、建新渠道、投放或新增持續監控。"
+  ],
+  "coaches": [
+    {
+      "person": "Mandy Dobosenski",
+      "checked_at": "2026-10-07T17:17:49.777687Z",
+      "official_identity": {
+        "evidence": "Studio M Designs Co首頁直接連到UCh22ofFv6DheCUMo8J06zSw；RSS作者SimplyPOD with Mandy。",
+        "official_youtube_channel_id": "UCh22ofFv6DheCUMo8J06zSw",
+        "source_ids": [
+          "FR6-027",
+          "FR6-026"
+        ]
+      },
+      "baseline_last_processed_method_sources_preserved": [
+        {
+          "id": "NC-M1",
+          "url": "https://www.studiomdesignsco.com/blog/top-5-niches-for-2024-etsy-print-on-demand",
+          "type": "official_authored_article",
+          "read_status": "full_text",
+          "published_date": null,
+          "topic_year": 2024,
+          "research_capture_sha256": "62a8ae8b1b54df20039509cebc86ec8ab97cf07bf34cc0057885c791153f9e29"
+        },
+        {
+          "id": "NC-M2",
+          "url": "https://www.studiomdesignsco.com/blog/how-to-scale-your-etsy-print-on-demand-shop-faster-in-2024",
+          "type": "official_authored_article",
+          "read_status": "full_text",
+          "published_date": null,
+          "topic_year": 2024,
+          "research_capture_sha256": "458cdc3e2ff49979f16050e1212cdd6e306d8c8ff6544ef91eb67384e71553aa"
+        },
+        {
+          "id": "NC-M3",
+          "url": "https://printify.com/blog/how-mandy-dobosenski-design-hacks-that-helped-her-quit-her-9-5/",
+          "type": "supplier_original_interview",
+          "read_status": "full_text",
+          "published_date": "2023-04-27",
+          "commercial_interest": true,
+          "independent_financial_audit": false
+        }
+      ],
+      "prior_source_records_preserved": [
+        {
+          "id": "NC-M1",
+          "url": "https://www.studiomdesignsco.com/blog/top-5-niches-for-2024-etsy-print-on-demand",
+          "type": "official_authored_article",
+          "read_status": "full_text",
+          "published_date": null,
+          "topic_year": 2024,
+          "research_capture_sha256": "62a8ae8b1b54df20039509cebc86ec8ab97cf07bf34cc0057885c791153f9e29"
+        },
+        {
+          "id": "NC-M2",
+          "url": "https://www.studiomdesignsco.com/blog/how-to-scale-your-etsy-print-on-demand-shop-faster-in-2024",
+          "type": "official_authored_article",
+          "read_status": "full_text",
+          "published_date": null,
+          "topic_year": 2024,
+          "research_capture_sha256": "458cdc3e2ff49979f16050e1212cdd6e306d8c8ff6544ef91eb67384e71553aa"
+        },
+        {
+          "id": "NC-M3",
+          "url": "https://printify.com/blog/how-mandy-dobosenski-design-hacks-that-helped-her-quit-her-9-5/",
+          "type": "supplier_original_interview",
+          "read_status": "full_text",
+          "published_date": "2023-04-27",
+          "commercial_interest": true,
+          "independent_financial_audit": false
+        },
+        {
+          "id": "NC-M4",
+          "url": "https://www.youtube.com/watch?v=YrLof7KOMXQ",
+          "type": "official_youtube_video",
+          "read_status": "metadata_description_only",
+          "published_date": "2025-08-30",
+          "supports_method_details": false,
+          "research_capture_sha256": "f6b2645598c3eb412fb537fb826ba898423017e50024683d7dae3b0ac2c1d531"
+        },
+        {
+          "id": "NC-M5",
+          "url": "https://www.youtube.com/watch?v=3qsXRrglfDY",
+          "type": "youtube_video_candidate",
+          "read_status": "retrieval_cancelled_not_retried",
+          "published_date": null,
+          "supports_method_details": false
+        }
+      ],
+      "latest_observed": {
+        "video_id": "7He778_Cysk",
+        "title": "Is this the fastest way to list on Etsy? #printondemand #etsyseller #shorts",
+        "url": "https://www.youtube.com/shorts/7He778_Cysk",
+        "publication_date": "2026-10-07T13:00:20+00:00",
+        "updated_at": "2026-10-07T13:00:26+00:00"
+      },
+      "latest_observed_basis_source_id": "FR6-026",
+      "latest_completed_method_sources": [
+        "FR6-025"
+      ],
+      "method_update": {
+        "decision": "add_limited_customer_request_triage",
+        "method_novelty": "既有顧客證據框架的實作補強：把請求分成新且未有訊號的同需求改良、已有訊號商品的相鄰版本、新受眾／新商品，以及只服務單一買家的微調。",
+        "shop_application": "先記實際要求、原listing已有訊號、能否用現有journal交付及預估工時，再準備一個草稿；一個訊息只是興趣證據，不能宣稱市場需求已驗證。",
+        "reject": [
+          "把新listing無演算法風險當官方規則",
+          "收到要求即自動複製／修改／發布商品",
+          "固定2分鐘保證或80個AI分支量產",
+          "AI只改一處就必定保持其餘細節",
+          "自動承諾客製、寄訊息或改付款／proof流程"
+        ]
+      },
+      "gaps": [
+        "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+        "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+        "先前取消的3qsXRrglfDY保持retrieval_cancelled_not_retried，未重新請求或換路重試。",
+        "最新2026-10-07短片只讀RSS描述；較新的ornament供應商比較未作全文教學抽取，優先處理較貼近本店的2026-09-18顧客請求。"
+      ]
+    },
+    {
+      "person": "Cassiy Johnson",
+      "checked_at": "2026-10-07T17:19:47.971667Z",
+      "official_identity": {
+        "evidence": "CassiyJohnson.com本人POD教練首頁與@CassiyJohnson頻道身份metadata／本人連回該網域相符；頻道identifier取得UCLO9E4VY1fjn_aIPByy9HSA。",
+        "official_youtube_channel_id": "UCLO9E4VY1fjn_aIPByy9HSA",
+        "source_ids": [
+          "FR6-004",
+          "FR6-002",
+          "FR6-001"
+        ]
+      },
+      "baseline_last_processed_method_sources_preserved": [
+        {
+          "id": "NC-C1",
+          "url": "https://printify.com/blog/cassiy-helps-small-businesses-make-1000s/",
+          "type": "supplier_original_interview",
+          "read_status": "full_text",
+          "published_date": "2022-04-14",
+          "commercial_interest": true,
+          "independent_financial_audit": false,
+          "research_capture_sha256": "b56e051b09e88bdce0f7b8dc886d3d498a5467d9360ee790474a8b4d5f091d08"
+        }
+      ],
+      "prior_source_records_preserved": [
+        {
+          "id": "NC-C1",
+          "url": "https://printify.com/blog/cassiy-helps-small-businesses-make-1000s/",
+          "type": "supplier_original_interview",
+          "read_status": "full_text",
+          "published_date": "2022-04-14",
+          "commercial_interest": true,
+          "independent_financial_audit": false,
+          "research_capture_sha256": "b56e051b09e88bdce0f7b8dc886d3d498a5467d9360ee790474a8b4d5f091d08"
+        },
+        {
+          "id": "NC-C2",
+          "url": "https://www.cassiyjohnson.com/",
+          "type": "official_website",
+          "read_status": "full_page",
+          "published_date": null,
+          "supports_identity_not_performance": true
+        },
+        {
+          "id": "NC-C3",
+          "url": "https://www.youtube.com/watch?v=Z0pZ8Zk2DG4",
+          "type": "official_youtube_video",
+          "read_status": "metadata_description_only",
+          "published_date": "2025-04-21",
+          "official_title": "The WORST Beginner Print On Demand Mistake Sellers Are Making & How To Avoid It",
+          "third_party_title_differs": true,
+          "supports_method_details": false,
+          "research_capture_sha256": "d39fb4aa43e3e1539a8eb509d97a9476492308a25c8a2ffe21f01bb93764c273"
+        }
+      ],
+      "latest_observed": {
+        "video_id": "jW-WMsIPJCA",
+        "title": "Your ChatGPT Etsy Designs Look Like AI: Here's How to Fix It",
+        "url": "https://www.youtube.com/watch?v=jW-WMsIPJCA",
+        "publication_date": "2026-09-22T14:00:33+00:00",
+        "updated_at": "2026-10-04T17:07:09+00:00"
+      },
+      "latest_observed_basis_source_id": "FR6-002",
+      "latest_completed_method_sources": [
+        "FR6-003"
+      ],
+      "method_update": {
+        "decision": "add_limited_ai_design_qa",
+        "method_novelty": "新取得具體AI設計缺陷分類；補強既有縮圖／產品鎖，而非新的增長框架。",
+        "shop_application": "檢查多餘裝飾、過度填滿空白、未指定風格、假做舊、堆砌利基符號、虛構年份／故事、小字過密；同時看縮圖可讀性與實際印刷大小，姓名和經文另做逐字核對。",
+        "reject": [
+          "某種Etsy美學一定更會賣",
+          "所有產品通用4000×4000尺寸",
+          "把供應商工作流當已驗證需求",
+          "從競品複製文字或圖案",
+          "把示範印刷效果當本店實物證據"
+        ]
+      },
+      "gaps": [
+        "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+        "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+        "未開免費留言領取素材或會員，沒有訂閱／付款。"
+      ]
+    },
+    {
+      "person": "Emily Odio-Sutton / Ecomm Emily",
+      "checked_at": "2026-10-07T17:22:23.002984Z",
+      "official_identity": {
+        "evidence": "本人Podia網站現在可讀，連往Gold City Ventures；該合作方2026-04-21頁明確把Emily的YouTube連到@ecommemily，頻道全名Emily Odio-Sutton及ID相符。",
+        "official_youtube_channel_id": "UCAAdHNShqOQagHJfhw884Bg",
+        "source_ids": [
+          "FR6-018",
+          "FR6-013",
+          "FR6-012",
+          "FR6-011"
+        ]
+      },
+      "baseline_last_processed_method_sources_preserved": [
+        {
+          "candidate": "Emily Odio-Sutton / Ecomm Emily",
+          "title": "From side hustle to $500k: How Printify helped this mom quit her job",
+          "url": "https://printify.com/blog/how-printify-helped-this-mom-quit-her-job/",
+          "source_type": "original_vendor_interview",
+          "publication_date": "2025-07-02",
+          "read_status": "full_article_read",
+          "limits": "全文已讀，具硬皮journal／送禮與工作批次方法；是Printify市場推廣案例，未獨立審計營收。",
+          "retrieved_at": "2026-10-07",
+          "id": "NC2-POD-EE01",
+          "original_source_id": "EE01",
+          "cohort": "POD"
+        }
+      ],
+      "prior_source_records_preserved": [
+        {
+          "candidate": "Emily Odio-Sutton / Ecomm Emily",
+          "title": "From side hustle to $500k: How Printify helped this mom quit her job",
+          "url": "https://printify.com/blog/how-printify-helped-this-mom-quit-her-job/",
+          "source_type": "original_vendor_interview",
+          "publication_date": "2025-07-02",
+          "read_status": "full_article_read",
+          "limits": "全文已讀，具硬皮journal／送禮與工作批次方法；是Printify市場推廣案例，未獨立審計營收。",
+          "retrieved_at": "2026-10-07",
+          "id": "NC2-POD-EE01",
+          "original_source_id": "EE01",
+          "cohort": "POD"
+        },
+        {
+          "candidate": "Emily Odio-Sutton / Ecomm Emily",
+          "title": "Podcast Episode 146: This New Etsy Seller Switched to Giftable POD Products and Her Sales Soared -with Ecomm Emily",
+          "url": "https://www.howtosellyourstuff.com/blog/146",
+          "source_type": "original_interview_host",
+          "publication_date": "2024-09-11",
+          "read_status": "show_notes_only",
+          "limits": "身份與giftable POD主題對應；頁內19k和15k+口徑分列，非獨立店舖查證。",
+          "retrieved_at": "2026-10-07",
+          "id": "NC2-POD-EE02",
+          "original_source_id": "EE02",
+          "cohort": "POD"
+        },
+        {
+          "candidate": "Emily Odio-Sutton / Ecomm Emily",
+          "title": "Coaching Membership",
+          "url": "https://ecommemily.podia.com/",
+          "source_type": "official_creator_site_linked_by_host",
+          "publication_date": "undated",
+          "read_status": "metadata_only_empty_body",
+          "limits": "成功開啟但0行正文。不能聲稱已讀其課程。",
+          "retrieved_at": "2026-10-07",
+          "id": "NC2-POD-EE03",
+          "original_source_id": "EE03",
+          "cohort": "POD"
+        },
+        {
+          "candidate": "Emily Odio-Sutton / Ecomm Emily",
+          "title": "The Gift Lab",
+          "url": "https://www.goldcityventures.com/the-gift-lab",
+          "source_type": "official_partner_course_linked_by_vendor",
+          "publication_date": "unknown",
+          "read_status": "unavailable",
+          "limits": "由Printify原文點擊，redirect錯誤；未繞過，利益關係由EE01可確認。",
+          "retrieved_at": "2026-10-07",
+          "id": "NC2-POD-EE04",
+          "original_source_id": "EE04",
+          "cohort": "POD"
+        }
+      ],
+      "latest_observed": {
+        "video_id": "fxCihs3NUk0",
+        "title": "Etsy Q4 Print on Demand: 3 Untapped Products Before It’s Too Late",
+        "url": "https://www.youtube.com/watch?v=fxCihs3NUk0",
+        "publication_date": "2026-10-06T13:00:10+00:00",
+        "updated_at": "2026-10-06T19:35:42+00:00"
+      },
+      "latest_observed_basis_source_id": "FR6-013",
+      "latest_completed_method_sources": [
+        "FR6-014"
+      ],
+      "method_update": {
+        "decision": "retain_gift_copy_and_focus_with_fresh_support",
+        "method_novelty": "2026-10-06本人關於蠟燭的清楚主句、簡單圖文及產品聚焦，佐證既有送禮文案／圖片原則；没有新增已驗證Christian journal需求。",
+        "shop_application": "可借用一個清楚送禮主句、圖案服務意思及可讀性檢查；journal有其自己的產品鎖。幽默co-worker candles不能推導家人朋友Christian journal偏好。",
+        "reject": [
+          "把嘉賓Angel方法或eRank估算記為Emily親驗",
+          "把第三方keywords／競爭度推算當本店需求",
+          "因Q4名單就新增phone case、calendar或candle",
+          "追逐標題的低競爭／untapped承諾"
+        ]
+      },
+      "gaps": [
+        "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+        "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+        "2026-09-29 Pinterest嘉賓訪談只部分閱讀，不能說學完完整教學；完整內容已取得不等於完成分析。",
+        "Podia公開頁由先前empty body改善為可讀；課程仍未讀。"
+      ]
+    },
+    {
+      "person": "Mei Pak / Creative Hive",
+      "checked_at": "2026-10-07T17:17:43.165574Z",
+      "official_identity": {
+        "evidence": "Creative Hive首頁直接列Mei Pak及UCw6Dxk_YQdVE-Vy-OVJsRYQ、@creativehiveco；Tiny Hands關係沿用既有官方核身。",
+        "official_youtube_channel_id": "UCw6Dxk_YQdVE-Vy-OVJsRYQ",
+        "source_ids": [
+          "FR6-030",
+          "FR6-028"
+        ]
+      },
+      "baseline_last_processed_method_sources_preserved": [
+        {
+          "candidate_id": "mei_pak",
+          "url": "https://www.creativehiveco.com/5-questions-to-ask-to-understand-your-ideal-customer/",
+          "title": "5 Questions to Ask to Understand Your Ideal Customer",
+          "source_type": "official_author_article",
+          "processing_status": "full_article_text_read",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Core retained source: validate buyer versus recipient using actual customer evidence. Embedded videos not processed.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-M03",
+          "original_source_id": "M03",
+          "cohort": "SHOP",
+          "read_status": "full_article_text_read"
+        },
+        {
+          "candidate_id": "mei_pak",
+          "url": "https://www.creativehiveco.com/168k-yr-selling-jewelry-for-10-years-straight-with-this-simple-system/",
+          "title": "$168k/yr selling jewelry for 10 years straight with this simple system",
+          "source_type": "official_author_article",
+          "processing_status": "full_article_text_read",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Revenue self-report; system explicitly includes paid ads, own site, email. Hostinger discount-code promotion observed.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-M04",
+          "original_source_id": "M04",
+          "cohort": "SHOP",
+          "read_status": "full_article_text_read"
+        }
+      ],
+      "prior_source_records_preserved": [
+        {
+          "candidate_id": "mei_pak",
+          "url": "https://www.creativehiveco.com/about",
+          "title": "Creative Hive About",
+          "source_type": "official_author_website",
+          "processing_status": "relevant_sections_read",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Identity and Tiny Hands relationship; personal POD business and revenue are self-reported.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-M01",
+          "original_source_id": "M01",
+          "cohort": "SHOP",
+          "read_status": "relevant_sections_read"
+        },
+        {
+          "candidate_id": "mei_pak",
+          "url": "https://tinyhandsonline.com/",
+          "title": "Tiny Hands storefront",
+          "source_type": "official_storefront",
+          "processing_status": "catalog_page_read",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Observed scented food jewelry, bundles, gift packaging and subscription; no independent revenue ledger.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-M02",
+          "original_source_id": "M02",
+          "cohort": "SHOP",
+          "read_status": "catalog_page_read"
+        },
+        {
+          "candidate_id": "mei_pak",
+          "url": "https://www.creativehiveco.com/5-questions-to-ask-to-understand-your-ideal-customer/",
+          "title": "5 Questions to Ask to Understand Your Ideal Customer",
+          "source_type": "official_author_article",
+          "processing_status": "full_article_text_read",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Core retained source: validate buyer versus recipient using actual customer evidence. Embedded videos not processed.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-M03",
+          "original_source_id": "M03",
+          "cohort": "SHOP",
+          "read_status": "full_article_text_read"
+        },
+        {
+          "candidate_id": "mei_pak",
+          "url": "https://www.creativehiveco.com/168k-yr-selling-jewelry-for-10-years-straight-with-this-simple-system/",
+          "title": "$168k/yr selling jewelry for 10 years straight with this simple system",
+          "source_type": "official_author_article",
+          "processing_status": "full_article_text_read",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Revenue self-report; system explicitly includes paid ads, own site, email. Hostinger discount-code promotion observed.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-M04",
+          "original_source_id": "M04",
+          "cohort": "SHOP",
+          "read_status": "full_article_text_read"
+        },
+        {
+          "candidate_id": "mei_pak",
+          "url": "https://www.creativehiveco.com/how-to-pitch-your-handmade-products-to-the-media/",
+          "title": "How To Pitch Your Handmade Products to the Media",
+          "source_type": "official_author_article",
+          "processing_status": "partial_article_text_read",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Read opening and list-building beginning only; outreach not adopted or executed.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-M05",
+          "original_source_id": "M05",
+          "cohort": "SHOP",
+          "read_status": "partial_article_text_read"
+        },
+        {
+          "candidate_id": "mei_pak",
+          "url": "https://www.youtube.com/c/CreativeHiveCo?sub_confirmation=1",
+          "title": "Creative Hive YouTube official outbound link",
+          "source_type": "official_linked_channel",
+          "processing_status": "fetch_failed",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Identity link from official About; channel and video content not read.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-M06",
+          "original_source_id": "M06",
+          "cohort": "SHOP",
+          "read_status": "fetch_failed"
+        }
+      ],
+      "latest_observed": {
+        "video_id": "f_SIrSx_C7o",
+        "title": "I Made $560,039 Selling Art Online With These Platforms.(Here’s What I’d Use and Skip 👀)",
+        "url": "https://www.youtube.com/shorts/f_SIrSx_C7o",
+        "publication_date": "2026-10-06T01:00:06+00:00",
+        "updated_at": "2026-10-06T05:44:24+00:00"
+      },
+      "latest_observed_basis_source_id": "FR6-028",
+      "latest_completed_method_sources": [
+        "FR6-029"
+      ],
+      "method_update": {
+        "decision": "reinforce_time_adjusted_economics_and_deliverable_quality",
+        "method_novelty": "2026-09-26完整文字提供新實例，主要支持既有成本、工時與產品真實性防線。",
+        "shop_application": "商品餘額須同時負擔履約客服、製圖和行銷時間；有成交仍可能不值得維持。比較可交付品質與照片承諾，而非只看營收。",
+        "reject": [
+          "成交商品存在就證明需求",
+          "競品標價等於實際成交價或價格天花板",
+          "必須找8–10店的配額",
+          "本店必開自站／付費廣告／媒體外聯",
+          "把新店收入自述當可複製零廣告成果"
+        ]
+      },
+      "gaps": [
+        "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+        "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+        "2026-10-06最新Short只讀公開描述；本輪完整方法來源為2026-09-26長片。"
+      ]
+    },
+    {
+      "person": "Dalia Abdalla / The Handmade Mastermind",
+      "checked_at": "2026-10-07T17:21:41.190133Z",
+      "official_identity": {
+        "evidence": "@thehandmademastermind官方頻道metadata全名Dalia Abdalla，導覽連回thehandmademastermind.com；最新影片本人明說Modern Pink Paper。該網域目前首頁以消費者文具內容為主。",
+        "official_youtube_channel_id": "UCi4knCW3dzKuB5os6KFP4mQ",
+        "source_ids": [
+          "FR6-010",
+          "FR6-006",
+          "FR6-005"
+        ]
+      },
+      "baseline_last_processed_method_sources_preserved": [
+        {
+          "candidate_id": "dalia_abdalla",
+          "url": "https://blog.marmalead.com/pinterest-for-etsy-sellers-with-dalia-from-the-handmade-mastermind/",
+          "title": "Pinterest for Etsy Sellers with Dalia from the Handmade Mastermind",
+          "source_type": "original_interview_publisher",
+          "processing_status": "full_article_text_read",
+          "published_date": "2018-10-01",
+          "accessed_date": "2026-10-07",
+          "note": "Complete published interview article read; publisher explicitly says it omits parts of the full video.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-D04",
+          "original_source_id": "D04",
+          "cohort": "SHOP",
+          "read_status": "full_article_text_read"
+        }
+      ],
+      "prior_source_records_preserved": [
+        {
+          "candidate_id": "dalia_abdalla",
+          "url": "https://modernpinkpaper4.wixsite.com/etsysellermasterm/about1",
+          "title": "ABOUT ME | Etsy Seller Mastermind",
+          "source_type": "official_author_website",
+          "processing_status": "full_page_text_read",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Explicit full name, Modern Pink Paper ownership and direct Etsy link. Biography internally dated October 2015.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-D01",
+          "original_source_id": "D01",
+          "cohort": "SHOP",
+          "read_status": "full_page_text_read"
+        },
+        {
+          "candidate_id": "dalia_abdalla",
+          "url": "https://modernpinkpaper.com/pages/about-us",
+          "title": "Modern Pink Paper | About Us",
+          "source_type": "official_storefront",
+          "processing_status": "relevant_sections_read",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Owner/designer identity and personalized stationery business; word-of-mouth proportion is self-reported.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-D02",
+          "original_source_id": "D02",
+          "cohort": "SHOP",
+          "read_status": "relevant_sections_read"
+        },
+        {
+          "candidate_id": "dalia_abdalla",
+          "url": "https://www.etsy.com/shop/ModernPinkPaper",
+          "title": "ModernPinkPaper - Etsy",
+          "source_type": "platform_storefront",
+          "processing_status": "relevant_sections_read",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "First-page catalog, owner, About, production partner and cumulative sales snapshot reviewed; not all listings.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-D03",
+          "original_source_id": "D03",
+          "cohort": "SHOP",
+          "read_status": "relevant_sections_read"
+        },
+        {
+          "candidate_id": "dalia_abdalla",
+          "url": "https://blog.marmalead.com/pinterest-for-etsy-sellers-with-dalia-from-the-handmade-mastermind/",
+          "title": "Pinterest for Etsy Sellers with Dalia from the Handmade Mastermind",
+          "source_type": "original_interview_publisher",
+          "processing_status": "full_article_text_read",
+          "published_date": "2018-10-01",
+          "accessed_date": "2026-10-07",
+          "note": "Complete published interview article read; publisher explicitly says it omits parts of the full video.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-D04",
+          "original_source_id": "D04",
+          "cohort": "SHOP",
+          "read_status": "full_article_text_read"
+        },
+        {
+          "candidate_id": "dalia_abdalla",
+          "url": "https://blog.marmalead.com/ecommerce-is-tough-but-were-here-to-help/",
+          "title": "Ecommerce is tough, but we're here to help.",
+          "source_type": "original_publisher_commercial_disclosure",
+          "processing_status": "relevant_sections_read",
+          "published_date": "2021-07-14",
+          "accessed_date": "2026-10-07",
+          "note": "Publisher explicitly calls Dalia a friend and affiliate partner.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-D05",
+          "original_source_id": "D05",
+          "cohort": "SHOP",
+          "read_status": "relevant_sections_read"
+        },
+        {
+          "candidate_id": "dalia_abdalla",
+          "url": "https://www.etsy.com/listing/1760000232/customized-stationary-notepads-with-name",
+          "title": "Customized Stationary Notepads With Name / religious cross notepad NP475",
+          "source_type": "platform_listing",
+          "processing_status": "fetch_failed",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Listing title and link observed on D03; detail fetch failed. Product sales and full specifications unverified.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-D06",
+          "original_source_id": "D06",
+          "cohort": "SHOP",
+          "read_status": "fetch_failed"
+        },
+        {
+          "candidate_id": "dalia_abdalla",
+          "url": "https://www.thehandmademastermind.com/",
+          "title": "The Handmade Mastermind homepage",
+          "source_type": "official_linked_website",
+          "processing_status": "fetch_failed",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Official legacy identity verified elsewhere; current homepage not readable in web tool.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-D07",
+          "original_source_id": "D07",
+          "cohort": "SHOP",
+          "read_status": "fetch_failed"
+        }
+      ],
+      "latest_observed": {
+        "video_id": "wM07RP2x88o",
+        "title": "my business CRISIS, explained + etsy is going downhill (PROOF)",
+        "url": "https://www.youtube.com/watch?v=wM07RP2x88o",
+        "publication_date": "2024-04-23T14:00:44+00:00",
+        "updated_at": "2026-09-29T11:24:31+00:00"
+      },
+      "latest_observed_basis_source_id": "FR6-006",
+      "latest_completed_method_sources": [
+        "FR6-007",
+        "FR6-008"
+      ],
+      "method_update": {
+        "decision": "historical_limited_method_only_with_new_processing",
+        "method_novelty": "2023-12-05示範新增來源口徑及季節比較操作細節；2024-04-23新讀內容主要修正現役教學表述。",
+        "shop_application": "先保存候選及來源／時期，再另做深查；辨別資訊型與購物型搜尋、實際買家用語、短期爆升與全年季節性，跨年只能比較相同用途與季節。",
+        "reject": [
+          "Google Trends指數、Amazon Search Terms排名、第三方月搜量混為一個指標",
+          "固定少於1000結果就低競爭",
+          "Amazon榜單／競品存在就保證Etsy銷量",
+          "歷史2023題材當2026趨勢",
+          "由2024流量估算推Etsy必衰退或必須上Amazon"
+        ]
+      },
+      "gaps": [
+        "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+        "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+        "最近15項RSS最晚為2024-04-23；這不是全網無新內容的證明。",
+        "2024-04-23本人表示暫停sit-down teaching、改為聊天直到另有通知；未找到更近期第一方恢復教學聲明。",
+        "最新影片中無關私人健康內容不納入方法或公開摘要。"
+      ]
+    },
+    {
+      "person": "Lizzie Smiley / How to Sell Your Stuff",
+      "checked_at": "2026-10-07T17:19:31.175385Z",
+      "official_identity": {
+        "evidence": "howtosellyourstuff.com/podcast明確連到UC2qJIroXGPooUo-29YrRY8A；本人單講片自我介紹Lizzie Smiley。",
+        "official_youtube_channel_id": "UC2qJIroXGPooUo-29YrRY8A",
+        "source_ids": [
+          "FR6-022",
+          "FR6-019"
+        ]
+      },
+      "baseline_last_processed_method_sources_preserved": [
+        {
+          "candidate": "Lizzie Smiley",
+          "title": "4 Strategies I used to grow my Etsy shop from $25 to $6000",
+          "url": "https://s3.amazonaws.com/kajabi-storefronts-production/sites/2147505103/themes/2148175372/downloads/18qCp2UlRleaTQk0fadO_4_Strategies_I_used_to_grow_my_Etsy_shop_from_25_to_6000.pdf",
+          "source_type": "official_public_pdf",
+          "publication_date": "2021 copyright",
+          "read_status": "full_text_read",
+          "limits": "Firecrawl回傳16/16頁文字，已讀；web PDF開啟失敗。非逐頁視覺審核。封面/圖片OCR可能有噪音。",
+          "retrieved_at": "2026-10-07",
+          "id": "NC2-POD-LS02",
+          "original_source_id": "LS02",
+          "cohort": "POD"
+        }
+      ],
+      "prior_source_records_preserved": [
+        {
+          "candidate": "Lizzie Smiley",
+          "title": "About",
+          "url": "https://www.howtosellyourstuff.com/site/about",
+          "source_type": "official_profile",
+          "publication_date": "undated",
+          "read_status": "article_read",
+          "limits": "本人姓名與木製標語牌店故事；不是ShineOn或journal專業證據。",
+          "retrieved_at": "2026-10-07",
+          "id": "NC2-POD-LS01",
+          "original_source_id": "LS01",
+          "cohort": "POD"
+        },
+        {
+          "candidate": "Lizzie Smiley",
+          "title": "4 Strategies I used to grow my Etsy shop from $25 to $6000",
+          "url": "https://s3.amazonaws.com/kajabi-storefronts-production/sites/2147505103/themes/2148175372/downloads/18qCp2UlRleaTQk0fadO_4_Strategies_I_used_to_grow_my_Etsy_shop_from_25_to_6000.pdf",
+          "source_type": "official_public_pdf",
+          "publication_date": "2021 copyright",
+          "read_status": "full_text_read",
+          "limits": "Firecrawl回傳16/16頁文字，已讀；web PDF開啟失敗。非逐頁視覺審核。封面/圖片OCR可能有噪音。",
+          "retrieved_at": "2026-10-07",
+          "id": "NC2-POD-LS02",
+          "original_source_id": "LS02",
+          "cohort": "POD"
+        },
+        {
+          "candidate": "Lizzie Smiley",
+          "title": "Podcast Episode 146: This New Etsy Seller Switched to Giftable POD Products and Her Sales Soared -with Ecomm Emily",
+          "url": "https://www.howtosellyourstuff.com/blog/146",
+          "source_type": "original_interview_host",
+          "publication_date": "2024-09-11",
+          "read_status": "show_notes_only",
+          "limits": "只讀節目簡介與身份／利益披露，不把Emily內容算作Lizzie原創教學。",
+          "retrieved_at": "2026-10-07",
+          "id": "NC2-POD-LS03",
+          "original_source_id": "LS03",
+          "cohort": "POD"
+        }
+      ],
+      "latest_observed": {
+        "video_id": "j8vva-7JEjI",
+        "title": "Ep 253 | She earned $14k on Etsy during the slow months selling PNGs -with Shannon Davis",
+        "url": "https://www.youtube.com/watch?v=j8vva-7JEjI",
+        "publication_date": "2026-10-01T09:00:28+00:00",
+        "updated_at": "2026-10-06T19:04:29+00:00"
+      },
+      "latest_observed_basis_source_id": "FR6-019",
+      "latest_completed_method_sources": [
+        "FR6-023"
+      ],
+      "method_update": {
+        "decision": "retain_visual_and_evergreen_support_no_new_mandatory_workflow",
+        "method_novelty": "2026-09-03本人單講補上當前教學：全年受禮人用途、分解風格元素再原創重組，以及參考作品的設計觀察。與已有方法重疊，沒有新增可保證的框架。",
+        "shop_application": "固定journal本體，檢查同一送禮意思能否全年成立，再只選一個適配的風格元素形成原創草稿；她提出改內頁的forest journal構想不適用本店200頁間線內頁。",
+        "reject": [
+          "未重核的Pinterest增幅等於Etsy需求",
+          "固定80/20工時或上架配比",
+          "每日2小時／10–20分鐘研究配額",
+          "風格重組令商品不可複製或不怕競爭",
+          "列舉姓名、隊名或地名的 blanket 法律判斷",
+          "自動購買Trendspotting或擴展社交渠道"
+        ]
+      },
+      "gaps": [
+        "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+        "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+        "2026-10-01最新集為Shannon Davis訪談，其教學未完整處理且不歸作Lizzie原創；本輪選2026-09-03本人單講。",
+        "2026-07-09 Q4頁只讀概要，未處理音訊。"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "FR6-001",
+      "person": "Cassiy Johnson",
+      "url": "https://www.youtube.com/@CassiyJohnson",
+      "title": "Cassiy Johnson",
+      "source_type": "official_youtube_channel",
+      "read_status": "identity_metadata_and_partial_channel_body_read",
+      "checked_at": "2026-10-07T17:17:38.697498Z",
+      "method_text_processed": false,
+      "processing_limits": "頁內含malformed401文字，同時有身份metadata／部分公開項目；不由此判定無影片。另用公開RSS核最新15項。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "c9821f78572153774a6b19ac7d3f64ac481b6433917937c8936594e631b7a8e4"
+    },
+    {
+      "id": "FR6-002",
+      "person": "Cassiy Johnson",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLO9E4VY1fjn_aIPByy9HSA",
+      "title": "cassiy-feed",
+      "source_type": "official_youtube_public_rss",
+      "read_status": "latest_15_metadata_and_descriptions_read",
+      "checked_at": "2026-10-07T17:19:47.971667Z",
+      "method_text_processed": false,
+      "processing_limits": "一次公開RSS最近15項，混合長片、直播、Shorts；不是全頻道／全平台盤點，也不是影片逐字稿。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "7565add045a488e2a42dc0dd1efbfee3b3e02a52429d534f2dbce8a155449049",
+      "observed_entry_count": 15,
+      "latest_observed_entry": {
+        "video_id": "jW-WMsIPJCA",
+        "title": "Your ChatGPT Etsy Designs Look Like AI: Here's How to Fix It",
+        "url": "https://www.youtube.com/watch?v=jW-WMsIPJCA",
+        "publication_date": "2026-09-22T14:00:33+00:00",
+        "updated_at": "2026-10-04T17:07:09+00:00"
+      },
+      "oldest_observed_publication_date": "2026-05-29T14:00:03+00:00"
+    },
+    {
+      "id": "FR6-003",
+      "person": "Cassiy Johnson",
+      "url": "https://www.youtube.com/watch?v=jW-WMsIPJCA",
+      "title": "Your ChatGPT Etsy Designs Look Like AI: Here's How to Fix It - YouTube",
+      "source_type": "official_youtube_video",
+      "read_status": "complete_returned_transcript_text_read",
+      "checked_at": "2026-10-07T17:21:44.154193Z",
+      "method_text_processed": true,
+      "processing_limits": "完整讀取工具回傳的逐字稿文字，含常見自動字幕錯字；沒有逐幀觀看、驗證畫面或收聽原音。",
+      "publication_date": "2026-09-22T14:00:33+00:00",
+      "http_status": 200,
+      "capture_sha256": "e617160822e831a0d3c1411d55a60cc6082b0008d55edf3dad2b5215f4be015d",
+      "date_evidence": "official_channel_public_rss",
+      "returned_transcript_characters": 19371,
+      "complete_audio_or_visual_review": false
+    },
+    {
+      "id": "FR6-004",
+      "person": "Cassiy Johnson",
+      "url": "https://www.cassiyjohnson.com/",
+      "title": "Home",
+      "source_type": "official_web_page",
+      "read_status": "public_homepage_read",
+      "checked_at": "2026-10-07T17:15:47.075607Z",
+      "method_text_processed": false,
+      "processing_limits": "公開首頁身份、定位和導覽已讀；自述收益、見證、課程宣傳不等於獨立績效或已讀課程。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "f6e13b62a1388571907e88cc7b86c1a3126727e5923a04d301a687c3a6f38af0"
+    },
+    {
+      "id": "FR6-005",
+      "person": "Dalia Abdalla / The Handmade Mastermind",
+      "url": "https://www.youtube.com/@thehandmademastermind",
+      "title": "Dalia Abdalla",
+      "source_type": "official_youtube_channel",
+      "read_status": "identity_metadata_and_partial_channel_body_read",
+      "checked_at": "2026-10-07T17:19:37.915498Z",
+      "method_text_processed": false,
+      "processing_limits": "頁內含malformed401文字，同時有身份metadata／部分公開項目；不由此判定無影片。另用公開RSS核最新15項。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "e241928d8ddae4079902a978e2b17958f99ab50f28b5d78704663db392972c0a"
+    },
+    {
+      "id": "FR6-006",
+      "person": "Dalia Abdalla / The Handmade Mastermind",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi4knCW3dzKuB5os6KFP4mQ",
+      "title": "dalia-feed",
+      "source_type": "official_youtube_public_rss",
+      "read_status": "latest_15_metadata_and_descriptions_read",
+      "checked_at": "2026-10-07T17:21:41.190133Z",
+      "method_text_processed": false,
+      "processing_limits": "一次公開RSS最近15項，混合長片、直播、Shorts；不是全頻道／全平台盤點，也不是影片逐字稿。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "1dd3bd8d5bc48c6e25cfdbb7b1422121b277f0af8f6ccaf10a981022b9d3c316",
+      "observed_entry_count": 15,
+      "latest_observed_entry": {
+        "video_id": "wM07RP2x88o",
+        "title": "my business CRISIS, explained + etsy is going downhill (PROOF)",
+        "url": "https://www.youtube.com/watch?v=wM07RP2x88o",
+        "publication_date": "2024-04-23T14:00:44+00:00",
+        "updated_at": "2026-09-29T11:24:31+00:00"
+      },
+      "oldest_observed_publication_date": "2023-11-24T15:00:26+00:00"
+    },
+    {
+      "id": "FR6-007",
+      "person": "Dalia Abdalla / The Handmade Mastermind",
+      "url": "https://www.youtube.com/watch?v=wM07RP2x88o",
+      "title": "my business CRISIS, explained + etsy is going downhill (PROOF) - YouTube",
+      "source_type": "official_youtube_video",
+      "read_status": "complete_returned_transcript_text_read",
+      "checked_at": "2026-10-07T17:23:51.020682Z",
+      "method_text_processed": true,
+      "processing_limits": "完整讀取工具回傳的逐字稿文字，含常見自動字幕錯字；沒有逐幀觀看、驗證畫面或收聽原音。",
+      "publication_date": "2024-04-23T14:00:44+00:00",
+      "http_status": 200,
+      "capture_sha256": "52e287ee1de7728fe3d2717a2b14b33a8e2d9b2e4875eb5c39932e05ed471cd0",
+      "date_evidence": "official_channel_public_rss",
+      "returned_transcript_characters": 32679,
+      "complete_audio_or_visual_review": false
+    },
+    {
+      "id": "FR6-008",
+      "person": "Dalia Abdalla / The Handmade Mastermind",
+      "url": "https://www.youtube.com/watch?v=5QQVwKfhz6w",
+      "title": "Do Product Research with Me - MY EXACT PROCESS - YouTube",
+      "source_type": "official_youtube_video",
+      "read_status": "complete_returned_transcript_text_read",
+      "checked_at": "2026-10-07T17:23:49.768658Z",
+      "method_text_processed": true,
+      "processing_limits": "完整讀取工具回傳的逐字稿文字，含常見自動字幕錯字；沒有逐幀觀看、驗證畫面或收聽原音。",
+      "publication_date": "2023-12-05T15:00:06+00:00",
+      "http_status": 200,
+      "capture_sha256": "638684aa2e63b6a4e8423a588b9d984add9a8e75d923729c828b01678641e370",
+      "date_evidence": "official_channel_public_rss",
+      "returned_transcript_characters": 24516,
+      "complete_audio_or_visual_review": false
+    },
+    {
+      "id": "FR6-009",
+      "person": "Dalia Abdalla / The Handmade Mastermind",
+      "url": null,
+      "title": "dalia-search",
+      "source_type": "web_search_results",
+      "read_status": "search_excerpts_only",
+      "checked_at": "2026-10-07T17:18:32.710411Z",
+      "method_text_processed": false,
+      "processing_limits": "搜尋線索，不作最新發布或完整方法證據。",
+      "publication_date": null,
+      "http_status": null,
+      "capture_sha256": "5c23116aacf435376aac50b0e864ba803685749cf676291b42df0b399f8b06bc",
+      "query": "\"Dalia Abdalla\" YouTube Etsy Mastermind 2026"
+    },
+    {
+      "id": "FR6-010",
+      "person": "Dalia Abdalla / The Handmade Mastermind",
+      "url": "https://www.thehandmademastermind.com/",
+      "title": "THE HANDMADE MASTERMIND »",
+      "source_type": "official_web_page",
+      "read_status": "public_homepage_read",
+      "checked_at": "2026-10-07T17:15:52.399697Z",
+      "method_text_processed": false,
+      "processing_limits": "公開首頁身份、定位和導覽已讀；自述收益、見證、課程宣傳不等於獨立績效或已讀課程。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "91a891d87779ef34ba6758e24fe0461ed64866a0baaf7e815bd7386740207d18"
+    },
+    {
+      "id": "FR6-011",
+      "person": "Emily Odio-Sutton / Ecomm Emily",
+      "url": "https://goldcityventures.com/she-sold-22000-etsy-candles-heres-how/",
+      "title": "She Sold 22,000+ Etsy Candles… Here’s How",
+      "source_type": "official_partner_podcast_page",
+      "read_status": "show_notes_chapters_read",
+      "checked_at": "2026-10-07T17:19:44.839614Z",
+      "method_text_processed": false,
+      "processing_limits": "2026-04-21官方合作方show notes、章節及身份連結已讀；嵌入17分鐘音訊／影片未處理。",
+      "publication_date": "2026-04-21",
+      "http_status": 200,
+      "capture_sha256": "443703fbb21ddf2a78103fd5707771bf144c2174bb2a09c56fd5c2da723b4d15",
+      "date_evidence": "page_last_updated_and_episode_metadata"
+    },
+    {
+      "id": "FR6-012",
+      "person": "Emily Odio-Sutton / Ecomm Emily",
+      "url": "https://www.youtube.com/@ecommemily",
+      "title": "Emily Odio-Sutton",
+      "source_type": "official_youtube_channel",
+      "read_status": "identity_metadata_and_partial_channel_body_read",
+      "checked_at": "2026-10-07T17:21:42.526161Z",
+      "method_text_processed": false,
+      "processing_limits": "頁內含malformed401文字，同時有身份metadata／部分公開項目；不由此判定無影片。另用公開RSS核最新15項。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "b8c179e3ad6adeaed43385bc05e1274e77ee2ce50e2d013c4e7acbe8a651dc3c"
+    },
+    {
+      "id": "FR6-013",
+      "person": "Emily Odio-Sutton / Ecomm Emily",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAAdHNShqOQagHJfhw884Bg",
+      "title": "emily-feed",
+      "source_type": "official_youtube_public_rss",
+      "read_status": "latest_15_metadata_and_descriptions_read",
+      "checked_at": "2026-10-07T17:22:23.002984Z",
+      "method_text_processed": false,
+      "processing_limits": "一次公開RSS最近15項，混合長片、直播、Shorts；不是全頻道／全平台盤點，也不是影片逐字稿。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "2ece3a329084eea8ed0d11e51525509b5bda9c0afcfb3a82184d39e6cf6f75a8",
+      "observed_entry_count": 15,
+      "latest_observed_entry": {
+        "video_id": "fxCihs3NUk0",
+        "title": "Etsy Q4 Print on Demand: 3 Untapped Products Before It’s Too Late",
+        "url": "https://www.youtube.com/watch?v=fxCihs3NUk0",
+        "publication_date": "2026-10-06T13:00:10+00:00",
+        "updated_at": "2026-10-06T19:35:42+00:00"
+      },
+      "oldest_observed_publication_date": "2026-09-02T16:31:26+00:00"
+    },
+    {
+      "id": "FR6-014",
+      "person": "Emily Odio-Sutton / Ecomm Emily",
+      "url": "https://www.youtube.com/watch?v=fxCihs3NUk0",
+      "title": "Etsy Q4 Print on Demand: 3 Untapped Products Before It’s Too Late - YouTube",
+      "source_type": "official_youtube_video",
+      "read_status": "complete_returned_transcript_text_read",
+      "checked_at": "2026-10-07T17:23:49.664656Z",
+      "method_text_processed": true,
+      "processing_limits": "完整讀取工具回傳的逐字稿文字，含常見自動字幕錯字；沒有逐幀觀看、驗證畫面或收聽原音。",
+      "publication_date": "2026-10-06T13:00:10+00:00",
+      "http_status": 200,
+      "capture_sha256": "e3105637d43ce3e65510159abc2f143dc8dbbbcb6b62febe9cbe4ac49abb142f",
+      "date_evidence": "official_channel_public_rss",
+      "returned_transcript_characters": 22539,
+      "complete_audio_or_visual_review": false,
+      "attribution": "Emily主持並講解candle文字／可讀性及產品聚焦；phone cases、calendar估算與結尾recipient/event/wow由嘉賓Angel提出。"
+    },
+    {
+      "id": "FR6-015",
+      "person": "Emily Odio-Sutton / Ecomm Emily",
+      "url": "https://www.youtube.com/watch?v=J_D3YcUCjB4",
+      "title": "Why Pinterest Is the Best Free Marketing for Your Etsy Shop I Print on Demand Tips - YouTube",
+      "source_type": "official_youtube_guest_interview",
+      "read_status": "partial_transcript_text_read",
+      "checked_at": "2026-10-07T17:23:39.320456Z",
+      "method_text_processed": false,
+      "processing_limits": "回傳完整逐字稿，但本輪只讀開頭約10,500字元；未處理其餘方法，不能稱完整已讀。主講嘉賓Annie Russell，不把她的教學算作Emily原創。",
+      "publication_date": "2026-09-29T13:00:06+00:00",
+      "http_status": 200,
+      "capture_sha256": "5fb7609b9eff9a373bda3cb376caf774991ae9bcc536385693621a54689aacf8",
+      "date_evidence": "official_channel_public_rss",
+      "returned_transcript_characters": 50680,
+      "complete_audio_or_visual_review": false
+    },
+    {
+      "id": "FR6-016",
+      "person": "Emily Odio-Sutton / Ecomm Emily",
+      "url": null,
+      "title": "emily-search",
+      "source_type": "web_search_results",
+      "read_status": "search_excerpts_only",
+      "checked_at": "2026-10-07T17:18:31.558391Z",
+      "method_text_processed": false,
+      "processing_limits": "搜尋線索，不作最新發布或完整方法證據。",
+      "publication_date": null,
+      "http_status": null,
+      "capture_sha256": "f1ab28ff955b861fb4151875cdb40b1d683f9c85e85ba28199bc16617123aa55",
+      "query": "\"Ecomm Emily\" YouTube 2026"
+    },
+    {
+      "id": "FR6-017",
+      "person": "Emily Odio-Sutton / Ecomm Emily",
+      "url": null,
+      "title": "emily-search2",
+      "source_type": "web_search_results",
+      "read_status": "search_excerpts_only",
+      "checked_at": "2026-10-07T17:18:30.394372Z",
+      "method_text_processed": false,
+      "processing_limits": "搜尋線索，不作最新發布或完整方法證據。",
+      "publication_date": null,
+      "http_status": null,
+      "capture_sha256": "8bc935a097929f067d88204ec68ec50c81e14ed88c03a30238c38f108779b62f",
+      "query": "site:goldcityventures.com Emily 2026 print on demand"
+    },
+    {
+      "id": "FR6-018",
+      "person": "Emily Odio-Sutton / Ecomm Emily",
+      "url": "https://ecommemily.podia.com/",
+      "title": "Coaching Membership",
+      "source_type": "official_web_page",
+      "read_status": "public_homepage_read",
+      "checked_at": "2026-10-07T17:15:51.099675Z",
+      "method_text_processed": false,
+      "processing_limits": "公開首頁身份、定位和導覽已讀；自述收益、見證、課程宣傳不等於獨立績效或已讀課程。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "b13fa4ee59ce8b9644aa0b27b18f54f14abd2eabc7fe29a65eeaefe91881d8ce"
+    },
+    {
+      "id": "FR6-019",
+      "person": "Lizzie Smiley / How to Sell Your Stuff",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2qJIroXGPooUo-29YrRY8A",
+      "title": "lizzie-feed",
+      "source_type": "official_youtube_public_rss",
+      "read_status": "latest_15_metadata_and_descriptions_read",
+      "checked_at": "2026-10-07T17:19:31.175385Z",
+      "method_text_processed": false,
+      "processing_limits": "一次公開RSS最近15項，混合長片、直播、Shorts；不是全頻道／全平台盤點，也不是影片逐字稿。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "e48b0a870b6065dffa737b275312bf798126e47c0a8da9b6861d59c5a30e318a",
+      "observed_entry_count": 15,
+      "latest_observed_entry": {
+        "video_id": "j8vva-7JEjI",
+        "title": "Ep 253 | She earned $14k on Etsy during the slow months selling PNGs -with Shannon Davis",
+        "url": "https://www.youtube.com/watch?v=j8vva-7JEjI",
+        "publication_date": "2026-10-01T09:00:28+00:00",
+        "updated_at": "2026-10-06T19:04:29+00:00"
+      },
+      "oldest_observed_publication_date": "2026-07-16T09:00:26+00:00"
+    },
+    {
+      "id": "FR6-020",
+      "person": "Lizzie Smiley / How to Sell Your Stuff",
+      "url": "https://www.howtosellyourstuff.com/podcast",
+      "title": "Podcast",
+      "source_type": "official_web_page",
+      "read_status": "public_index_read",
+      "checked_at": "2026-10-07T17:17:49.925689Z",
+      "method_text_processed": false,
+      "processing_limits": "公開導覽及列出的標題／日期已讀，不是全站盤點。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "0022ef9fb1638dc649af8b1958621f11e1ed66e922d6ba2babd1f13b4a371c8c"
+    },
+    {
+      "id": "FR6-021",
+      "person": "Lizzie Smiley / How to Sell Your Stuff",
+      "url": "https://www.howtosellyourstuff.com/blog/241",
+      "title": "Your Guide to Q4 Etsy Planning",
+      "source_type": "official_podcast_page",
+      "read_status": "show_notes_overview_read",
+      "checked_at": "2026-10-07T17:21:41.335670Z",
+      "method_text_processed": false,
+      "processing_limits": "2026-07-09官方節目概要已讀；61分鐘音訊／影片未處理。",
+      "publication_date": "2026-07-09",
+      "http_status": 200,
+      "capture_sha256": "31300c310fcec3fe159c82f9bbd4d74a50aa57a2497dcb1eab0d8098ad7e08f7",
+      "date_evidence": "official_page_date"
+    },
+    {
+      "id": "FR6-022",
+      "person": "Lizzie Smiley / How to Sell Your Stuff",
+      "url": "https://www.howtosellyourstuff.com/",
+      "title": "How to Sell on Etsy",
+      "source_type": "official_web_page",
+      "read_status": "public_homepage_read",
+      "checked_at": "2026-10-07T17:15:47.363611Z",
+      "method_text_processed": false,
+      "processing_limits": "公開首頁身份、定位和導覽已讀；自述收益、見證、課程宣傳不等於獨立績效或已讀課程。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "36a9f785caf201ac40a502d7837c5315e5e8c84295908c7c010c695eb8467628"
+    },
+    {
+      "id": "FR6-023",
+      "person": "Lizzie Smiley / How to Sell Your Stuff",
+      "url": "https://www.youtube.com/watch?v=fajjU5rl7Nc",
+      "title": "Ep 249 | The Hottest Etsy Trends Right Now - YouTube",
+      "source_type": "official_youtube_video",
+      "read_status": "complete_returned_transcript_text_read",
+      "checked_at": "2026-10-07T17:21:35.086016Z",
+      "method_text_processed": true,
+      "processing_limits": "完整讀取工具回傳的逐字稿文字，含常見自動字幕錯字；沒有逐幀觀看、驗證畫面或收聽原音。",
+      "publication_date": "2026-09-03T09:00:00+00:00",
+      "http_status": 200,
+      "capture_sha256": "adcdcb7ea8ff6f2ec5d3d6edce887d421d306e81048281bbc1ac38c5178ebaac",
+      "date_evidence": "official_channel_public_rss",
+      "returned_transcript_characters": 49361,
+      "complete_audio_or_visual_review": false
+    },
+    {
+      "id": "FR6-024",
+      "person": "Mandy Dobosenski",
+      "url": "https://www.studiomdesignsco.com/blog",
+      "title": "SimplyPOD with Mandy",
+      "source_type": "official_web_page",
+      "read_status": "public_index_read",
+      "checked_at": "2026-10-07T17:17:50.989707Z",
+      "method_text_processed": false,
+      "processing_limits": "公開導覽及列出的標題／日期已讀，不是全站盤點。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "01ec94a9f97ed088c49e9452f16cb3ddc8bb40b1ff8e95d01e4dfe0fc813c40d"
+    },
+    {
+      "id": "FR6-025",
+      "person": "Mandy Dobosenski",
+      "url": "https://www.youtube.com/watch?v=IeYmcLLhNUc",
+      "title": "Turn Customer Questions Into Etsy Bestsellers (My 2-Minute System) - YouTube",
+      "source_type": "official_youtube_video",
+      "read_status": "complete_returned_transcript_text_read",
+      "checked_at": "2026-10-07T17:19:44.803613Z",
+      "method_text_processed": true,
+      "processing_limits": "完整讀取工具回傳的逐字稿文字，含常見自動字幕錯字；沒有逐幀觀看、驗證畫面或收聽原音。",
+      "publication_date": "2026-09-18T14:00:06+00:00",
+      "http_status": 200,
+      "capture_sha256": "136438559d9c2631ed92fe0e1dea9e8c1b5daf2db23aa18037308782e266d12e",
+      "date_evidence": "official_channel_public_rss",
+      "returned_transcript_characters": 19323,
+      "complete_audio_or_visual_review": false
+    },
+    {
+      "id": "FR6-026",
+      "person": "Mandy Dobosenski",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh22ofFv6DheCUMo8J06zSw",
+      "title": "mandy-feed",
+      "source_type": "official_youtube_public_rss",
+      "read_status": "latest_15_metadata_and_descriptions_read",
+      "checked_at": "2026-10-07T17:17:49.777687Z",
+      "method_text_processed": false,
+      "processing_limits": "一次公開RSS最近15項，混合長片、直播、Shorts；不是全頻道／全平台盤點，也不是影片逐字稿。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "42c3ec09fc7ae13c8d51521598e3fe77eb433dc58106d9168e05e5a5a1aea692",
+      "observed_entry_count": 15,
+      "latest_observed_entry": {
+        "video_id": "7He778_Cysk",
+        "title": "Is this the fastest way to list on Etsy? #printondemand #etsyseller #shorts",
+        "url": "https://www.youtube.com/shorts/7He778_Cysk",
+        "publication_date": "2026-10-07T13:00:20+00:00",
+        "updated_at": "2026-10-07T13:00:26+00:00"
+      },
+      "oldest_observed_publication_date": "2026-09-08T18:00:22+00:00"
+    },
+    {
+      "id": "FR6-027",
+      "person": "Mandy Dobosenski",
+      "url": "https://www.studiomdesignsco.com/",
+      "title": "Studio M Designs Co Home",
+      "source_type": "official_web_page",
+      "read_status": "public_homepage_read",
+      "checked_at": "2026-10-07T17:15:49.859654Z",
+      "method_text_processed": false,
+      "processing_limits": "公開首頁身份、定位和導覽已讀；自述收益、見證、課程宣傳不等於獨立績效或已讀課程。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "f0ca3ed54b5225ef7b5a6a7ac99618869259eb3425961608bbe7d1e0444f9aed"
+    },
+    {
+      "id": "FR6-028",
+      "person": "Mei Pak / Creative Hive",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw6Dxk_YQdVE-Vy-OVJsRYQ",
+      "title": "mei-feed",
+      "source_type": "official_youtube_public_rss",
+      "read_status": "latest_15_metadata_and_descriptions_read",
+      "checked_at": "2026-10-07T17:17:43.165574Z",
+      "method_text_processed": false,
+      "processing_limits": "一次公開RSS最近15項，混合長片、直播、Shorts；不是全頻道／全平台盤點，也不是影片逐字稿。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "e70209c1234a2da96955c1e9858d1ca9f66ac800f6c5db24332ab90e6365f8d6",
+      "observed_entry_count": 15,
+      "latest_observed_entry": {
+        "video_id": "f_SIrSx_C7o",
+        "title": "I Made $560,039 Selling Art Online With These Platforms.(Here’s What I’d Use and Skip 👀)",
+        "url": "https://www.youtube.com/shorts/f_SIrSx_C7o",
+        "publication_date": "2026-10-06T01:00:06+00:00",
+        "updated_at": "2026-10-06T05:44:24+00:00"
+      },
+      "oldest_observed_publication_date": "2026-08-15T01:00:16+00:00"
+    },
+    {
+      "id": "FR6-029",
+      "person": "Mei Pak / Creative Hive",
+      "url": "https://www.youtube.com/watch?v=MtFT1MBVedI",
+      "title": "I built a business from scratch to prove you can too (It made me $11,414) - YouTube",
+      "source_type": "official_youtube_video",
+      "read_status": "complete_returned_transcript_text_read",
+      "checked_at": "2026-10-07T17:19:46.327639Z",
+      "method_text_processed": true,
+      "processing_limits": "完整讀取工具回傳的逐字稿文字，含常見自動字幕錯字；沒有逐幀觀看、驗證畫面或收聽原音。",
+      "publication_date": "2026-09-26T15:00:26+00:00",
+      "http_status": 200,
+      "capture_sha256": "0920e221c5c3e0b691124321eeb868e6e86dada12c1ec4654d7c1a71816be172",
+      "date_evidence": "official_channel_public_rss",
+      "returned_transcript_characters": 16797,
+      "complete_audio_or_visual_review": false
+    },
+    {
+      "id": "FR6-030",
+      "person": "Mei Pak / Creative Hive",
+      "url": "https://www.creativehiveco.com/",
+      "title": "Start & Grow Your Handmade Business Online | Creative Hive",
+      "source_type": "official_web_page",
+      "read_status": "public_homepage_read",
+      "checked_at": "2026-10-07T17:15:48.543632Z",
+      "method_text_processed": false,
+      "processing_limits": "公開首頁身份、定位和導覽已讀；自述收益、見證、課程宣傳不等於獨立績效或已讀課程。",
+      "publication_date": null,
+      "http_status": 200,
+      "capture_sha256": "c29ee66a77d77b2436205970cf83e556d6ed22f841940fb91ae07b79720cfc62"
+    }
+  ],
+  "packaging": "Only this public paraphrase ledger and summary are deliverables. Raw captures/transcripts are separate and excluded from packaging."
+}

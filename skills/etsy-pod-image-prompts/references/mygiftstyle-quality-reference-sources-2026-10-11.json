@@ -1,0 +1,252 @@
+{
+  "record_date": "2026-10-11",
+  "skill_revision": "2026.10.11.5",
+  "owner_source_message": "Sentinel_2826fa3dd2148191962695c66bb9a52d",
+  "authority": "Owner supplied these images as minimum visual output quality; product facts/art/name and role coverage remain independently sourced.",
+  "attachment_count": 24,
+  "unique_sha256_count": 15,
+  "inspection_scope": "All 15 unique JPEGs visually inspected by the independent reference reviewer; nine duplicate attachments verified by exact hash. No new generation evaluated by this source audit.",
+  "prior_png_references": "Distinct earlier source set retained in mygiftstyle-visual-qa.md.",
+  "files": [
+    {
+      "file": "01_approved_hero_2000.jpg",
+      "sha256": "ca59eb31d5f08ff29c14866fc4d10d253cacfa5ebb3c0320b7f72238364e8f9c",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 887347,
+      "library_file_id": "libfile_1379bd18531c8191bd44fa1dcba74e23"
+    },
+    {
+      "file": "03_name_only_guide_2000_v1.jpg",
+      "sha256": "0319c1616fe1ca02208e7838be4865ace3c1c8fa9fc0d6464d69dd2a7b0a9ecf",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1180916,
+      "library_file_id": null
+    },
+    {
+      "file": "04_prayer_moment_refreshed(1).jpg",
+      "sha256": "847c19124897dd6776f78b37577362ad241cbc869f7ba55689c66bbd2acdf04f",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1221892,
+      "library_file_id": "libfile_d9b2476330d08191bcc2932d40e08a85"
+    },
+    {
+      "file": "04_prayer_moment_refreshed.jpg",
+      "sha256": "847c19124897dd6776f78b37577362ad241cbc869f7ba55689c66bbd2acdf04f",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1221892,
+      "library_file_id": null
+    },
+    {
+      "file": "05_birthday_gift_source_preserved_MG_2000(1).jpg",
+      "sha256": "8bf2da9713b6751bb48478f6e342e623ed62c505b5624b09a83fdd45be0f45dd",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1151237,
+      "library_file_id": "libfile_af8014841bac8191a0e6c4c7e9c2712b"
+    },
+    {
+      "file": "05_birthday_gift_source_preserved_MG_2000.jpg",
+      "sha256": "8bf2da9713b6751bb48478f6e342e623ed62c505b5624b09a83fdd45be0f45dd",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1151237,
+      "library_file_id": null
+    },
+    {
+      "file": "06_graduation_chapter_source_preserved_MG_2000_v4(1).jpg",
+      "sha256": "877753ebd5714b8542c8d6a87d44f8dfb4c2670b45ccca0ac6b473f8a5f6cc87",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1384186,
+      "library_file_id": "libfile_8d5e6caa47b08191ad0f804f0f4a1f34"
+    },
+    {
+      "file": "06_graduation_chapter_source_preserved_MG_2000_v4.jpg",
+      "sha256": "877753ebd5714b8542c8d6a87d44f8dfb4c2670b45ccca0ac6b473f8a5f6cc87",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1384186,
+      "library_file_id": null
+    },
+    {
+      "file": "07_christmas_gift_source_preserved_MG_2000_v2(1).jpg",
+      "sha256": "635a8d15318d5213e01f106d0a9a09a4a9654fc8f34fac9e35f8da0ce7988925",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1171921,
+      "library_file_id": "libfile_6e8a43b1e2108191b64a28991c9befa6"
+    },
+    {
+      "file": "07_christmas_gift_source_preserved_MG_2000_v2.jpg",
+      "sha256": "635a8d15318d5213e01f106d0a9a09a4a9654fc8f34fac9e35f8da0ce7988925",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1171921,
+      "library_file_id": null
+    },
+    {
+      "file": "08_daily_thoughts_source_preserved_MG_2000(1).jpg",
+      "sha256": "2c1fd9dd2db4ebe0c39204fa29b36b83b6c28bd7fa4425eb7c49291e45a472d8",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1028726,
+      "library_file_id": "libfile_2de241dfd28481919b8ce62144d1e461"
+    },
+    {
+      "file": "08_daily_thoughts_source_preserved_MG_2000.jpg",
+      "sha256": "2c1fd9dd2db4ebe0c39204fa29b36b83b6c28bd7fa4425eb7c49291e45a472d8",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1028726,
+      "library_file_id": null
+    },
+    {
+      "file": "09_vegan_leather_source_preserved_MG_2000(1).jpg",
+      "sha256": "22776744c0bd15a6015e36ee71ce6a930164984727cdc1902f44f65f3d55ef6b",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1173124,
+      "library_file_id": "libfile_9e7c8683fb6c8191a375bf9d356ee28d"
+    },
+    {
+      "file": "09_vegan_leather_source_preserved_MG_2000(2).jpg",
+      "sha256": "22776744c0bd15a6015e36ee71ce6a930164984727cdc1902f44f65f3d55ef6b",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1173124,
+      "library_file_id": "libfile_48e6e807d9c48191a1605c570b170619"
+    },
+    {
+      "file": "09_vegan_leather_source_preserved_MG_2000.jpg",
+      "sha256": "22776744c0bd15a6015e36ee71ce6a930164984727cdc1902f44f65f3d55ef6b",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1173124,
+      "library_file_id": null
+    },
+    {
+      "file": "10_lined_pages_source_preserved_MG_2000_v2(1).jpg",
+      "sha256": "65ba9a46ae4a21e7a0a5c89ee18c8a0795b170a118a0997b8035dba95547fef4",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1038863,
+      "library_file_id": "libfile_af1ba843d3e481918f8283a6b2bed041"
+    },
+    {
+      "file": "10_lined_pages_source_preserved_MG_2000_v2(2).jpg",
+      "sha256": "65ba9a46ae4a21e7a0a5c89ee18c8a0795b170a118a0997b8035dba95547fef4",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1038863,
+      "library_file_id": "libfile_fa934d7c5f3081918b6ce1ef0e4ab4c3"
+    },
+    {
+      "file": "10_lined_pages_source_preserved_MG_2000_v2.jpg",
+      "sha256": "65ba9a46ae4a21e7a0a5c89ee18c8a0795b170a118a0997b8035dba95547fef4",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1038863,
+      "library_file_id": null
+    },
+    {
+      "file": "11_faith_artwork_source_preserved_MG_2000.jpg",
+      "sha256": "2e5db24fbaa3f078adb24b7d7b04536891d551b84101d3fd1a69c8f3d86975c9",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1114872,
+      "library_file_id": "libfile_cbd0b8ee6150819185c71619ec9f1376"
+    },
+    {
+      "file": "12_elastic_closure_source_preserved_MG_2000.jpg",
+      "sha256": "086bbd732d9b923dc5674eb0eafd1df2b817a9b4308747775f0ccfc5c7693b2a",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1092014,
+      "library_file_id": "libfile_f5d0b4acdb3c8191a387d3b297742603"
+    },
+    {
+      "file": "13_ribbon_marker_source_preserved_MG_2000.jpg",
+      "sha256": "2df2c43dec28a52cbd582c52d85dd44e8b831be2f96a41f3b8bb70518c9afa68",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1101487,
+      "library_file_id": "libfile_0837e58f0b40819188378b2673b98ce8"
+    },
+    {
+      "file": "14_name_fixed_design_source_preserved_MG_2000_v3.jpg",
+      "sha256": "31bc29a36d997feb2e0dc4dceb1b7c12ff01150ca0de717ab4a2948703c476d0",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1275942,
+      "library_file_id": "libfile_1aa4f8c62a3c8191a0f948780c689169"
+    },
+    {
+      "file": "15_travel_companion_source_preserved_MG_2000.jpg",
+      "sha256": "f80ff54e3181d784773ad090caf7fab78be1347c439baab4314cb7c30f37bede",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 1044835,
+      "library_file_id": "libfile_835f55ecd3c881919553f40d70edb1c5"
+    },
+    {
+      "file": "16_evening_reflection_source_preserved_MG_2000.jpg",
+      "sha256": "bad5128b0a0f2c214d560480488ea60b37ad634111401fa3a7fbf7403f85cca0",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 887461,
+      "library_file_id": "libfile_0bddfd47de2c819180a3f5846cdecf41"
+    }
+  ]
+}

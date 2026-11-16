@@ -1,0 +1,392 @@
+{
+  "scope": "17張課名截圖／12個人物；課程未因此全部已讀。以下5個身份／補充來源不計本次30正式商務數。",
+  "inventory": {
+    "checked_date": "2026-10-07",
+    "screenshot_library_ids": [
+      "libfile_c04346aa50688191ba5eee8f0c726b8e",
+      "libfile_535b0e0c67ac819194c60677e0417330"
+    ],
+    "card_count": 17,
+    "unique_people_count": 12,
+    "existing_roster_people_count": 7,
+    "other_named_people_count": 5,
+    "identity_confidence": "High for all screenshot labels; external identity remains separately evidenced. No channel handles or course URLs appear in these screenshots.",
+    "course_coverage_note": "All 17 screenshot-specific courses remain title-only in this review unless a separate public-source card explicitly proves content access. Reading another talk by the same person does not complete these courses.",
+    "people_not_automatically_new_candidates": [
+      "Cyndy Schatz",
+      "John Burgess",
+      "Daniel Reyes",
+      "Andy Vo",
+      "Caleb Sherling"
+    ],
+    "prior_identity_note": "Legacy directory already mentions Cyndy, John, Daniel, Caleb and Yvo/Design Workflow; do not equate Yvo with Andy Vo without evidence or double-count prior candidates.",
+    "cards": [
+      {
+        "person": "Anna Beck",
+        "title_visible": "Mastering Your Workflow with Anna Beck",
+        "image": 1,
+        "position_reading_order": 1,
+        "roster_status": "existing_business_perspective",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Cyndy Schatz",
+        "title_visible": "Winning with Canvas by Cyndy Schatz",
+        "image": 1,
+        "position_reading_order": 2,
+        "roster_status": "case_or_identity_gap_prior_to_this_review",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "John Burgess",
+        "title_visible": "Apparel Design Workshop with John Burgess",
+        "image": 1,
+        "position_reading_order": 3,
+        "roster_status": "case_or_identity_gap_prior_to_this_review",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Joe Robert",
+        "title_visible": "Niche Down, Level Up with Joe Robert",
+        "image": 1,
+        "position_reading_order": 4,
+        "roster_status": "existing_business_perspective",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Cyndy Schatz",
+        "title_visible": "Winning with Acrylics by Cyndy Schatz",
+        "image": 1,
+        "position_reading_order": 5,
+        "roster_status": "case_or_identity_gap_prior_to_this_review",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Chris Blair",
+        "title_visible": "6 Product Angles That Actually Work with Chris Blair",
+        "image": 1,
+        "position_reading_order": 6,
+        "roster_status": "existing_business_perspective",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Luna Vega",
+        "title_visible": "Mastering Etsy: Attract Customers & Boost Your Sales with Luna Vega",
+        "image": 1,
+        "position_reading_order": 7,
+        "roster_status": "existing_business_perspective",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Ronnie McKenzie",
+        "title_visible": "Idea To Income: Finding Your Next Bestseller with Ronnie McKenzie",
+        "image": 1,
+        "position_reading_order": 8,
+        "roster_status": "existing_business_perspective",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Chris Blair",
+        "title_visible": "$5 Filter Method with Chris Blair",
+        "image": 1,
+        "position_reading_order": 9,
+        "roster_status": "existing_business_perspective",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Chris Blair",
+        "title_visible": "Evergreen Apparel & Accessories with Chris Blair",
+        "image": 2,
+        "position_reading_order": 1,
+        "roster_status": "existing_business_perspective",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Daniel Reyes",
+        "title_visible": "Create Your First Amazon Listing with Daniel Reyes",
+        "image": 2,
+        "position_reading_order": 2,
+        "roster_status": "case_or_identity_gap_prior_to_this_review",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Mario Menduni",
+        "title_visible": "Phase 1 and Phase 2 Testing with Mario Menduni",
+        "image": 2,
+        "position_reading_order": 3,
+        "roster_status": "existing_business_perspective",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Mario Menduni",
+        "title_visible": "Testing Methodology with Mario Menduni",
+        "image": 2,
+        "position_reading_order": 4,
+        "roster_status": "existing_business_perspective",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Andy Vo",
+        "title_visible": "Integrate AI into Your Daily Design Workflow with Andy Vo",
+        "image": 2,
+        "position_reading_order": 5,
+        "roster_status": "case_or_identity_gap_prior_to_this_review",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Caleb Sherling",
+        "title_visible": "How to Launch Ads Using the M25 Test with Caleb Sherling",
+        "image": 2,
+        "position_reading_order": 6,
+        "roster_status": "case_or_identity_gap_prior_to_this_review",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Cyndy Schatz",
+        "title_visible": "TeeinBlue Customization with Cyndy Schatz",
+        "image": 2,
+        "position_reading_order": 7,
+        "roster_status": "case_or_identity_gap_prior_to_this_review",
+        "exact_course_content_read": false,
+        "published_date": null
+      },
+      {
+        "person": "Gina Menduni",
+        "title_visible": "Copywriting with Gina Menduni",
+        "image": 2,
+        "position_reading_order": 8,
+        "roster_status": "existing_business_perspective",
+        "exact_course_content_read": false,
+        "published_date": null
+      }
+    ]
+  },
+  "andy_limited": {
+    "source_id_proposed": "BATCH-ANDY-V01",
+    "person": "Andy Vo",
+    "url": "https://www.youtube.com/watch?v=y_DSjfKiefM",
+    "title": "Print On Demand Design Strategies That Actually Work! (POD for Beginners)",
+    "publisher": "ShineOn Print-On-Demand",
+    "channel_url": "https://www.youtube.com/@ShineOnPOD",
+    "recorded_live_start": "2025-02-07T15:55:43Z",
+    "recorded_live_end": "2025-02-07T16:54:07Z",
+    "upload_date_metadata": "2025-02-07T20:59:00-08:00",
+    "upload_date_utc": "2025-02-08T04:59:00Z",
+    "duration": "58:30",
+    "checked_date": "2026-10-07",
+    "source_level": "full_extracted_transcript_reviewed; opening and final goodbye present; no per-segment timecodes; no audio/video watched",
+    "transcript_word_count": 7033,
+    "extracted_transcript_sha256": "5866a5435b4513959444747eb2dbdd9b4ad9834c65ed0fb06c11d83f28e83164",
+    "exact_screenshot_course": false,
+    "identity_verification": "Official publisher description names Andy Vo and session discusses POD University teaching; screenshot also explicitly labels Andy Vo. Does not establish that legacy Yvo identity is the same person.",
+    "limited_method": [
+      "Keep recipient and sender roles clear in a gift message.",
+      "Prioritize legible type and a small number of emphasized message points.",
+      "Review the actual product mockup so text is not hidden or cropped; use decorative elements intentionally."
+    ],
+    "application_inference": "Use as a visual-QA example for approved journal cover and listing images. Preserve the existing art/product lock and actual 200-lined-page specification. It is not permission to simplify or change approved artwork.",
+    "restrictions": [
+      "Original lesson concerns jewelry message cards and Facebook creatives, not Etsy journals.",
+      "Does not validate the screenshot AI-workflow course or current AI tools.",
+      "Reject universal hands-in-image/tilted-image conversion claims and graphic-versus-text percentages without measured evidence.",
+      "Never fabricate I-cried or family-reaction testimonial hooks.",
+      "Do not adopt always-50-percent discounts or generalize free-versus-paid-shipping claims.",
+      "No ad campaigns, Google branded search, supplier plan upgrade or seasonal shipping deadline is authorized; all historical dates are stale."
+    ],
+    "incremental_value": "Repairs a public source/identity gap and supplies a concrete visual QA example. Consider a limited source card inside existing methods rather than automatically adding a whole new business coach."
+  },
+  "other_cards": {
+    "checked_date": "2026-10-07",
+    "sources": [
+      {
+        "source_id_proposed": "BATCH-JOHN-A01",
+        "person": "John Burgess",
+        "url": "https://shop.shineon.com/de/blogs/news/4-product-ideas-to-maximize-the-artwork-swapper",
+        "title": "4 Product Ideas to Maximize the Artwork Swapper!",
+        "published_date": "2020-05-11",
+        "reading_level": "full short official article read; embedded video not opened",
+        "identity_support": "Official ShineOn domain article byline matches name; product-customization teaching role corroborated, not full current employment verification",
+        "content_scope": "Historical Shopify Artwork Swapper examples for names, dates, years, messages and photos.",
+        "decision": "Identity and historical customization example only; screenshot Apparel Design Workshop unreviewed; no new journal method beyond existing customization principles. Current SKU support and tool capability cannot be inferred."
+      },
+      {
+        "source_id_proposed": "BATCH-CALEB-D01",
+        "person": "Caleb Sherling",
+        "url": "https://www.youtube.com/watch?v=H9Wm3zBQzEU",
+        "title": "How Matt Bahe Sold Over $6,000,000 on His Print on Demand Store 2024, ShineOn's Coffee with Michale",
+        "publisher": "Gina Menduni",
+        "published_at": "2024-06-11T08:25:36-07:00",
+        "reading_level": "metadata and full creator description read only; transcript not reviewed",
+        "identity_support": "Creator description names Caleb Sherling in EPM team alongside Mario and Gina; no independently verified personal channel.",
+        "decision": "M25 course content remains unseen. Paid-ad topic conflicts with current zero-ad scope, so no method added and no broader research justified now."
+      },
+      {
+        "source_id_proposed": "BATCH-DANIEL-MISSING",
+        "person": "Daniel Reyes",
+        "reading_level": "screenshot title plus bounded public search only",
+        "identity_support": "No unambiguous public source found for the exact named Amazon course in this pass; unrelated names excluded.",
+        "decision": "No coach card. Amazon publishing is outside current Etsy journal plan; source or exact public lesson needed before future use."
+      }
+    ]
+  },
+  "cyndy": {
+    "subject": "Cyndy Schatz / ecomCyndy",
+    "checked_date": "2026-10-07",
+    "language": "zh-Hant",
+    "verdict": "有公開導師／顧問身份，但現有證據只支持有限補充案例。公開銷售課綱中的模板化、訊息模組化與既有 Anna／Shine 內容重疊，未證明新的獨特方法，也未證明適合本店零廣告的 Etsy journal 成長方式。",
+    "identity": {
+      "verified_public_identity": "Cyndy Schatz 使用 ecomCyndy 名稱，YouTube 自介為 Ecommerce Mentor & Consultant；ecomcyndy.com 現導向署名 Cyndy Schatz 的 AgencyUP 官方網站，提供課程與 mentorship。",
+      "qualification_limit": "ShineOn Verified Coach 是她自己網站的標示；本次未取得 ShineOn 官方獨立確認。公開做導師不等於教學品質、資歷、業績或零廣告適用性已核證。"
+    },
+    "incremental_value": {
+      "assessment": "模板／模組化已與 Anna／Shine 重疊，未證新獨特方法。",
+      "recommendation": "保留為帶日期、帶來源層級的有限補充案例；不新增核心方法、不提高權重、不據此推薦買課、Meta 廣告、Shopify 或個人化工具。",
+      "possible_minor_addition": "可補充一個完整訪談顯示的邊界：她的 2024 成功見證涉及 Shopify、Meta 廣告與代操學習；銷售額宣傳不能當作淨利或 Etsy 自然流量成果。",
+      "shop_fit": "本店為 ShineOn 印製 leatherette journal、200 頁橫線、約 USD49.95、美國基督徒家庭送禮、零廣告、每週全部營運僅 3–5 小時。跨產品大量製作與廣告放大不符合目前優先次序。",
+      "inference_boundary": "任何將公開課綱改編成 journal 小批測試的建議，均是研究者的適配推論，不能歸為已讀到的 Cyndy 完整教法。"
+    },
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=j_K7Xvspy0w",
+        "title": "Print on Demand Success Story - How EPM Member, Cyndy Schatz generated $782K+ in the last 12 months",
+        "publisher": "Gina Menduni",
+        "metadata_date": "2024-06-11T07:31:58-07:00",
+        "date_type": "uploadDate / datePublished",
+        "checked_date": "2026-10-07",
+        "read_level": "Firecrawl 取得完整公開自動逐字稿與影片說明；未直接觀看影片。",
+        "verified_summary": "訪談談及從廣告代理業轉做電商、曾做 Etsy／Amazon、Shopify 廣告測試與放大、使用代操並旁觀學習、即時問答與更新資料的重要性。",
+        "limits": [
+          "自動字幕有人名辨識錯誤。",
+          "主辦方招生見證，附 discovery call 引導。",
+          "$782K+ 為宣傳銷售額；未有成本、淨利、後台或獨立核證。",
+          "說明文字回顧 2024 年 4 月，不應混同上傳日期。",
+          "不是 Etsy 零廣告方法教程。"
+        ]
+      },
+      {
+        "url": "https://www.youtube.com/@ecomCyndy",
+        "title": "ecomCyndy (Cyndy Schatz)",
+        "publisher": "ecomCyndy",
+        "metadata_date": null,
+        "checked_date": "2026-10-07",
+        "read_level": "取得頻道名稱與 metadata 完整自介；頁面正文同時含 401／播放器錯誤，未取得影片課程。",
+        "verified_summary": "自稱 Ecommerce Mentor & Consultant，介紹 Building Ecommerce: FROM NOTHING 課程與 mentorship。",
+        "limits": [
+          "屬本人自述與招生文案；不能核證收入、資格或教學有效性。"
+        ]
+      },
+      {
+        "url": "https://www.ecomcyndy.com/",
+        "resolved_url": "https://agencyup.us/",
+        "title": "AgencyUP with Cyndy Schatz",
+        "publisher": "Cyndy Schatz | AgencyUP, Inc.",
+        "metadata_date": null,
+        "checked_date": "2026-10-07",
+        "read_level": "完整公開首頁主文與連結；嵌入商店元件有阻擋訊息。",
+        "verified_summary": "首頁署名 Cyndy Schatz，提供電商、企業、代理業及行銷訓練／顧問服務。",
+        "limits": [
+          "代理業年資與專業成就為本人宣稱，未獨立核證。"
+        ]
+      },
+      {
+        "url": "https://www.ecomcyndy.com/shineon",
+        "resolved_url": "https://agencyup.us/pages/shineon",
+        "title": "ShineOn",
+        "publisher": "Cyndy Schatz | AgencyUP, Inc.",
+        "metadata_date": null,
+        "checked_date": "2026-10-07",
+        "read_level": "完整公開課程／導師銷售主文；未提交表單、未解 CAPTCHA。",
+        "verified_summary": "本人頁面標示 Verified ShineOn Coach，並稱自己為 mentor；課程涵蓋品牌、Shopify、產品、定價、行銷、營運和自動化。",
+        "limits": [
+          "Verified ShineOn Coach 尚未由 ShineOn 官方獨立核實。",
+          "學生見證與課程成效陳述屬銷售頁內容。",
+          "不能當成已讀完整方法或付費課程。"
+        ]
+      },
+      {
+        "url": "https://agencyup.us/products/shineon-pod-product-bootcamp",
+        "title": "ShineOn POD Product Bootcamp",
+        "publisher": "Cyndy Schatz | AgencyUP, Inc.",
+        "metadata_date": null,
+        "checked_date": "2026-10-07",
+        "read_level": "commercial-outline-only：完整公開產品銷售頁；未取得付費錄影、模板、句庫或 prompts。",
+        "verified_summary": "課綱列出 Canva 模板、hook／body／closing 句庫、ChatGPT 情感文案 prompts，以及版型／字型變化示範。產品包含首飾訊息卡、壓克力、canvas、毛毯、杯；未列 journal。",
+        "limits": [
+          "4 小時 100+／完成 150+ designs 是製作數量的銷售宣稱，並非銷售或利潤結果。",
+          "銷售頁含私人 mentorship／其他課程折抵誘因。",
+          "模板化與文案模組化與既有 Anna／Shine 方法重疊，未有可核證的新獨特增量。"
+        ]
+      },
+      {
+        "url": "https://agencyup.us/pages/building-ecommerce-from-nothing-with-cyndy-schatz",
+        "title": "Building Ecommerce from Nothing with Cyndy Schatz",
+        "publisher": "Cyndy Schatz | AgencyUP, Inc.",
+        "metadata_date": null,
+        "checked_date": "2026-10-07",
+        "read_level": "commercial-outline-only：完整公開課程介紹，未讀付費課堂內容。",
+        "verified_summary": "公開課綱涵蓋品牌、產品、Shopify、免費與付費行銷、營運與退出策略；主張單靠付費廣告不足以建立穩健生意。",
+        "limits": [
+          "課綱有免費行銷不代表已證明 Etsy 無廣告成果。",
+          "七位數店主、幫助百家企業等說法為本人宣稱，未獨立核證。",
+          "並未取得具體 organic 方法供本店驗證。"
+        ]
+      },
+      {
+        "url": "https://community.poduniversity.com/c/winning-with-canvas",
+        "title": "Winning with Canvas | POD University",
+        "publisher": "POD University",
+        "metadata_date": null,
+        "checked_date": "2026-10-07",
+        "read_level": "搜尋結果標題與摘要而已；精確課程頁讀取被取消。",
+        "fetch_status": "user cancelled MCP tool call",
+        "retry_status": "未重試，未改道讀取，沒有課程正文。",
+        "verified_summary": "公開搜尋結果確認有此標題與 URL。",
+        "limits": [
+          "不得由卡片、標題或公開索引推稱已讀課程、已知其方法或效果。"
+        ]
+      }
+    ],
+    "screenshot_only_titles": [
+      {
+        "title": "Winning with Acrylics by Cyndy Schatz",
+        "source": "使用者提供的 PODU 課程卡片截圖",
+        "url": null,
+        "metadata_date": null,
+        "read_level": "課程卡片名稱；沒有正文或課程錄影。"
+      },
+      {
+        "title": "TeeinBlue Customization with Cyndy Schatz",
+        "source": "使用者提供的 PODU 課程卡片截圖",
+        "url": null,
+        "metadata_date": null,
+        "read_level": "課程卡片名稱；沒有正文或課程錄影。"
+      }
+    ],
+    "actions_not_taken": [
+      "未購買",
+      "未註冊",
+      "未提交表單",
+      "未建立憑證",
+      "未安裝工具",
+      "未使用本機瀏覽器",
+      "未重跑取消的 Canvas 頁讀取"
+    ],
+    "copyright_handling": "本 ledger 僅有摘要與來源，不含完整逐字稿、課程文案或付費教材。"
+  },
+  "formal_business_additions": 0
+}

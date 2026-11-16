@@ -1,0 +1,1087 @@
+{
+  "release": "2026.10.07.8",
+  "checked_at_end": "2026-10-07T17:41:47.857369+00:00",
+  "scope": "本輪開始時21個商務視角＋Hannah新片＋3個有限信仰來源及2項補充。另8個NC6入選是方法資格審核，未宣稱完成其2026全頻道刷新。",
+  "counts": {
+    "baseline_business_people_checked": 21,
+    "hannah_new_admission_checked": 1,
+    "limited_and_supplementary_faith_people_checked": 5,
+    "person_rows": 27,
+    "official_youtube_recent_feeds": 22,
+    "rss_items_observed": 330,
+    "complete_extracted_transcripts_read_this_audit": 28,
+    "partial_or_near_full_extracted_transcripts": 6,
+    "audio_or_video_watched": 0,
+    "complete_channel_inventories": 0,
+    "new_formal_business_perspectives": 9,
+    "formal_business_perspectives": 30
+  },
+  "rules": [
+    "28是選定來源的完整抽取文字，不是觀看28支影片，也不含歷史21份重複相加。",
+    "6份部分／近完整之中，Hannah原回傳曾讀但全文未持存；其餘範圍逐項記錄。",
+    "取得全部人的入口核對，不等於讀遍每人的全部新內容；未讀／取消／身份歸屬缺口保留。",
+    "新增NC6人物來源以完整文章及明確訪談選段為主，沒有新增全影音核讀。",
+    "資料中的全店／商品、估計／實際、發布／修改／事件／觀察日期不互換。"
+  ],
+  "people": [
+    {
+      "person": "Christina Umerez",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "SVdk4RyGuaQ",
+        "url": "https://www.youtube.com/watch?v=SVdk4RyGuaQ",
+        "title": "TOP 2026 Trending Ornament Niches To Add Now (Research Tutorial)",
+        "published": "2026-10-06T16:00:20+00:00",
+        "updated": "2026-10-07T13:55:46+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "CHU-V002",
+        "video_id": "SVdk4RyGuaQ",
+        "url": "https://www.youtube.com/watch?v=SVdk4RyGuaQ",
+        "date_published": "2026-10-06T09:00:20-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "last_processed_after": {
+        "video_id": "SVdk4RyGuaQ",
+        "url": "https://www.youtube.com/watch?v=SVdk4RyGuaQ",
+        "published": "2026-10-06T09:00:20-07:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07",
+        "source_id": "CHU-V002"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-eight-2026-10-07.json"
+    },
+    {
+      "person": "Courtney Nichole",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "CdEMIJhaK9A",
+        "url": "https://www.youtube.com/watch?v=CdEMIJhaK9A",
+        "title": "Your Etsy Buyers Never Have to Open Canva Again - AnywhereDigital Full Walkthrough",
+        "published": "2026-10-07T14:00:34+00:00",
+        "updated": "2026-10-07T14:20:18+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "COU-V003",
+        "video_id": "ZZEGIxdSwjI",
+        "url": "https://www.youtube.com/watch?v=ZZEGIxdSwjI",
+        "date_published": "2026-10-05T07:06:41-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "last_processed_after": {
+        "video_id": "CdEMIJhaK9A",
+        "url": "https://www.youtube.com/watch?v=CdEMIJhaK9A",
+        "published": "2026-10-07T14:00:34+00:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "source_id": "F8-COU-01"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-eight-2026-10-07.json"
+    },
+    {
+      "person": "Dylan Jahraus",
+      "checked_at": "2026-10-07T17:12:50.711Z",
+      "latest_observed": {
+        "video_id": "88Qaqn1DcwQ",
+        "url": "https://www.youtube.com/shorts/88Qaqn1DcwQ",
+        "title": "40 Orders to 50K in 6 Weeks",
+        "published": "2026-10-07T13:00:02+00:00",
+        "updated": "2026-10-07T13:00:03+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "DYL-V002",
+        "video_id": "BEMCOSvnTN8",
+        "url": "https://www.youtube.com/watch?v=BEMCOSvnTN8",
+        "date_published": "2026-10-01T06:00:08-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "last_processed_after": {
+        "video_id": "6ypnzgyyf3o",
+        "url": "https://www.youtube.com/shorts/6ypnzgyyf3o",
+        "published": "2026-10-06T21:00:37+00:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "source_id": "F8-DYL-01"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles.",
+        "vjKV9ol6BBA prior watch fetch was cancelled; no retry, no teaching adopted."
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-eight-2026-10-07.json"
+    },
+    {
+      "person": "Jesse Teaches",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "sFFADWlPaDQ",
+        "url": "https://www.youtube.com/watch?v=sFFADWlPaDQ",
+        "title": "We Just Cracked the Etsy Ornament Market",
+        "published": "2026-09-21T21:18:02+00:00",
+        "updated": "2026-09-26T19:16:43+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "JES-V002",
+        "video_id": "EO0_ZciFy28",
+        "url": "https://www.youtube.com/watch?v=EO0_ZciFy28",
+        "date_published": "2026-08-13T07:00:39-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "last_processed_after": {
+        "video_id": "sFFADWlPaDQ",
+        "url": "https://www.youtube.com/watch?v=sFFADWlPaDQ",
+        "published": "2026-09-21T21:18:02+00:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "source_id": "F8-JES-01"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-eight-2026-10-07.json"
+    },
+    {
+      "person": "Joe Robert",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "gadBItpHP3o",
+        "url": "https://www.youtube.com/shorts/gadBItpHP3o",
+        "title": "Watch This Before You Use Gelato (Print On Demand For Beginners)",
+        "published": "2026-10-01T19:15:35+00:00",
+        "updated": "2026-10-04T23:32:34+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "JOE-V003",
+        "video_id": "XmwpXNDDH78",
+        "url": "https://www.youtube.com/watch?v=XmwpXNDDH78",
+        "date_published": "2026-09-30T04:12:35-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "last_processed_after": {
+        "video_id": "gadBItpHP3o",
+        "url": "https://www.youtube.com/shorts/gadBItpHP3o",
+        "published": "2026-10-01T19:15:35+00:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "source_id": "F8-JOE-01"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-eight-2026-10-07.json"
+    },
+    {
+      "person": "Meg Heckman",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "XX1Zbbnmim4",
+        "url": "https://www.youtube.com/shorts/XX1Zbbnmim4",
+        "title": "The Sale Happens in the Half Second the Buyer Gets the Joke",
+        "published": "2026-10-07T15:30:16+00:00",
+        "updated": "2026-10-07T15:30:18+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "MEG-V003",
+        "video_id": "6qWlxOwC4tI",
+        "url": "https://www.youtube.com/watch?v=6qWlxOwC4tI",
+        "date_published": "2026-10-06T09:00:31-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "last_processed_after": {
+        "video_id": "XX1Zbbnmim4",
+        "url": "https://www.youtube.com/shorts/XX1Zbbnmim4",
+        "published": "2026-10-07T15:30:16+00:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "source_id": "F8-MEG-01"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-eight-2026-10-07.json"
+    },
+    {
+      "person": "RJ Martinez",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "jqaT01aCAGc",
+        "url": "https://www.youtube.com/shorts/jqaT01aCAGc",
+        "title": "\"Grandma's a Small. Uncle Mike's a 4XL.\" (25-Shirt Etsy Orders)",
+        "published": "2026-10-07T16:41:34+00:00",
+        "updated": "2026-10-07T16:42:48+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "RJ-01",
+        "video_id": "xZnKixhiv04",
+        "url": "https://www.youtube.com/watch?v=xZnKixhiv04",
+        "date_published": "2026-10-06T05:15:12-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "last_processed_after": {
+        "video_id": "jze90AO_EiM",
+        "url": "https://www.youtube.com/watch?v=jze90AO_EiM",
+        "published": "2026-10-07T13:15:11+00:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "source_id": "F8-RJ-01"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-eight-2026-10-07.json"
+    },
+    {
+      "person": "Starla Moore",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "wqF9ky8p_XQ",
+        "url": "https://www.youtube.com/watch?v=wqF9ky8p_XQ",
+        "title": "5 Etsy Growth Tips that NO ONE talks about",
+        "published": "2026-10-06T16:15:22+00:00",
+        "updated": "2026-10-06T21:28:45+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "STA-V002",
+        "video_id": "wqF9ky8p_XQ",
+        "url": "https://www.youtube.com/watch?v=wqF9ky8p_XQ",
+        "date_published": "2026-10-06T09:15:22-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "last_processed_after": {
+        "video_id": "wqF9ky8p_XQ",
+        "url": "https://www.youtube.com/watch?v=wqF9ky8p_XQ",
+        "published": "2026-10-06T09:15:22-07:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07",
+        "source_id": "STA-V002"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles.",
+        "3LRjRtcHCpE extracted text ends mid-sentence; partial review only."
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-eight-2026-10-07.json"
+    },
+    {
+      "person": "George McConnell",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "george",
+        "video_id": "m_t7N9acoew",
+        "url": "https://www.youtube.com/watch?v=m_t7N9acoew",
+        "title": "I Found a Simple Stupid Way To Make Money Online",
+        "published": "2026-10-05T14:30:11+00:00",
+        "updated": "2026-10-07T01:01:25+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "GEO-V002",
+        "published": "2026-09-29T06:42:52-07:00",
+        "url": "https://www.youtube.com/watch?v=Ubyo0fX_9_w",
+        "processing_time": "2026-10-07較早來源台帳，精確時刻未存"
+      },
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。"
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-root-2026-10-07.json",
+      "last_full_transcript_processed_in_this_pass": {
+        "source_id": "FR-GEO-01",
+        "published": "2026-09-30T14:30:13-07:00",
+        "url": "https://www.youtube.com/watch?v=2wwkGPNmy_I"
+      },
+      "newly_processed_source_ids": [
+        "FR-GEO-01",
+        "FR-GEO-02",
+        "FR-GEO-03"
+      ],
+      "last_processed_after": {
+        "source_ids": [
+          "FR-GEO-01",
+          "FR-GEO-02",
+          "FR-GEO-03"
+        ],
+        "definition": "包含明列的完整／部分／近完整及活動頁處理；每個來源詳見read_state，不等於完整字幕。"
+      }
+    },
+    {
+      "person": "Luna Vega",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "luna",
+        "video_id": "K6JN1WdAqvA",
+        "title": "I Made $1,000,000 Selling Digital Products - 6 Things You Are Missing!",
+        "published": "2026-09-29T14:00:34+00:00",
+        "updated": "2026-10-03T03:01:10+00:00",
+        "url": "https://www.youtube.com/watch?v=K6JN1WdAqvA"
+      },
+      "last_processed_before": {
+        "source_id": "LUN-V001",
+        "published": "2025-12-22",
+        "url": "https://www.youtube.com/watch?v=eNR_HHMa-MU",
+        "processing_time": "較早已存台帳，精確時刻未存"
+      },
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。"
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-root-2026-10-07.json",
+      "last_full_transcript_processed_in_this_pass": {
+        "source_id": "FR-LUN-01",
+        "published": "2026-09-29T07:00:34-07:00",
+        "url": "https://www.youtube.com/watch?v=K6JN1WdAqvA"
+      },
+      "newly_processed_source_ids": [
+        "FR-LUN-01"
+      ],
+      "last_processed_after": {
+        "source_ids": [
+          "FR-LUN-01"
+        ],
+        "definition": "包含明列的完整／部分／近完整及活動頁處理；每個來源詳見read_state，不等於完整字幕。"
+      }
+    },
+    {
+      "person": "Ronnie McKenzie",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "ronnie",
+        "video_id": "2YRUENCZk8M",
+        "title": "I asked Nano Banana to create a metal art design that could actually make money.",
+        "published": "2026-07-21T21:13:44+00:00",
+        "updated": "2026-10-03T18:06:24+00:00",
+        "url": "https://www.youtube.com/watch?v=2YRUENCZk8M"
+      },
+      "last_processed_before": {
+        "source_id": "RON-A001",
+        "published": "2024-09-12",
+        "url": "https://storehacks.com/print-on-demand-designs/",
+        "processing_time": "較早已存台帳，精確時刻未存"
+      },
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。"
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-root-2026-10-07.json",
+      "last_full_transcript_processed_in_this_pass": {
+        "source_id": "FR-RON-01",
+        "published": "2026-07-08T02:50:00-07:00",
+        "url": "https://www.youtube.com/watch?v=7yF0oZhQcB8"
+      },
+      "newly_processed_source_ids": [
+        "FR-RON-01"
+      ],
+      "last_processed_after": {
+        "source_ids": [
+          "FR-RON-01"
+        ],
+        "definition": "包含明列的完整／部分／近完整及活動頁處理；每個來源詳見read_state，不等於完整字幕。"
+      }
+    },
+    {
+      "person": "Mario Menduni",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "mario",
+        "video_id": "0guqw-VMVnw",
+        "url": "https://www.youtube.com/watch?v=0guqw-VMVnw",
+        "title": "ShineOn Scaling Master Class with Mario Menduni q4 2024 2 of 2",
+        "published": "2024-09-30T11:41:33+00:00",
+        "updated": "2026-10-04T13:23:20+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "MAR-V001",
+        "published": "2024-09-19",
+        "url": "https://www.youtube.com/watch?v=gcqZdELhEv8",
+        "read_state": "完整短宣傳文字已讀，沒有方法；較早MAR-V002才是保留的方法來源"
+      },
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。"
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-root-2026-10-07.json",
+      "last_full_transcript_processed_in_this_pass": null,
+      "newly_processed_source_ids": [
+        "FR-MAR-01"
+      ],
+      "last_processed_after": {
+        "source_ids": [
+          "FR-MAR-01"
+        ],
+        "definition": "包含明列的完整／部分／近完整及活動頁處理；每個來源詳見read_state，不等於完整字幕。"
+      }
+    },
+    {
+      "person": "Gina Menduni",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "gina",
+        "video_id": "hXBPDwWp1HU",
+        "url": "https://www.youtube.com/watch?v=hXBPDwWp1HU",
+        "title": "My #visionboard worked 🫶",
+        "published": "2024-11-21T19:31:09+00:00",
+        "updated": "2026-10-05T02:42:34+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "GIN-V003",
+        "published": "2024-02-21",
+        "url": "https://www.youtube.com/watch?v=We-iPgSHzjg",
+        "processing_time": "較早已存台帳，精確時刻未存"
+      },
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。"
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-root-2026-10-07.json",
+      "last_full_transcript_processed_in_this_pass": {
+        "source_id": "FR-GIN-01",
+        "published": "2024-11-19T17:40:06-08:00",
+        "url": "https://www.youtube.com/watch?v=eu8vuycT1zI"
+      },
+      "newly_processed_source_ids": [
+        "FR-GIN-01"
+      ],
+      "last_processed_after": {
+        "source_ids": [
+          "FR-GIN-01"
+        ],
+        "definition": "包含明列的完整／部分／近完整及活動頁處理；每個來源詳見read_state，不等於完整字幕。"
+      }
+    },
+    {
+      "person": "Chris Blair",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "shineon",
+        "video_id": "5ixn2nbWEMc",
+        "url": "https://www.youtube.com/watch?v=5ixn2nbWEMc",
+        "title": "From Never Quit to Winning Big",
+        "published": "2026-10-02T15:28:38+00:00",
+        "updated": "2026-10-02T20:06:34+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "CHR-V001",
+        "published": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=uG1jjZllSZk",
+        "processing_time": "較早已存台帳，精確時刻未存"
+      },
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。",
+        "公司其他講者與同名Chris不得歸給Chris Blair。"
+      ],
+      "scope_note": "ShineOn公司頻道最新上傳；不是Chris Blair本人全部發布",
+      "detail_reference": "coach-freshness-root-2026-10-07.json",
+      "last_full_transcript_processed_in_this_pass": null,
+      "newly_processed_source_ids": [],
+      "last_processed_after": {
+        "source_ids": [],
+        "definition": "包含明列的完整／部分／近完整及活動頁處理；每個來源詳見read_state，不等於完整字幕。"
+      }
+    },
+    {
+      "person": "Anna Beck",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "anywherepod",
+        "video_id": "keAt8kEOX3E",
+        "url": "https://www.youtube.com/watch?v=keAt8kEOX3E",
+        "title": "MASSIVE UPDATE: AI Auto Personalization & Text w/AnywherePOD (Tutorial)",
+        "published": "2026-09-15T17:22:17+00:00",
+        "updated": "2026-09-18T00:55:08+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "ANN-V002",
+        "published": "2025-11-18",
+        "url": "https://www.youtube.com/watch?v=bMcK52E3xas",
+        "processing_time": "較早已存台帳，精確時刻未存"
+      },
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。",
+        "Anna個人完整發布索引未確認；May2026活動頁只有標題／人物介紹，未讀課。"
+      ],
+      "scope_note": "AnywherePOD公司頻道；最新示範Anna只在聊天室，非主講",
+      "detail_reference": "coach-freshness-root-2026-10-07.json",
+      "last_full_transcript_processed_in_this_pass": null,
+      "newly_processed_source_ids": [
+        "FR-ANN-EVENT"
+      ],
+      "last_processed_after": {
+        "source_ids": [
+          "FR-ANN-EVENT"
+        ],
+        "definition": "包含明列的完整／部分／近完整及活動頁處理；每個來源詳見read_state，不等於完整字幕。"
+      }
+    },
+    {
+      "person": "Hannah Gardner",
+      "checked_at": "2026-10-07T17:33:08.651139+00:00",
+      "latest_observed": {
+        "coach_source": "hannah",
+        "video_id": "2CxL3TlKZyo",
+        "url": "https://www.youtube.com/watch?v=2CxL3TlKZyo",
+        "title": "Claude AI Just Exposed How to Fix a Dead Etsy Listing",
+        "published": "2026-10-07T16:00:03+00:00",
+        "updated": "2026-10-07T16:00:04+00:00"
+      },
+      "last_processed_before": {
+        "source_id": "NC2-SHOP-HG01",
+        "published": "2025-01-09",
+        "url": "https://edenfried.com/etsy-ads/",
+        "processing_time": "較早已存台帳，精確時刻未存"
+      },
+      "read_state": "官方近期RSS15筆＋明列的選定來源核讀",
+      "gaps": [
+        "RSS只涵蓋當次回傳15筆，混合長短影片／直播；沒有完整頻道或全部平台覆蓋。",
+        "未選正文的項目保留metadata-only，不能由標題推導教學。",
+        "最新影片近完整抽取已由來源審查讀到，末句截斷且原全文未留存；編輯者只重核metadata／原訪談及方法位置。"
+      ],
+      "scope_note": "個人公開RSS的最近15筆；不是完整頻道",
+      "detail_reference": "coach-freshness-root-2026-10-07.json",
+      "last_full_transcript_processed_in_this_pass": null,
+      "newly_processed_source_ids": [
+        "FR-HAN-01",
+        "FR-HAN-02"
+      ],
+      "last_processed_after": {
+        "source_ids": [
+          "FR-HAN-01",
+          "FR-HAN-02"
+        ],
+        "definition": "包含明列的完整／部分／近完整及活動頁處理；每個來源詳見read_state，不等於完整字幕。"
+      }
+    },
+    {
+      "person": "Mandy Dobosenski",
+      "checked_at": "2026-10-07T17:17:49.777687Z",
+      "latest_observed": {
+        "video_id": "7He778_Cysk",
+        "title": "Is this the fastest way to list on Etsy? #printondemand #etsyseller #shorts",
+        "url": "https://www.youtube.com/shorts/7He778_Cysk",
+        "publication_date": "2026-10-07T13:00:20+00:00",
+        "updated_at": "2026-10-07T13:00:26+00:00"
+      },
+      "last_processed_before": [
+        {
+          "id": "NC-M1",
+          "url": "https://www.studiomdesignsco.com/blog/top-5-niches-for-2024-etsy-print-on-demand",
+          "type": "official_authored_article",
+          "read_status": "full_text",
+          "published_date": null,
+          "topic_year": 2024,
+          "research_capture_sha256": "62a8ae8b1b54df20039509cebc86ec8ab97cf07bf34cc0057885c791153f9e29"
+        },
+        {
+          "id": "NC-M2",
+          "url": "https://www.studiomdesignsco.com/blog/how-to-scale-your-etsy-print-on-demand-shop-faster-in-2024",
+          "type": "official_authored_article",
+          "read_status": "full_text",
+          "published_date": null,
+          "topic_year": 2024,
+          "research_capture_sha256": "458cdc3e2ff49979f16050e1212cdd6e306d8c8ff6544ef91eb67384e71553aa"
+        },
+        {
+          "id": "NC-M3",
+          "url": "https://printify.com/blog/how-mandy-dobosenski-design-hacks-that-helped-her-quit-her-9-5/",
+          "type": "supplier_original_interview",
+          "read_status": "full_text",
+          "published_date": "2023-04-27",
+          "commercial_interest": true,
+          "independent_financial_audit": false
+        }
+      ],
+      "last_processed_after": [
+        "FR6-025"
+      ],
+      "read_state": "官方RSS最近15筆＋明列的完整／部分教學",
+      "gaps": [
+        "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+        "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+        "先前取消的3qsXRrglfDY保持retrieval_cancelled_not_retried，未重新請求或換路重試。",
+        "最新2026-10-07短片只讀RSS描述；較新的ornament供應商比較未作全文教學抽取，優先處理較貼近本店的2026-09-18顧客請求。"
+      ],
+      "scope_note": "來賓與本人分開；不是全頻道",
+      "detail_reference": "coach-freshness-six-2026-10-07.json"
+    },
+    {
+      "person": "Cassiy Johnson",
+      "checked_at": "2026-10-07T17:19:47.971667Z",
+      "latest_observed": {
+        "video_id": "jW-WMsIPJCA",
+        "title": "Your ChatGPT Etsy Designs Look Like AI: Here's How to Fix It",
+        "url": "https://www.youtube.com/watch?v=jW-WMsIPJCA",
+        "publication_date": "2026-09-22T14:00:33+00:00",
+        "updated_at": "2026-10-04T17:07:09+00:00"
+      },
+      "last_processed_before": [
+        {
+          "id": "NC-C1",
+          "url": "https://printify.com/blog/cassiy-helps-small-businesses-make-1000s/",
+          "type": "supplier_original_interview",
+          "read_status": "full_text",
+          "published_date": "2022-04-14",
+          "commercial_interest": true,
+          "independent_financial_audit": false,
+          "research_capture_sha256": "b56e051b09e88bdce0f7b8dc886d3d498a5467d9360ee790474a8b4d5f091d08"
+        }
+      ],
+      "last_processed_after": [
+        "FR6-003"
+      ],
+      "read_state": "官方RSS最近15筆＋明列的完整／部分教學",
+      "gaps": [
+        "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+        "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+        "未開免費留言領取素材或會員，沒有訂閱／付款。"
+      ],
+      "scope_note": "來賓與本人分開；不是全頻道",
+      "detail_reference": "coach-freshness-six-2026-10-07.json"
+    },
+    {
+      "person": "Emily Odio-Sutton",
+      "checked_at": "2026-10-07T17:22:23.002984Z",
+      "latest_observed": {
+        "video_id": "fxCihs3NUk0",
+        "title": "Etsy Q4 Print on Demand: 3 Untapped Products Before It’s Too Late",
+        "url": "https://www.youtube.com/watch?v=fxCihs3NUk0",
+        "publication_date": "2026-10-06T13:00:10+00:00",
+        "updated_at": "2026-10-06T19:35:42+00:00"
+      },
+      "last_processed_before": [
+        {
+          "candidate": "Emily Odio-Sutton / Ecomm Emily",
+          "title": "From side hustle to $500k: How Printify helped this mom quit her job",
+          "url": "https://printify.com/blog/how-printify-helped-this-mom-quit-her-job/",
+          "source_type": "original_vendor_interview",
+          "publication_date": "2025-07-02",
+          "read_status": "full_article_read",
+          "limits": "全文已讀，具硬皮journal／送禮與工作批次方法；是Printify市場推廣案例，未獨立審計營收。",
+          "retrieved_at": "2026-10-07",
+          "id": "NC2-POD-EE01",
+          "original_source_id": "EE01",
+          "cohort": "POD"
+        }
+      ],
+      "last_processed_after": [
+        "FR6-014"
+      ],
+      "read_state": "官方RSS最近15筆＋明列的完整／部分教學",
+      "gaps": [
+        "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+        "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+        "2026-09-29 Pinterest嘉賓訪談只部分閱讀，不能說學完完整教學；完整內容已取得不等於完成分析。",
+        "Podia公開頁由先前empty body改善為可讀；課程仍未讀。"
+      ],
+      "scope_note": "來賓與本人分開；不是全頻道",
+      "detail_reference": "coach-freshness-six-2026-10-07.json",
+      "identity_label": "Emily Odio-Sutton / Ecomm Emily"
+    },
+    {
+      "person": "Mei Pak",
+      "checked_at": "2026-10-07T17:17:43.165574Z",
+      "latest_observed": {
+        "video_id": "f_SIrSx_C7o",
+        "title": "I Made $560,039 Selling Art Online With These Platforms.(Here’s What I’d Use and Skip 👀)",
+        "url": "https://www.youtube.com/shorts/f_SIrSx_C7o",
+        "publication_date": "2026-10-06T01:00:06+00:00",
+        "updated_at": "2026-10-06T05:44:24+00:00"
+      },
+      "last_processed_before": [
+        {
+          "candidate_id": "mei_pak",
+          "url": "https://www.creativehiveco.com/5-questions-to-ask-to-understand-your-ideal-customer/",
+          "title": "5 Questions to Ask to Understand Your Ideal Customer",
+          "source_type": "official_author_article",
+          "processing_status": "full_article_text_read",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Core retained source: validate buyer versus recipient using actual customer evidence. Embedded videos not processed.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-M03",
+          "original_source_id": "M03",
+          "cohort": "SHOP",
+          "read_status": "full_article_text_read"
+        },
+        {
+          "candidate_id": "mei_pak",
+          "url": "https://www.creativehiveco.com/168k-yr-selling-jewelry-for-10-years-straight-with-this-simple-system/",
+          "title": "$168k/yr selling jewelry for 10 years straight with this simple system",
+          "source_type": "official_author_article",
+          "processing_status": "full_article_text_read",
+          "published_date": null,
+          "accessed_date": "2026-10-07",
+          "note": "Revenue self-report; system explicitly includes paid ads, own site, email. Hostinger discount-code promotion observed.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-M04",
+          "original_source_id": "M04",
+          "cohort": "SHOP",
+          "read_status": "full_article_text_read"
+        }
+      ],
+      "last_processed_after": [
+        "FR6-029"
+      ],
+      "read_state": "官方RSS最近15筆＋明列的完整／部分教學",
+      "gaps": [
+        "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+        "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+        "2026-10-06最新Short只讀公開描述；本輪完整方法來源為2026-09-26長片。"
+      ],
+      "scope_note": "來賓與本人分開；不是全頻道",
+      "detail_reference": "coach-freshness-six-2026-10-07.json",
+      "identity_label": "Mei Pak / Creative Hive"
+    },
+    {
+      "person": "Dalia Abdalla",
+      "checked_at": "2026-10-07T17:21:41.190133Z",
+      "latest_observed": {
+        "video_id": "wM07RP2x88o",
+        "title": "my business CRISIS, explained + etsy is going downhill (PROOF)",
+        "url": "https://www.youtube.com/watch?v=wM07RP2x88o",
+        "publication_date": "2024-04-23T14:00:44+00:00",
+        "updated_at": "2026-09-29T11:24:31+00:00"
+      },
+      "last_processed_before": [
+        {
+          "candidate_id": "dalia_abdalla",
+          "url": "https://blog.marmalead.com/pinterest-for-etsy-sellers-with-dalia-from-the-handmade-mastermind/",
+          "title": "Pinterest for Etsy Sellers with Dalia from the Handmade Mastermind",
+          "source_type": "original_interview_publisher",
+          "processing_status": "full_article_text_read",
+          "published_date": "2018-10-01",
+          "accessed_date": "2026-10-07",
+          "note": "Complete published interview article read; publisher explicitly says it omits parts of the full video.",
+          "full_video_or_audio_processed": false,
+          "id": "NC2-SHOP-D04",
+          "original_source_id": "D04",
+          "cohort": "SHOP",
+          "read_status": "full_article_text_read"
+        }
+      ],
+      "last_processed_after": [
+        "FR6-007",
+        "FR6-008"
+      ],
+      "read_state": "官方RSS最近15筆＋明列的完整／部分教學",
+      "gaps": [
+        "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+        "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+        "最近15項RSS最晚為2024-04-23；這不是全網無新內容的證明。",
+        "2024-04-23本人表示暫停sit-down teaching、改為聊天直到另有通知；未找到更近期第一方恢復教學聲明。",
+        "最新影片中無關私人健康內容不納入方法或公開摘要。"
+      ],
+      "scope_note": "來賓與本人分開；不是全頻道",
+      "detail_reference": "coach-freshness-six-2026-10-07.json",
+      "identity_label": "Dalia Abdalla / The Handmade Mastermind"
+    },
+    {
+      "person": "Lizzie Smiley",
+      "checked_at": "2026-10-07T17:19:31.175385Z",
+      "latest_observed": {
+        "video_id": "j8vva-7JEjI",
+        "title": "Ep 253 | She earned $14k on Etsy during the slow months selling PNGs -with Shannon Davis",
+        "url": "https://www.youtube.com/watch?v=j8vva-7JEjI",
+        "publication_date": "2026-10-01T09:00:28+00:00",
+        "updated_at": "2026-10-06T19:04:29+00:00"
+      },
+      "last_processed_before": [
+        {
+          "candidate": "Lizzie Smiley",
+          "title": "4 Strategies I used to grow my Etsy shop from $25 to $6000",
+          "url": "https://s3.amazonaws.com/kajabi-storefronts-production/sites/2147505103/themes/2148175372/downloads/18qCp2UlRleaTQk0fadO_4_Strategies_I_used_to_grow_my_Etsy_shop_from_25_to_6000.pdf",
+          "source_type": "official_public_pdf",
+          "publication_date": "2021 copyright",
+          "read_status": "full_text_read",
+          "limits": "Firecrawl回傳16/16頁文字，已讀；web PDF開啟失敗。非逐頁視覺審核。封面/圖片OCR可能有噪音。",
+          "retrieved_at": "2026-10-07",
+          "id": "NC2-POD-LS02",
+          "original_source_id": "LS02",
+          "cohort": "POD"
+        }
+      ],
+      "last_processed_after": [
+        "FR6-023"
+      ],
+      "read_state": "官方RSS最近15筆＋明列的完整／部分教學",
+      "gaps": [
+        "公開RSS只覆蓋最近15項；不能聲稱全頻道、IG、newsletter、直播存檔或付費課程全部完成。",
+        "沒有逐幀／原音核對；字幕中的數字、拼寫和畫面教學可能有誤差。",
+        "2026-10-01最新集為Shannon Davis訪談，其教學未完整處理且不歸作Lizzie原創；本輪選2026-09-03本人單講。",
+        "2026-07-09 Q4頁只讀概要，未處理音訊。"
+      ],
+      "scope_note": "來賓與本人分開；不是全頻道",
+      "detail_reference": "coach-freshness-six-2026-10-07.json",
+      "identity_label": "Lizzie Smiley / How to Sell Your Stuff"
+    },
+    {
+      "person": "Lauren Ibach",
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "latest_observed": {
+        "title": "A Detail of My Faith Story I Don’t Share Often",
+        "url": "https://laurenibach.com/2026/07/22/a-detail-of-my-faith-story/",
+        "published_at": "2026-07-22T19:24:03Z",
+        "modified_at": "2026-07-22T19:24:04Z",
+        "evidence": [
+          "FF-L01",
+          "FF-L02",
+          "FF-L03"
+        ],
+        "read_level": "full_article_text_read"
+      },
+      "last_processed_before": {
+        "processed_at": "2026-10-07",
+        "method_source_id": "NC2-FAITH-L4",
+        "method_source_published_date": "2023-05-29",
+        "method_source_other_date": "2025-04-10，前台帳另見頁面日期",
+        "latest_previously_read_source_id": "NC2-FAITH-L5",
+        "latest_previously_read_title": "Biblical Christian Gifts For Moms",
+        "latest_previously_read_date_label": "2026-03-02；頁面亦見 2026-04-18"
+      },
+      "last_processed_after": {
+        "source_id": "FF-L02",
+        "processed_at": "2026-10-07T17:32:08.837Z",
+        "result": "新內容已分類；保留既有收禮人／場合原創文案方法，未增新方法。"
+      },
+      "read_state": "full_article_text_read",
+      "gaps": [
+        "Instagram／Pinterest、電郵及每一個商品頁未逐項核讀。",
+        "不把兒童書的格式、作者見證、詩歌或插圖移植成本店產品或成果。"
+      ],
+      "scope_note": "limited_faith_copy_and_gifting_source_not_business_coach",
+      "detail_reference": "brand-marketing-growth / references/faith-freshness-2026-10-07.json"
+    },
+    {
+      "person": "Melissa Flanagan",
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "latest_observed": {
+        "title": "The Beginner’s Guide to Verse Mapping in Bible Study",
+        "url": "https://www.lissasuedesigns.com/post/the-beginner-s-guide-to-verse-mapping-in-bible-study",
+        "published_at": "2024-01-08T18:08:36.434Z",
+        "modified_at": "2026-02-24T18:06:17.648Z",
+        "evidence": [
+          "FF-M01",
+          "FF-M02"
+        ],
+        "read_level": "full_article_text_re_read"
+      },
+      "last_processed_before": {
+        "processed_at": "2026-10-07",
+        "method_source_id": "NC3-M4",
+        "method_source_published_date": "2023-07-18",
+        "latest_previously_read_source_id": "NC3-M5",
+        "latest_previously_read_date_label": "2024-01-08",
+        "known_gap": "2 月 24 日更新年份未核"
+      },
+      "last_processed_after": {
+        "source_ids": [
+          "FF-M02",
+          "FF-M03"
+        ],
+        "processed_at": "2026-10-07T17:32:08.837Z",
+        "result": "已重讀最新索引文章及核心贈禮用途文；補實兩文 2026-02-24 修改 metadata。"
+      },
+      "read_state": "full_article_text_re_read",
+      "gaps": [
+        "只證實此官方 blog 索引未見比 2024-01-08 更新的發布項，不證明其他渠道沒有新內容或停業。",
+        "未取得歷史全文差異，修改 metadata 不證明方法更新。",
+        "原文親子場景不能直接轉成兒童產品定位或心理效果承諾。"
+      ],
+      "scope_note": "limited_gifting_timing_and_product_use_source_not_business_coach",
+      "detail_reference": "brand-marketing-growth / references/faith-freshness-2026-10-07.json",
+      "identity_label": "Melissa Flanagan / Lissa Sue"
+    },
+    {
+      "person": "Robin Sampson",
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "latest_observed": {
+        "title": "God’s Promises to Israel Free Printable Cards",
+        "url": "https://www.biblejournalclasses.com/blog/free-printable-promises-to-Israel-verse_cards",
+        "published_date": "2026-10-02",
+        "date_evidence": "official_recent_posts_index",
+        "modified_at": null,
+        "evidence": [
+          "FF-RS01",
+          "FF-RS02",
+          "FF-RS04"
+        ],
+        "read_level": "full_article_text_read",
+        "latest_does_not_equal_adopted": "神學與時事主題不自動代表本店或其成年 Christian 買家的立場；本輪不採。"
+      },
+      "last_processed_before": {
+        "processed_at": "2026-10-07",
+        "method_source_id": "NC3-R3",
+        "method_source_published_date": null,
+        "method_source_event_date": "2022-08-01",
+        "method_source_event_type": "activity_start_not_publication",
+        "other_read_source_id": "NC3-R4",
+        "other_source_published_at": null,
+        "other_source_title": "Layered Story Frames in Junk Journaling"
+      },
+      "last_processed_after": {
+        "source_ids": [
+          "FF-RS02",
+          "FF-RS03"
+        ],
+        "processed_at": "2026-10-07T17:32:08.837Z",
+        "result": "記錄最新文章另行排除；提出一項併入既有用途示範的方法微調。"
+      },
+      "read_state": "full_article_text_read",
+      "gaps": [
+        "首取索引的網路錯誤已由成功入口與重取解決；不能把錯誤記成無更新。",
+        "音訊／影片、會員課程、下載套件、20 頁歷史索引未全讀。",
+        "近期非所選文章僅讀標題與摘錄，未當作教學已完成。"
+      ],
+      "scope_note": "limited_faith_use_content_structure_source_not_business_coach",
+      "detail_reference": "brand-marketing-growth / references/faith-freshness-2026-10-07.json",
+      "identity_label": "Robin Sampson / BibleJournalLove"
+    },
+    {
+      "person": "Krystal Whitten",
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "latest_observed": {
+        "news_index_first_title": "Why I Shut Down 90% of My Business",
+        "url": "https://www.krystalwhitten.com/blogs/news/why-i-shut-down-90-of-my-business",
+        "published_date": "2025-09-01",
+        "date_evidence": "inherited_linked_metadata_from_NC2_FAITH_K4_not_newly_verified",
+        "read_level": "current_index_title_only_article_still_unread",
+        "evidence": [
+          "FF-K01"
+        ]
+      },
+      "last_processed_before": {
+        "processed_at": "2026-10-07",
+        "method_source_id": "NC2-FAITH-K2",
+        "method_source_published_date": "2017-08-28",
+        "about_source_id": "NC2-FAITH-K1",
+        "about_edited_label": "2025-10",
+        "about_event_date": "2025-07",
+        "about_event": "產品線收縮的自述；不推斷原因",
+        "unread_source_id": "NC2-FAITH-K4",
+        "unread_reason": "先前擷取取消，未重試"
+      },
+      "last_processed_after": {
+        "source_ids": [
+          "FF-K01",
+          "FF-K02",
+          "FF-K03"
+        ],
+        "processed_at": "2026-10-07T17:32:08.837Z",
+        "result": "更新兩個官方索引與公開頁可讀範圍；維持 2017 年 Part 1 的歷史用途教育補充。"
+      },
+      "read_state": "current_index_title_only_article_still_unread",
+      "gaps": [
+        "先前取消的 /blogs/news/why-i-shut-down-90-of-my-business 沒有重試，也沒有透過其他入口讀正文。",
+        "若只讀本文稿索引，不可解釋收縮原因或將作者視作現行擴張案例。",
+        "部份嵌入元件顯示 client block；主索引與 worksheet 文字可讀，不繞過限制。",
+        "未提交電郵下載、不讀付費課程；不宣稱最新完整教學全部處理。"
+      ],
+      "scope_note": "supplementary_product_education_only",
+      "detail_reference": "brand-marketing-growth / references/faith-freshness-2026-10-07.json"
+    },
+    {
+      "person": "Ruth Chou Simons",
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "latest_observed": {
+        "title": "060 | Measuring Up",
+        "url": "https://podcasts.apple.com/us/podcast/060-measuring-up/id1603942598?i=1000793647036",
+        "published_at": null,
+        "displayed_relative_time": "6h ago",
+        "relative_time_observed_at": "2026-10-07T17:29:15Z",
+        "inferred_publication_date_utc": "2026-10-07",
+        "date_caveat": "日期由當次相對時間推得，精確發布時刻未核；不把推算當原始 metadata。",
+        "duration_minutes": 45,
+        "evidence": [
+          "FF-RC05",
+          "FF-RC06"
+        ],
+        "read_level": "episode_title_and_show_notes_only_audio_transcript_unread"
+      },
+      "last_processed_before": {
+        "processed_at": "2026-10-07",
+        "method_source_id": "NC2-FAITH-R2",
+        "method_source_published_date": "2022-08-12",
+        "method_source_event_date": null,
+        "method_source_event_context": "訪談回顧疫情時期；實際訪問日期未核",
+        "other_source_ids": [
+          "NC2-FAITH-R1",
+          "NC2-FAITH-R3"
+        ]
+      },
+      "last_processed_after": {
+        "source_ids": [
+          "FF-RC01",
+          "FF-RC02",
+          "FF-RC03",
+          "FF-RC05",
+          "FF-RC06"
+        ],
+        "processed_at": "2026-10-07T17:32:08.837Z",
+        "result": "確認有近期新產品宣傳及新節目；只分類可讀範圍，原始創辦人方法仍來自 2022 年完整問答。"
+      },
+      "read_state": "episode_title_and_show_notes_only_audio_transcript_unread",
+      "gaps": [
+        "官網分季索引最上方 2024-05-01 不代表節目最新或停更；官方連結平台本次顯示新集。",
+        "最新音訊／逐字稿未取得、章節需提供個人資料而未提交；不稱全部內容已讀。",
+        "Instagram 只讀官網嵌入節錄，未查每則全文；未核創辦人業績或低工時成果。"
+      ],
+      "scope_note": "supplementary_founder_experience_only",
+      "detail_reference": "brand-marketing-growth / references/faith-freshness-2026-10-07.json"
+    }
+  ]
+}

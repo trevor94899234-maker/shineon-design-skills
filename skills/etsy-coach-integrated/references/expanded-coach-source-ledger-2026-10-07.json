@@ -1,0 +1,2513 @@
+{
+  "schema_version": "2.0",
+  "reviewed_at": "2026-10-07",
+  "language": "zh-Hant",
+  "coverage_statement": "上一版4人加本版18人，共22位候選；排除原14位與RJ。17人有至少一份完整方法相關公開正文，5位新增採用來源已重點覆核。不等於全頻道或付費課程已讀。",
+  "counts": {
+    "screened_candidates": 22,
+    "new_candidates_this_expansion": 18,
+    "previous_candidates_carried_forward": 4,
+    "complete_method_related_text_candidates": 17,
+    "priority_deep_review_candidates": 5,
+    "source_records": 97,
+    "unique_source_urls": 96,
+    "retained_adopted": 2,
+    "deferred": 12,
+    "new_adopted_business": 4,
+    "supplementary_case_not_coach": 2,
+    "new_adopted_specialist": 1,
+    "not_adopted_active": 1
+  },
+  "qualifying_actions": "僅研究與方法建議；沒有刊登、帳戶變更、廣告、購買或外聯。",
+  "shop_constraints": {
+    "product": "ShineOn個人化Christian家人朋友journal",
+    "interior": "200頁間線",
+    "typical_price_usd": 49.95,
+    "us_customer_share": "約90–95%（店主提供）",
+    "ad_budget": "90日零廣告",
+    "hours_per_week": "3–5小時含履約客服",
+    "verified_live_inventory_this_task": false
+  },
+  "baseline_excluded_roster": [
+    "Dylan Jahraus",
+    "Joe Robert",
+    "Starla Moore",
+    "Chris Blair",
+    "Christina Umerez",
+    "Meg Heckman",
+    "Jesse Teaches",
+    "Anna Beck",
+    "Courtney Nichole",
+    "George McConnell",
+    "Luna Vega",
+    "Ronnie McKenzie",
+    "Mario Menduni",
+    "Gina Menduni",
+    "RJ Martinez"
+  ],
+  "candidates": [
+    {
+      "name": "Mandy Dobosenski",
+      "identity": "SimplyPOD with Mandy / Studio M Designs Co",
+      "decision": "accepted_limited_methods",
+      "priority": "優先",
+      "teaching_evidence": "兩篇官方完整教學文章；供應商原始訪談全文",
+      "success_evidence": "本人及Printify訪談自述；主店未公開，未獨立核帳；不以收益或Top百分比作資格標準",
+      "fit": "信仰身份與情感、人生場合、原創利基延伸；須區分買家與收禮人",
+      "methods": [
+        "身份與場合配對",
+        "同產品素材重用且按訊號才延伸"
+      ],
+      "reject": [
+        "2024熱門名單當2026需求",
+        "15–20款批量配額",
+        "高刊登數等於充分樣本",
+        "宣稱Etsy偏好影片／可由風格理解店舖",
+        "直接複製示範圖案"
+      ],
+      "not_proven": [
+        "Christian journal實績",
+        "每週3–5小時全程零廣告適用成效"
+      ],
+      "candidate_id": "NC26-MANDY",
+      "cohort": "previous_four",
+      "source_ids": [
+        "NC-M1",
+        "NC-M2",
+        "NC-M3"
+      ],
+      "final_decision": "retained_adopted",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Cassiy Johnson",
+      "identity": "官方網站 / @CassiyJohnson",
+      "decision": "accepted_limited_methods",
+      "priority": "補充",
+      "teaching_evidence": "Printify 2022原始訪談全文；本人網站身份",
+      "success_evidence": "歷史本人／供應商自述；非獨立核帳，早期全職投入且使用Etsy Ads",
+      "fit": "送禮場合視覺理解、外部流量以到店而非觀看衡量；一般POD，不是已核實Christian專家",
+      "methods": [
+        "產品證據先於情境裝飾",
+        "觀看與外連到店分開"
+      ],
+      "reject": [
+        "固定SEO生效週數",
+        "白底一定較差",
+        "首屏才會購買",
+        "把2025影片第三方摘要當已讀原片"
+      ],
+      "not_proven": [
+        "Christian journal實績",
+        "零廣告3–5小時成功案例"
+      ],
+      "limited_sources": [
+        "NC-C3"
+      ],
+      "candidate_id": "NC26-CASSIY",
+      "cohort": "previous_four",
+      "source_ids": [
+        "NC-C1",
+        "NC-C2"
+      ],
+      "final_decision": "retained_adopted",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Heather Johnson",
+      "identity": "HeatherxStudio / heatherstudio",
+      "decision": "deferred",
+      "teaching_evidence": "兩篇2026官方完整文章；嵌入影片未讀",
+      "success_evidence": "本人商業頁及歷史訪談的自述；未獨立核帳",
+      "reason": "可用批次／聚焦原則與既有技能重複，文章未含具體30分鐘分配；演算法因果未有官方佐證",
+      "reopen_when": "取得能處理個人化實體禮物、扣除履約後工時的完整獨特實作",
+      "candidate_id": "NC26-HEATHER",
+      "cohort": "previous_four",
+      "source_ids": [
+        "NC-H1",
+        "NC-H2"
+      ],
+      "final_decision": "deferred",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Hannah Ebeling",
+      "decision": "deferred",
+      "teaching_evidence": "本輪僅發現索引線索，未完成官方完整方法核讀",
+      "success_evidence": "未完成可歸屬相關店舖／實績核對",
+      "reason": "缺少足夠第一手鏈與完整內容；搜尋不足不是否定本人",
+      "reopen_when": "官方身份、完整示範及相關實績取得來源",
+      "candidate_id": "NC26-HANNAH",
+      "cohort": "previous_four",
+      "source_ids": [],
+      "final_decision": "deferred",
+      "complete_method_related_text_read": false
+    },
+    {
+      "name": "Stephen Chin",
+      "brand": "HelloCustom",
+      "identity": "confirmed",
+      "official_channels": [
+        "https://hellocustom.io/",
+        "https://www.skool.com/hellocustom/about",
+        "https://www.youtube.com/@HelloCustom"
+      ],
+      "fit": {
+        "platform": "Etsy/POD匹配",
+        "product": "personalization匹配；ShineOn journal整合未核實",
+        "niche": "沒有Christian家人朋友journal專門證據",
+        "time": "潛在履約省時，但未測實際流程"
+      },
+      "performance_evidence": "原主持頁記載220,000件及US$3m；自述而非獨立審計；沒有建立其聲稱營收店舖的可核身份鏈。",
+      "interests": [
+        "HelloCustom軟件／履約平台創辦人",
+        "Accelerator教育銷售",
+        "受訪節目有Printify贊助及HelloCustom聯盟連結"
+      ],
+      "limits": [
+        "官方頁／show notes已讀，完整教學未讀，不能提升為人物方法卡",
+        "不把HelloCustomCo同名Etsy店或合作供應商銷量當其本人實績",
+        "不假設HelloCustom支援ShineOn"
+      ],
+      "incremental_value_relative_to_existing_methods": "潛在新增個人化履約自動化／姓名QA的操作層，但本輪未讀到原始完整實作，增量尚未落實。",
+      "roster_recommendation": "hold_no_daily_persona",
+      "candidate_id": "NC2-POD-stephen_chin",
+      "cohort": "POD",
+      "researcher_decision": "hold_for_primary_teaching",
+      "source_ids": [
+        "NC2-POD-SC01",
+        "NC2-POD-SC02",
+        "NC2-POD-SC03",
+        "NC2-POD-SC04",
+        "NC2-POD-SC05"
+      ],
+      "final_decision": "deferred",
+      "complete_method_related_text_read": false
+    },
+    {
+      "name": "Lizzie Smiley",
+      "brand": "How to Sell Your Stuff",
+      "identity": "confirmed",
+      "official_channels": [
+        "https://www.howtosellyourstuff.com/site/about",
+        "https://www.instagram.com/howtosellyourstuff/"
+      ],
+      "fit": {
+        "platform": "Etsy匹配",
+        "product": "可個人化實物／木標語牌，可轉用主圖方法",
+        "niche": "PDF有Christian wall art範例，不能等同Christian journal專長",
+        "time": "固定底物mockup可省時，須保持產品真實"
+      },
+      "performance_evidence": "木標語牌店數千件與US$25→US$6k+/月是官方自述；沒有獨立核對店舖、利潤或US客比例。",
+      "interests": [
+        "付費課程／coaching",
+        "PDF內affiliate links",
+        "Podcast含供應商贊助及HelloCustom／EverBee聯盟連結"
+      ],
+      "limits": [
+        "只採已讀2021照片教學",
+        "不把受訪來賓教學記在Lizzie名下",
+        "不套用固定80%工時、填滿140字符、越多listing越好或大量複製listing"
+      ],
+      "incremental_value_relative_to_existing_methods": "現有圖片原則已涵蓋清楚產品與回答問題；本輪新增的是木牌主圖比較及可交付mockup的歷史實例，不是新框架。",
+      "roster_recommendation": "supporting_source_only_no_new_daily_persona",
+      "candidate_id": "NC2-POD-lizzie_smiley",
+      "cohort": "POD",
+      "researcher_decision": "conditional_adopt_visual_evidence_only",
+      "source_ids": [
+        "NC2-POD-LS01",
+        "NC2-POD-LS02",
+        "NC2-POD-LS03",
+        "NC2-POD-SC04"
+      ],
+      "final_decision": "new_adopted_business",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Taylor Posada",
+      "brand": "TaylorPOD",
+      "identity": "confirmed",
+      "official_channels": [
+        "https://www.taylorpod.com/",
+        "https://www.youtube.com/@TaylorPOD",
+        "https://www.instagram.com/taylorpod_/"
+      ],
+      "fit": {
+        "platform": "Etsy/POD匹配",
+        "product": "一般shirt/mug等，尚未讀足personalized journal教學",
+        "niche": "未證Christian關係送禮細分",
+        "time": "可保留少量重點／避免頻繁亂改的工作提醒"
+      },
+      "performance_evidence": "官網自述US$1m+ POD銷售；2024 PDF自述12個月US$100k。沒有獨立店舖歸屬／帳目核證。",
+      "interests": [
+        "付費社群／1:1 coaching",
+        "2024 PDF明示affiliate links",
+        "工具與免費課程漏斗"
+      ],
+      "limits": [
+        "已讀官方caption及入門PDF，不等於已讀近期niche影片",
+        "PDF軟件授權概述、平台價格與最佳供應商斷言屬舊內容",
+        "TailoredwithTay及Etsy taylorpod搜尋頁沒有官方身份鏈，不作本人店證"
+      ],
+      "incremental_value_relative_to_existing_methods": "已讀內容主要為入門工具和少量重點提醒，與既有低工時、控制變因方向重疊；缺新增journal利基判斷。",
+      "roster_recommendation": "reserve_no_daily_persona",
+      "candidate_id": "NC2-POD-taylor_posada",
+      "cohort": "POD",
+      "researcher_decision": "reserve_not_new_niche_method",
+      "source_ids": [
+        "NC2-POD-TP01",
+        "NC2-POD-TP02",
+        "NC2-POD-TP03",
+        "NC2-POD-TP04"
+      ],
+      "final_decision": "deferred",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Hannah Gardner",
+      "brand": "EcomHannah / ProfitTree",
+      "identity": "confirmed",
+      "official_channels": [
+        "https://www.ecomhannah.com/",
+        "https://linktr.ee/HannahGardner_",
+        "https://www.youtube.com/@EcomHannah"
+      ],
+      "fit": {
+        "platform": "Etsy＋Shopify",
+        "product": "本輪原始訪談為jewelry/home decor，非journal",
+        "niche": "未證Christian關係禮品專長",
+        "time": "盈利檢核有用，廣告優化與軟件導入不適合目前90日範圍"
+      },
+      "performance_evidence": "官網US$3.5m與2025訪談US$2.7m均是不同時間自述；未核可歸屬店舖，不能相加或推算成長。",
+      "interests": [
+        "ProfitTree founder，直接軟件利益",
+        "Etsy訓練／coaching",
+        "原訪談宣傳ProfitTree試用"
+      ],
+      "limits": [
+        "Hannah Gardner不是Hannah Ebeling",
+        "不以同名Etsy買家／其他手作店作身份證據",
+        "不採廣告帶動自然排序的因果主張或固定每listing廣告花費門檻"
+      ],
+      "incremental_value_relative_to_existing_methods": "整體盈利視角是一般營運補充；已讀核心為廣告，對目前零廣告利基決策沒有足夠增量。",
+      "roster_recommendation": "hold_outside_current_scope",
+      "candidate_id": "NC2-POD-hannah_gardner",
+      "cohort": "POD",
+      "researcher_decision": "hold_outside_zero_ad_scope",
+      "source_ids": [
+        "NC2-POD-HG01",
+        "NC2-POD-HG02",
+        "NC2-POD-HG03",
+        "NC2-POD-HG04"
+      ],
+      "final_decision": "deferred",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Brittany Lewis",
+      "brand": "Be A Wolf Biz",
+      "identity": "confirmed",
+      "official_channels": [
+        "https://www.beawolfbiz.com/",
+        "https://www.beawolfbiz.com/blog/girlpower"
+      ],
+      "fit": {
+        "platform": "Etsy/POD及自然流量方向匹配",
+        "product": "實際公開教學多為服飾與其他POD",
+        "niche": "觀察→適配可轉用；沒有Christian journal直接證據",
+        "time": "只用小型需求／設計檢核，拒絕追每週熱潮"
+      },
+      "performance_evidence": "Top 1%與六位數是官方自述。舊銷售頁自述2014起無付費廣告／社交導流；同頁也說長期每天12–14h，不能推成每週3–5h可複製。未獨立核帳或店舖。",
+      "interests": [
+        "Top Seller Secret等課程銷售",
+        "Wolf Method recurring membership",
+        "Custom Products Masterclass及shop reviews"
+      ],
+      "limits": [
+        "I.O.D.僅讀公開概要，未讀付費課程",
+        "零廣告是她自己歷史經驗與銷售承諾，不是普遍實證",
+        "本輪Printify2022訪談抓取被取消，不作已讀教學",
+        "不採政治商品／特定熱門詞／精準詞保證快賣",
+        "二次語義抽查BL02/BL03結論：只有銷售頁概要與不適配題材，沒有足夠獨特增量。"
+      ],
+      "incremental_value_relative_to_existing_methods": "I.O.D.公開概要與現有買家需求→listing優化→驗證順序重疊；趨勢觀察案例可作反例與適配檢核，不必新增常用人物。",
+      "roster_recommendation": "hold_no_new_qualified_method",
+      "candidate_id": "NC2-POD-brittany_lewis",
+      "cohort": "POD",
+      "researcher_decision": "hold_new_persona_framework_outline_reference_only",
+      "source_ids": [
+        "NC2-POD-BL01",
+        "NC2-POD-BL02",
+        "NC2-POD-BL03",
+        "NC2-POD-BL04",
+        "NC2-POD-BL05"
+      ],
+      "final_decision": "deferred",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Emily Odio-Sutton",
+      "brand": "Ecomm Emily",
+      "identity": "confirmed_via_original_interviews",
+      "official_channels": [
+        "https://www.instagram.com/ecommemily/",
+        "https://ecommemily.podia.com/"
+      ],
+      "replaces": "Jennifer Sanderson",
+      "fit": {
+        "platform": "Etsy/POD直接匹配",
+        "product": "公開原訪談明確hardcover journals，為最接近產品載體",
+        "niche": "受禮人身份／文字／送禮者視角匹配；Christian未證",
+        "time": "同類產品批次工作與常青受禮人設計較匹配"
+      },
+      "performance_evidence": "Printify2025案例約US$580k revenue；2024主持頁19k／15k+ sales口徑不一致。均為原始採訪自述，非獨立審計／利潤。本輪未找到可核歸屬零售店。",
+      "interests": [
+        "Printify原始供應商成功案例，有推廣選樣偏誤",
+        "Gold City Ventures The Gift Lab教學合作",
+        "自己的coaching／課程"
+      ],
+      "limits": [
+        "Printify hardcover journal不得等同ShineOn材質、頁數、成本或售價",
+        "不能把職業禮品結果當US$49.95 Christian家人朋友journal需求",
+        "日更數量不是本店任務；本店每週3–5h包含履約"
+      ],
+      "incremental_value_relative_to_existing_methods": "新增最接近本店產品載體的原始hardcover journal案例，且明確由顧客評論發現送禮者，再轉為常青受禮人身份與文字設計，補足一般SEO／圖片原則的商品與買家證據鏈。",
+      "roster_recommendation": "propose_limited_primary_method_card",
+      "candidate_id": "NC2-POD-emily_odio_sutton",
+      "cohort": "POD",
+      "researcher_decision": "conditional_adopt_giftable_journal_method",
+      "source_ids": [
+        "NC2-POD-EE01",
+        "NC2-POD-EE02",
+        "NC2-POD-EE03",
+        "NC2-POD-EE04"
+      ],
+      "final_decision": "new_adopted_business",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Krystal Whitten",
+      "official_channels": [
+        "https://www.krystalwhitten.com/",
+        "https://learn.krystalwhitten.com/faithandlettering"
+      ],
+      "category": "faith_lettering_and_product_use_teacher",
+      "identity_verified": true,
+      "actual_products": "The Lettering Prayer Journal、faith lettering資源；近年主要轉數碼",
+      "platform_fit": "Shopify與課程平台已驗；未核實Etsy／ShineOn",
+      "product_fit": "信仰／journal貼近，guided內頁與本店200頁間線存在重大差異",
+      "instruction_evidence": {
+        "full_first_person_read": [
+          "NC2-FAITH-K2"
+        ],
+        "course_metadata_only": [
+          "NC2-FAITH-K3"
+        ],
+        "not_read": [
+          "NC2-FAITH-K4",
+          "Prayer Series Part 2",
+          "Prayer Series Part 3"
+        ],
+        "incremental_value": "與既有journaling品牌用途示範可能重疊；先作補充引用，未完成James Method逐條去重"
+      },
+      "performance": {
+        "class": "self_report_only",
+        "claims": "best-selling、出版／授權、學員數為自述；本輪沒有獨立營收／profit證據",
+        "material_limit": "官網明示2025年7月收縮90%產品線，原因未核實"
+      },
+      "commercial_interests": [
+        "數碼產品",
+        "付費課程",
+        "會員",
+        "用品連結"
+      ],
+      "usable_method": "從使用困難連到真實journal用途，限K2文章所見",
+      "original_transfer": "為本店草擬一張真實間線頁用途圖，示例必須是使用者自行書寫",
+      "small_test": {
+        "status": "draft_only",
+        "time_cap_minutes": 45,
+        "primary_change": "一張內頁用途說明圖",
+        "metrics": [
+          "listing views作分母",
+          "商品瀏覽與同商品訂單分開列示並保留同期基線；只有同範圍同期間visits可得才計orders/visits",
+          "與內頁預期相關的買家問題"
+        ],
+        "review_condition": "須店主先批准；流量不足標未定，不宣告勝出"
+      },
+      "never_claim": [
+        "Christian journal電商教練",
+        "已讀完整課程",
+        "預印祈禱提示",
+        "ShineOn成功模型"
+      ],
+      "candidate_id": "NC2-FAITH-faith_krystal_whitten",
+      "cohort": "FAITH",
+      "researcher_decision": "supplementary_product_education_source_do_not_auto_add_person",
+      "source_ids": [
+        "NC2-FAITH-K1",
+        "NC2-FAITH-K2",
+        "NC2-FAITH-K3",
+        "NC2-FAITH-K4"
+      ],
+      "final_decision": "supplementary_case_not_coach",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Ruth Chou Simons",
+      "brand": "GraceLaced",
+      "official_channels": [
+        "https://ruthchousimons.com/",
+        "https://gracelaced.com/"
+      ],
+      "category": "faith_brand_founder_case",
+      "identity_verified": true,
+      "actual_products": "Scripture art、文具、書與guided journal",
+      "platform_fit": "自家品牌／出版生態；未核實Etsy或ShineOn",
+      "product_fit": "信仰文字與藝術方向可參考；作者品牌及引導內頁不可直接移植",
+      "instruction_evidence": {
+        "full_first_person_read": [
+          "NC2-FAITH-R2"
+        ],
+        "course_metadata_only": [],
+        "not_read": [],
+        "incremental_value": "已讀具體創辦人決策：由身邊需求起步、限制擴張負擔；不是演繹為增長因果"
+      },
+      "performance": {
+        "class": "official_identity_products_and_interview_self_report",
+        "claims": "身份／商品可見；bestseller與商業成果未獨立查核",
+        "material_limit": "歷史訪談／疫情背景；起步年份敘事與現行網站不完全一致，不用單一年份立論"
+      },
+      "commercial_interests": [
+        "藝術商品",
+        "書",
+        "演講",
+        "刊物自身商店"
+      ],
+      "usable_method": "R2中先服務具體需求、從已做事情產生內容、選擇不擴張的經驗",
+      "original_transfer": "用一個成人家人／朋友送禮情境驗證文案清晰性，守住工時",
+      "small_test": {
+        "status": "draft_only",
+        "time_cap_minutes": 30,
+        "primary_change": "一份買家／收禮者／場合情境草稿",
+        "metrics": [
+          "產品宣稱是否真實",
+          "是否重複既有listing意圖",
+          "工時"
+        ],
+        "review_condition": "若不能說清唯一情境或與現有listing重複就不新增"
+      },
+      "never_claim": [
+        "Christian journal銷售課程已驗證",
+        "31天發文保證",
+        "宗教承諾等於商業成果"
+      ],
+      "candidate_id": "NC2-FAITH-faith_ruth_chou_simons",
+      "cohort": "FAITH",
+      "researcher_decision": "adopt_bounded_founder_case_not_coach",
+      "source_ids": [
+        "NC2-FAITH-R1",
+        "NC2-FAITH-R2",
+        "NC2-FAITH-R3"
+      ],
+      "final_decision": "supplementary_case_not_coach",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Emily Ley",
+      "brand": "Simplified",
+      "official_channels": [
+        "https://www.emilyley.com/",
+        "https://emilyleybooks.com/"
+      ],
+      "category": "planner_brand_founder_case",
+      "identity_verified": true,
+      "actual_products": "planners、紙品及書",
+      "platform_fit": "早期Etsy僅由官方show notes記載；現為自家品牌／零售，不是當前Etsy示範",
+      "product_fit": "planner系統內頁與間線journal不同；Christian個人化產品直接教學不足",
+      "instruction_evidence": {
+        "full_first_person_read": [],
+        "official_story_read": [
+          "NC2-FAITH-E1"
+        ],
+        "course_metadata_only": [
+          "NC2-FAITH-E2",
+          "NC2-FAITH-E3"
+        ],
+        "not_read": [
+          "Episode 20 audio/transcript",
+          "所宣傳business course"
+        ],
+        "incremental_value": "主要是產品定位文案觀察，不增添現成利基教師"
+      },
+      "performance": {
+        "class": "brand_self_report",
+        "claims": "官網250K+ planners sold／256K+ customers不等於獨立審計",
+        "material_limit": "有團隊與大型零售，無可比3–5小時／週資料"
+      },
+      "commercial_interests": [
+        "planner",
+        "文具",
+        "書",
+        "品牌內容"
+      ],
+      "usable_method": null,
+      "original_transfer": "只問抽象送禮利益能否落到一個真實用途；不是從未讀Podcast抽方法",
+      "small_test": {
+        "status": "optional_draft_only",
+        "time_cap_minutes": 15,
+        "primary_change": "一句用途清晰性修訂",
+        "metrics": [
+          "可否對應實際產品功能"
+        ],
+        "review_condition": "若Krystal／Lauren已足夠就不再占用工時"
+      },
+      "never_claim": [
+        "已看完整Podcast",
+        "當前business course已開課",
+        "Christian journal增長教練"
+      ],
+      "candidate_id": "NC2-FAITH-faith_emily_ley",
+      "cohort": "FAITH",
+      "researcher_decision": "defer_niche_coach_keep_low_priority_case",
+      "source_ids": [
+        "NC2-FAITH-E1",
+        "NC2-FAITH-E2",
+        "NC2-FAITH-E3"
+      ],
+      "final_decision": "deferred",
+      "complete_method_related_text_read": false
+    },
+    {
+      "name": "Sarah Titus",
+      "official_channels": [
+        "https://www.sarahtitus.com/",
+        "https://www.shop.sarahtitus.com/"
+      ],
+      "category": "christian_printables_business_content_creator",
+      "identity_verified": true,
+      "actual_products": "數碼printables、planners、binders、課程／模板",
+      "platform_fit": "Shopify下載；非本輪核實Etsy／ShineOn",
+      "product_fit": "數码下載邊際成本及email受眾模式與US$49.95實物POD不等同",
+      "instruction_evidence": {
+        "full_first_person_read": [
+          "NC2-FAITH-S2"
+        ],
+        "course_metadata_only": [
+          "NC2-FAITH-S4"
+        ],
+        "not_read": [
+          "付費課程"
+        ],
+        "incremental_value": "有公開marketing教學，但對當前本店不夠直接，無需為引用而新增funnel"
+      },
+      "performance": {
+        "class": "unverified_self_report",
+        "claims": "2017–2021主店約US$21.98m revenue等口徑僅自述，不能換算本店收益",
+        "material_limit": "不同期間／範圍的23m／30m不可直接當矛盾；沒有審計或後台驗證"
+      },
+      "commercial_interests": [
+        "數碼產品",
+        "付費課程",
+        "affiliate links"
+      ],
+      "usable_method": "公開文章的免費樣本／受眾／口碑思路僅記錄，不採完整系統",
+      "original_transfer": "若已有批准的渠道，展示本店真實產品及用途即可；不複製其素材",
+      "small_test": {
+        "status": "not_prioritized",
+        "time_cap_minutes": 0,
+        "primary_change": null,
+        "metrics": [
+          "若另獲批准才看實際到店點擊"
+        ],
+        "review_condition": "沒有既有渠道、工時或可靠可比數據便維持暫緩"
+      },
+      "never_claim": [
+        "營收已驗",
+        "個人化journal被動收入",
+        "免費素材可商用或轉售"
+      ],
+      "candidate_id": "NC2-FAITH-faith_sarah_titus",
+      "cohort": "FAITH",
+      "researcher_decision": "defer_for_current_physical_pod_plan",
+      "source_ids": [
+        "NC2-FAITH-S1",
+        "NC2-FAITH-S2",
+        "NC2-FAITH-S3",
+        "NC2-FAITH-S4"
+      ],
+      "final_decision": "deferred",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Christie Daugherty",
+      "brand": "Create with Christie",
+      "official_channels": [
+        "https://www.craftwithchristie.com/",
+        "https://www.etsy.com/shop/CreatewithChristie"
+      ],
+      "category": "faith_lettering_and_art_teacher",
+      "identity_verified": true,
+      "actual_products": "faith lettering workbooks、scripture cards、Procreate stamps、藝術用品／小型watercolor journals",
+      "platform_fit": "Etsy店已開啟，教學／會員在自家平台；ShineOn未驗",
+      "product_fit": "faith創作與Etsy貼近；不是200頁個人化PODjournal證明",
+      "instruction_evidence": {
+        "full_first_person_read": [],
+        "course_metadata_only": [
+          "NC2-FAITH-C3",
+          "NC2-FAITH-C4",
+          "NC2-FAITH-C5"
+        ],
+        "not_read": [
+          "完整4天工作坊",
+          "完整Devos & Doodles示範"
+        ],
+        "incremental_value": "課程存在證據強；操作方法尚無可用全文，不提升為日常自動引用卡"
+      },
+      "performance": {
+        "class": "public_platform_snapshot_plus_self_report",
+        "platform_snapshot": {
+          "sales": 12337,
+          "rating": 4.9,
+          "review_count": 1565,
+          "unit": "whole_shop_cumulative",
+          "observed_at": "2026-10-07",
+          "caching_caveat": true
+        },
+        "claims": "學員／thriving business僅自述",
+        "material_limit": "全店跨產品數量，不是journal銷售或利潤"
+      },
+      "commercial_interests": [
+        "workshop",
+        "會員",
+        "Etsy商品",
+        "材料kit",
+        "材料affiliate links"
+      ],
+      "usable_method": null,
+      "original_transfer": "商品呈現可先草擬小成果示範；明標是觀察課程offer的假設",
+      "small_test": {
+        "status": "draft_only_after_higher_priority_work",
+        "time_cap_minutes": 20,
+        "primary_change": "15–20秒真實間線journal使用示例腳本",
+        "metrics": [
+          "買家能否分清內頁預印與自行書寫",
+          "腳本工時"
+        ],
+        "review_condition": "未補完整教學不稱Christie技法；不自動製作／發布"
+      },
+      "never_claim": [
+        "已學完整lettering法",
+        "Etsy增長教練",
+        "journal銷量12337",
+        "未授權模板商用"
+      ],
+      "candidate_id": "NC2-FAITH-faith_christie_daugherty",
+      "cohort": "FAITH",
+      "researcher_decision": "identity_qualified_method_card_deferred",
+      "source_ids": [
+        "NC2-FAITH-C1",
+        "NC2-FAITH-C2",
+        "NC2-FAITH-C3",
+        "NC2-FAITH-C4",
+        "NC2-FAITH-C5"
+      ],
+      "final_decision": "deferred",
+      "complete_method_related_text_read": false
+    },
+    {
+      "name": "Lauren Ibach",
+      "brand": "LaurenIbachLettering",
+      "official_channels": [
+        "https://laurenibach.com/",
+        "https://www.etsy.com/shop/LaurenIbachLettering"
+      ],
+      "category": "faith_copy_and_product_use_teacher_creator",
+      "identity_verified": true,
+      "actual_products": "基督教卡片、書籤、scripture cards、貼紙、書；作者自述有早期自出版journal",
+      "platform_fit": "Etsy公開店可核；非書商品2025回Etsy為本人自述",
+      "product_fit": "家人朋友送禮文字高度相容；不推定其做ShineOn或本店價位",
+      "instruction_evidence": {
+        "full_first_person_read": [
+          "NC2-FAITH-L4"
+        ],
+        "gift_guide_read": [
+          "NC2-FAITH-L5"
+        ],
+        "course_metadata_only": [],
+        "not_read": [],
+        "incremental_value": "具體收件人／場合文字框架與避免虛假安慰；不是電商增長技法"
+      },
+      "performance": {
+        "class": "public_platform_snapshot",
+        "platform_snapshot": {
+          "sales": 7240,
+          "rating": 5,
+          "review_count": 1065,
+          "unit": "whole_shop_cumulative",
+          "observed_at": "2026-10-07",
+          "caching_caveat": true
+        },
+        "claims": "出版合作本輪來自官網；未核驗出版量或收益",
+        "material_limit": "官網明言無online lettering course且不計劃製作；不能包裝為lettering course coach"
+      },
+      "commercial_interests": [
+        "Etsy商品",
+        "書",
+        "授權",
+        "Amazon affiliate links"
+      ],
+      "usable_method": "從場合調整問候、感謝／祈禱、個人訊息及結語，避免未有把握的安慰承諾；只以L4為方法依據",
+      "original_transfer": "為單一成人收禮者寫兩個原創短句方向並由店主選一個；不用作者範文或獨特設計",
+      "small_test": {
+        "status": "draft_only_priority_1",
+        "time_cap_minutes": 30,
+        "primary_change": "單一收禮者／場合的訊息角度",
+        "metrics": [
+          "送禮者是否真能說這句話",
+          "場合與語氣適配",
+          "批准後才比較同商品瀏覽、訂單及買家疑問；只有同範圍同期間visits可得才計orders/visits"
+        ],
+        "review_condition": "傷痛場合有過度承諾即拒稿；低流量未定，不同時改多元素"
+      },
+      "never_claim": [
+        "電商增長教練",
+        "lettering網課老師",
+        "journal銷量7240",
+        "本店可複製銷售"
+      ],
+      "candidate_id": "NC2-FAITH-faith_lauren_ibach",
+      "cohort": "FAITH",
+      "researcher_decision": "adopt_limited_recipient_occasion_writing_card",
+      "source_ids": [
+        "NC2-FAITH-L1",
+        "NC2-FAITH-L2",
+        "NC2-FAITH-L3",
+        "NC2-FAITH-L4",
+        "NC2-FAITH-L5"
+      ],
+      "final_decision": "new_adopted_specialist",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Mei Pak",
+      "brands": [
+        "Creative Hive",
+        "Tiny Hands"
+      ],
+      "priority": 1,
+      "identity_status": "verified_official_crosslink",
+      "products_platforms": {
+        "observed": "Scented food jewelry on Tiny Hands own storefront",
+        "self_reported": "Separate personalized POD art business; identity not verified"
+      },
+      "performance": {
+        "verified": "Operational storefront and product/review presence only",
+        "self_reported": "Multiple seven-figure businesses; $168k/year jewelry average over ten years",
+        "not_verified": [
+          "profit",
+          "revenue records",
+          "organic attribution",
+          "US buyer share",
+          "Christian journal results"
+        ]
+      },
+      "commercial_interests": [
+        "Own courses and programs",
+        "Hostinger custom discount-code promotion; commission not verified"
+      ],
+      "retained_method": "Observed customer evidence to distinguish buyer, recipient, occasion and valued product detail.",
+      "new_value": "Adds an evidence-validation step to an existing recipient/occasion matrix rather than another imagined persona.",
+      "not_adopted": [
+        "Paid ads and mandatory own-store expansion",
+        "Mass outreach",
+        "Disguising automation as a personal email",
+        "Revenue or passive-income expectations"
+      ],
+      "shop_translation": "Read one authorized anonymized message/review sample; turn one repeated misunderstanding into one product-accurate image draft.",
+      "channel_coverage": "Official site and selected articles only; YouTube referral identified, no channel audit.",
+      "candidate_id": "NC2-SHOP-mei_pak",
+      "cohort": "SHOP",
+      "researcher_decision": "adopt_limited_method",
+      "source_ids": [
+        "NC2-SHOP-M01",
+        "NC2-SHOP-M02",
+        "NC2-SHOP-M03",
+        "NC2-SHOP-M04"
+      ],
+      "final_decision": "new_adopted_business",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Dalia Abdalla",
+      "brands": [
+        "Modern Pink Paper",
+        "Etsy Seller Mastermind",
+        "The Handmade Mastermind"
+      ],
+      "priority": 2,
+      "identity_status": "verified_official_name_store_crosslinks",
+      "replacement_required": false,
+      "products_platforms": {
+        "observed": "Personalized note cards/notepads and a religious cross notepad on Etsy and brand website; production partner disclosed",
+        "self_reported": "Amazon Handmade sales in original interviews"
+      },
+      "performance": {
+        "platform_snapshot": {
+          "source_id": "NC2-SHOP-D03",
+          "read_date": "2026-10-07",
+          "cumulative_shop_sales": 38282,
+          "display_rounded": "38.3k",
+          "listed_item_count": 1682,
+          "latest_activity_date": "2026-09-18",
+          "retrieval_freshness": "web index reported crawled about two weeks ago; not live authenticated API"
+        },
+        "self_reported": "Six-figure seller and $631K Amazon Handmade 2020 revenue promoted by affiliate partner",
+        "not_verified": [
+          "Christian-product-specific sales",
+          "profit",
+          "organic revenue share",
+          "low-hours execution",
+          "journal sales"
+        ]
+      },
+      "commercial_interests": [
+        "Courses and resources",
+        "Marmalead explicitly identifies affiliate partnership in D05"
+      ],
+      "retained_method": "Actual customer questions and review concerns become image explanations; distinguish pin views from outbound visits and compare like products/seasons.",
+      "new_value": "Uses personalized-stationery customer frictions as content inputs, with explicit metric-denominator caution.",
+      "not_adopted": [
+        "2018 daily pin quotas",
+        "Tailwind Tribes",
+        "Guaranteed rich-pin boosts",
+        "Universal conversion benchmarks",
+        "Automatically launching another channel"
+      ],
+      "shop_translation": "Use the same customer-evidence sample as Mei to draft one personalization or interior-proof image; reuse only on an existing authorized channel.",
+      "channel_coverage": "Full published 2018 interview article, not full video; current teaching homepage unavailable.",
+      "candidate_id": "NC2-SHOP-dalia_abdalla",
+      "cohort": "SHOP",
+      "researcher_decision": "adopt_limited_method",
+      "source_ids": [
+        "NC2-SHOP-D01",
+        "NC2-SHOP-D02",
+        "NC2-SHOP-D03",
+        "NC2-SHOP-D04",
+        "NC2-SHOP-D05"
+      ],
+      "final_decision": "new_adopted_business",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Kara Buntin",
+      "brands": [
+        "A Cake To Remember",
+        "Artisan Shopper"
+      ],
+      "priority": 3,
+      "identity_status": "verified_official_website",
+      "products_platforms": {
+        "historical": "Cake decorations and supplies sold online",
+        "current_observed": "Official Shop says no longer self-selling cake supplies; links Zazzle personalized goods and affiliate suppliers"
+      },
+      "performance": {
+        "self_reported": "50,000+ Etsy sales and full-time product income in About",
+        "verified": "Current official commercial page and source conflict",
+        "not_verified": [
+          "current Etsy sales",
+          "current cake-supply retail operation",
+          "Pinterest revenue",
+          "journal results"
+        ]
+      },
+      "commercial_interests": [
+        "Courses/membership",
+        "Affiliate links and paid placements",
+        "Zazzle product links"
+      ],
+      "retained_method": "Limited backup: give image a truthful click reason; measure outbound clicks; reuse a functioning template.",
+      "new_value": "Small; overlaps Dalia and existing outbound-traffic methods.",
+      "reason": "Official current Shop conflicts with old About; main Etsy URL returned generic page. Avoid adding redundant ongoing persona.",
+      "not_adopted": [
+        "1200x800 claimed as 2:3",
+        "Fresh-pin algorithm guarantees",
+        "Fixed 4-6 month success timing",
+        "Required daily quota"
+      ],
+      "shop_translation": "If existing channel data supports it, compare one clear benefit-led image with a product-only image without changing multiple variables.",
+      "channel_coverage": "Full article read; linked YouTube channels returned footer metadata only.",
+      "candidate_id": "NC2-SHOP-kara_buntin",
+      "cohort": "SHOP",
+      "researcher_decision": "hold_roster_backup_method",
+      "source_ids": [
+        "NC2-SHOP-K01",
+        "NC2-SHOP-K02",
+        "NC2-SHOP-K03",
+        "NC2-SHOP-K04"
+      ],
+      "final_decision": "deferred",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Deborah Engelmajer",
+      "brands": [
+        "Tizzit",
+        "Feel Good Ecom"
+      ],
+      "priority": 4,
+      "identity_status": "verified_current_official_name_and_historical_interview",
+      "products_platforms": {
+        "observed": "Coaching, courses and ecommerce services",
+        "not_verified": "Own physical gift-product retail business"
+      },
+      "performance": {
+        "self_reported": "4,000+ ecommerce clients and selected client testimonials",
+        "not_verified": [
+          "own retail sales",
+          "audited client revenue",
+          "Christian journal results",
+          "zero-ad results"
+        ]
+      },
+      "commercial_interests": [
+        "Own coaching/courses/services",
+        "Meta-ads component in current program"
+      ],
+      "retained_method": "Reference only: separate factual product features from plausible benefits and buyer needs.",
+      "new_value": "Low; hypothetical persona worksheet duplicates existing buyer matrix.",
+      "reason": "Current own-site/email/Meta-ads scale-up offering and lack of verified own gift-store sales do not justify a new low-hours Etsy coach.",
+      "not_adopted": [
+        "Fictional demographics as demand evidence",
+        "Current paid-program outcome claims",
+        "Multi-channel launch"
+      ],
+      "shop_translation": "Add 'product proof' and 'buyer purpose' columns only; leave unsupported emotional and interior claims blank.",
+      "channel_coverage": "Full nine-page PDF text and full published interview article; legacy homepage DNS failed; paid training not read.",
+      "candidate_id": "NC2-SHOP-deborah_engelmajer",
+      "cohort": "SHOP",
+      "researcher_decision": "hold_insufficient_incremental_fit",
+      "source_ids": [
+        "NC2-SHOP-T01",
+        "NC2-SHOP-T02",
+        "NC2-SHOP-T03",
+        "NC2-SHOP-T04",
+        "NC2-SHOP-T05"
+      ],
+      "final_decision": "deferred",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Lisa Jacobs",
+      "brands": [
+        "Marketing Creativity",
+        "Energy Shop"
+      ],
+      "priority": 5,
+      "identity_status": "verified_author_publication_and_course_host",
+      "products_platforms": {
+        "self_reported": "Historical gemstone bracelets on Etsy; books and online programs",
+        "observed": "Author-published Substack articles and official CreativeLive instructor page"
+      },
+      "performance": {
+        "self_reported": "Historical top-2%-earning Etsy shop and thousands of sales",
+        "not_verified": [
+          "rank methodology",
+          "current shop transaction data",
+          "profit",
+          "zero-ad journal performance"
+        ]
+      },
+      "commercial_interests": [
+        "Books",
+        "Courses",
+        "Toolkit"
+      ],
+      "retained_method": "Supporting historical reference: purposeful content and prioritizing durable reusable work.",
+      "new_value": "Low; overlaps existing workload limits and asset reuse.",
+      "reason": "Selected sources are historical and current full-shop performance is unverified; no need to add another standing persona.",
+      "not_adopted": [
+        "Old email deliverability rules",
+        "Email-is-always-best assertion",
+        "Passive or effortless POD fulfillment inference"
+      ],
+      "shop_translation": "Prioritize reusable name/interior/ordering explanations over disposable post volume within remaining owner time.",
+      "channel_coverage": "Three complete articles read using Firecrawl; no full 2026 channel sweep.",
+      "candidate_id": "NC2-SHOP-lisa_jacobs",
+      "cohort": "SHOP",
+      "researcher_decision": "hold_historical_redundant_framework",
+      "source_ids": [
+        "NC2-SHOP-L01",
+        "NC2-SHOP-L02",
+        "NC2-SHOP-L03",
+        "NC2-SHOP-L04"
+      ],
+      "final_decision": "deferred",
+      "complete_method_related_text_read": true
+    },
+    {
+      "name": "Jess Van Den",
+      "brands": [
+        "Create & Thrive",
+        "Epheriell"
+      ],
+      "priority": 6,
+      "identity_status": "verified_official_and_platform",
+      "products_platforms": {
+        "historical_observed": "Sterling-silver wedding rings, jewelry and personalized rings",
+        "current_observed": "Epheriell indefinite sabbatical, no orders"
+      },
+      "performance": {
+        "platform_snapshot": {
+          "source_id": "NC2-SHOP-J03",
+          "read_date": "2026-10-07",
+          "cumulative_shop_sales": 4542,
+          "display_rounded": "4.5k",
+          "notice_updated_date": "2026-06-07",
+          "retrieval_freshness": "web index reported crawled last month"
+        },
+        "self_reported": "Almost $2m combined business turnover over nearly 18 years",
+        "not_verified": [
+          "profit",
+          "organic-only outcomes",
+          "low-hours business",
+          "journal results"
+        ]
+      },
+      "commercial_interests": [
+        "Historical courses/membership/ebooks; retirement notice says Thriver Circle closes June 8, 2026"
+      ],
+      "retained_method": null,
+      "new_value": "No qualifying new fully processed method in this pass.",
+      "reason": "Official retirement from handmade-business teaching in June 2026; archive remains useful but not an active new teacher.",
+      "not_adopted": [
+        "Overview-only media as full framework",
+        "Guest photographer ideas misattributed to host",
+        "Jewelry repeat purchase assumptions transferred to journal"
+      ],
+      "shop_translation": "Only an original caution: gift repeat purchases must be proven with own customer evidence, not inferred from another category.",
+      "channel_coverage": "Full retirement article; method media only overview/search highlights, not full audio or video.",
+      "candidate_id": "NC2-SHOP-jess_van_den",
+      "cohort": "SHOP",
+      "researcher_decision": "reject_active_roster_keep_archive",
+      "source_ids": [
+        "NC2-SHOP-J01",
+        "NC2-SHOP-J02",
+        "NC2-SHOP-J03",
+        "NC2-SHOP-J04",
+        "NC2-SHOP-J05"
+      ],
+      "final_decision": "not_adopted_active",
+      "complete_method_related_text_read": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "NC-M1",
+      "url": "https://www.studiomdesignsco.com/blog/top-5-niches-for-2024-etsy-print-on-demand",
+      "type": "official_authored_article",
+      "read_status": "full_text",
+      "published_date": null,
+      "topic_year": 2024,
+      "research_capture_sha256": "62a8ae8b1b54df20039509cebc86ec8ab97cf07bf34cc0057885c791153f9e29"
+    },
+    {
+      "id": "NC-M2",
+      "url": "https://www.studiomdesignsco.com/blog/how-to-scale-your-etsy-print-on-demand-shop-faster-in-2024",
+      "type": "official_authored_article",
+      "read_status": "full_text",
+      "published_date": null,
+      "topic_year": 2024,
+      "research_capture_sha256": "458cdc3e2ff49979f16050e1212cdd6e306d8c8ff6544ef91eb67384e71553aa"
+    },
+    {
+      "id": "NC-M3",
+      "url": "https://printify.com/blog/how-mandy-dobosenski-design-hacks-that-helped-her-quit-her-9-5/",
+      "type": "supplier_original_interview",
+      "read_status": "full_text",
+      "published_date": "2023-04-27",
+      "commercial_interest": true,
+      "independent_financial_audit": false
+    },
+    {
+      "id": "NC-M4",
+      "url": "https://www.youtube.com/watch?v=YrLof7KOMXQ",
+      "type": "official_youtube_video",
+      "read_status": "metadata_description_only",
+      "published_date": "2025-08-30",
+      "supports_method_details": false,
+      "research_capture_sha256": "f6b2645598c3eb412fb537fb826ba898423017e50024683d7dae3b0ac2c1d531"
+    },
+    {
+      "id": "NC-M5",
+      "url": "https://www.youtube.com/watch?v=3qsXRrglfDY",
+      "type": "youtube_video_candidate",
+      "read_status": "retrieval_cancelled_not_retried",
+      "published_date": null,
+      "supports_method_details": false
+    },
+    {
+      "id": "NC-C1",
+      "url": "https://printify.com/blog/cassiy-helps-small-businesses-make-1000s/",
+      "type": "supplier_original_interview",
+      "read_status": "full_text",
+      "published_date": "2022-04-14",
+      "commercial_interest": true,
+      "independent_financial_audit": false,
+      "research_capture_sha256": "b56e051b09e88bdce0f7b8dc886d3d498a5467d9360ee790474a8b4d5f091d08"
+    },
+    {
+      "id": "NC-C2",
+      "url": "https://www.cassiyjohnson.com/",
+      "type": "official_website",
+      "read_status": "full_page",
+      "published_date": null,
+      "supports_identity_not_performance": true
+    },
+    {
+      "id": "NC-C3",
+      "url": "https://www.youtube.com/watch?v=Z0pZ8Zk2DG4",
+      "type": "official_youtube_video",
+      "read_status": "metadata_description_only",
+      "published_date": "2025-04-21",
+      "official_title": "The WORST Beginner Print On Demand Mistake Sellers Are Making & How To Avoid It",
+      "third_party_title_differs": true,
+      "supports_method_details": false,
+      "research_capture_sha256": "d39fb4aa43e3e1539a8eb509d97a9476492308a25c8a2ffe21f01bb93764c273"
+    },
+    {
+      "id": "NC-H1",
+      "url": "https://www.heatherxstudio.com/blog//blog/30-minute-daily-etsy-system",
+      "type": "official_authored_article",
+      "read_status": "full_text_video_unread",
+      "published_date": "2026-04-02",
+      "research_capture_sha256": "f586f3dc30e373b6b7883070b62dc05b0d9705808572ca0525cf5b3780c8f493"
+    },
+    {
+      "id": "NC-H2",
+      "url": "https://www.heatherxstudio.com/blog/the-only-etsy-strategy-that-actually-works-in-2026",
+      "type": "official_authored_article",
+      "read_status": "full_text_video_unread",
+      "published_date": "2026-03-27",
+      "official_platform_claims_not_verified": true
+    },
+    {
+      "candidate": "Stephen Chin",
+      "title": "HelloCustom Accelerator",
+      "url": "https://www.skool.com/hellocustom/about",
+      "source_type": "official_profile",
+      "publication_date": "undated",
+      "read_status": "profile_and_offer_read",
+      "limits": "頁面明示 By Stephen Chin；私人課程內容未入內。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-SC01",
+      "original_source_id": "SC01",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Stephen Chin",
+      "title": "HelloCustom",
+      "url": "https://hellocustom.io/",
+      "source_type": "official_commercial_page",
+      "publication_date": "undated",
+      "read_status": "commercial_page_read",
+      "limits": "讀到產品、個人化服務與履約夥伴；不是公開教學。現行商業定位不等同2023軟件介紹。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-SC02",
+      "original_source_id": "SC02",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Stephen Chin",
+      "title": "Podcast Episode 144: Custom Products Made Him $3 Million on Etsy – with Stephen Chin",
+      "url": "https://www.howtosellyourstuff.com/blog/144",
+      "source_type": "original_interview_host",
+      "publication_date": "2024-08-28",
+      "read_status": "show_notes_only",
+      "limits": "220,000件及US$3m為受訪者／主持方自述；未讀音訊或影片逐字稿。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-SC03",
+      "original_source_id": "SC03",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Stephen Chin",
+      "title": "Podcast Episode 98: How to use AI to automate your personalized print on demand orders-- with Stephen Chin",
+      "url": "https://www.howtosellyourstuff.com/blog/printify-customizable-product",
+      "source_type": "original_interview_host",
+      "publication_date": "2023-10-12",
+      "read_status": "show_notes_only",
+      "limits": "官方YouTube @HelloCustom及Printify整合身份鏈；該頁有贊助與聯盟披露。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-SC04",
+      "original_source_id": "SC04",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Stephen Chin",
+      "title": "6 Figure Niches Video",
+      "url": "https://www.youtube.com/watch?v=jXmIiv4duts",
+      "source_type": "creator_video_linked_by_original_host",
+      "publication_date": "unknown",
+      "read_status": "unavailable",
+      "limits": "已嘗試開啟，未取得教學內容。不可從標題建立方法。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-SC05",
+      "original_source_id": "SC05",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Lizzie Smiley",
+      "title": "About",
+      "url": "https://www.howtosellyourstuff.com/site/about",
+      "source_type": "official_profile",
+      "publication_date": "undated",
+      "read_status": "article_read",
+      "limits": "本人姓名與木製標語牌店故事；不是ShineOn或journal專業證據。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-LS01",
+      "original_source_id": "LS01",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Lizzie Smiley",
+      "title": "4 Strategies I used to grow my Etsy shop from $25 to $6000",
+      "url": "https://s3.amazonaws.com/kajabi-storefronts-production/sites/2147505103/themes/2148175372/downloads/18qCp2UlRleaTQk0fadO_4_Strategies_I_used_to_grow_my_Etsy_shop_from_25_to_6000.pdf",
+      "source_type": "official_public_pdf",
+      "publication_date": "2021 copyright",
+      "read_status": "full_text_read",
+      "limits": "Firecrawl回傳16/16頁文字，已讀；web PDF開啟失敗。非逐頁視覺審核。封面/圖片OCR可能有噪音。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-LS02",
+      "original_source_id": "LS02",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Lizzie Smiley",
+      "title": "Podcast Episode 146: This New Etsy Seller Switched to Giftable POD Products and Her Sales Soared -with Ecomm Emily",
+      "url": "https://www.howtosellyourstuff.com/blog/146",
+      "source_type": "original_interview_host",
+      "publication_date": "2024-09-11",
+      "read_status": "show_notes_only",
+      "limits": "只讀節目簡介與身份／利益披露，不把Emily內容算作Lizzie原創教學。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-LS03",
+      "original_source_id": "LS03",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Taylor Posada",
+      "title": "Build a Life You Love with Print on Demand",
+      "url": "https://www.taylorpod.com/",
+      "source_type": "official_homepage",
+      "publication_date": "undated; embedded posts 2026-10-06",
+      "read_status": "page_and_embedded_caption_read",
+      "limits": "Firecrawl成功讀取；含官方Taylor Posada／@TaylorPOD／@taylorpod_身份鏈。2026貼文只有caption，未看影片。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-TP01",
+      "original_source_id": "TP01",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Taylor Posada",
+      "title": "Getting Started with Print on Demand: Full Start-Up Guide for 2024",
+      "url": "https://s3.amazonaws.com/kajabi-storefronts-production/file-uploads/sites/2147681733/themes/2155610768/downloads/7e8a675-ddaf-1bc3-c3ec-7f25f61715_Getting_Started_POD_Guide_2024.pdf",
+      "source_type": "creator_public_pdf",
+      "publication_date": "2024 edition",
+      "read_status": "full_text_read",
+      "limits": "web成功解析8頁文字；入門平台／工具清單及affiliate披露。舊價格、授權概述不作現行規則。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-TP02",
+      "original_source_id": "TP02",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Taylor Posada",
+      "title": "The Etsy Listing Strategy That Sells: From Keyword Research to Design",
+      "url": "https://pickscribe.com/v/xXNDJ3oOVsM",
+      "source_type": "third_party_transcript_mirror",
+      "publication_date": "unknown",
+      "read_status": "search_discovery_only",
+      "limits": "未打開且未核對原片，沒有採用其教學。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-TP03",
+      "original_source_id": "TP03",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Taylor Posada",
+      "title": "$1.1M Etsy POD Seller Reveals The #1 Mistake New Sellers Make",
+      "url": "https://podcasts.apple.com/it/podcast/%241-1m-etsy-pod-seller-reveals-the-1-mistake-new/id1661426024?i=1000751281054",
+      "source_type": "original_podcast_distribution",
+      "publication_date": "2026-02-24",
+      "read_status": "search_metadata_only_open_failed",
+      "limits": "搜尋結果有營收／工時介紹；開啟404。報告不把這些數字當作已核實結果。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-TP04",
+      "original_source_id": "TP04",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Hannah Gardner",
+      "title": "Ecom Hannah Home Page",
+      "url": "https://www.ecomhannah.com/",
+      "source_type": "official_homepage",
+      "publication_date": "undated",
+      "read_status": "commercial_page_read",
+      "limits": "明示ProfitTree founder Hannah，自述US$3.5m Etsy銷售；未報名。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-HG01",
+      "original_source_id": "HG01",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Hannah Gardner",
+      "title": "@EcomHannah Official",
+      "url": "https://linktr.ee/HannahGardner_",
+      "source_type": "official_link_profile",
+      "publication_date": "undated",
+      "read_status": "profile_read",
+      "limits": "連結個人品牌／ProfitTree與教學渠道；非同名Etsy買家。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-HG02",
+      "original_source_id": "HG02",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Hannah Gardner",
+      "title": "Etsy Ads Secrets: Know Your Numbers & Boost Your Shop’s Earnings",
+      "url": "https://edenfried.com/etsy-ads/",
+      "source_type": "original_interview_host_article",
+      "publication_date": "2025-01-09 page date",
+      "read_status": "full_article_read",
+      "limits": "主持人正式文章改寫，非逐字稿；以廣告、整體盈利和ProfitTree為主。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-HG03",
+      "original_source_id": "HG03",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Hannah Gardner",
+      "title": "[082] Etsy Ads Secrets: Know Your Numbers & Boost Your Shop’s Earnings with Hannah Gardner",
+      "url": "https://rebelbossladies.podbean.com/e/082-etsy-ads-secrets-know-your-numbers-boost-your-shops-earnings-with-hannah-gardner/",
+      "source_type": "original_podcast_host",
+      "publication_date": "2025-01-16 feed date",
+      "read_status": "show_notes_only",
+      "limits": "原節目頁已開啟；日期與文章相差一週，分列不混用。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-HG04",
+      "original_source_id": "HG04",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Brittany Lewis",
+      "title": "The Blank to Bank Elite Membership Terms and Conditions",
+      "url": "https://www.beawolfbiz.com/elite-membership-terms-conditions",
+      "source_type": "official_identity_terms",
+      "publication_date": "2021-01-01 effective date",
+      "read_status": "identity_and_disclaimer_read",
+      "limits": "確認Brittany Lewis與Be A Wolf Biz身份，結果無保證。沒有接受或購買。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-BL01",
+      "original_source_id": "BL01",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Brittany Lewis",
+      "title": "Top Seller Secret: Print On Demand Master Course",
+      "url": "https://www.beawolfbiz.com/topsellersecret",
+      "source_type": "official_sales_page_with_framework_outline",
+      "publication_date": "undated legacy copy",
+      "read_status": "framework_outline_read",
+      "limits": "讀到I.O.D.公開概要和自述無廣告經驗；沒有讀付費課程，頁面保留2014起／7年等年代線索。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-BL02",
+      "original_source_id": "BL02",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Brittany Lewis",
+      "title": "Trend Breakdown: Feminist & Political Designs",
+      "url": "https://www.beawolfbiz.com/blog/girlpower",
+      "source_type": "official_public_teaching_article",
+      "publication_date": "2025-01-31",
+      "read_status": "full_article_read",
+      "limits": "只採方法層的觀察／適配與趨勢期限區分；不採其政治商品或未驗證高需求主張。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-BL03",
+      "original_source_id": "BL03",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Brittany Lewis",
+      "title": "STOREFRONT",
+      "url": "https://www.beawolfbiz.com/storefront",
+      "source_type": "official_commercial_catalogue",
+      "publication_date": "undated",
+      "read_status": "page_read",
+      "limits": "證實課程、會員、Custom Products Masterclass的商業利益；沒有讀課內教學。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-BL04",
+      "original_source_id": "BL04",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Brittany Lewis",
+      "title": "Brittany Lewis shares pro tips on how to sell print-on-demand items successfully on Etsy",
+      "url": "https://printify.com/blog/tips-on-how-to-sell-pod-products-on-etsy/",
+      "source_type": "original_vendor_interview",
+      "publication_date": "2022-04-06",
+      "read_status": "not_read_cancelled",
+      "limits": "web open失敗；Firecrawl明示user cancelled。未重試該抓取、未換路繞過；搜索片段不支持方法卡。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-BL05",
+      "original_source_id": "BL05",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Emily Odio-Sutton / Ecomm Emily",
+      "title": "From side hustle to $500k: How Printify helped this mom quit her job",
+      "url": "https://printify.com/blog/how-printify-helped-this-mom-quit-her-job/",
+      "source_type": "original_vendor_interview",
+      "publication_date": "2025-07-02",
+      "read_status": "full_article_read",
+      "limits": "全文已讀，具硬皮journal／送禮與工作批次方法；是Printify市場推廣案例，未獨立審計營收。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-EE01",
+      "original_source_id": "EE01",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Emily Odio-Sutton / Ecomm Emily",
+      "title": "Podcast Episode 146: This New Etsy Seller Switched to Giftable POD Products and Her Sales Soared -with Ecomm Emily",
+      "url": "https://www.howtosellyourstuff.com/blog/146",
+      "source_type": "original_interview_host",
+      "publication_date": "2024-09-11",
+      "read_status": "show_notes_only",
+      "limits": "身份與giftable POD主題對應；頁內19k和15k+口徑分列，非獨立店舖查證。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-EE02",
+      "original_source_id": "EE02",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Emily Odio-Sutton / Ecomm Emily",
+      "title": "Coaching Membership",
+      "url": "https://ecommemily.podia.com/",
+      "source_type": "official_creator_site_linked_by_host",
+      "publication_date": "undated",
+      "read_status": "metadata_only_empty_body",
+      "limits": "成功開啟但0行正文。不能聲稱已讀其課程。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-EE03",
+      "original_source_id": "EE03",
+      "cohort": "POD"
+    },
+    {
+      "candidate": "Emily Odio-Sutton / Ecomm Emily",
+      "title": "The Gift Lab",
+      "url": "https://www.goldcityventures.com/the-gift-lab",
+      "source_type": "official_partner_course_linked_by_vendor",
+      "publication_date": "unknown",
+      "read_status": "unavailable",
+      "limits": "由Printify原文點擊，redirect錯誤；未繞過，利益關係由EE01可確認。",
+      "retrieved_at": "2026-10-07",
+      "id": "NC2-POD-EE04",
+      "original_source_id": "EE04",
+      "cohort": "POD"
+    },
+    {
+      "person": "Krystal Whitten",
+      "title": "ABOUT THE COMPANY",
+      "url": "https://www.krystalwhitten.com/pages/about-us",
+      "source_type": "official_about",
+      "read_status": "full_page_read",
+      "published_or_event_date": "2025-10 (page last edited)",
+      "method_text_available": true,
+      "scope_and_limits": "身份、產品起源、2025年7月收縮90%產品線；成果仍屬本人自述",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-K1",
+      "original_source_id": "K1",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Krystal Whitten",
+      "title": "Prayer Series: A Walk Through the Lettering Prayer Journal (part 1)",
+      "url": "https://www.krystalwhitten.com/blogs/news/prayer-series-part-1-walking-through-the-lettering-prayer-journal",
+      "source_type": "official_first_person_tutorial",
+      "read_status": "full_article_read",
+      "published_or_event_date": "2017-08-28",
+      "method_text_available": true,
+      "scope_and_limits": "web開啟失敗後，以Firecrawl成功讀到整篇正文；只讀Part 1，不含系列其他篇",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-K2",
+      "original_source_id": "K2",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Krystal Whitten",
+      "title": "Faith and Lettering Basic Course",
+      "url": "https://learn.krystalwhitten.com/faithandlettering",
+      "source_type": "official_course_sales_page",
+      "read_status": "sales_page_read_course_not_read",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "官方redirect頁可讀；課程內影片、workbook未讀；學生數與教學效果為銷售自述",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-K3",
+      "original_source_id": "K3",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Krystal Whitten",
+      "title": "Why I Shut Down 90% of My Business",
+      "url": "https://www.krystalwhitten.com/blogs/news/why-i-shut-down-90-of-my-business",
+      "source_type": "official_blog",
+      "read_status": "not_read_access_failed_and_scrape_cancelled",
+      "published_or_event_date": "2025-09-01 (linked metadata)",
+      "method_text_available": false,
+      "scope_and_limits": "web無法取得；Firecrawl追加擷取回user cancelled MCP tool call，未重試；不推斷收縮原因",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-K4",
+      "original_source_id": "K4",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Ruth Chou Simons",
+      "title": "About — Ruth Chou Simons",
+      "url": "https://ruthchousimons.com/about",
+      "source_type": "official_about",
+      "read_status": "identity_sections_read",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "官方Founder、CEO、Chief Creative Officer；bestseller等頭銜本輪未獨立查證",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-R1",
+      "original_source_id": "R1",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Ruth Chou Simons",
+      "title": "Interview with Brilliant Artist Ruth Chou Simons—Author and Founder of GraceLaced Co.",
+      "url": "https://joyfullifemagazine.com/ruth-chou-simons-interview-gracelaced/",
+      "source_type": "publisher_hosted_first_person_interview",
+      "read_status": "full_interview_read",
+      "published_or_event_date": "2022-08-12",
+      "method_text_available": true,
+      "scope_and_limits": "完整12題問答正文已讀，Firecrawl補齊；正文為疫情時期回顧，刊登日不等於訪問日；商業敘述為受訪者自述",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-R2",
+      "original_source_id": "R2",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Ruth Chou Simons",
+      "title": "GraceLaced Co. | Look to Jesus",
+      "url": "https://gracelaced.com/",
+      "source_type": "official_product_catalog",
+      "read_status": "relevant_product_sections_read",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "官方經文藝術、紙品、guided journal等；不據商品陳列推定銷量",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-R3",
+      "original_source_id": "R3",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Emily Ley",
+      "title": "Our Story – Simplified",
+      "url": "https://www.emilyley.com/pages/our-story",
+      "source_type": "official_brand_story",
+      "read_status": "full_story_body_read",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "官方品牌定位與團隊；250K+ planners sold及256K+ customers為品牌自述",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-E1",
+      "original_source_id": "E1",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Emily Ley",
+      "title": "Episode 20: Taking the Leap to Follow Your Dreams (The Story of Simplified)",
+      "url": "https://www.emilyley.com/blogs/podcast/episode-20-taking-the-leap-to-follow-your-dreams-the-story-of-simplified",
+      "source_type": "official_podcast_show_notes",
+      "read_status": "show_notes_only_audio_not_read",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "節目簡介提早期Etsy文具；完整audio／transcript未取得，不抽取完整創業方法",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-E2",
+      "original_source_id": "E2",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Emily Ley",
+      "title": "About",
+      "url": "https://emilyleybooks.com/about",
+      "source_type": "official_about",
+      "read_status": "search_metadata_only_open_failed",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "搜尋有數码課程預告線索；開啟失敗，不斷言目前已開課",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-E3",
+      "original_source_id": "E3",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Sarah Titus",
+      "title": "What We Believe – About Sarah Titus and This Ministry",
+      "url": "https://www.sarahtitus.com/what-we-believe/",
+      "source_type": "official_about",
+      "read_status": "identity_and_business_sections_read",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "本人Christian blogger／printables creator自我定位；未以宗教主張或其他私事評價商業資格",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-S1",
+      "original_source_id": "S1",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Sarah Titus",
+      "title": "Marketing Planner",
+      "url": "https://www.sarahtitus.com/marketing-planner/",
+      "source_type": "official_first_person_marketing_article",
+      "read_status": "full_article_read",
+      "published_or_event_date": "2025-02-21",
+      "method_text_available": true,
+      "scope_and_limits": "公開marketing文章完整已讀；免費樣本、口碑／email與Shopify營收均為作者論述；課程未讀",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-S2",
+      "original_source_id": "S2",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Sarah Titus",
+      "title": "FAQs",
+      "url": "https://www.shop.sarahtitus.com/pages/faq",
+      "source_type": "official_store_faq",
+      "read_status": "relevant_product_and_license_sections_read",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "全為即時數碼下載；一般商品不得轉售／再分發；不等於實體POD模型",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-S3",
+      "original_source_id": "S3",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Sarah Titus",
+      "title": "Start a Printables Business",
+      "url": "https://www.shop.sarahtitus.com/collections/start-a-printables-business",
+      "source_type": "official_collection",
+      "read_status": "collection_page_read_not_course",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "官方訓練／模板產品入口；不是完整付費教學",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-S4",
+      "original_source_id": "S4",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Christie Daugherty",
+      "title": "About / Press & Media",
+      "url": "https://www.craftwithchristie.com/About",
+      "source_type": "official_about",
+      "read_status": "full_page_read",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "官方hand lettering教師；數百學生與業務成績為自述",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-C1",
+      "original_source_id": "C1",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Christie Daugherty",
+      "title": "CreatewithChristie - Etsy",
+      "url": "https://www.etsy.com/shop/CreatewithChristie",
+      "source_type": "platform_shop_page",
+      "read_status": "shop_identity_stats_and_product_sections_read",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "本次可見12,337全店累計sales、4.9分／1,565 reviews；跨商品、可能快取；不是利潤或journal銷量",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-C2",
+      "original_source_id": "C2",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Christie Daugherty",
+      "title": "Lettered in Faith Hand Lettering Workshop",
+      "url": "https://www.craftwithchristie.com/lettered-in-faith-workshop-week-2025",
+      "source_type": "official_workshop_sales_page",
+      "read_status": "full_sales_page_read_lessons_not_read",
+      "published_or_event_date": "2025-05-12 to 2025-05-15 (historical event)",
+      "method_text_available": false,
+      "scope_and_limits": "可確認成品目標／課程與模板；未讀4天完整示範，不確認現仍開放",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-C3",
+      "original_source_id": "C3",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Christie Daugherty",
+      "title": "Create with Christie Blog",
+      "url": "https://www.craftwithchristie.com/blog/",
+      "source_type": "official_blog_index",
+      "read_status": "short_post_summaries_only_full_videos_not_read",
+      "published_or_event_date": "2022-2023 posts",
+      "method_text_available": false,
+      "scope_and_limits": "Devos & Doodles摘要有連結至完整影片；本輪未看完整影片，不升格方法卡",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-C4",
+      "original_source_id": "C4",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Christie Daugherty",
+      "title": "DIGITAL* Lettered in Faith Workshop Week Kit",
+      "url": "https://www.etsy.com/listing/1906323581/digital-lettered-in-faith-workshop-week",
+      "source_type": "platform_listing",
+      "read_status": "search_metadata_only_open_failed",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "搜尋見71頁faith workbook描述；開啟cache miss，故不以此稱完成產品細節審核",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-C5",
+      "original_source_id": "C5",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Lauren Ibach",
+      "title": "About • Lauren Ibach",
+      "url": "https://laurenibach.com/about/",
+      "source_type": "official_about",
+      "read_status": "full_page_read",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "官方藝術／寫作者身份，連結Etsy",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-L1",
+      "original_source_id": "L1",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Lauren Ibach",
+      "title": "LaurenIbachLettering - Etsy",
+      "url": "https://www.etsy.com/shop/LaurenIbachLettering",
+      "source_type": "platform_shop_page",
+      "read_status": "shop_identity_stats_products_and_partner_sections_read",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "本次公開頁7240全店累計sales、5.0分／1065 reviews；未作產品級收入推定",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-L2",
+      "original_source_id": "L2",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Lauren Ibach",
+      "title": "FAQs • Lauren Ibach",
+      "url": "https://laurenibach.com/faqs/",
+      "source_type": "official_faq",
+      "read_status": "full_page_read",
+      "published_or_event_date": null,
+      "method_text_available": false,
+      "scope_and_limits": "明確沒有／不計劃online lettering course；2025春因網站負擔轉非書類回Etsy；客製與授權界線屬本人業務政策",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-L3",
+      "original_source_id": "L3",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Lauren Ibach",
+      "title": "Biblical Card & Letter Writing Inspiration",
+      "url": "https://laurenibach.com/2023/05/29/biblical-card-and-letter-writing-inspiration/",
+      "source_type": "official_first_person_writing_tutorial",
+      "read_status": "full_article_read",
+      "published_or_event_date": "2023-05-29; page also shows 2025-04-10",
+      "method_text_available": true,
+      "scope_and_limits": "完整結構說明與3個情境例子已讀；本文為寫作／使用教學，不是Etsy銷售實驗",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-L4",
+      "original_source_id": "L4",
+      "cohort": "FAITH"
+    },
+    {
+      "person": "Lauren Ibach",
+      "title": "Biblical Christian Gifts For Moms",
+      "url": "https://laurenibach.com/2026/03/02/biblical-christian-gifts-for-moms/",
+      "source_type": "official_gift_guide",
+      "read_status": "full_article_read",
+      "published_or_event_date": "2026-03-02; page also shows 2026-04-18",
+      "method_text_available": false,
+      "scope_and_limits": "按收禮人階段及場合整理；帶自家商品及Amazon affiliate links，不推定內容轉換率",
+      "accessed_at": "2026-10-07",
+      "retrieval": "cloud public web; K2 and R2 supplemented with Firecrawl",
+      "all_claims_current": false,
+      "id": "NC2-FAITH-L5",
+      "original_source_id": "L5",
+      "cohort": "FAITH"
+    },
+    {
+      "candidate_id": "mei_pak",
+      "url": "https://www.creativehiveco.com/about",
+      "title": "Creative Hive About",
+      "source_type": "official_author_website",
+      "processing_status": "relevant_sections_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Identity and Tiny Hands relationship; personal POD business and revenue are self-reported.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-M01",
+      "original_source_id": "M01",
+      "cohort": "SHOP",
+      "read_status": "relevant_sections_read"
+    },
+    {
+      "candidate_id": "mei_pak",
+      "url": "https://tinyhandsonline.com/",
+      "title": "Tiny Hands storefront",
+      "source_type": "official_storefront",
+      "processing_status": "catalog_page_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Observed scented food jewelry, bundles, gift packaging and subscription; no independent revenue ledger.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-M02",
+      "original_source_id": "M02",
+      "cohort": "SHOP",
+      "read_status": "catalog_page_read"
+    },
+    {
+      "candidate_id": "mei_pak",
+      "url": "https://www.creativehiveco.com/5-questions-to-ask-to-understand-your-ideal-customer/",
+      "title": "5 Questions to Ask to Understand Your Ideal Customer",
+      "source_type": "official_author_article",
+      "processing_status": "full_article_text_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Core retained source: validate buyer versus recipient using actual customer evidence. Embedded videos not processed.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-M03",
+      "original_source_id": "M03",
+      "cohort": "SHOP",
+      "read_status": "full_article_text_read"
+    },
+    {
+      "candidate_id": "mei_pak",
+      "url": "https://www.creativehiveco.com/168k-yr-selling-jewelry-for-10-years-straight-with-this-simple-system/",
+      "title": "$168k/yr selling jewelry for 10 years straight with this simple system",
+      "source_type": "official_author_article",
+      "processing_status": "full_article_text_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Revenue self-report; system explicitly includes paid ads, own site, email. Hostinger discount-code promotion observed.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-M04",
+      "original_source_id": "M04",
+      "cohort": "SHOP",
+      "read_status": "full_article_text_read"
+    },
+    {
+      "candidate_id": "mei_pak",
+      "url": "https://www.creativehiveco.com/how-to-pitch-your-handmade-products-to-the-media/",
+      "title": "How To Pitch Your Handmade Products to the Media",
+      "source_type": "official_author_article",
+      "processing_status": "partial_article_text_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Read opening and list-building beginning only; outreach not adopted or executed.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-M05",
+      "original_source_id": "M05",
+      "cohort": "SHOP",
+      "read_status": "partial_article_text_read"
+    },
+    {
+      "candidate_id": "mei_pak",
+      "url": "https://www.youtube.com/c/CreativeHiveCo?sub_confirmation=1",
+      "title": "Creative Hive YouTube official outbound link",
+      "source_type": "official_linked_channel",
+      "processing_status": "fetch_failed",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Identity link from official About; channel and video content not read.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-M06",
+      "original_source_id": "M06",
+      "cohort": "SHOP",
+      "read_status": "fetch_failed"
+    },
+    {
+      "candidate_id": "dalia_abdalla",
+      "url": "https://modernpinkpaper4.wixsite.com/etsysellermasterm/about1",
+      "title": "ABOUT ME | Etsy Seller Mastermind",
+      "source_type": "official_author_website",
+      "processing_status": "full_page_text_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Explicit full name, Modern Pink Paper ownership and direct Etsy link. Biography internally dated October 2015.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-D01",
+      "original_source_id": "D01",
+      "cohort": "SHOP",
+      "read_status": "full_page_text_read"
+    },
+    {
+      "candidate_id": "dalia_abdalla",
+      "url": "https://modernpinkpaper.com/pages/about-us",
+      "title": "Modern Pink Paper | About Us",
+      "source_type": "official_storefront",
+      "processing_status": "relevant_sections_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Owner/designer identity and personalized stationery business; word-of-mouth proportion is self-reported.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-D02",
+      "original_source_id": "D02",
+      "cohort": "SHOP",
+      "read_status": "relevant_sections_read"
+    },
+    {
+      "candidate_id": "dalia_abdalla",
+      "url": "https://www.etsy.com/shop/ModernPinkPaper",
+      "title": "ModernPinkPaper - Etsy",
+      "source_type": "platform_storefront",
+      "processing_status": "relevant_sections_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "First-page catalog, owner, About, production partner and cumulative sales snapshot reviewed; not all listings.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-D03",
+      "original_source_id": "D03",
+      "cohort": "SHOP",
+      "read_status": "relevant_sections_read"
+    },
+    {
+      "candidate_id": "dalia_abdalla",
+      "url": "https://blog.marmalead.com/pinterest-for-etsy-sellers-with-dalia-from-the-handmade-mastermind/",
+      "title": "Pinterest for Etsy Sellers with Dalia from the Handmade Mastermind",
+      "source_type": "original_interview_publisher",
+      "processing_status": "full_article_text_read",
+      "published_date": "2018-10-01",
+      "accessed_date": "2026-10-07",
+      "note": "Complete published interview article read; publisher explicitly says it omits parts of the full video.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-D04",
+      "original_source_id": "D04",
+      "cohort": "SHOP",
+      "read_status": "full_article_text_read"
+    },
+    {
+      "candidate_id": "dalia_abdalla",
+      "url": "https://blog.marmalead.com/ecommerce-is-tough-but-were-here-to-help/",
+      "title": "Ecommerce is tough, but we're here to help.",
+      "source_type": "original_publisher_commercial_disclosure",
+      "processing_status": "relevant_sections_read",
+      "published_date": "2021-07-14",
+      "accessed_date": "2026-10-07",
+      "note": "Publisher explicitly calls Dalia a friend and affiliate partner.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-D05",
+      "original_source_id": "D05",
+      "cohort": "SHOP",
+      "read_status": "relevant_sections_read"
+    },
+    {
+      "candidate_id": "dalia_abdalla",
+      "url": "https://www.etsy.com/listing/1760000232/customized-stationary-notepads-with-name",
+      "title": "Customized Stationary Notepads With Name / religious cross notepad NP475",
+      "source_type": "platform_listing",
+      "processing_status": "fetch_failed",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Listing title and link observed on D03; detail fetch failed. Product sales and full specifications unverified.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-D06",
+      "original_source_id": "D06",
+      "cohort": "SHOP",
+      "read_status": "fetch_failed"
+    },
+    {
+      "candidate_id": "dalia_abdalla",
+      "url": "https://www.thehandmademastermind.com/",
+      "title": "The Handmade Mastermind homepage",
+      "source_type": "official_linked_website",
+      "processing_status": "fetch_failed",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Official legacy identity verified elsewhere; current homepage not readable in web tool.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-D07",
+      "original_source_id": "D07",
+      "cohort": "SHOP",
+      "read_status": "fetch_failed"
+    },
+    {
+      "candidate_id": "kara_buntin",
+      "url": "https://artisanshopper.com/about-me/",
+      "title": "About Kara Buntin",
+      "source_type": "official_author_website",
+      "processing_status": "full_page_text_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Identity/channels verified; current-product-income biography conflicts with K03 and is not current proof.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-K01",
+      "original_source_id": "K01",
+      "cohort": "SHOP",
+      "read_status": "full_page_text_read"
+    },
+    {
+      "candidate_id": "kara_buntin",
+      "url": "https://artisanshopper.com/how-to-promote-an-etsy-shop-on-pinterest/",
+      "title": "How To Promote An Online Business On Pinterest",
+      "source_type": "official_author_article",
+      "processing_status": "full_article_text_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Only click-reason, outbound measurement and template reuse retained as backup; technical claims not adopted.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-K02",
+      "original_source_id": "K02",
+      "cohort": "SHOP",
+      "read_status": "full_article_text_read"
+    },
+    {
+      "candidate_id": "kara_buntin",
+      "url": "https://acaketorememberblog.com/shop/",
+      "title": "Shop – A Cake To Remember LLC",
+      "source_type": "official_storefront_directory",
+      "processing_status": "full_page_text_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "States author no longer sells cake supplies herself; now links Zazzle items and affiliate supplies.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-K03",
+      "original_source_id": "K03",
+      "cohort": "SHOP",
+      "read_status": "full_page_text_read"
+    },
+    {
+      "candidate_id": "kara_buntin",
+      "url": "https://www.etsy.com/shop/ACakeToRemember",
+      "title": "ACakeToRemember - Etsy",
+      "source_type": "platform_storefront",
+      "processing_status": "nonmatching_generic_page",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "URL returned generic Etsy home-page text, no shop-specific sales. Not proof that store is closed.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-K04",
+      "original_source_id": "K04",
+      "cohort": "SHOP",
+      "read_status": "nonmatching_generic_page"
+    },
+    {
+      "candidate_id": "kara_buntin",
+      "url": "https://www.youtube.com/karabuntin",
+      "title": "Kara Buntin - YouTube",
+      "source_type": "official_linked_channel",
+      "processing_status": "metadata_only",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Official About linked channel; retrieved generic YouTube footer only. No uploads or captions read.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-K05",
+      "original_source_id": "K05",
+      "cohort": "SHOP",
+      "read_status": "metadata_only"
+    },
+    {
+      "candidate_id": "kara_buntin",
+      "url": "https://www.youtube.com/karabuntintutorials",
+      "title": "Kara Buntin Tutorials - YouTube",
+      "source_type": "official_linked_channel",
+      "processing_status": "metadata_only",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Official About linked channel; generic footer only. No current content audit.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-K06",
+      "original_source_id": "K06",
+      "cohort": "SHOP",
+      "read_status": "metadata_only"
+    },
+    {
+      "candidate_id": "kara_buntin",
+      "url": "https://www.etsy.com/shop/CircusPigVintage",
+      "title": "CircusPigVintage - Etsy",
+      "source_type": "official_linked_platform_storefront",
+      "processing_status": "fetch_failed",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Named in official About; no current shop data retrieved.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-K07",
+      "original_source_id": "K07",
+      "cohort": "SHOP",
+      "read_status": "fetch_failed"
+    },
+    {
+      "candidate_id": "kara_buntin",
+      "url": "https://www.etsy.com/shop/ClayPaperScissors",
+      "title": "ClayPaperScissors - Etsy",
+      "source_type": "official_linked_platform_storefront",
+      "processing_status": "fetch_failed",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Named in official About; no current shop data retrieved.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-K08",
+      "original_source_id": "K08",
+      "cohort": "SHOP",
+      "read_status": "fetch_failed"
+    },
+    {
+      "candidate_id": "deborah_engelmajer",
+      "url": "https://blog.marmalead.com/etsy-jam-episode-41-deb-makers-biz-summit/",
+      "title": "Etsy Jam Episode 41: Makers Biz Summit Announcement with Deb from Tizzit",
+      "source_type": "original_interview_publisher",
+      "processing_status": "full_article_text_read",
+      "published_date": "2017-03-07",
+      "accessed_date": "2026-10-07",
+      "note": "Consultant/designer background and Tizzit origin; not proof of own physical-product retail sales.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-T01",
+      "original_source_id": "T01",
+      "cohort": "SHOP",
+      "read_status": "full_article_text_read"
+    },
+    {
+      "candidate_id": "deborah_engelmajer",
+      "url": "https://tizzit.co/wp-content/uploads/2019/05/ideal-customer-profile-workbook.pdf",
+      "title": "Find Your Ideal Customer",
+      "source_type": "official_branded_workbook",
+      "processing_status": "full_pdf_text_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "All nine pages extracted and read. URL path has 2019/05; publication date not printed. No live-site guarantee.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-T02",
+      "original_source_id": "T02",
+      "cohort": "SHOP",
+      "read_status": "full_pdf_text_read"
+    },
+    {
+      "candidate_id": "deborah_engelmajer",
+      "url": "https://feelgoodecom.com/the-feel-good-team",
+      "title": "The Feel Good Team",
+      "source_type": "official_author_website",
+      "processing_status": "full_page_text_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Current official full-name identity; consultant/team profile, self-reported client count.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-T03",
+      "original_source_id": "T03",
+      "cohort": "SHOP",
+      "read_status": "full_page_text_read"
+    },
+    {
+      "candidate_id": "deborah_engelmajer",
+      "url": "https://feelgoodecom.com/the-ecom-launchpad",
+      "title": "The eCom Launchpad",
+      "source_type": "official_sales_page",
+      "processing_status": "relevant_sections_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Existing-revenue own-store growth program includes Meta ads/email; only sales page read, no course access.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-T04",
+      "original_source_id": "T04",
+      "cohort": "SHOP",
+      "read_status": "relevant_sections_read"
+    },
+    {
+      "candidate_id": "deborah_engelmajer",
+      "url": "https://tizzit.co/",
+      "title": "Tizzit homepage",
+      "source_type": "official_legacy_website",
+      "processing_status": "fetch_failed",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "web returned 502/inaccessible; Firecrawl returned DNS resolution failure. Do not infer business closure.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-T05",
+      "original_source_id": "T05",
+      "cohort": "SHOP",
+      "read_status": "fetch_failed"
+    },
+    {
+      "candidate_id": "deborah_engelmajer",
+      "url": "https://feelgoodecom.com/",
+      "title": "Feel Good Ecom - Ecommerce Coaching",
+      "source_type": "official_author_website",
+      "processing_status": "full_page_text_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Current official founder identity and ecommerce coaching positioning.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-T06",
+      "original_source_id": "T06",
+      "cohort": "SHOP",
+      "read_status": "full_page_text_read"
+    },
+    {
+      "candidate_id": "lisa_jacobs",
+      "url": "https://lisajacobs.substack.com/p/timeless-vs-temporary",
+      "title": "Timeless vs. Temporary",
+      "source_type": "official_author_article",
+      "processing_status": "full_article_text_read",
+      "published_date": "2022-08-28",
+      "accessed_date": "2026-10-07",
+      "note": "Energy Shop gemstone bracelets and historical top-2%-earning claim are self-report. Read via Firecrawl.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-L01",
+      "original_source_id": "L01",
+      "cohort": "SHOP",
+      "read_status": "full_article_text_read"
+    },
+    {
+      "candidate_id": "lisa_jacobs",
+      "url": "https://lisajacobs.substack.com/p/the-more-list",
+      "title": "The More List",
+      "source_type": "official_author_article",
+      "processing_status": "full_article_text_read",
+      "published_date": "2022-05-03",
+      "accessed_date": "2026-10-07",
+      "note": "Historical reduction/prioritization framework; read via Firecrawl after web open failed.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-L02",
+      "original_source_id": "L02",
+      "cohort": "SHOP",
+      "read_status": "full_article_text_read"
+    },
+    {
+      "candidate_id": "lisa_jacobs",
+      "url": "https://lisajacobs.substack.com/p/how-to-make-an-impact-with-email",
+      "title": "How to Make an Impact with Email",
+      "source_type": "official_author_article",
+      "processing_status": "full_article_text_read",
+      "published_date": "2018-04-26",
+      "accessed_date": "2026-10-07",
+      "note": "Purpose-led email/copywriting article; dated deliverability and absolute language claims not adopted.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-L03",
+      "original_source_id": "L03",
+      "cohort": "SHOP",
+      "read_status": "full_article_text_read"
+    },
+    {
+      "candidate_id": "lisa_jacobs",
+      "url": "https://www.creativelive.com/instructors/lisa-jacobs",
+      "title": "Lisa Jacobs Courses at CreativeLive",
+      "source_type": "official_course_host_profile",
+      "processing_status": "relevant_sections_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Formal instructor/course identity; host is commercially interested and not revenue auditor.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-L04",
+      "original_source_id": "L04",
+      "cohort": "SHOP",
+      "read_status": "relevant_sections_read"
+    },
+    {
+      "candidate_id": "lisa_jacobs",
+      "url": "https://www.marketyourcreativity.com/",
+      "title": "Marketing Creativity legacy homepage",
+      "source_type": "official_legacy_website",
+      "processing_status": "fetch_failed",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Web timeout; author-published Substack sources used instead.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-L05",
+      "original_source_id": "L05",
+      "cohort": "SHOP",
+      "read_status": "fetch_failed"
+    },
+    {
+      "candidate_id": "lisa_jacobs",
+      "url": "https://www.etsy.com/shop/EnergyShop",
+      "title": "EnergyShop - Etsy",
+      "source_type": "historical_store_target",
+      "processing_status": "fetch_failed",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "No current transaction evidence retrieved. No inferred closure or sales metric.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-L06",
+      "original_source_id": "L06",
+      "cohort": "SHOP",
+      "read_status": "fetch_failed"
+    },
+    {
+      "candidate_id": "jess_van_den",
+      "url": "https://www.createandthrive.com/im-retiring",
+      "title": "I’m Retiring.",
+      "source_type": "official_author_article",
+      "processing_status": "full_article_text_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Retirement announcement includes explicit June 2026 dates; current footer confirms teaching retired. Exact publication date not shown.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-J01",
+      "original_source_id": "J01",
+      "cohort": "SHOP",
+      "read_status": "full_article_text_read"
+    },
+    {
+      "candidate_id": "jess_van_den",
+      "url": "https://epheriell.com/",
+      "title": "Epheriell | Handmade Sterling Silver Wedding Rings + Jewellery",
+      "source_type": "official_storefront",
+      "processing_status": "full_page_text_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Indefinite sabbatical and no orders notice.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-J02",
+      "original_source_id": "J02",
+      "cohort": "SHOP",
+      "read_status": "full_page_text_read"
+    },
+    {
+      "candidate_id": "jess_van_den",
+      "url": "https://www.etsy.com/shop/Epheriell",
+      "title": "Epheriell - Etsy",
+      "source_type": "platform_storefront",
+      "processing_status": "relevant_sections_read",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Cumulative sales, owner, product reviews and June 7, 2026 indefinite-sabbatical notice read.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-J03",
+      "original_source_id": "J03",
+      "cohort": "SHOP",
+      "read_status": "relevant_sections_read"
+    },
+    {
+      "candidate_id": "jess_van_den",
+      "url": "https://www.createandthrive.com/are-you-doing-the-wrong-marketing",
+      "title": "Are you doing the WRONG marketing?",
+      "source_type": "official_podcast_page",
+      "processing_status": "overview_only",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Short written overview read; full podcast/video not processed; insufficient for detailed method.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-J04",
+      "original_source_id": "J04",
+      "cohort": "SHOP",
+      "read_status": "overview_only"
+    },
+    {
+      "candidate_id": "jess_van_den",
+      "url": "https://www.createandthrive.com/7-types-of-product-photos-you-should-be-taking-of-your-handmade-items-230",
+      "title": "7 Types of Handmade Product Photos you Should Be Taking [230]",
+      "source_type": "official_podcast_page",
+      "processing_status": "search_excerpt_only",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "note": "Search showed highlights; web open timed out. No full article or media processed.",
+      "full_video_or_audio_processed": false,
+      "id": "NC2-SHOP-J05",
+      "original_source_id": "J05",
+      "cohort": "SHOP",
+      "read_status": "search_excerpt_only"
+    }
+  ],
+  "exploration_exclusions": [
+    {
+      "name": "Jennifer Sanderson",
+      "decision": "unresolved_identity_not_counted_as_completed_candidate",
+      "queries": [
+        "\"Jennifer Sanderson\" Etsy",
+        "\"Jennifer Sanderson\" \"print on demand\"",
+        "\"Jennifer Sanderson\" Etsy Youtube"
+      ],
+      "finding": "未建立可信Etsy/POD教學官方身份；搜尋出現其他行業／一般同名YouTube帳戶，不能當作此候選。",
+      "replacement": "Emily Odio-Sutton / Ecomm Emily",
+      "limits": "找不到不等於此人不存在；若日後取得原始官方URL，可重新核身。"
+    }
+  ],
+  "qa_notes": [
+    "不得把商業頁或課綱當完整課程；新候選完整影片逐字稿未取得。",
+    "Mandy影片NC-M5與其餘取消來源維持未讀，不重試或換路繞過。",
+    "Etsy全店累計sales不是選定商品銷量、利潤或零廣告成果。",
+    "正式指標只有同範圍/期間visits可得才計orders/visits；不將orders/views稱Etsy轉換率。",
+    "每個人的小測試只是候選，最後共用同一份資料和工時，不累加22項工作。"
+  ],
+  "primary_deep_review_sources": [
+    "NC2-POD-EE01",
+    "NC2-POD-LS02",
+    "NC2-SHOP-M03",
+    "NC2-SHOP-D04",
+    "NC2-FAITH-L4"
+  ],
+  "integration": {
+    "release": "2026.10.07.4",
+    "baseline_business_perspectives": 17,
+    "new_business_perspectives": 4,
+    "resulting_business_perspectives": 21,
+    "specialist_content_lenses": 1,
+    "specialist_owner_skill": "brand-marketing-growth",
+    "new_complete_video_transcripts_claimed": 0,
+    "original_youtube_refresh_count_unchanged": true,
+    "candidate_pool_is_not_accepted_count": true,
+    "dalia_paid_scope": "2018原訪談只把當時Pinterest來源稱自然流量；業務另用Etsy promoted listings／廣告，不把整個業務稱零廣告。"
+  }
+}

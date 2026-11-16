@@ -1,0 +1,249 @@
+{
+  "release": "2026.10.07.10",
+  "business_perspective_count": 30,
+  "people": [
+    {
+      "name": "Dylan Jahraus",
+      "scope": "買家任務及產品意義",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Joe Robert",
+      "scope": "產品／受眾測試單位、成本與資金時點",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Starla Moore",
+      "scope": "自然且準確的關鍵詞語義與圖片資訊",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Chris Blair",
+      "scope": "明確量度單位；付費案例只作歷史邊界，不自動投廣告",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Christina Umerez",
+      "scope": "常青用途與季節容量，零廣告案例前提",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Meg Heckman",
+      "scope": "圖文整體概念及同條件供應比較",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Jesse Teaches",
+      "scope": "真實印刷面積、姓名與故事可讀性",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Anna Beck",
+      "scope": "可持續產出容量與實際個人化流程",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Courtney Nichole",
+      "scope": "有界外部發現草稿與匯入／預覽QA",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "George McConnell",
+      "scope": "到貨期限倒推、參考物及生成失誤QA",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Luna Vega",
+      "scope": "一句清楚用途及真實信任證據",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Ronnie McKenzie",
+      "scope": "可理解客群、實際成本與個人化交付",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Mario Menduni",
+      "scope": "家庭送禮季節性與工時取捨的歷史視角",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Gina Menduni",
+      "scope": "個人化資料完整性與實際字型測試",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "RJ Martinez",
+      "scope": "利基／圖文製作與AI推薦因果邊界",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Mandy Dobosenski",
+      "scope": "身份與場合適配、真實顧客要求分流",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Cassiy Johnson",
+      "scope": "送禮場景與具體AI設計QA",
+      "reference": "coach-directory.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Emily Odio-Sutton",
+      "scope": "journal送禮者證據及清楚主句",
+      "reference": "coach-expansion-2026-10-07.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Mei Pak",
+      "scope": "付款者／收禮人核實與全部工時經濟",
+      "reference": "coach-expansion-2026-10-07.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Dalia Abdalla",
+      "scope": "顧客問題轉圖片及歷史搜尋意圖研究；非現行定期教學",
+      "reference": "coach-expansion-2026-10-07.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Lizzie Smiley",
+      "scope": "可交付底物mockup、全年用途及原創風格",
+      "reference": "coach-expansion-2026-10-07.md",
+      "freshness_reference": "coach-freshness-overview-2026-10-07.json"
+    },
+    {
+      "name": "Hannah Gardner",
+      "scope": "單一listing同買家競品診斷與利潤判斷",
+      "reference": "coach-specialist-methods-2026-10-07.md",
+      "evidence_status": "有限方法入選；非全面資歷／實績背書",
+      "freshness_scope": "Hannah本輪RSS及指定新片；NC6新入選只作方法來源審核，未稱全頻道刷新"
+    },
+    {
+      "name": "Amy Eaton",
+      "scope": "實物光線、色彩與拍攝比例",
+      "reference": "coach-specialist-methods-2026-10-07.md",
+      "evidence_status": "有限方法入選；非全面資歷／實績背書",
+      "freshness_scope": "Hannah本輪RSS及指定新片；NC6新入選只作方法來源審核，未稱全頻道刷新"
+    },
+    {
+      "name": "Janet LeBlanc",
+      "scope": "毛收入、平台扣費與銀行入帳核對",
+      "reference": "coach-specialist-methods-2026-10-07.md",
+      "evidence_status": "有限方法入選；非全面資歷／實績背書",
+      "freshness_scope": "Hannah本輪RSS及指定新片；NC6新入選只作方法來源審核，未稱全頻道刷新"
+    },
+    {
+      "name": "Pam Duthie",
+      "scope": "商品影片鏡頭選擇與同素材再用",
+      "reference": "coach-specialist-methods-2026-10-07.md",
+      "evidence_status": "有限方法入選；非全面資歷／實績背書",
+      "freshness_scope": "Hannah本輪RSS及指定新片；NC6新入選只作方法來源審核，未稱全頻道刷新"
+    },
+    {
+      "name": "Steph Cole-Lewis",
+      "scope": "內容準備、批次及常青備用稿",
+      "reference": "coach-specialist-methods-2026-10-07.md",
+      "evidence_status": "有限方法入選；非全面資歷／實績背書",
+      "freshness_scope": "Hannah本輪RSS及指定新片；NC6新入選只作方法來源審核，未稱全頻道刷新"
+    },
+    {
+      "name": "Morgan Nield",
+      "scope": "具體買家要求到可交付組合",
+      "reference": "coach-specialist-methods-2026-10-07.md",
+      "evidence_status": "有限方法入選；非全面資歷／實績背書",
+      "freshness_scope": "Hannah本輪RSS及指定新片；NC6新入選只作方法來源審核，未稱全頻道刷新"
+    },
+    {
+      "name": "Nancy Badillo",
+      "scope": "訂單證據、回覆草稿與售後結案",
+      "reference": "coach-specialist-methods-2026-10-07.md",
+      "evidence_status": "有限方法入選；非全面資歷／實績背書",
+      "freshness_scope": "Hannah本輪RSS及指定新片；NC6新入選只作方法來源審核，未稱全頻道刷新"
+    },
+    {
+      "name": "Erin Mooney",
+      "scope": "現有商品系列用途與展示次序",
+      "reference": "coach-specialist-methods-2026-10-07.md",
+      "evidence_status": "有限方法入選；非全面資歷／實績背書",
+      "freshness_scope": "Hannah本輪RSS及指定新片；NC6新入選只作方法來源審核，未稱全頻道刷新"
+    },
+    {
+      "name": "Rachel Rofé",
+      "scope": "買家自願的準確送禮預告卡",
+      "reference": "coach-specialist-methods-2026-10-07.md",
+      "evidence_status": "有限方法入選；非全面資歷／實績背書",
+      "freshness_scope": "Hannah本輪RSS及指定新片；NC6新入選只作方法來源審核，未稱全頻道刷新"
+    }
+  ],
+  "not_business_coaches": [
+    "Krystal Whitten 產品教育補充",
+    "Ruth Chou Simons 創辦人經驗補充"
+  ],
+  "coverage": "30個可按問題選用的有限商務視角，包含歷史教學；不是30位全部現役或Christian journal專家，亦不是30個自動代理。",
+  "specialists_not_counted_as_business_coaches": [
+    {
+      "name": "Lauren Ibach",
+      "owner_skill": "brand-marketing-growth",
+      "scope": "信仰送禮文案"
+    },
+    {
+      "name": "Melissa Flanagan / Lissa Sue",
+      "owner_skill": "brand-marketing-growth",
+      "scope": "現在書寫與日後交付的用途時序"
+    },
+    {
+      "name": "Robin Sampson",
+      "owner_skill": "brand-marketing-growth",
+      "scope": "一次可完成的用途內容結構"
+    }
+  ],
+  "cumulative_new_candidate_pool": 50,
+  "additional_case_support_not_a_coach": {
+    "name": "Danae Giacchino",
+    "scope": "個人化選項清晰度，歷史創辦人案例佐證",
+    "reference": "personalization-source-recheck-2026-10-07.md"
+  },
+  "candidate_count_scope": "NC系列已完成候選；截圖課程身份線索另列，未完成／取消探索不灌入。",
+  "adjacent_supplements_not_counted_as_business_coaches": [
+    {
+      "name": "Megan Auman",
+      "owner_skill": "brand-marketing-growth",
+      "scope": "歷史買家內容受眾診斷；按需且不另開渠道",
+      "reference": "references/coach-adjacent-supplements-NC7-2026-10-07.md"
+    },
+    {
+      "name": "Nora Wolf",
+      "owner_skill": "brand-marketing-growth",
+      "scope": "可選送禮指南適配篩選；未啟動PR或外部接觸",
+      "reference": "references/coach-adjacent-supplements-NC7-2026-10-07.md"
+    }
+  ],
+  "latest_candidate_batch": {
+    "batch": "NC7",
+    "completed_new_people": 7,
+    "admitted_formal_business_perspectives": 0,
+    "limited_adjacent_supplements": 2,
+    "deferred": 5,
+    "owner_skill": "brand-marketing-growth",
+    "reference": "references/coach-adjacent-sources-NC7-2026-10-07.json"
+  },
+  "ranking_reference": "coach-ranking-2026-10-09.json",
+  "ranking_scope": "2026-10-09 full 30 contextual review, not new admissions or a complete channel refresh"
+}

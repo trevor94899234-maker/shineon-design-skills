@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "reviewed_at": "2026-10-07T07:20:00Z",
+  "language": "zh-Hant",
+  "scope": "選定來源資格審核；未完整盤點頻道；未讀付費課程",
+  "counts": {
+    "accepted_limited_method_perspectives": 2,
+    "deferred_candidates": 2,
+    "rejected_people": 0,
+    "fully_verified_christian_journal_specialists": 0
+  },
+  "existing_roster_not_recounted": [
+    "Dylan Jahraus",
+    "Joe Robert",
+    "Starla Moore",
+    "Chris Blair",
+    "Christina Umerez",
+    "Meg Heckman",
+    "Jesse Teaches",
+    "Anna Beck",
+    "Courtney Nichole",
+    "George McConnell",
+    "Luna Vega",
+    "Ronnie McKenzie",
+    "Mario Menduni",
+    "Gina Menduni",
+    "RJ Martinez"
+  ],
+  "candidates": [
+    {
+      "id": "NC26-MANDY",
+      "name": "Mandy Dobosenski",
+      "identity": "SimplyPOD with Mandy / Studio M Designs Co",
+      "decision": "accepted_limited_methods",
+      "priority": "優先",
+      "teaching_evidence": "兩篇官方完整教學文章；供應商原始訪談全文",
+      "success_evidence": "本人及Printify訪談自述；主店未公開，未獨立核帳；不以收益或Top百分比作資格標準",
+      "fit": "信仰身份與情感、人生場合、原創利基延伸；須區分買家與收禮人",
+      "methods": [
+        "身份與場合配對",
+        "同產品素材重用且按訊號才延伸"
+      ],
+      "sources": [
+        "NC-M1",
+        "NC-M2",
+        "NC-M3"
+      ],
+      "reject": [
+        "2024熱門名單當2026需求",
+        "15–20款批量配額",
+        "高刊登數等於充分樣本",
+        "宣稱Etsy偏好影片／可由風格理解店舖",
+        "直接複製示範圖案"
+      ],
+      "not_proven": [
+        "Christian journal實績",
+        "每週3–5小時全程零廣告適用成效"
+      ]
+    },
+    {
+      "id": "NC26-CASSIY",
+      "name": "Cassiy Johnson",
+      "identity": "官方網站 / @CassiyJohnson",
+      "decision": "accepted_limited_methods",
+      "priority": "補充",
+      "teaching_evidence": "Printify 2022原始訪談全文；本人網站身份",
+      "success_evidence": "歷史本人／供應商自述；非獨立核帳，早期全職投入且使用Etsy Ads",
+      "fit": "送禮場合視覺理解、外部流量以到店而非觀看衡量；一般POD，不是已核實Christian專家",
+      "methods": [
+        "產品證據先於情境裝飾",
+        "觀看與外連到店分開"
+      ],
+      "sources": [
+        "NC-C1",
+        "NC-C2"
+      ],
+      "reject": [
+        "固定SEO生效週數",
+        "白底一定較差",
+        "首屏才會購買",
+        "把2025影片第三方摘要當已讀原片"
+      ],
+      "not_proven": [
+        "Christian journal實績",
+        "零廣告3–5小時成功案例"
+      ],
+      "limited_sources": [
+        "NC-C3"
+      ]
+    },
+    {
+      "id": "NC26-HEATHER",
+      "name": "Heather Johnson",
+      "identity": "HeatherxStudio / heatherstudio",
+      "decision": "deferred",
+      "teaching_evidence": "兩篇2026官方完整文章；嵌入影片未讀",
+      "success_evidence": "本人商業頁及歷史訪談的自述；未獨立核帳",
+      "reason": "可用批次／聚焦原則與既有技能重複，文章未含具體30分鐘分配；演算法因果未有官方佐證",
+      "reopen_when": "取得能處理個人化實體禮物、扣除履約後工時的完整獨特實作",
+      "sources": [
+        "NC-H1",
+        "NC-H2"
+      ]
+    },
+    {
+      "id": "NC26-HANNAH",
+      "name": "Hannah Ebeling",
+      "decision": "deferred",
+      "teaching_evidence": "本輪僅發現索引線索，未完成官方完整方法核讀",
+      "success_evidence": "未完成可歸屬相關店舖／實績核對",
+      "reason": "缺少足夠第一手鏈與完整內容；搜尋不足不是否定本人",
+      "reopen_when": "官方身份、完整示範及相關實績取得來源"
+    }
+  ],
+  "sources": [
+    {
+      "id": "NC-M1",
+      "url": "https://www.studiomdesignsco.com/blog/top-5-niches-for-2024-etsy-print-on-demand",
+      "type": "official_authored_article",
+      "read_status": "full_text",
+      "published_date": null,
+      "topic_year": 2024,
+      "research_capture_sha256": "62a8ae8b1b54df20039509cebc86ec8ab97cf07bf34cc0057885c791153f9e29"
+    },
+    {
+      "id": "NC-M2",
+      "url": "https://www.studiomdesignsco.com/blog/how-to-scale-your-etsy-print-on-demand-shop-faster-in-2024",
+      "type": "official_authored_article",
+      "read_status": "full_text",
+      "published_date": null,
+      "topic_year": 2024,
+      "research_capture_sha256": "458cdc3e2ff49979f16050e1212cdd6e306d8c8ff6544ef91eb67384e71553aa"
+    },
+    {
+      "id": "NC-M3",
+      "url": "https://printify.com/blog/how-mandy-dobosenski-design-hacks-that-helped-her-quit-her-9-5/",
+      "type": "supplier_original_interview",
+      "read_status": "full_text",
+      "published_date": "2023-04-27",
+      "commercial_interest": true,
+      "independent_financial_audit": false
+    },
+    {
+      "id": "NC-M4",
+      "url": "https://www.youtube.com/watch?v=YrLof7KOMXQ",
+      "type": "official_youtube_video",
+      "read_status": "metadata_description_only",
+      "published_date": "2025-08-30",
+      "supports_method_details": false,
+      "research_capture_sha256": "f6b2645598c3eb412fb537fb826ba898423017e50024683d7dae3b0ac2c1d531"
+    },
+    {
+      "id": "NC-M5",
+      "url": "https://www.youtube.com/watch?v=3qsXRrglfDY",
+      "type": "youtube_video_candidate",
+      "read_status": "retrieval_cancelled_not_retried",
+      "published_date": null,
+      "supports_method_details": false
+    },
+    {
+      "id": "NC-C1",
+      "url": "https://printify.com/blog/cassiy-helps-small-businesses-make-1000s/",
+      "type": "supplier_original_interview",
+      "read_status": "full_text",
+      "published_date": "2022-04-14",
+      "commercial_interest": true,
+      "independent_financial_audit": false,
+      "research_capture_sha256": "b56e051b09e88bdce0f7b8dc886d3d498a5467d9360ee790474a8b4d5f091d08"
+    },
+    {
+      "id": "NC-C2",
+      "url": "https://www.cassiyjohnson.com/",
+      "type": "official_website",
+      "read_status": "full_page",
+      "published_date": null,
+      "supports_identity_not_performance": true
+    },
+    {
+      "id": "NC-C3",
+      "url": "https://www.youtube.com/watch?v=Z0pZ8Zk2DG4",
+      "type": "official_youtube_video",
+      "read_status": "metadata_description_only",
+      "published_date": "2025-04-21",
+      "official_title": "The WORST Beginner Print On Demand Mistake Sellers Are Making & How To Avoid It",
+      "third_party_title_differs": true,
+      "supports_method_details": false,
+      "research_capture_sha256": "d39fb4aa43e3e1539a8eb509d97a9476492308a25c8a2ffe21f01bb93764c273"
+    },
+    {
+      "id": "NC-H1",
+      "url": "https://www.heatherxstudio.com/blog//blog/30-minute-daily-etsy-system",
+      "type": "official_authored_article",
+      "read_status": "full_text_video_unread",
+      "published_date": "2026-04-02",
+      "research_capture_sha256": "f586f3dc30e373b6b7883070b62dc05b0d9705808572ca0525cf5b3780c8f493"
+    },
+    {
+      "id": "NC-H2",
+      "url": "https://www.heatherxstudio.com/blog/the-only-etsy-strategy-that-actually-works-in-2026",
+      "type": "official_authored_article",
+      "read_status": "full_text_video_unread",
+      "published_date": "2026-03-27",
+      "official_platform_claims_not_verified": true
+    }
+  ],
+  "brand_case_boundary": "Christian品牌創辦人／產品教育由品牌案例引用處理；不增加人物教練數。",
+  "recommended_modules": [
+    {
+      "owner_skill": "etsy-coach-integrated",
+      "reference_suggestion": "niche-coach-qualification-2026-10-07.md",
+      "methods": [
+        "身份×場合×產品真實性的相容閘門",
+        "送禮情境圖的產品證據檢查"
+      ],
+      "integration": "在既有七層矩陣與產品鎖旁加閘門；不複製流程，不稱完整人物框架"
+    },
+    {
+      "owner_skill": "brand-marketing-growth",
+      "methods": [
+        "引用同一身份與場合卡",
+        "觀看、外連、到店、成交分別記錄"
+      ],
+      "integration": "用橋接引用而非複製方法卡；同一總工時預算"
+    }
+  ],
+  "release": "2026.10.07.3",
+  "baseline_perspectives": 15,
+  "resulting_active_perspectives": 17,
+  "full_new_candidate_video_transcripts_reviewed": 0,
+  "new_uploaded_video_count_added_to_october_refresh": 0
+}

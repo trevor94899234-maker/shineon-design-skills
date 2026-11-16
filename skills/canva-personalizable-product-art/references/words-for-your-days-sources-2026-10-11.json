@@ -1,0 +1,360 @@
+{
+  "profile": "Words for Your Days",
+  "version": "2026.10.11.3",
+  "recorded_at": "2026-10-11 UTC",
+  "scope": "Owner requirements plus scoped saved Love v6 and Faithful 1–3-letter APOD implementation evidence; Canva/Etsy mapping and production release remain separate.",
+  "sources": [
+    {
+      "id": "WFYD-U01",
+      "message_id": "Sentinel_64ba0091f690819182e9a8566423c94d",
+      "source_type": "User conversation instruction; message reference supplied for this update",
+      "claims": [
+        "Full name required",
+        "Optional free customer-selected 1–2 corner characters, not necessarily initials",
+        "A/B/C font choice applies to corner only",
+        "Separate explanation of these fields in requested personalization imagery"
+      ],
+      "verification": "Based on the authorized task context and supplied message reference; original message not independently re-fetched in this update"
+    },
+    {
+      "id": "WFYD-U02",
+      "message_id": "Sentinel_d69ca1a460fc8191a1a3d9412aab6258",
+      "source_type": "Explicit user NO PRINT instruction; message reference supplied for this update",
+      "claims": [
+        "NO PRINT removes entire corner group",
+        "Blank remains unconfirmed and must be resolved before production"
+      ],
+      "verification": "Based on the authorized task context and supplied message reference; original message not independently re-fetched in this update"
+    },
+    {
+      "id": "WFYD-P01",
+      "source_type": "Current design decisions and proof status supplied for this update",
+      "claims": [
+        "Z003 is Font C proof-only; Canva availability unverified",
+        "Non-Latin input requires whole-field glyph-support checks without accidental fallback",
+        "Bible quotation uses one consistent font/style; a separate approved personal dedication may use italics",
+        "Series uses repeatable type hierarchy and name hero; open decorative frame rejected"
+      ],
+      "limits": [
+        "No exact A/B font-family mapping supplied",
+        "No Canva font picker or export inspected in this skill update",
+        "No new customer-editable dedication field authorized",
+        "No current SKU template, supplier capability or shop settings verified"
+      ]
+    },
+    {
+      "id": "WFYD-LOVE-V6-20261011",
+      "owner_message_id": "Sentinel_ef12b96522008191b9d46d4e90c35cb5",
+      "authority": "Owner identified Love at13:04; parent relayed13:09 approval of EL placement and APOD apply. Account worker reported saved-state/native-test readback; native preview screenshots independently inspected.",
+      "apod_product": 612292,
+      "saved_branches": {
+        "PRINT corner text": {
+          "variant": 14487793,
+          "artwork": 1569981
+        },
+        "NO PRINT": {
+          "variant": 14486298,
+          "artwork": 1569618
+        }
+      },
+      "native_preview_evidence": [
+        "Love-v6-PRINT-preview-evidence.jpg",
+        "Love-v6-NO-PRINT-preview-evidence.jpg"
+      ],
+      "source_directory": "apod-new-drafts-20261011/love-v6-corner",
+      "print_png_sha256": "719f46c03d8b271351806876a4135cbe191fb53f54261a68e23edd16ee3bc239",
+      "no_print_png_sha256": "b40f88fbd77c8d32b505f8f4308cc79551a348fe6b6f36fbef537bda74a88583",
+      "validation_observations": [
+        "Empty corner rejected; two spaces accepted",
+        "Typing WWW truncates to WW; programmatic input longer than2 can render",
+        "Font can remain optional/default; manual explicit choice required",
+        "NO PRINT hides corner field and retains name/fixed design"
+      ],
+      "limits": [
+        "Etsy buyer field mapping/live preview/sync unverified",
+        "Canva font availability not established by APOD",
+        "Inherited alpha-edge residues keep production quality provisional",
+        "Historical at Love verification time: Faithful request was pending; superseded by the separately dated Faithful record below"
+      ],
+      "auto_fulfill": false,
+      "verified_at": "2026-10-11T13:24:47Z",
+      "source_contract": "apod-new-drafts-20261011/love-v6-corner/verified-contract.json",
+      "source_contract_sha256": "0b816c984b61a5c494cf0075401ce7f2acdbd7151983d9a213be668512d38f84",
+      "implementation_status": "SAVED_PRIVATE_APOD_DRAFT_VERIFIED",
+      "saved_field_contract": [
+        {
+          "choice": "PRINT corner text",
+          "artwork_id": 1569981,
+          "variant_id": 14487793,
+          "preview_url": "https://app.anywherepod.com/admin/products/612292/personalization-preview/1569981",
+          "fields": [
+            {
+              "label": "Corner text (1-2 characters)",
+              "required": true,
+              "html_maxLength": 2,
+              "example": "EL"
+            },
+            {
+              "label": "Name",
+              "required": true,
+              "html_maxLength": -1,
+              "example": "Elizabeth"
+            }
+          ]
+        },
+        {
+          "choice": "NO PRINT",
+          "artwork_id": 1569618,
+          "variant_id": 14486298,
+          "preview_url": "https://app.anywherepod.com/admin/products/612292/personalization-preview/1569618",
+          "fields": [
+            {
+              "label": "Name",
+              "required": true,
+              "html_maxLength": -1,
+              "example": "Elizabeth"
+            }
+          ],
+          "corner_layer": "absent; original name-only branch retained"
+        }
+      ],
+      "font_mappings": [
+        {
+          "editor_label": "Classic — Playfair Regular",
+          "preview_hover": "playfair_display",
+          "human_family": "Playfair Display Regular"
+        },
+        {
+          "editor_label": "Graceful — Playfair Italic",
+          "preview_hover": "playfair_display-italic",
+          "human_family": "Playfair Display Italic"
+        },
+        {
+          "editor_label": "Heritage — Cormorant Semibold Italic",
+          "preview_hover": "cormorant_garamond-600italic",
+          "human_family": "Cormorant Garamond Semibold Italic"
+        }
+      ],
+      "tested_validation": {
+        "short": "Jo + E generated without overlap",
+        "long": "Alexandria-Rose + WW fits but name shrinks; not universal acceptance",
+        "fonts": "All three swatches selected and preview generated; restored Elizabeth / EL / Playfair Regular",
+        "empty_corner": "Rejected: required field",
+        "empty_NO_PRINT_name": "Rejected: Name required",
+        "two_spaces_corner": "Accepted preview; manual trim-and-hold required",
+        "two_spaces_name": "Accepted preview; manual trim-and-hold required",
+        "typed_WWW": "Native keyboard entry stops at WW",
+        "programmatic_WWW": "Fill can set WWW and preview accepts; not backend validation",
+        "font_required": "No radio required; initial swatches all unchecked despite default design font. Missing explicit choice needs manual confirmation.",
+        "branch_choice": "Preview initially opens NO PRINT; default must not be interpreted as explicit customer choice."
+      },
+      "platform_mapping": {
+        "APOD": "Saved dropdown Corner text; PRINT input order corner text, font swatches, Name. NO PRINT only Name.",
+        "Etsy": "Not synced or tested in live buyer checkout. APOD admin Etsy dropdown order remains Style → Corner text. Image switching remains Style; no automatic branch-image mapping claim.",
+        "instructions": "Use platform-neutral order guidance until owner sync verifies actual buyer-facing fields."
+      },
+      "supplier_mockup": {
+        "file": "Love-v6-Elizabeth-EL-PRINT-ShineOn-mockup.jpg",
+        "url": "https://dc4h90zrm0wr3.cloudfront.net/mockups/ShineOn/73/89c34888-8372-4d72-ba87-c1146283e705.jpg",
+        "mockup_id": 36891022,
+        "template_id": 1662,
+        "supplier_render_id": 10376,
+        "selected_mockups": 11,
+        "primary": "Original NO PRINT front retained",
+        "visual": "Actual supplier front inspected; EL lower-right closely matches approved preview, main art unchanged."
+      },
+      "file_sha256": {
+        "Love-v5-pre-backup.json": "44c43a108246df5072c925a8b3445538698f27fc55627381d790db94a49b9a7b",
+        "native-field-readback.json": "625af56a237602abb98c4293f8ee3309cee13fa13ec5ede1c5508d153b6c7b88",
+        "Love-v6-PRINT-preview-evidence.jpg": "64fc2bd7974d1d4b76747d5abf9a99d370d955669580f50f65f1bc015916c916",
+        "Love-v6-NO-PRINT-preview-evidence.jpg": "b88459a8b3f884e530498d418a115d1a7f7e70b7707f8d452d0bb6edacf02364",
+        "Love-v6-NO-PRINT-APOD-front.png": "b40f88fbd77c8d32b505f8f4308cc79551a348fe6b6f36fbef537bda74a88583",
+        "Love-v6-Elizabeth-EL-PRINT-APOD-front.png": "719f46c03d8b271351806876a4135cbe191fb53f54261a68e23edd16ee3bc239",
+        "Love-v6-Elizabeth-EL-PRINT-ShineOn-mockup.jpg": "e5287684007bfcbf6d86383918872828fe540caf0f1354d2b775a124500eceba"
+      }
+    },
+    {
+      "id": "WFYD-FAITHFUL-1TO3-20261011",
+      "owner_message_id": "Sentinel_143e7a2aba84819199b5869f70f014d0",
+      "authority": "Owner instruction and verified saved-state contract supplied for this update; this skill update did not repeat the authenticated APOD tests.",
+      "source_contract": "apod-new-drafts-20261011/faithful-initials-1to3/verified-contract.json",
+      "source_contract_sha256": "8636086650e80440fd4e9c5f5e4bbc1f887ece09daad242bbb8531fc9ed65b70",
+      "verified_at": "2026-10-11T13:49:49Z",
+      "status": "SAVED_PRIVATE_APOD_DRAFT_VERIFIED",
+      "revision": "Faithful 1–3 customer-chosen letters, BB example",
+      "product_id": 612291,
+      "product_url": "https://app.anywherepod.com/admin/products/612291",
+      "auto_fulfill": false,
+      "etsy_synced": false,
+      "production_approved": false,
+      "owner_scope": "Owner explicitly requests one, two or three customer-chosen letters on Faithful. BB is the exact owner example; no automatic derivation from Daniel Bowman. Love remains 1–2.",
+      "branch_option_label": "Initials",
+      "branches": [
+        {
+          "choice": "PRINT initials",
+          "artwork_id": 1569993,
+          "variant_id": 14487871,
+          "preview_url": "https://app.anywherepod.com/admin/products/612291/personalization-preview/1569993",
+          "fields": [
+            {
+              "label": "Initials (1-3 letters)",
+              "required": true,
+              "html_maxLength": 3,
+              "example": "BB"
+            },
+            {
+              "label": "Name",
+              "required": true,
+              "html_maxLength": -1,
+              "example": "Daniel"
+            }
+          ]
+        },
+        {
+          "choice": "NO PRINT",
+          "artwork_id": 1569616,
+          "variant_id": 14486297,
+          "preview_url": "https://app.anywherepod.com/admin/products/612291/personalization-preview/1569616",
+          "fields": [
+            {
+              "label": "Name",
+              "required": true,
+              "html_maxLength": -1,
+              "example": "Daniel"
+            }
+          ],
+          "initials_layer": "absent; original v4 name-only branch retained"
+        }
+      ],
+      "native_initials": {
+        "sample": "BB",
+        "placement": "centered beneath leaf, not bottom-right",
+        "family": "Playfair Display Regular",
+        "family_id": "playfair_display",
+        "font_size": 32,
+        "preset": true,
+        "x": 210,
+        "y": 545,
+        "width": 80,
+        "height": 42.9456,
+        "rotation": 0,
+        "char_spacing": 0,
+        "color": "#FDE8BD",
+        "alignment": "center / middle",
+        "collection_id": 2568,
+        "collection": "Words for Your Days - Corner Fonts - Draft v1",
+        "required_on_PRINT": true
+      },
+      "main_name": {
+        "family": "Playfair Display 900",
+        "font_size": 85,
+        "x": 40,
+        "y": 124,
+        "width": 422,
+        "height": 112.418,
+        "char_spacing": 0,
+        "required": true,
+        "dynamic": true,
+        "font_choice_enabled": false,
+        "unchanged": true
+      },
+      "fixed_art": {
+        "file": "faithful-fixed-art-v4-PROVISIONAL-1000x1573.png",
+        "x": 0,
+        "y": 0.36702128,
+        "width": 500,
+        "height": 786.5,
+        "unchanged": true
+      },
+      "fonts": [
+        {
+          "editor_label": "Classic — Playfair Regular",
+          "preview_hover": "playfair_display",
+          "human_family": "Playfair Display Regular"
+        },
+        {
+          "editor_label": "Graceful — Playfair Italic",
+          "preview_hover": "playfair_display-italic",
+          "human_family": "Playfair Display Italic"
+        },
+        {
+          "editor_label": "Heritage — Cormorant Semibold Italic",
+          "preview_hover": "cormorant_garamond-600italic",
+          "human_family": "Cormorant Garamond Semibold Italic"
+        }
+      ],
+      "tests": {
+        "font_matrix": "D, BB and WWW visually generated and inspected in all three fonts; all remain centered beneath leaf without overlap. Cormorant appears smaller at same preset32.",
+        "empty_initials": "Rejected required field",
+        "two_spaces_initials": "Accepted preview; manual trim-and-hold required",
+        "typed_WWWW": "Native keyboard entry stops at WWW; maxlength3",
+        "programmatic_WWWW": "Fill can set four letters and preview accepts; not backend validation",
+        "digits_123": "Accepted preview; no letters-only regex. Manual letters-only review required.",
+        "font_required": "Font radios not required; explicit customer font selection/manual confirmation still needed",
+        "branch_choice": "Preview opens NO PRINT by default; explicit branch selection required",
+        "restored": "Daniel / BB / Playfair Regular",
+        "limits": "Non-Latin glyphs and final production/Etsy checkout remain unverified"
+      },
+      "image_proof": {
+        "dimensions": [
+          1410,
+          2220
+        ],
+        "PRINT_vs_NO_PRINT_changed_bbox": [
+          652,
+          1561,
+          757,
+          1626
+        ],
+        "changed_pixels": 2744,
+        "all_changed_pixels_below_leaf": true,
+        "prior_D_source_preserved": "apod-new-drafts-20261011/faithful-below-leaf-initial",
+        "native_geometry_unchanged": true
+      },
+      "supplier_mockup": {
+        "file": "Faithful-Daniel-BB-PRINT-ShineOn-mockup.jpg",
+        "url": "https://dc4h90zrm0wr3.cloudfront.net/mockups/ShineOn/73/a49a7163-a33a-407f-af53-bb2f220c99ad.jpg",
+        "mockup_id": 36891300,
+        "template_id": 1662,
+        "selected_mockups": 8,
+        "primary": "Original NO PRINT front retained",
+        "visual": "Actual ShineOn supplier front inspected; BB beneath leaf, same centered anchor and original design. Selected original NO PRINT primary retained; regenerated PRINT mockup remains selected.",
+        "metadata_caveat": "Supplier mockup selector legacy Artwork title still says v3; reopened native editor confirms fixed v4 filename and downloaded NO PRINT pixels exactly equal verified v4."
+      },
+      "platform_mapping": {
+        "APOD": "Saved dropdown Initials; PRINT input order initials, three font swatches, Name. NO PRINT only Name.",
+        "Etsy": "Not synced or tested in buyer checkout. APOD admin Etsy dropdown order remains Style → Initials. Image switching remains Style.",
+        "instructions": "Use platform-neutral guidance until owner sync verifies actual buyer-facing fields."
+      },
+      "manual_release_gate": "Require exact name and explicit PRINT/NO PRINT. PRINT needs 1–3 visible supported customer-chosen LETTERS and explicit font choice. Hold blank, whitespace-only, overlength, digits/nonletters, unsupported or ambiguous input. No automatic initials derivation. Keep Auto Fulfill off. Production quality and Etsy buyer workflow remain unverified.",
+      "source_quality": "Original 1000x1573 raster enlarged proportionally to 1410x2220 remains provisional; no AI upscale or print-quality approval.",
+      "file_sha256": {
+        "prior-D-1to2-contract.json": "9a65701afbf5dc583191662d564c4192f7c8c41265ad9ad5a76a31b6aa8b12c9",
+        "Faithful-BB-Playfair-Italic-canvas.png": "1168dd5d2bb6991cb92dd9bca4efff8db74cd3df54971f93a7144237fdb0b041",
+        "Faithful-WWW-Cormorant-Semibold-Italic-canvas.png": "6f4c2643794ec8da009009ca33fb1bb5fa32eaf68e1abdb8d3f0a198d2b9adcb",
+        "Faithful-D-Cormorant-Semibold-Italic-canvas.png": "0a15c7b92c0c721301592b25f5816fca838438dada9c0e14aaadc3051cf57976",
+        "boundary-test-results.json": "8fbed83a9437013a1c3a4df94cbee7e5d0aa86f6140c909d68541875d091a402",
+        "Faithful-WWW-Playfair-Regular-canvas.png": "1f3bdd60fd88ca590de992713cfb43df2f069a8032b8ce9ed59062450792a706",
+        "Faithful-BB-Cormorant-Semibold-Italic-canvas.png": "37cad65d438b0ee21ad25fb71ec92e03b8ed54f264ac1457afb7f822064a5650",
+        "Faithful-BB-Playfair-Regular-preview.jpg": "9aee1f980ee6259d838d7ecfefff2e8e2a41b2ac0a7e8816ddfc9b73b2aaf4db",
+        "Faithful-WWW-Playfair-Italic-canvas.png": "d61139619035c2f26e9a1c597b99dcee45f381cf87ae52dc0ff76ef4379215ef",
+        "Faithful-D-Playfair-Italic-canvas.png": "8f934783301ae0a939ecb3bd0f7f7dc1f0dc04d9ab9d32d7de78e615749f36d0",
+        "native-field-readback.json": "d369b770055edcc3aeb50924819bbaaed75fee700feedf8798beea32f3fd35c1",
+        "Faithful-BB-Playfair-Regular-canvas.png": "600e834c5e4b6e3d4782361d58f0c15a10add17edb049ac72d2c4be641053464",
+        "saved-product-readback.json": "fa8cbb6c95b0902f1707d08bb20a224789e2bd06c885aefd578237748b974618",
+        "Faithful-Daniel-BB-PRINT-APOD-front.png": "fc2ac3562abb6b73678b5e86501f432b011fe6b71c5e658cfec0a4876b1ca256",
+        "Faithful-current-listing-copy.txt": "adcc58a6f1665d0cb314cd9e0386577594ad31f53c0cdf1c2e541b0740a1b737",
+        "Faithful-D-Playfair-Regular-canvas.png": "0ae7973592c1c4c7085663556b263028d089e9e00c094be83a8d56082e064ed3",
+        "Faithful-Daniel-BB-PRINT-ShineOn-mockup.jpg": "e68f2cefaba1b49469aa9c6fac6bc36cc64f53da48abf61dddb5342a2c682452"
+      }
+    }
+  ],
+  "unchanged_gates": [
+    "Exact customer spelling",
+    "Complete independently composed per-SKU artwork",
+    "Native editable personalization fields",
+    "Required transparent PNG unless verified supplier exception",
+    "Actual named proof and glyph/alpha/size QA",
+    "Current authorization does not extend to production orders or publication"
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "version": "2026.10.07-nextpass-1",
+  "language": "zh-Hant",
+  "as_of": "2026-10-07",
+  "baseline": {
+    "candidate_pool": 22,
+    "business_method_perspectives": 21,
+    "etsy_release": "2026.10.07.4",
+    "brand_release": "2026.10.07.3"
+  },
+  "counts": {
+    "new_people_screened": 6,
+    "cumulative_candidate_people": 28,
+    "people_with_complete_relevant_teaching_or_firstperson_interview": 4,
+    "adopt_limited_source": 2,
+    "defer_new_coach": 3,
+    "brand_only_not_coach": 1,
+    "new_business_roster": 0,
+    "sources": 17,
+    "new_full_video_or_audio_transcripts": 0
+  },
+  "sources": [
+    {
+      "source_id": "NC3-M1",
+      "url": "https://www.lissasuedesigns.com/",
+      "title": "Lissa Sue Designs",
+      "source_type": "官方網站",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀身份與產品介紹",
+      "verified_scope": "Melissa Flanagan姓名見首頁圖片說明；主打信仰禮品及個人化書信日誌。"
+    },
+    {
+      "source_id": "NC3-M2",
+      "url": "https://www.lissasuedesigns.com/about-lissa-sue",
+      "title": "About Lissa Sue",
+      "source_type": "官方創辦人介紹",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀正文",
+      "verified_scope": "本人以Melissa Anne自稱，Lissa Sue是暱稱；信仰與設計品牌背景。"
+    },
+    {
+      "source_id": "NC3-M3",
+      "url": "https://www.lissasuedesigns.com/post/6-tips-to-open-your-first-etsy-shop",
+      "title": "6 tips to open your first Etsy shop",
+      "source_type": "官方教學文章",
+      "published_date": "2023-07-16",
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀完整教學正文",
+      "verified_scope": "本人稱2017年開店；選品需同時符合興趣、能力、需求與對象；實物準確mockup、相符受眾回饋。頁面另標Updated Feb 24，年份未明。"
+    },
+    {
+      "source_id": "NC3-M4",
+      "url": "https://www.lissasuedesigns.com/post/5-creative-ways-to-affirm-your-child-with-your-words",
+      "title": "5 Creative Ways to Affirm Your Child with your words",
+      "source_type": "官方產品用途教學",
+      "published_date": "2023-07-18",
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀完整教學正文",
+      "verified_scope": "Letters of Love段：親人現在寫信，可立即給孩子或留到日後場合；本人銷售個人化書信日誌。更新年份未明；非親職或心理專業證據。"
+    },
+    {
+      "source_id": "NC3-M5",
+      "url": "https://www.lissasuedesigns.com/post/the-beginner-s-guide-to-verse-mapping-in-bible-study",
+      "title": "The Beginner’s Guide to Verse Mapping in Bible Study",
+      "source_type": "官方讀經教學",
+      "published_date": "2024-01-08",
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀完整教學正文",
+      "verified_scope": "內容屬讀經方法，其自家引導式日誌不可轉述成本店200頁間線功能。"
+    },
+    {
+      "source_id": "NC3-R1",
+      "url": "https://www.etsy.com/shop/BibleJournalLove",
+      "title": "BibleJournalLove",
+      "source_type": "官方Etsy商店",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀商店身份與商品類型區段",
+      "verified_scope": "平台快照顯示80,061累計sales，擷取頁標示4日前快取、最新活動2026-10-02；主要為數位Bible journaling套件，不是實體空白日誌成績。"
+    },
+    {
+      "source_id": "NC3-R2",
+      "url": "https://www.biblejournalclasses.com/",
+      "title": "Bible Journal Classes",
+      "source_type": "官方教學網站",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀身份與課程入口",
+      "verified_scope": "Robin Sampson相關Bible journaling課程、會員及商品；未讀付費課程。"
+    },
+    {
+      "source_id": "NC3-R3",
+      "url": "https://www.biblejournalclasses.com/blog/52-week-slow-stitch-bible-tags",
+      "title": "52 Week Slow Stitch Bible Tags & Freebies!",
+      "source_type": "官方活動教學",
+      "published_date": "2022-08-01為文內活動開始日，非已核發表日",
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀完整教學正文",
+      "verified_scope": "單一主題、短讀經內容、一次能完成的活動；可用已有材料，不必完成全部52次。作者明稱自己不是slow stitch老師。"
+    },
+    {
+      "source_id": "NC3-R4",
+      "url": "https://www.biblejournalclasses.com/blog/Layered%20Story%20Frames%20in%20Junk%20Journaling",
+      "title": "Layered Story Frames in Junk Journaling",
+      "source_type": "官方手作教學",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀完整教學正文",
+      "verified_scope": "平面圖像與簡化層次的教學，屬產品使用內容，不能推導POD營收因果。"
+    },
+    {
+      "source_id": "NC3-K1",
+      "url": "https://www.alura.io/interview/littlewaydesignco",
+      "title": "LittleWayDesignCo seller interview",
+      "source_type": "商業工具出版者原始第一人稱訪談",
+      "published_date": "2023-10-22",
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀完整訪談正文",
+      "verified_scope": "Katerina談Catholic Etsy商店、POD起步及後來混合自家履約；零廣告、收入、利潤與增長均為歷史自述。"
+    },
+    {
+      "source_id": "NC3-K2",
+      "url": "https://www.etsy.com/shop/littlewaydesignco",
+      "title": "littlewaydesignco",
+      "source_type": "官方Etsy商店",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀商店身份與生產夥伴區段",
+      "verified_scope": "姓名Katerina Deem；快照11,141累計sales。商品區同時顯示無商品及載入錯誤，不判定停店或現貨範圍。"
+    },
+    {
+      "source_id": "NC3-L1",
+      "url": "https://leahmchenry.com/",
+      "title": "Leah McHenry",
+      "source_type": "官方教練網站",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀公開網站正文",
+      "verified_scope": "本人定位信仰創業與實體／數位商品教練；網站行銷聲明及見證不是獨立業績驗證。"
+    },
+    {
+      "source_id": "NC3-L2",
+      "url": "https://legacylaunchpod.podbean.com/e/28-simplify-to-scale-turning-catholic-gifts-into-a-premium-brand/",
+      "title": "28. Simplify to Scale: Turning Catholic Gifts Into a Premium Brand",
+      "source_type": "官方Podcast集數頁",
+      "published_date": "2026-01-07",
+      "accessed_date": "2026-10-07",
+      "read_status": "僅完整閱讀節目簡介與章節時間；音訊及逐字稿未讀",
+      "verified_scope": "Leah主持、Katie Ratliff為Catholic禮品創辦人嘉賓；目錄精簡、個人化與套組只確認為節目題目，未驗證執行方法。"
+    },
+    {
+      "source_id": "NC3-L3",
+      "url": "https://leahmchenry.com/coming-soon-1",
+      "title": "Coming soon",
+      "source_type": "官方課程／內容入口",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀入口狀態",
+      "verified_scope": "頁面建置中，不能當成已讀教學。"
+    },
+    {
+      "source_id": "NC3-T1",
+      "url": "https://lilyandlamb.com/",
+      "title": "Lily & Lamb",
+      "source_type": "官方品牌網站",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀品牌定位與產品入口",
+      "verified_scope": "Catholic女性禮品、聖人主題手鏈等；不是ShineOn實體日誌教學。"
+    },
+    {
+      "source_id": "NC3-T2",
+      "url": "https://shoutoutatlanta.com/meet-katie-ratliff-owner-of-lily-lamb-a-catholic-gift-boutique-2/",
+      "title": "Meet Katie Ratliff Owner of Lily & Lamb a Catholic Gift Boutique",
+      "source_type": "創辦人第一人稱公開訪談",
+      "published_date": "2024-07-17",
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀完整訪談正文",
+      "verified_scope": "家庭成員參與測試、模特兒、拍攝及行銷；成長為本人自述，沒有可直接複用的低工時自然行銷程序。"
+    },
+    {
+      "source_id": "NC3-O1",
+      "url": "https://www.etsy.com/shop/MerryHeartCo",
+      "title": "MerryHeartCo",
+      "source_type": "官方Etsy商店",
+      "published_date": null,
+      "accessed_date": "2026-10-07",
+      "read_status": "已讀商品入口及About正文",
+      "verified_scope": "Roni為擁有人、設計師及攝影師；基督教個人化家人禮物。快照3,761累計sales、18項Journals & Notebooks分類；生產夥伴含PrintedMint、Printful、Printify。未讀到經營教學。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "NC3-C01",
+      "name": "Melissa Flanagan",
+      "aliases": [
+        "Melissa Anne",
+        "Lissa Sue"
+      ],
+      "brand": "Lissa Sue Designs",
+      "role": "有公開Etsy經營教學的信仰禮品創作者",
+      "decision": "採用有限用途方法來源",
+      "business_roster_delta": 0,
+      "fit": "Christian個人化實體書信日誌與Etsy，產品／受眾高度相近；未核供應商及獲利。",
+      "sources": [
+        "NC3-M1",
+        "NC3-M2",
+        "NC3-M3",
+        "NC3-M4",
+        "NC3-M5"
+      ],
+      "method": "送禮時序：誰現在寫，何時交付，誰日後閱讀。",
+      "scope": "僅用途教育與禮物定位；一般Etsy建議已與既有方法重疊。",
+      "evidence_limit": "沒有獨立核實日誌單品營收、工時或零廣告成績；2023費用／搜尋敘述不能當現行政策。",
+      "commercial_interest": "自家Etsy商品、部分文章含聯盟連結。"
+    },
+    {
+      "id": "NC3-C02",
+      "name": "Robin Sampson",
+      "aliases": [
+        "Robin Sampson McCarthy"
+      ],
+      "brand": "BibleJournalLove / Bible Journal Classes",
+      "role": "Bible journaling創作者與教學內容來源",
+      "decision": "採用有限內容結構來源",
+      "business_roster_delta": 0,
+      "fit": "信仰書寫使用場景相近；實際主要為數位套件與課程，與實體POD生產不同。",
+      "sources": [
+        "NC3-R1",
+        "NC3-R2",
+        "NC3-R3",
+        "NC3-R4"
+      ],
+      "method": "單一主題、短示例及一次可完成的小行動；分享可選是本店改編，非原文逐項規則。",
+      "scope": "只作產品用途內容範例；不稱慢縫老師或電商增長教練。",
+      "evidence_limit": "全店累計sales可核為平台快照，無活動帶單因果及實體日誌成績；2022活動不是本店要連做52週。",
+      "commercial_interest": "數位套件、課程／會員與材料聯盟連結。"
+    },
+    {
+      "id": "NC3-C03",
+      "name": "Katerina Deem",
+      "brand": "LittleWayDesignCo",
+      "role": "Catholic Etsy與混合POD品牌創辦人",
+      "decision": "保留歷史經營案例，暫緩新增教練",
+      "business_roster_delta": 0,
+      "fit": "Etsy、Catholic禮品與POD相近；服飾、貼紙及Bible tabs居多。",
+      "sources": [
+        "NC3-K1",
+        "NC3-K2"
+      ],
+      "method": "訪談含回答買家疑問、初期圖片與搜尋投入，但現有方法已覆蓋。",
+      "scope": "可交品牌案例庫；不可推定跨教派語句適合所有Christian受眾。",
+      "evidence_limit": "2023零廣告與30%年增等自述不等於現在；本人與丈夫協作，約三分之二自家履約；不採成本乘4的通用售價公式。",
+      "commercial_interest": "訪談刊於販售Etsy工具的Alura。"
+    },
+    {
+      "id": "NC3-C04",
+      "name": "Leah McHenry",
+      "brand": "Legacy Launchpod",
+      "role": "信仰創業教練",
+      "decision": "暫緩，具體教學未完整取得",
+      "business_roster_delta": 0,
+      "fit": "信仰實體禮品品牌策略有關；未證實Etsy與低工時ShineOn日誌實績。",
+      "sources": [
+        "NC3-L1",
+        "NC3-L2",
+        "NC3-L3"
+      ],
+      "method": "只確認Catholic禮品品牌集數談到精簡、個人化等主題，不抽取未讀步驟。",
+      "scope": "不得將show notes包裝成已讀完整方法。",
+      "evidence_limit": "音訊與逐字稿未取得；追加供應商資料需接受新條款，本輪未啟用；網站課程入口建置中。",
+      "commercial_interest": "教練服務、課程行銷及見證。"
+    },
+    {
+      "id": "NC3-C05",
+      "name": "Katie Ratliff",
+      "brand": "Lily & Lamb",
+      "role": "Catholic禮品品牌創辦人及Podcast嘉賓",
+      "decision": "保留創辦人案例，暫緩新增教練",
+      "business_roster_delta": 0,
+      "fit": "Catholic關係禮品定位相近；以手鏈等商品為主。",
+      "sources": [
+        "NC3-T1",
+        "NC3-T2",
+        "NC3-L2"
+      ],
+      "method": "公開訪談支持家庭協作背景；沒有足夠完整經營程序可新增。",
+      "scope": "品牌創辦人不自動等於經營教師。",
+      "evidence_limit": "業績增長是自述；家庭拍攝與行銷支援不能假設適用每週3至5小時獨立經營者。",
+      "commercial_interest": "自家品牌宣傳及受訪節目。"
+    },
+    {
+      "id": "NC3-C06",
+      "name": "Roni",
+      "brand": "MerryHeartCo",
+      "role": "Christian個人化禮品店主、設計師與攝影師",
+      "decision": "品牌參考案例，不採為教練",
+      "business_roster_delta": 0,
+      "fit": "Etsy、Christian親友禮物及個人化journal高度相近。",
+      "sources": [
+        "NC3-O1"
+      ],
+      "method": "只觀察商品與店主背景，沒有已核讀的公開教學方法。",
+      "scope": "交50品牌研究共用，不重複計成教師。",
+      "evidence_limit": "3,761為全店累計sales，18為頁面分類數，不是journal銷量、全店完整盤點或獲利；供應商亦不同。",
+      "commercial_interest": "自家Etsy商品。"
+    }
+  ],
+  "method_cards": [
+    {
+      "id": "NC3-METHOD-01",
+      "title": "現在書寫與日後交付",
+      "source_ids": [
+        "NC3-M4"
+      ],
+      "source_observation": "作者銷售個人化書信日誌，說明可以現在寫並立即給孩子，或保留到日後場合。",
+      "adaptation": "在既有買家／送禮人／書寫者／最後閱讀者欄位加一個選填送禮時序；不要另建第二套矩陣。 原文是親子情境，不能據此把本店成人款改成兒童定位。",
+      "draft_test": "僅選現有一個相容SKU，製作一段用途文案或一張說明草稿。明示買家自行在200頁間線上書寫；不新增內頁題目、預印內容或代寫服務。",
+      "owner_time_cap_minutes": 25,
+      "metrics": [
+        "先核對產品描述及人物角色是否一致",
+        "批准且套用後才記商品瀏覽與同商品訂單，分開呈現",
+        "僅取得相同範圍、同期間visits時才計orders/visits；無足夠到訪維持未定"
+      ],
+      "stop": "若封面或原有受眾不相容，停止套用；不為測試改整個產品方向。",
+      "evidence_label": "來源觀察＋本店改編假設，未證實銷售效果"
+    },
+    {
+      "id": "NC3-METHOD-02",
+      "title": "一次可完成的信仰書寫內容",
+      "source_ids": [
+        "NC3-R3"
+      ],
+      "source_observation": "2022活動把主題、短讀經內容與一次能完成的製作連在一起，參與者不用完成全部活動。",
+      "adaptation": "把複雜手作活動縮成一則可選用的日誌書寫用途示範；只重用一張權利清楚的本店實物圖，分享行動可選。",
+      "draft_test": "草稿只含一個相容信仰主題、一個自創短示例及一個能當次完成的書寫行動；註明這是使用建議，不是隨商品附送的內頁文字。使用現有一個渠道，不建立新群組或52週挑戰。",
+      "owner_time_cap_minutes": 25,
+      "metrics": [
+        "製作時間及產品事實QA",
+        "批准發布後，記可取得的有效外連點擊；到店visits另記",
+        "沒有可歸因資料時不把按讚、收藏或曝光當成訂單效果"
+      ],
+      "stop": "履約後沒有25分鐘餘額，或信仰語境不合，即保留草稿；兩張卡同週最多選一張。",
+      "evidence_label": "歷史活動結構的有限改編，沒有銷售因果證據"
+    }
+  ],
+  "read_count_note": "完整正文4人是Melissa、Robin、Katerina、Katie；Katie只有創辦人經歷訪談，不能寫成4人均有完整經營教學。",
+  "independent_semantic_review": "唯一技能編輯者另讀兩個核心來源，確認交付時序及一次完成結構；2026-10-07。",
+  "unresolved_media": {
+    "source_id": "NC3-L2",
+    "audio_or_transcript_read": false,
+    "effect": "只確認官方節目簡介與章節題目，未取得完整教學。"
+  },
+  "integration": {
+    "business_method_roster_after": 21,
+    "limited_faith_copy_or_use_sources_after": 3,
+    "supplementary_sources_after": 2,
+    "new_business_roster": 0,
+    "new_processes_created": 0,
+    "main_sources_independently_re_read": [
+      "NC3-M4",
+      "NC3-R3"
+    ],
+    "public_raw_text_included": false,
+    "status": "integrated",
+    "etsy_release": "2026.10.07.5",
+    "brand_release": "2026.10.07.4"
+  }
+}

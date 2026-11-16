@@ -1,0 +1,2161 @@
+{
+  "schema_version": "1.0",
+  "audit_id": "COACH-VIDEO-2026-10-08",
+  "review_started_at": "2026-10-08T03:20:48Z",
+  "review_completed_at": "2026-10-08T03:33:25.719227Z",
+  "baseline": {
+    "etsy_release": "2026.10.07.10",
+    "brand_release": "2026.10.07.9",
+    "previous_full_selected_source_audit_end": "2026-10-07T17:41:47.857369+00:00",
+    "cutoff_rule": "Use each channel actual checked_at, not release date or final audit timestamp. NC6 new members had method admission reviews rather than complete prior channel inventories."
+  },
+  "counts": {
+    "formal_business_perspectives_unchanged": 30,
+    "candidate_pool_unchanged": 50,
+    "roster_linked_channels_with_identity_metadata": 29,
+    "requested_tab_pages": 87,
+    "available_requested_tabs": 74,
+    "initial_page_unique_video_cards_observed": 2099,
+    "selected_newly_seen_watch_pages_date_checked": 32,
+    "new_publication_ids_verified": 6,
+    "new_publications_after_prior_review_end": 4,
+    "full_new_transcripts_read": 0,
+    "new_videos_watched": 0,
+    "new_methods_admitted": 0
+  },
+  "coverage": [
+    {
+      "coach_or_roster_link": "Dylan Jahraus",
+      "channel_title": "Dylan Jahraus",
+      "channel_id": "UCeO8Gmc2B-3G2fgcFnRR4Xw",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@dylanjahraus/videos",
+          "checked_at": "2026-10-08T03:24:09.550374+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "vjKV9ol6BBA",
+            "title": "EXACTLY What To Sell on Etsy This Holiday Season 2026 🎁 (5 NEW Trends)",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "bc316714d3f7d8e8decb461c99e5eb1a617737c069283f5a8046f5092ca32c2d",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@dylanjahraus/shorts",
+          "checked_at": "2026-10-08T03:24:09.551189+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "gu6jtgof7nw",
+            "title": "Still not getting Etsy traffic?",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "a83d7929afa02e03e5b9a2c9b8be05ec59ad21baa433c5a88a93b8b00bbd9c6e",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@dylanjahraus/streams",
+          "checked_at": "2026-10-08T03:24:09.551642+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "U67j9a4B9eE",
+            "title": "Etsy's Major 2026 Updates + 4 Ways to Change Your Shop Today & Live Shop Audits with Dylan Jahraus",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "815d7818fac830affbe5d7a55616c10f5ec846480d316c81e96beeb457f11d7a",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Joe Robert",
+      "channel_title": "Joe Robert",
+      "channel_id": "UCNh9lB7D5JMiDQTJKYZ556Q",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@RealJoeRobert/videos",
+          "checked_at": "2026-10-08T03:24:09.552471+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "uJXhCr-iPdU",
+            "title": "My SIMPLE $10k/Month Print On Demand Plan For A NEW Store",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "4d607f88c556073b60998804843a582882c097e8b53cc13a491ae07f56480d50",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@RealJoeRobert/shorts",
+          "checked_at": "2026-10-08T03:24:09.553305+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "gadBItpHP3o",
+            "title": "Watch This Before You Use Gelato (Print On Demand For Beginners)",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "f7d885b9e579fb7bc8d1a2cdee75a88d72d0c2b378d0ff44ef46c8f8a58d6013",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@RealJoeRobert/streams",
+          "checked_at": "2026-10-08T03:24:09.555015+00:00",
+          "selected_tab": [
+            "Home"
+          ],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "3b87c156ee0a3efed93e14ee13d9af1bc3227ea135166f04453fcc0de438bae9",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Starla Moore",
+      "channel_title": "Starla Moore",
+      "channel_id": "UCcPXCoEtPJxesAXp-evqzqg",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@StarlaMoore/videos",
+          "checked_at": "2026-10-08T03:24:28.304363+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "wqF9ky8p_XQ",
+            "title": "5 Etsy Growth Tips that NO ONE talks about",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "d0ffe6b244e5d07d6642d837e0ac6ff4ba1f4bb70ef722a3c0d885f5c42bd74e",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@StarlaMoore/shorts",
+          "checked_at": "2026-10-08T03:24:28.512360+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "kUpvoJUjFgo",
+            "title": "Is a 4 Star Review BAD on Etsy? #etsy #etsytips #etsysellers",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "d43546006742684eb47698e301ac626b8082ab7c02abbb4f6b34a6484de8180c",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@StarlaMoore/streams",
+          "checked_at": "2026-10-08T03:24:28.559051+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "FtmLQgfl0H0",
+            "title": "2026 Etsy Holiday Décor Trends to List NOW - The Friday Bean Coffee Meet",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "77b793451f2a65111ba9f381993c01047b417ed24c6b4d879ba04cd4dca51ff9",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Christina Umerez",
+      "channel_title": "C.U.Online",
+      "channel_id": "UCe3U6y0-4cNz-adavoOBfsQ",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@c.u.online/videos",
+          "checked_at": "2026-10-08T03:24:28.578548+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "SVdk4RyGuaQ",
+            "title": "TOP 2026 Trending Ornament Niches To Add Now (Research Tutorial)",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "8dcfa60e3e6d17cf69f79f3cb095a1f2d9c64b496675def28d478960c9f886ed",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@c.u.online/shorts",
+          "checked_at": "2026-10-08T03:24:28.621263+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "JNbePWyKOG8",
+            "title": "If you want the full tutorial of how to make, sell and price these check out the FULL long form",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "50a327fd10115a0ca2fd2b9d67b146ed745c6920e99c3c532f0bb2303c8ad7ac",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@c.u.online/streams",
+          "checked_at": "2026-10-08T03:24:28.779571+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 1,
+          "first_observed_card": {
+            "video_id": "gJ4Hph_n46w",
+            "title": "Coffee With Everbee Live: What's Working In 2026",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "7bece2a30aa47e8b7b0ecababd60f3ef1c598b6367f3b929fbd861baea20be54",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Meg Heckman",
+      "channel_title": "Meg Heckman",
+      "channel_id": "UC0d-JbubL4XZmw4hdcGeXRw",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@itsmegheckman/videos",
+          "checked_at": "2026-10-08T03:24:58.523989+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "6qWlxOwC4tI",
+            "title": "How to Get Your First 100 Sales in 30 Days (Full Playbook)",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "9c178e08e49b0394027b18e8fbce87c6481e21861b8a45959fd79f849f569c15",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@itsmegheckman/shorts",
+          "checked_at": "2026-10-08T03:24:58.618524+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "XX1Zbbnmim4",
+            "title": "The Sale Happens in the Half Second the Buyer Gets the Joke",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "505b31f050f0d7dbcebbf738b2649288d7e55027bad4fad6ede604b3e1e1bfe3",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@itsmegheckman/streams",
+          "checked_at": "2026-10-08T03:24:58.627442+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 4,
+          "first_observed_card": {
+            "video_id": "k6hN4PxYmLQ",
+            "title": "Building POD Stores Live in Real Time",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "51e12821b5ae0d56c938a466d0454723e96782efbd2f19756acff6fe314b3a93",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Jesse Teaches",
+      "channel_title": "Jesse Teaches",
+      "channel_id": "UCFbwFMBENf67WenJSWtEJTg",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@jesseteaches/videos",
+          "checked_at": "2026-10-08T03:24:58.641308+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "sFFADWlPaDQ",
+            "title": "We Just Cracked the Etsy Ornament Market",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "50b2f855a3e2e214de1b3b323a84dd84e5c31f605f54453bc9f13d887d35d060",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@jesseteaches/shorts",
+          "checked_at": "2026-10-08T03:24:58.691557+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 8,
+          "first_observed_card": {
+            "video_id": "xCElWpNAol4",
+            "title": "Comment below “Top 100” for a chance to win FREE coaching!!🔥",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "9f9a417771662da0a31b2cb9f50e3ac50a54ea6a90c180183c17a95e8437dbc7",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@jesseteaches/streams",
+          "checked_at": "2026-10-08T03:24:58.740358+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 1,
+          "first_observed_card": {
+            "video_id": "NNoGJz8hvug",
+            "title": "Coaches Panel Live Q&A",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "b74f11294d10127dfcde043a09a523c6bdfba279ed69ceca31ab43ed0aba0314",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Anna Beck",
+      "channel_title": "AnywherePOD",
+      "channel_id": "UCHhXXMkSjcfmlVq5c1yAUiA",
+      "identity_scope": "company_channel_not_all_uploads_attributable_to_named_coach",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@AnywherePOD/videos",
+          "checked_at": "2026-10-08T03:25:16.188000+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "YBgjm1M2Rz0",
+            "title": "These Personalized AI Designs Are Taking Over Etsy Right Now",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "e3076359a1630d8f4092a0e3d4f91e730a02fb9ee5eefb4711f312a2a51d3ae7",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@AnywherePOD/shorts",
+          "checked_at": "2026-10-08T03:25:16.261777+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 18,
+          "first_observed_card": {
+            "video_id": "o811upEeH8I",
+            "title": "These 3 AI Designs Are Making Etsy Sellers $$$$ #etsy #ai #money",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "40fe28386875d3600f2a717013ab01185b10156ebe341f48f495becdbf6f2ca4",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@AnywherePOD/streams",
+          "checked_at": "2026-10-08T03:25:16.295772+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "keAt8kEOX3E",
+            "title": "MASSIVE UPDATE: AI Auto Personalization & Text w/AnywherePOD (Tutorial)",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "ccbe764ce8815a6563c538d4f9d70d86f38d10dc91f88461c51f134f0d3fe268",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Courtney Nichole",
+      "channel_title": "Courtney Nichole",
+      "channel_id": "UCK4jxvf6uT1CUZ_LDo_KrbA",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@CourtneyNichole1/videos",
+          "checked_at": "2026-10-08T03:25:16.367829+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "CdEMIJhaK9A",
+            "title": "Your Etsy Buyers Never Have to Open Canva Again - AnywhereDigital Full Walkthrough",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "392ba848a11ca064325825bba792a64c10e43488c4f266edd4c9b7e90059467a",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@CourtneyNichole1/shorts",
+          "checked_at": "2026-10-08T03:25:16.382512+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "Nj2NZ9WSFrs",
+            "title": "Does It Live Past October 31st? #etsyseller #etsytips #etsytrends #fallonetsy #shorts",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "3984d74a74017712deb5505837b0efbd709c149ed9a3a4f49b8f64ad8c8ba2df",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@CourtneyNichole1/streams",
+          "checked_at": "2026-10-08T03:25:16.401693+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "5b0097713e9f629e5f2d2958de9708734cd82582859362551baa1e64440abdd3",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "George McConnell",
+      "channel_title": "George McConnell",
+      "channel_id": "UCukxylq4xJppUDMW-gi-9jQ",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@GeorgeDMcConnell/videos",
+          "checked_at": "2026-10-08T03:25:36.542052+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "m_t7N9acoew",
+            "title": "Give Me 25 Minutes and I Will Make You Rich",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "d0f853015062098b6754eb19d2644b711c1e4a5913af3175740d4f88495938e4",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@GeorgeDMcConnell/shorts",
+          "checked_at": "2026-10-08T03:25:36.543180+00:00",
+          "selected_tab": [
+            "Home"
+          ],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "1d401836350a5f6086d20a50c61af99fab946513ed7c9f3cb058719ad846a5cc",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@GeorgeDMcConnell/streams",
+          "checked_at": "2026-10-08T03:25:36.570088+00:00",
+          "selected_tab": [
+            "Home"
+          ],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "dd734d04b4c7157f001cc9da91bb14506d983ea5c0fe05f60c6a22ecf909c8c7",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Luna Vega",
+      "channel_title": "Luna Vega",
+      "channel_id": "UCV3-kGFJHeFnh6RP9fFPoRg",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@misslunavega/videos",
+          "checked_at": "2026-10-08T03:25:36.584965+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "K6JN1WdAqvA",
+            "title": "I Made $1,000,000 Selling Digital Products - 6 Things You Are Missing!",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "a5778dd002349b679642a9d607437175318388a679c2534ceaa5a9b5c24f1030",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@misslunavega/shorts",
+          "checked_at": "2026-10-08T03:25:36.655389+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "DYZIn4cD4GA",
+            "title": "I Would Love to Be a Trophy Wife",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "604d67686dbbf2bd9d35614fda1f747cd6023aa562c731b8d57c6d1dc902e4cf",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@misslunavega/streams",
+          "checked_at": "2026-10-08T03:25:36.682596+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 18,
+          "first_observed_card": {
+            "video_id": "eOCVNj0eqqg",
+            "title": "How To NOT Lose Money On Etsy Ads In 2025",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "1980e0e70c7926f51931b817de830e57b4d04e001a1cc62bd05ab118b66b8efb",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Ronnie McKenzie",
+      "channel_title": "Ronnie McKenzie",
+      "channel_id": "UC7Jf2OnC5IbqznlCOM9G45w",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@RonnieMcKenzie/videos",
+          "checked_at": "2026-10-08T03:25:55.597300+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "7yF0oZhQcB8",
+            "title": "Make Your First $1,000 with this New Claude Side Hustle",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "88e669d2d67a2e2d98d0749ccf0d77a1047967474901074d4bf6fcf8df6fff51",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@RonnieMcKenzie/shorts",
+          "checked_at": "2026-10-08T03:25:55.651339+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "2YRUENCZk8M",
+            "title": "I asked Nano Banana to create a metal art design that could actually make money.",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "e62ea5c029c0d5f65996bf2fc4399b2c671f8409a57736b1004864960965d1a3",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@RonnieMcKenzie/streams",
+          "checked_at": "2026-10-08T03:25:55.666671+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 1,
+          "first_observed_card": {
+            "video_id": "nEyej_3JmH4",
+            "title": "Print on Demand and Copyright Law - What we need to know in 2021 & Beyond",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "5a0da9ed21f37e2984a490811ae56d8fac2e2e51b4c481147b03a012bd8809c0",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Mario Menduni",
+      "channel_title": "Mario Menduni",
+      "channel_id": "UCcSAonU3nOC16fbs8U2HYMA",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@MarioMenduni/videos",
+          "checked_at": "2026-10-08T03:25:55.716595+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "0guqw-VMVnw",
+            "title": "ShineOn Scaling Master Class with Mario Menduni q4 2024 2 of 2",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "075ad689b989b3e13fda4f09557b11c6f1b186c13108b411b419101f622ad7fd",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@MarioMenduni/shorts",
+          "checked_at": "2026-10-08T03:25:55.763690+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 12,
+          "first_observed_card": {
+            "video_id": "bLmVFw93U9c",
+            "title": "100 times easier to make $50k in one month than $5k a month in ecom",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "da9c94bb99c498a430fa466407803a70ea093cc7c35caf933a935a2befc64d08",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@MarioMenduni/streams",
+          "checked_at": "2026-10-08T03:25:55.925420+00:00",
+          "selected_tab": [
+            "Home"
+          ],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "2e7b782f8cb902f7b0de5e98cc69d6115e549d8d68725b6db13281ae09f107a8",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Chris Blair",
+      "channel_title": "ShineOn Print-On-Demand",
+      "channel_id": "UCzcPf326yBa1X-J-RGdyfmQ",
+      "identity_scope": "company_channel_not_all_uploads_attributable_to_named_coach",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@ShineOnPOD/videos",
+          "checked_at": "2026-10-08T03:26:15.507499+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "uG1jjZllSZk",
+            "title": "Why POD Sellers Run Out of Ad Money Before a Product Ever Wins",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "feeae72106daa174e2c89840e1d6765b3f15f447817d44ea7a24edc87124619f",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@ShineOnPOD/shorts",
+          "checked_at": "2026-10-08T03:26:15.537273+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "wwTbjlWoNcA",
+            "title": "Why \"18K Gold Plated\" in Your Listing Copy Changes Everything for AOV",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "9df53a4c1e6757a7163bcc65868bfb7479528d8973d4b8726e7450155bafedf2",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@ShineOnPOD/streams",
+          "checked_at": "2026-10-08T03:26:15.565759+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "5ixn2nbWEMc",
+            "title": "From Never Quit to Winning Big",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "a28dcb51e508423cee528baa1ed2430a25a5486cd3fcb424cfc77c30e43d714e",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Gina Menduni",
+      "channel_title": "Gina Menduni",
+      "channel_id": "UCt5ALmRxzIJY6Abh9E74xGw",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@ginamenduni/videos",
+          "checked_at": "2026-10-08T03:26:15.583941+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 14,
+          "first_observed_card": {
+            "video_id": "eu8vuycT1zI",
+            "title": "How to Upload a Font to Canva - Downloading Custom Fonts on Creative Fabrica",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "3442b0ed4f27ae5bafff9af9ef9035f5ada0605eb041f0c2ff41fd3daf949a13",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@ginamenduni/shorts",
+          "checked_at": "2026-10-08T03:26:15.612675+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 31,
+          "first_observed_card": {
+            "video_id": "hXBPDwWp1HU",
+            "title": "My #visionboard worked 🫶",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "ba4c548155a8c2625d5252dd096c5e7bc3a392e3a52617b078c5cea0e5a4f22a",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@ginamenduni/streams",
+          "checked_at": "2026-10-08T03:26:15.641927+00:00",
+          "selected_tab": [
+            "Home"
+          ],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "cd9f0506a53442ab72dd8b7367d3500330236c8c30a853b8601044d205ac5eb9",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "RJ Martinez",
+      "channel_title": "Print On Demand - RJ Martinez",
+      "channel_id": "UCgUAPPjwz--1MRiEojS1QPw",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@rjmartinez/videos",
+          "checked_at": "2026-10-08T03:26:29.955218+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "jze90AO_EiM",
+            "title": "The Best Etsy Clothing Shops Aren't Out-Designing You. They're Using Better Blanks.",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "abfd8de248f2df1318720ae5d6b990cbe86868f397c592cac76ff75264b997de",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@rjmartinez/shorts",
+          "checked_at": "2026-10-08T03:26:29.969989+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "jqaT01aCAGc",
+            "title": "\"Grandma's a Small. Uncle Mike's a 4XL.\" (25-Shirt Etsy Orders)",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "6e0c1e3e78067ea72c3455720c37158dbb5b0c9002bf1b57d53ab26335b96be2",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@rjmartinez/streams",
+          "checked_at": "2026-10-08T03:26:29.982429+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "21z2Bwmr9Zg",
+            "title": "The 2026 Facebook Organic Reach Strategy Every Ecommerce Seller Should Be Using",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "9fd2d3abb954de2206c1cdf515e4c279c29943a900ad66cfece09fbb9d5cc7ee",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Hannah Gardner",
+      "channel_title": "Hannah Gardner",
+      "channel_id": "UCDfyasEPlV7m23kcdaJ3glg",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@EcomHannah/videos",
+          "checked_at": "2026-10-08T03:26:30.069018+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "2CxL3TlKZyo",
+            "title": "Claude AI Just Exposed How to Fix a Dead Etsy Listing",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "dbb4378625c6c8af24dc9dd67954b762b8fa6ac63eed220312d05c3faf7a61af",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@EcomHannah/shorts",
+          "checked_at": "2026-10-08T03:26:30.076701+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "OacUWJ7diT0",
+            "title": "How to get daily Etsy sales without a Following",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "bf7475d1a9e4f1b945e638e74b7cfcfa21bc76e17ad6a586ee9517fa7aef2535",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@EcomHannah/streams",
+          "checked_at": "2026-10-08T03:26:30.171493+00:00",
+          "selected_tab": [
+            "Home"
+          ],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "148dbee59aee91494dbdb0ed8cdb4c4d5bf1a905bd62afb439c23e72d85ccb95",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Mandy Dobosenski",
+      "channel_title": "SimplyPOD with Mandy",
+      "channel_id": "UCh22ofFv6DheCUMo8J06zSw",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/channel/UCh22ofFv6DheCUMo8J06zSw/videos",
+          "checked_at": "2026-10-08T03:26:53.469512+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "TkF6-fIsM3k",
+            "title": "The Best Ceramic Ornament for Etsy POD in Q4 2026 (The shocking results!)",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "87c9bccbc097bf3c01aceb3dacf1f4def9cbf9712bfc0ffb166190a9fcfef5e5",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UCh22ofFv6DheCUMo8J06zSw/shorts",
+          "checked_at": "2026-10-08T03:26:53.537280+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "7He778_Cysk",
+            "title": "Is this the fastest way to list on Etsy? #printondemand #etsyseller #shorts",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "7354afc5ca32da6363510db2d8d8f26d2161c9cfa4c2d72c97e57489d94bb7b9",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UCh22ofFv6DheCUMo8J06zSw/streams",
+          "checked_at": "2026-10-08T03:26:53.567050+00:00",
+          "selected_tab": [
+            "Home"
+          ],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "760b1438321972ee59407ad3066573fac5f40f4b66468e4d6589be25a63c1c23",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Cassiy Johnson",
+      "channel_title": "Cassiy Johnson",
+      "channel_id": "UCLO9E4VY1fjn_aIPByy9HSA",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/channel/UCLO9E4VY1fjn_aIPByy9HSA/videos",
+          "checked_at": "2026-10-08T03:26:53.568832+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "jW-WMsIPJCA",
+            "title": "Your ChatGPT Etsy Designs Look Like AI: Here's How to Fix It",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "ef6d2783859bc3d9eb5c3af754a01a332dba048c344b668c32a0f2389440ebb0",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UCLO9E4VY1fjn_aIPByy9HSA/shorts",
+          "checked_at": "2026-10-08T03:26:53.587574+00:00",
+          "selected_tab": [],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "c5417d2ff7a8bb33b933f557946162727c9a44f9b75bb8c5f008722954f75c05",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UCLO9E4VY1fjn_aIPByy9HSA/streams",
+          "checked_at": "2026-10-08T03:26:53.632060+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 1,
+          "first_observed_card": {
+            "video_id": "q96XRDUDOO0",
+            "title": "LIVE Update New Keptsake Ornaments & 9 Things You Need to Know To Get Ready For Holiday Sales!",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "8ec73e7516a33e2e5278e2c790f5ae174a315b2f177edaa50dad6c0a51047041",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Emily Odio-Sutton / Ecomm Emily",
+      "channel_title": "Emily Odio-Sutton",
+      "channel_id": "UCAAdHNShqOQagHJfhw884Bg",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/channel/UCAAdHNShqOQagHJfhw884Bg/videos",
+          "checked_at": "2026-10-08T03:27:23.567440+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "fxCihs3NUk0",
+            "title": "Etsy Q4 Print on Demand: 3 Untapped Products Before It’s Too Late",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "abd4c7b9d1b2103e14e3c10e6809ffb970f27bf22adbfe9f72473d2be1de9d80",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UCAAdHNShqOQagHJfhw884Bg/shorts",
+          "checked_at": "2026-10-08T03:27:23.628446+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "0BRXAFnNdcw",
+            "title": "Nobody tells you this part about Pinterest...",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "a870d93e1200c27c558420f07daefc21ad42e72a16cb4090884b04528d539f1d",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UCAAdHNShqOQagHJfhw884Bg/streams",
+          "checked_at": "2026-10-08T03:27:23.629373+00:00",
+          "selected_tab": [
+            "Home"
+          ],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "39901885982fbaeb595457c9c50dc03ecf2bf0ba556abe79c1b09f5945ff93ff",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Mei Pak / Creative Hive",
+      "channel_title": "Creative Hive",
+      "channel_id": "UCw6Dxk_YQdVE-Vy-OVJsRYQ",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/channel/UCw6Dxk_YQdVE-Vy-OVJsRYQ/videos",
+          "checked_at": "2026-10-08T03:27:23.632098+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "MtFT1MBVedI",
+            "title": "I built a business from scratch to prove you can too (It made me $11,414)",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "1bfd4b00f8f9c914ddc92198365e5c03a251274d108fb82b5a4e602db8302f1a",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UCw6Dxk_YQdVE-Vy-OVJsRYQ/shorts",
+          "checked_at": "2026-10-08T03:27:23.653882+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "3r6Na54iOM0",
+            "title": "It’s never too late to start something you really want to do ♥️",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "93c8012b60c078d85f56a6fe20f114271ccda0f26d7f3997574b07c7fdcaa2ce",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UCw6Dxk_YQdVE-Vy-OVJsRYQ/streams",
+          "checked_at": "2026-10-08T03:27:24.122381+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 3,
+          "first_observed_card": {
+            "video_id": "9LuFgv4El1s",
+            "title": "Episode 1 of Gamification with Amy & Mei",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "3e42986627cbc6ef5f86e9cb1b8ec13b44641307129c4cdda9436ad7d680d2e1",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Dalia Abdalla / The Handmade Mastermind",
+      "channel_title": "Dalia Abdalla",
+      "channel_id": "UCi4knCW3dzKuB5os6KFP4mQ",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/channel/UCi4knCW3dzKuB5os6KFP4mQ/videos",
+          "checked_at": "2026-10-08T03:27:43.593028+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "wM07RP2x88o",
+            "title": "my business CRISIS, explained + etsy is going downhill (PROOF)",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "93edfd93401d01d7cf7bc2d65371343876d96485ac946d86e6e0a0b760a722b8",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UCi4knCW3dzKuB5os6KFP4mQ/shorts",
+          "checked_at": "2026-10-08T03:27:43.639345+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 10,
+          "first_observed_card": {
+            "video_id": "q6jjPEK0vQM",
+            "title": "the secret to selling on etsy and amazon #etsysellertips #etsyseotips #howtosellonetsy #amazonseller",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "749ab2e6aa1b56fec59774cefa68a3a95f3e541fce6cac516c62d4fce292d10f",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UCi4knCW3dzKuB5os6KFP4mQ/streams",
+          "checked_at": "2026-10-08T03:27:43.716285+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 16,
+          "first_observed_card": {
+            "video_id": "hPmYrpdTvtI",
+            "title": "10 ways you can earn a LOYAL customer for LIFE",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "679a016c31e46257c805e472c9a542b817483b0e9ac6dc1c3017328462544705",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Lizzie Smiley / How to Sell Your Stuff",
+      "channel_title": "How to Sell Your Stuff",
+      "channel_id": "UC2qJIroXGPooUo-29YrRY8A",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/channel/UC2qJIroXGPooUo-29YrRY8A/videos",
+          "checked_at": "2026-10-08T03:27:43.734737+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "j8vva-7JEjI",
+            "title": "Ep 253 | She earned $14k on Etsy during the slow months selling PNGs -with Shannon Davis",
+            "known_in_prior_ledgers": true
+          },
+          "capture_sha256": "4b054ef9ef7629526b7c26b7594a03d28a3044ce0f7741df2d02d477fde71d93",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UC2qJIroXGPooUo-29YrRY8A/shorts",
+          "checked_at": "2026-10-08T03:27:43.770634+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "JwDERTB_9ZM",
+            "title": "Claude employees can help run your Etsy business 🤯 Check out the full episode to get inspired!",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "7d24be7cd821ab833f65b0b94e35a7550d63cd8ea97023b5724f4db43eb1d214",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UC2qJIroXGPooUo-29YrRY8A/streams",
+          "checked_at": "2026-10-08T03:27:43.783780+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "0423b132000fac62dd1f44d691651131ac67f222189c2882993683c88b0afe26",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Amy Eaton",
+      "channel_title": "Amy Eaton",
+      "channel_id": "UCz7XJeCrAjAmEf7ynG65yYA",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@AmyEaton/videos",
+          "checked_at": "2026-10-08T03:26:52.345033+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "-EsK4kcC8lI",
+            "title": "3 Steps To Product Photos That Sell",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "091b6a34a90adc629e724d3a887e34a6273b36ba1ebf506d73163acc5d884b0d",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@AmyEaton/shorts",
+          "checked_at": "2026-10-08T03:26:52.346023+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 40,
+          "first_observed_card": {
+            "video_id": "bZWCfxtj1Vk",
+            "title": "The best light for product photography",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "2e67760cec3679e3613ed34b600009ec2fe5c4b5e290ca3b4bfe79fb233bf6cd",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@AmyEaton/streams",
+          "checked_at": "2026-10-08T03:26:52.346687+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 3,
+          "first_observed_card": {
+            "video_id": "aMvXwSzWf10",
+            "title": "Episode 1 of Gamification with Amy & Mei",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "a2ebf593824b020643d4e9cdbbdfdcda10d745f8faf7fd016ba3030b21e41864",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Janet LeBlanc",
+      "channel_title": "Janet LeBlanc (Paper + Spark)",
+      "channel_id": "UCgWWtweO6A184rxniWFlvSg",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/c/janetleblanc/videos",
+          "checked_at": "2026-10-08T03:26:52.347084+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "vP_7KkM5HGc",
+            "title": "Importing in your Shopify CSV to your Paper + Spark spreadsheet",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "3e2f49c760d350918bbf88e0f24d09fc9e6aba36d11a3ac963a4556450fcf5cd",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/c/janetleblanc/shorts",
+          "checked_at": "2026-10-08T03:26:52.347875+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 5,
+          "first_observed_card": {
+            "video_id": "vf1_A1MPifw",
+            "title": "Self-employed finances can be a headache....",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "8e9ea8d40186a6902a77890f4eac56f8b5415ed03f7ca0ff95e2239e6b2ef947",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/c/janetleblanc/streams",
+          "checked_at": "2026-10-08T03:26:52.348964+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 1,
+          "first_observed_card": {
+            "video_id": "vU9xrUVdiuQ",
+            "title": "April FOOLPROOF your biz finances",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "611865b1e44601769a03d66d55b1724f65dd03bb8110780e4548a8ff757e23f4",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Erin Mooney",
+      "channel_title": "Made Urban",
+      "channel_id": "UCt-jUqcFLX1l8cHB2JKVxvw",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@MadeUrban/videos",
+          "checked_at": "2026-10-08T03:27:23.806904+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 8,
+          "first_observed_card": {
+            "video_id": "KRuahJ41A90",
+            "title": "How I made a spinning sticker stand for craft shows",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "afbd9d80de7da9212fc6dc638cdbf268117c9ce92fd10b7c7cd0fe853586ae06",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@MadeUrban/shorts",
+          "checked_at": "2026-10-08T03:27:23.886668+00:00",
+          "selected_tab": [
+            "Home"
+          ],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "480ed352a7ed14cff1d8e67da34b8238ec62268b72b63b2d98d601405ebec888",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@MadeUrban/streams",
+          "checked_at": "2026-10-08T03:27:23.930288+00:00",
+          "selected_tab": [
+            "Home"
+          ],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "5447eee928e4c28039509b4797413be2d32b27f83750b56312e45623b3a18091",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Nancy Badillo",
+      "channel_title": "Nancy Badillo",
+      "channel_id": "UCxbltZV6j0uv78MGdudCwzA",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/nancybadillo/videos",
+          "checked_at": "2026-10-08T03:27:23.939121+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "9rVJA3rh9IA",
+            "title": "How to Sell Digital Products on Etsy in 2027 With a $0 Budget!",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "59f2ac4662c84f03050786d30a24d431e17b6629e9a0ca0b0703521b4e435788",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/nancybadillo/shorts",
+          "checked_at": "2026-10-08T03:27:23.952171+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "VXSScfzQEEI",
+            "title": "Don't start an Etsy business until you understand this... Part 3 #etsytips #etsysellers",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "bc1c2ab008744b75db7c3003fdebb1ec3dfc88026fbae870b8d490cc8bc2f707",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/nancybadillo/streams",
+          "checked_at": "2026-10-08T03:27:24.079668+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 1,
+          "first_observed_card": {
+            "video_id": "6PauoZCJz6w",
+            "title": "First Live YouTube Streaming - Answering Q&A's - All About Etsy, Social Media, Email Marketing!",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "4ddc0ca1def617f41ae68500115a63bec9baad158519704694415a5f7d9fab63",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Rachel Rofe",
+      "channel_title": "Rachel Rofé",
+      "channel_id": "UCTjBHerwxYRoIdUqBLD9MIA",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/user/rachelrofe/videos",
+          "checked_at": "2026-10-08T03:27:47.169354+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "2CLjZ_1Jxm0",
+            "title": "From eBay In 1998 to Whatnot Today... Merre's Story",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "b1fcadf4322a3251579c2bed6b7156a9095fba6955ff1b194c65d5ca85364092",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/user/rachelrofe/shorts",
+          "checked_at": "2026-10-08T03:27:47.189783+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "VWRroaJu9Ms",
+            "title": "Etsy Tips for New Sellers, Etsy Shop for Beginners, Etsy Tips and Tricks.",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "c0660ea7e55dace91143f1a0b0d54d85e4ab8cff66ca83271fae873dbb8a1b01",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/user/rachelrofe/streams",
+          "checked_at": "2026-10-08T03:27:47.222118+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 1,
+          "first_observed_card": {
+            "video_id": "QVrHWVFekcs",
+            "title": "Christmas Hangout",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "83cbe3ac07ab13334996bfb1b75b90e73e653a605059e2536499424c7555cddd",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Steph Cole-Lewis",
+      "channel_title": "Handmade Bosses",
+      "channel_id": "UCr2jpc2lH3-YX7qb_swEPzQ",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/@HandmadeBosses/videos",
+          "checked_at": "2026-10-08T03:27:47.359725+00:00",
+          "selected_tab": [
+            "Videos"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "eHm7Q4UlL4E",
+            "title": "Selling to the EU on Etsy New Packaging Rules Explained",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "92060169f3f9f5e2ef4f62e713d9a6bdf2725754bd05a35edcfbdeeeec8a642e",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@HandmadeBosses/shorts",
+          "checked_at": "2026-10-08T03:27:47.361225+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "ASxHwZ-7VZo",
+            "title": "Etsy Is Giving Sellers More Help With Removed Listings",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "58a26ea55ff3c6c2d56425abf39eba7c1fbcae20be315efecdd60b57525a82b5",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/@HandmadeBosses/streams",
+          "checked_at": "2026-10-08T03:27:47.426038+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "1p8q5pRvAT8",
+            "title": "Etsy Sales Gone Quiet? What Your Stats Are Actually Telling You",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "e7cc9234b894a7a8a0be9430076d8f3b042880accfed9994fa7434398219d121",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    },
+    {
+      "coach_or_roster_link": "Pam Duthie",
+      "channel_title": "Pam Duthie",
+      "channel_id": "UC0xN_-o7z3GHEFA6IBCH19Q",
+      "identity_scope": "person_or_person_owned_brand_channel",
+      "tabs": [
+        {
+          "requested_url": "https://www.youtube.com/channel/UC0xN_-o7z3GHEFA6IBCH19Q/videos",
+          "checked_at": "2026-10-08T03:28:22.206833+00:00",
+          "selected_tab": [],
+          "requested_tab_available": false,
+          "valid_observed_card_count": 0,
+          "first_observed_card": null,
+          "capture_sha256": "b4224cfec5253afe7ef1eda1b595976b590c0473620c330c1407e3b2641043bc",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UC0xN_-o7z3GHEFA6IBCH19Q/shorts",
+          "checked_at": "2026-10-08T03:28:22.207674+00:00",
+          "selected_tab": [
+            "Shorts"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 48,
+          "first_observed_card": {
+            "video_id": "iqBKXZYMK0E",
+            "title": "I knew it was AI So I made It REAL",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "d932280e1c70ad85b125c25e45a76d767ee98f6dc8fa6c74529fd2b72e115b68",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        },
+        {
+          "requested_url": "https://www.youtube.com/channel/UC0xN_-o7z3GHEFA6IBCH19Q/streams",
+          "checked_at": "2026-10-08T03:28:22.208366+00:00",
+          "selected_tab": [
+            "Live"
+          ],
+          "requested_tab_available": true,
+          "valid_observed_card_count": 30,
+          "first_observed_card": {
+            "video_id": "NPz5fMio0ds",
+            "title": "Etsy Q2 Financial Results.  I wouldnt be that petty .....",
+            "known_in_prior_ledgers": false
+          },
+          "capture_sha256": "e3e2f58585ae686662c891013182a2fc9d5e4753ef8423ed1ab5a3c1d7033ad5",
+          "reading_scope": "initial_page_cards_only_no_pagination_no_video_content"
+        }
+      ],
+      "full_channel_coverage": false
+    }
+  ],
+  "missing_person_channel": [
+    {
+      "coach": "Morgan Nield",
+      "identity_site": "https://www.morgannield.com/",
+      "additional_official_page": "https://www.morgannield.com/podcasts/digital-product-powerhouse",
+      "status": "both ordinary public reads returned HTTP502; no personally controlled video channel verified in this pass",
+      "do_not_infer": "No uploads or inactive status cannot be established."
+    }
+  ],
+  "new_publications": [
+    {
+      "source_id": "REFRESH-20261008-JOE-01",
+      "coach": "Joe Robert",
+      "video_id": "uJXhCr-iPdU",
+      "url": "https://www.youtube.com/watch?v=uJXhCr-iPdU",
+      "title": "My SIMPLE $10k/Month Print On Demand Plan For A NEW Store",
+      "published_at_utc": "2026-10-07T17:14:22Z",
+      "publish_date_raw": "2026-10-07T10:14:22-07:00",
+      "upload_date_raw": "2026-10-07T10:14:22-07:00",
+      "checked_at": "2026-10-08T03:27:31.267128Z",
+      "read_depth": "full_official_description_and_watch_metadata_reviewed_no_transcript",
+      "new_methods_admitted": [],
+      "transcript_read": false,
+      "video_watched": false,
+      "publication_after_prior_person_check": true,
+      "prior_person_checked_at": "2026-10-07T17:12:50.712Z",
+      "published_after_prior_review_end": false,
+      "recording_date": null,
+      "republication_status": "unknown",
+      "caption_read_outcome": {
+        "method": "One ordinary GET to the public caption baseUrl exposed in the watch page",
+        "track": "French (auto-generated)",
+        "language_code": "fr",
+        "reason_for_non_english": "English track was not exposed; 20 automatic non-English tracks were listed",
+        "http_status": 200,
+        "response_bytes": 0,
+        "outcome": "empty response; no subtitle text read",
+        "attempt_count": 1
+      },
+      "relevance": "Paid/owned-store promotional context in description; new video method unverified, not adopted into zero-ad Etsy plan.",
+      "evidence_decision": "new_publication_verified_teaching_pending"
+    },
+    {
+      "source_id": "REFRESH-20261008-STA-01",
+      "coach": "Starla Moore",
+      "video_id": "kUpvoJUjFgo",
+      "url": "https://www.youtube.com/watch?v=kUpvoJUjFgo",
+      "title": "Is a 4 Star Review BAD on Etsy? #etsy #etsytips #etsysellers",
+      "published_at_utc": "2026-10-07T17:15:07Z",
+      "publish_date_raw": "2026-10-07T10:15:07-07:00",
+      "upload_date_raw": "2026-10-07T10:15:07-07:00",
+      "checked_at": "2026-10-08T03:29:49.720791+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "new_methods_admitted": [],
+      "transcript_read": false,
+      "video_watched": false,
+      "prior_person_checked_at": "2026-10-07T17:12:50.712Z",
+      "publication_after_prior_person_check": true,
+      "published_after_prior_review_end": false,
+      "recording_date": null,
+      "republication_status": "unknown",
+      "content_summary_and_limit": "Description presents a four-star review as an opportunity for feedback and improvement. No message script or review-policy details read. Only descriptive context; retained Nancy aftercare and current Etsy policy still govern.",
+      "evidence_decision": "new_publication_verified_description_only_not_new_method",
+      "capture_sha256": "0e21ee54e55a4285b5fbcd385b605b07d82c0cf59a8a117f6620202a0becd24f"
+    },
+    {
+      "source_id": "REFRESH-20261008-DYL-01",
+      "coach": "Dylan Jahraus",
+      "video_id": "gu6jtgof7nw",
+      "url": "https://www.youtube.com/watch?v=gu6jtgof7nw",
+      "title": "Still not getting Etsy traffic?",
+      "published_at_utc": "2026-10-07T21:00:05Z",
+      "publish_date_raw": "2026-10-07T14:00:05-07:00",
+      "upload_date_raw": "2026-10-07T14:00:05-07:00",
+      "checked_at": "2026-10-08T03:29:49.719948+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "new_methods_admitted": [],
+      "transcript_read": false,
+      "video_watched": false,
+      "prior_person_checked_at": "2026-10-07T17:12:50.711Z",
+      "publication_after_prior_person_check": true,
+      "published_after_prior_review_end": true,
+      "recording_date": null,
+      "republication_status": "unknown",
+      "content_summary_and_limit": "Promotional description for a free external-traffic webinar; no ten-step lesson read. Do not start additional channels from this promotion.",
+      "evidence_decision": "new_publication_verified_description_only_not_new_method",
+      "capture_sha256": "0a3ce33a471ce50f9fbfe253d967d886b3745a1fe6845fb8abfb1bdf7ca20ad1"
+    },
+    {
+      "source_id": "REFRESH-20261008-AMY-02",
+      "coach": "Amy Eaton",
+      "video_id": "8MQlQ2PaoDs",
+      "url": "https://www.youtube.com/watch?v=8MQlQ2PaoDs",
+      "title": "Demystifying The Perfect White Background Photo with Amy Eaton",
+      "published_at_utc": "2026-10-07T21:11:24Z",
+      "publish_date_raw": "2026-10-07T14:11:24-07:00",
+      "upload_date_raw": "2026-10-07T14:11:24-07:00",
+      "checked_at": "2026-10-08T03:30:27.120458Z",
+      "read_depth": "full_official_description_and_metadata_reviewed_no_transcript",
+      "new_methods_admitted": [],
+      "transcript_read": false,
+      "video_watched": false,
+      "publication_after_prior_person_check": null,
+      "prior_person_checked_at": null,
+      "published_after_prior_review_end": true,
+      "recording_date": null,
+      "republication_status": "unknown",
+      "caption_read_outcome": {
+        "method": "One ordinary GET to public caption baseUrl from watch page",
+        "track": "English (auto-generated)",
+        "http_status": 200,
+        "response_bytes": 0,
+        "outcome": "no subtitle text read",
+        "attempt_count": 1
+      },
+      "relevance": "Photography can be relevant if substantive content becomes readable.",
+      "evidence_decision": "new_publication_verified_teaching_pending"
+    },
+    {
+      "source_id": "REFRESH-20261008-AMY-01",
+      "coach": "Amy Eaton",
+      "video_id": "-EsK4kcC8lI",
+      "url": "https://www.youtube.com/watch?v=-EsK4kcC8lI",
+      "title": "3 Steps To Product Photos That Sell",
+      "published_at_utc": "2026-10-07T21:13:11Z",
+      "publish_date_raw": "2026-10-07T14:13:11-07:00",
+      "upload_date_raw": "2026-10-07T14:13:11-07:00",
+      "checked_at": "2026-10-08T03:31:06.501366Z",
+      "read_depth": "official_watch_metadata_reviewed_description_empty_no_transcript",
+      "new_methods_admitted": [],
+      "transcript_read": false,
+      "video_watched": false,
+      "publication_after_prior_person_check": null,
+      "prior_person_checked_at": null,
+      "published_after_prior_review_end": true,
+      "recording_date": null,
+      "republication_status": "unknown",
+      "caption_read_outcome": {
+        "method": "One ordinary GET to the public caption baseUrl exposed in the watch page",
+        "track": "English (auto-generated)",
+        "http_status": 200,
+        "response_bytes": 0,
+        "outcome": "empty response; no subtitle text read",
+        "attempt_count": 1
+      },
+      "relevance": "Photography can be relevant if substantive content becomes readable.",
+      "evidence_decision": "new_publication_verified_teaching_pending"
+    },
+    {
+      "source_id": "REFRESH-20261008-MEI-01",
+      "coach": "Mei Pak",
+      "video_id": "3r6Na54iOM0",
+      "url": "https://www.youtube.com/watch?v=3r6Na54iOM0",
+      "title": "It’s never too late to start something you really want to do ♥️",
+      "published_at_utc": "2026-10-08T01:00:29Z",
+      "publish_date_raw": "2026-10-07T18:00:29-07:00",
+      "upload_date_raw": "2026-10-07T18:00:29-07:00",
+      "checked_at": "2026-10-08T03:29:56.698335+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "new_methods_admitted": [],
+      "transcript_read": false,
+      "video_watched": false,
+      "prior_person_checked_at": "2026-10-07T17:17:43.165574Z",
+      "publication_after_prior_person_check": true,
+      "published_after_prior_review_end": true,
+      "recording_date": null,
+      "republication_status": "unknown",
+      "content_summary_and_limit": "Motivational description about beginning a handmade business; no new operational method and no evidence to change current journal priorities.",
+      "evidence_decision": "new_publication_verified_description_only_not_new_method",
+      "capture_sha256": "d7d0100582faa6d961f0870c57116f4c09d67a5a3f800a581094928970669194"
+    }
+  ],
+  "same_id_title_observations": [
+    {
+      "coach": "Hannah Gardner",
+      "video_id": "2CxL3TlKZyo",
+      "url": "https://www.youtube.com/watch?v=2CxL3TlKZyo",
+      "original_published_at_utc": "2026-10-07T16:00:03Z",
+      "prior_title": "Claude AI Just Exposed How to Fix a Dead Etsy Listing",
+      "observed_titles_this_pass": [
+        {
+          "title": "Copy My Free Claude Prompt to Fix an Etsy Listing That Isn't Making Sales",
+          "observed_at": "2026-10-08T03:22:50.889901+00:00",
+          "timestamp_basis": "saved official page capture modification time"
+        },
+        {
+          "title": "Claude AI Just Exposed How to Fix a Dead Etsy Listing",
+          "observed_at": "2026-10-08T03:24:27.888451+00:00",
+          "timestamp_basis": "saved official page capture modification time"
+        }
+      ],
+      "decision": "same_video_id_already_processed_do_not_count_as_new_publication_or_new_method"
+    },
+    {
+      "coach": "George McConnell",
+      "video_id": "m_t7N9acoew",
+      "url": "https://www.youtube.com/watch?v=m_t7N9acoew",
+      "prior_title": "I Found a Simple Stupid Way To Make Money Online",
+      "observed_title": "Give Me 25 Minutes and I Will Make You Rich",
+      "original_published_at_utc": "2026-10-05T14:30:11Z",
+      "decision": "same_video_id_already_observed_do_not_count_as_new_upload"
+    }
+  ],
+  "selected_older_newly_seen_metadata": [
+    {
+      "coach": "Christina Umerez",
+      "video_id": "JNbePWyKOG8",
+      "url": "https://www.youtube.com/watch?v=JNbePWyKOG8",
+      "title": "If you want the full tutorial of how to make, sell and price these check out the FULL long form",
+      "published_at": "2025-12-03T10:35:48-08:00",
+      "checked_at": "2026-10-08T03:29:49.721367+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Christina Umerez",
+      "video_id": "_QspksLLVko",
+      "url": "https://www.youtube.com/watch?v=_QspksLLVko",
+      "title": "Have you guys seen this trend just blowing up across different AOP products? Check out my YT if you",
+      "published_at": "2025-11-27T13:35:20-08:00",
+      "checked_at": "2026-10-08T03:29:49.721771+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Jesse Teaches",
+      "video_id": "xCElWpNAol4",
+      "url": "https://www.youtube.com/watch?v=xCElWpNAol4",
+      "title": "Comment below “Top 100” for a chance to win FREE coaching!!🔥",
+      "published_at": "2022-07-26T08:32:30-07:00",
+      "checked_at": "2026-10-08T03:29:49.722296+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Jesse Teaches",
+      "video_id": "jdWf2c3Ghuw",
+      "url": "https://www.youtube.com/watch?v=jdWf2c3Ghuw",
+      "title": "Ready for 5 days of flashbacks to a $1,300,000 month on Etsy and Amazon!?",
+      "published_at": "2022-07-25T08:29:14-07:00",
+      "checked_at": "2026-10-08T03:29:49.723135+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Chris Blair",
+      "video_id": "wwTbjlWoNcA",
+      "url": "https://www.youtube.com/watch?v=wwTbjlWoNcA",
+      "title": "Why \"18K Gold Plated\" in Your Listing Copy Changes Everything for AOV",
+      "published_at": "2026-04-02T14:01:03-07:00",
+      "checked_at": "2026-10-08T03:29:56.436506+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Chris Blair",
+      "video_id": "T0071owgZYc",
+      "url": "https://www.youtube.com/watch?v=T0071owgZYc",
+      "title": "Graduation Ad Hooks That Are Actually Working Right Now in 2026",
+      "published_at": "2026-04-01T11:30:39-07:00",
+      "checked_at": "2026-10-08T03:29:56.476728+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Mandy Dobosenski",
+      "video_id": "ORhV28xy9jo",
+      "url": "https://www.youtube.com/watch?v=ORhV28xy9jo",
+      "title": "Don't Sleep On Low-Profit POD Products #etsytips #podbusiness #sidehustle",
+      "published_at": "2026-10-05T09:00:25-07:00",
+      "checked_at": "2026-10-08T03:29:56.491679+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Emily Odio-Sutton / Ecomm Emily",
+      "video_id": "0BRXAFnNdcw",
+      "url": "https://www.youtube.com/watch?v=0BRXAFnNdcw",
+      "title": "Nobody tells you this part about Pinterest...",
+      "published_at": "2026-10-05T09:00:30-07:00",
+      "checked_at": "2026-10-08T03:29:56.518010+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Emily Odio-Sutton / Ecomm Emily",
+      "video_id": "UZ9xp4HVmqo",
+      "url": "https://www.youtube.com/watch?v=UZ9xp4HVmqo",
+      "title": "\"I've been pinning for months and nothing's happening\" here's why...",
+      "published_at": "2026-10-03T09:00:35-07:00",
+      "checked_at": "2026-10-08T03:29:56.625708+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Dalia Abdalla / The Handmade Mastermind",
+      "video_id": "q6jjPEK0vQM",
+      "url": "https://www.youtube.com/watch?v=q6jjPEK0vQM",
+      "title": "the secret to selling on etsy and amazon #etsysellertips #etsyseotips #howtosellonetsy #amazonseller",
+      "published_at": "2023-03-01T09:14:18-08:00",
+      "checked_at": "2026-10-08T03:30:02.364507+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Dalia Abdalla / The Handmade Mastermind",
+      "video_id": "a2vynocMpzY",
+      "url": "https://www.youtube.com/watch?v=a2vynocMpzY",
+      "title": "Did the truth hurt? Find out more by clicking the link below.",
+      "published_at": "2022-11-01T22:00:02-07:00",
+      "checked_at": "2026-10-08T03:30:02.559577+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Lizzie Smiley / How to Sell Your Stuff",
+      "video_id": "JwDERTB_9ZM",
+      "url": "https://www.youtube.com/watch?v=JwDERTB_9ZM",
+      "title": "Claude employees can help run your Etsy business 🤯 Check out the full episode to get inspired!",
+      "published_at": "2026-09-14T14:19:29-07:00",
+      "checked_at": "2026-10-08T03:30:02.601294+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Lizzie Smiley / How to Sell Your Stuff",
+      "video_id": "3Z2ghnUR6iA",
+      "url": "https://www.youtube.com/watch?v=3Z2ghnUR6iA",
+      "title": "Do you know what people DM/email me about THE MOST as an Etsy expert?",
+      "published_at": "2025-08-02T10:11:38-07:00",
+      "checked_at": "2026-10-08T03:30:02.607064+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Amy Eaton",
+      "video_id": "bZWCfxtj1Vk",
+      "url": "https://www.youtube.com/watch?v=bZWCfxtj1Vk",
+      "title": "The best light for product photography",
+      "published_at": "2026-10-06T05:11:58-07:00",
+      "checked_at": "2026-10-08T03:30:02.752326+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Amy Eaton",
+      "video_id": "H6xUnmmV1p0",
+      "url": "https://www.youtube.com/watch?v=H6xUnmmV1p0",
+      "title": "3 things you need to know for beautiful styled product photos",
+      "published_at": "2026-10-01T08:00:48-07:00",
+      "checked_at": "2026-10-08T03:30:02.770689+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Janet LeBlanc",
+      "video_id": "vf1_A1MPifw",
+      "url": "https://www.youtube.com/watch?v=vf1_A1MPifw",
+      "title": "Self-employed finances can be a headache....",
+      "published_at": "2026-08-11T14:23:46-07:00",
+      "checked_at": "2026-10-08T03:30:07.911237+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Janet LeBlanc",
+      "video_id": "dXsfAL0cMPI",
+      "url": "https://www.youtube.com/watch?v=dXsfAL0cMPI",
+      "title": "I'm tired of seeing this piece of advice...",
+      "published_at": "2026-07-24T07:07:14-07:00",
+      "checked_at": "2026-10-08T03:30:08.116845+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Nancy Badillo",
+      "video_id": "VXSScfzQEEI",
+      "url": "https://www.youtube.com/watch?v=VXSScfzQEEI",
+      "title": "Don't start an Etsy business until you understand this... Part 3 #etsytips #etsysellers",
+      "published_at": "2026-10-07T03:42:17-07:00",
+      "checked_at": "2026-10-08T03:30:08.122355+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Nancy Badillo",
+      "video_id": "Qf2XL8IoEew",
+      "url": "https://www.youtube.com/watch?v=Qf2XL8IoEew",
+      "title": "What happens when you go silent for 90 days 🤫 #challenge #growth",
+      "published_at": "2026-10-03T04:57:12-07:00",
+      "checked_at": "2026-10-08T03:30:08.222791+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Rachel Rofe",
+      "video_id": "VWRroaJu9Ms",
+      "url": "https://www.youtube.com/watch?v=VWRroaJu9Ms",
+      "title": "Etsy Tips for New Sellers, Etsy Shop for Beginners, Etsy Tips and Tricks.",
+      "published_at": "2026-10-07T01:29:19-07:00",
+      "checked_at": "2026-10-08T03:30:08.288905+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Rachel Rofe",
+      "video_id": "PHobYzUbbAw",
+      "url": "https://www.youtube.com/watch?v=PHobYzUbbAw",
+      "title": "Business Motivation, Hustle Guide, Smart Business Ideas.",
+      "published_at": "2026-10-05T23:49:38-07:00",
+      "checked_at": "2026-10-08T03:30:08.377174+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Steph Cole-Lewis",
+      "video_id": "eHm7Q4UlL4E",
+      "url": "https://www.youtube.com/watch?v=eHm7Q4UlL4E",
+      "title": "Selling to the EU on Etsy New Packaging Rules Explained",
+      "published_at": "2026-10-06T23:00:18-07:00",
+      "checked_at": "2026-10-08T03:30:14.514162+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Steph Cole-Lewis",
+      "video_id": "ASxHwZ-7VZo",
+      "url": "https://www.youtube.com/watch?v=ASxHwZ-7VZo",
+      "title": "Etsy Is Giving Sellers More Help With Removed Listings",
+      "published_at": "2026-10-07T08:00:29-07:00",
+      "checked_at": "2026-10-08T03:30:14.605597+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Steph Cole-Lewis",
+      "video_id": "LEutAHm-VWM",
+      "url": "https://www.youtube.com/watch?v=LEutAHm-VWM",
+      "title": "Your Etsy Payment Account Looks Different",
+      "published_at": "2026-10-07T08:00:06-07:00",
+      "checked_at": "2026-10-08T03:30:14.679649+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Pam Duthie",
+      "video_id": "iqBKXZYMK0E",
+      "url": "https://www.youtube.com/watch?v=iqBKXZYMK0E",
+      "title": "I knew it was AI So I made It REAL",
+      "published_at": "2026-10-05T14:06:27-07:00",
+      "checked_at": "2026-10-08T03:30:14.758187+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    },
+    {
+      "coach": "Pam Duthie",
+      "video_id": "dGo-Axt0lk4",
+      "url": "https://www.youtube.com/watch?v=dGo-Axt0lk4",
+      "title": "How to get HONEST feedback from AI",
+      "published_at": "2026-03-24T21:00:36-07:00",
+      "checked_at": "2026-10-08T03:30:14.786040+00:00",
+      "read_depth": "official_watch_metadata_and_description_only",
+      "decision": "older_newly_seen_metadata_not_new_publication_or_teaching"
+    }
+  ],
+  "new_teaching_methods": [],
+  "limitations": [
+    "Initial public tab pages only; no exhaustive channel pagination, private/member/deleted/community inventory.",
+    "Unavailable tab URLs can redirect to Home or Videos; these are marked unavailable and their duplicate cards excluded.",
+    "Metadata publication/upload dates do not establish original recording date or substantive novelty.",
+    "No method extraction from titles, promotional descriptions or view counts.",
+    "A newer video may exist outside these selected entry pages; this review is not a complete-channel watermark.",
+    "Any watch caption failure applies only to that recorded attempt. Unattempted captions are not claimed inaccessible.",
+    "Prior cancelled source reads were not retried.",
+    "Public provider/customer claims, supplier facts and current Etsy rules require their own current authoritative evidence."
+  ],
+  "integration": {
+    "release": "2026.10.08.1",
+    "scope": "Freshness and source-date records only; no new teaching method, Coach, brand method or roster change.",
+    "brand_release_retained": "2026.10.07.9",
+    "new_video_id_cutoff": "Compare each channel previous checked_at; final packaging time is not the cutoff. Where prior channel inventory was absent, label baseline and recording/republication unknown.",
+    "dedupe_key": "video_id; title variants are observations, not new publications."
+  },
+  "source_collection_execution": {
+    "cloud_only": true,
+    "firecrawl_calls": 0,
+    "purchases": 0,
+    "subscriptions": 0,
+    "account_connections": 0,
+    "external_communications": 0,
+    "skill_writes": false,
+    "scope": "Only the completed source-collection pass; not the later skill integration or Library publication."
+  },
+  "subsequent_content_review": {
+    "as_of_utc": "2026-10-08T04:14:00Z",
+    "source": "coach-video-content-2026-10-08.json",
+    "interpretation": "Initial counts/new_publications above preserve the03:33metadata-only observation. Use these same-ID updates for current reading depth; prior empty caption attempts remain historical.",
+    "updated_sources": [
+      {
+        "source_id": "REFRESH-20261008-AMY-01",
+        "video_id": "-EsK4kcC8lI",
+        "read_depth": "All 300 displayed caption segments semantically read; page chrome, comments and recommendations excluded",
+        "status": "visible_transcript_read_bounded_photography_increment",
+        "visible_caption_segments": 300,
+        "transcript_read": true,
+        "audio_video_reviewed": false
+      },
+      {
+        "source_id": "REFRESH-20261008-AMY-02",
+        "video_id": "8MQlQ2PaoDs",
+        "read_depth": "All 251 displayed caption segments semantically read; page chrome, comments and recommendations excluded from teaching",
+        "status": "visible_transcript_read_bounded_photography_increment",
+        "visible_caption_segments": 251,
+        "transcript_read": true,
+        "audio_video_reviewed": false
+      },
+      {
+        "source_id": "REFRESH-20261008-STA-01",
+        "video_id": "kUpvoJUjFgo",
+        "read_depth": "all_visible_official_English_transcript_segments_semantically_reviewed",
+        "status": "visible_transcript_read_bounded_aftercare_clarification",
+        "visible_caption_segments": 5,
+        "transcript_read": true,
+        "audio_video_reviewed": false
+      },
+      {
+        "source_id": "REFRESH-20261008-DYL-01",
+        "video_id": "gu6jtgof7nw",
+        "read_depth": "all_visible_official_English_transcript_segments_semantically_reviewed",
+        "status": "visible_transcript_read_promotion_only_no_new_method",
+        "visible_caption_segments": 5,
+        "transcript_read": true,
+        "audio_video_reviewed": false
+      }
+    ],
+    "still_unresolved_source_ids": [
+      "REFRESH-20261008-JOE-01",
+      "REFRESH-20261008-MEI-01"
+    ]
+  }
+}

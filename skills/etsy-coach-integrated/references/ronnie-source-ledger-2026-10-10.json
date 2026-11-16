@@ -1,0 +1,205 @@
+{
+  "release": "2026-10-10 bounded Ronnie increment",
+  "checked_at_utc": "2026-10-10T16:27:00Z",
+  "coach_already_admitted": true,
+  "business_perspective_count_unchanged": 30,
+  "prior_youtube_check": "2026-10-08T03:25:55+00:00",
+  "scope": "15 RSS entries, 3 new IDs, 2 full returned transcripts; no audio/video watching; not exhaustive channel/social coverage",
+  "channel_url": "https://www.youtube.com/@RonnieMcKenzie",
+  "channel_id": "UC7Jf2OnC5IbqznlCOM9G45w",
+  "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Jf2OnC5IbqznlCOM9G45w",
+  "inventory": [
+    {
+      "video_id": "aFUhEoZg1CI",
+      "title": "\"Make money with AI\" sounds great… but what does it actually mean? Here's one of my favourite ways",
+      "url": "https://www.youtube.com/shorts/aFUhEoZg1CI",
+      "published_at": "2026-10-10T15:54:05+00:00",
+      "updated_at": "2026-10-10T16:21:43+00:00",
+      "new_since_prior_check": true,
+      "read_level": "full_returned_transcript_and_description_read",
+      "audio_video_watched": false,
+      "transcript_words": 215,
+      "transcript_sha256": "9f78ee2fa49b27f33d76d48eda83794731d3b765c157551d0e3cb11a6a4d24e4",
+      "duration": "PT1M10S"
+    },
+    {
+      "video_id": "wbrO1GxVsPs",
+      "title": "I use AI to turn ideas into real physical products",
+      "url": "https://www.youtube.com/shorts/wbrO1GxVsPs",
+      "published_at": "2026-10-09T14:54:13+00:00",
+      "updated_at": "2026-10-09T18:41:04+00:00",
+      "new_since_prior_check": true,
+      "read_level": "full_returned_transcript_and_description_read",
+      "audio_video_watched": false,
+      "transcript_words": 148,
+      "transcript_sha256": "2c1e7349b54f270b0f24788aa94295dbc6bbdc33c7c88fefef4c03edb545416f",
+      "duration": "PT0M46S"
+    },
+    {
+      "video_id": "ZBRVPGaC3uQ",
+      "title": "12 months ago I used AI to launch a new Print-On-Demand brand that generated: 🔥 $770,000+ sales on",
+      "url": "https://www.youtube.com/shorts/ZBRVPGaC3uQ",
+      "published_at": "2026-10-08T15:20:38+00:00",
+      "updated_at": "2026-10-08T19:18:18+00:00",
+      "new_since_prior_check": true,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    },
+    {
+      "video_id": "2YRUENCZk8M",
+      "title": "I asked Nano Banana to create a metal art design that could actually make money.",
+      "url": "https://www.youtube.com/shorts/2YRUENCZk8M",
+      "published_at": "2026-07-21T21:13:44+00:00",
+      "updated_at": "2026-10-03T18:06:24+00:00",
+      "new_since_prior_check": false,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    },
+    {
+      "video_id": "QBtz5LlcPA0",
+      "title": "Most people quit print-on-demand before they figure out the one move that changes everything.",
+      "url": "https://www.youtube.com/shorts/QBtz5LlcPA0",
+      "published_at": "2026-07-20T23:13:19+00:00",
+      "updated_at": "2026-10-01T22:30:59+00:00",
+      "new_since_prior_check": false,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    },
+    {
+      "video_id": "7yF0oZhQcB8",
+      "title": "Make Your First $1,000 with this New Claude Side Hustle",
+      "url": "https://www.youtube.com/watch?v=7yF0oZhQcB8",
+      "published_at": "2026-07-08T09:50:00+00:00",
+      "updated_at": "2026-10-09T02:48:07+00:00",
+      "new_since_prior_check": false,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    },
+    {
+      "video_id": "un7F4Vxq7-M",
+      "title": "The Claude AI Side Hustle To Make $125K Before July 5th",
+      "url": "https://www.youtube.com/watch?v=un7F4Vxq7-M",
+      "published_at": "2026-07-01T05:00:09+00:00",
+      "updated_at": "2026-10-09T02:50:08+00:00",
+      "new_since_prior_check": false,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    },
+    {
+      "video_id": "bGMmYzk3vPo",
+      "title": "New AI side hustle making $7,000/month",
+      "url": "https://www.youtube.com/watch?v=bGMmYzk3vPo",
+      "published_at": "2026-06-22T05:47:43+00:00",
+      "updated_at": "2026-10-09T02:53:09+00:00",
+      "new_since_prior_check": false,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    },
+    {
+      "video_id": "F3pczk6OBzs",
+      "title": "Nano Banana + Canva + Metal Art that makes $1,100/mo (Step-by-Step)",
+      "url": "https://www.youtube.com/watch?v=F3pczk6OBzs",
+      "published_at": "2026-06-19T02:57:21+00:00",
+      "updated_at": "2026-10-09T04:05:47+00:00",
+      "new_since_prior_check": false,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    },
+    {
+      "video_id": "AXWtAfIq528",
+      "title": "Store Autopsy #1: Diagnosing a Failed Print on Demand Store",
+      "url": "https://www.youtube.com/watch?v=AXWtAfIq528",
+      "published_at": "2026-06-17T09:44:25+00:00",
+      "updated_at": "2026-10-09T04:06:25+00:00",
+      "new_since_prior_check": false,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    },
+    {
+      "video_id": "tXJxkhxYXgY",
+      "title": "Why 99% of Jewelry Sellers Fail (And the 1% Secret)",
+      "url": "https://www.youtube.com/watch?v=tXJxkhxYXgY",
+      "published_at": "2026-06-12T09:01:52+00:00",
+      "updated_at": "2026-10-09T04:07:00+00:00",
+      "new_since_prior_check": false,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    },
+    {
+      "video_id": "pmBX9FQhiEQ",
+      "title": "11 June 2026",
+      "url": "https://www.youtube.com/shorts/pmBX9FQhiEQ",
+      "published_at": "2026-06-11T02:24:22+00:00",
+      "updated_at": "2026-10-04T19:53:11+00:00",
+      "new_since_prior_check": false,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    },
+    {
+      "video_id": "r2g7DYwBJz4",
+      "title": "10 June 2026",
+      "url": "https://www.youtube.com/shorts/r2g7DYwBJz4",
+      "published_at": "2026-06-10T02:55:03+00:00",
+      "updated_at": "2026-10-05T05:27:46+00:00",
+      "new_since_prior_check": false,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    },
+    {
+      "video_id": "G2oeHvoqm0I",
+      "title": "Have you heard of this trend?",
+      "url": "https://www.youtube.com/shorts/G2oeHvoqm0I",
+      "published_at": "2026-06-09T07:14:57+00:00",
+      "updated_at": "2026-10-02T04:33:45+00:00",
+      "new_since_prior_check": false,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    },
+    {
+      "video_id": "8G6Hs3MB5ME",
+      "title": "8 June 2026",
+      "url": "https://www.youtube.com/shorts/8G6Hs3MB5ME",
+      "published_at": "2026-06-09T00:04:05+00:00",
+      "updated_at": "2026-10-03T19:54:06+00:00",
+      "new_since_prior_check": false,
+      "read_level": "metadata_and_description_read",
+      "audio_video_watched": false
+    }
+  ],
+  "article": {
+    "id": "RON-20261010-A01",
+    "url": "https://storehacks.com/print-on-demand-tips/",
+    "published_at": "2025-03-15T23:19:21+00:00",
+    "modified_at": "2025-03-15T23:19:27+00:00",
+    "read_level": "full_extracted_article_read",
+    "classification": "older_article_newly_processed_not_new_2026_teaching",
+    "commercial_interest": "affiliate_and_course_promotion"
+  },
+  "social": {
+    "facebook_group": {
+      "url": "https://www.facebook.com/groups/storehacks/",
+      "identity_basis": "official YouTube RSS descriptions link it; public search title matches screenshot",
+      "read_level": "screenshot_and_search_excerpt_only; original post unread",
+      "blocker": "Firecrawl site unsupported; web returned temporary-block/login shell",
+      "screenshot_displayed_time": "October 9 at 10:43 PM; year/timezone unknown; not converted from YouTube time"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/theronniemckenzie/",
+      "identity_basis": "official YouTube RSS crosslink",
+      "read_level": "current profile fetch failed; search not sufficient to establish latest post"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@ronniemckenzie/video/7694681433671060757",
+      "identity_basis": "official YouTube RSS crosslinks @ronniemckenzie",
+      "read_level": "search excerpt only; exact-title match; full post inaccessible",
+      "published_at": null
+    },
+    "legacy_links": "Storehacks article links /storehacks Instagram/TikTok, Pinterest /storehacks, X /storehacksau; historical outbound links not checked as current activity."
+  },
+  "exclusions": [
+    "No private group join, account action, purchase, subscription, post, advertising, or recurring monitor.",
+    "Do not retry historical cancelled NBK2uy2d4vU based on this review.",
+    "AI guesses are not demand evidence; self-reported revenue is neither independently verified nor profit.",
+    "No claim to have read the advertised 19-hour course."
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "schema": "coach-assurance/1",
+  "synthetic": true,
+  "scope": "keyword_release",
+  "identity": "source_based_ai_review",
+  "claims_live_coach_participation": false,
+  "claims_market_success": false,
+  "artifact": {
+    "version": "synthetic-1",
+    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+    "selected_tags": [
+      "gift from grandpa",
+      "personalized journal"
+    ]
+  },
+  "base_evidence_gate": {
+    "status": "PASS",
+    "artifact_version": "synthetic-1",
+    "artifact_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+    "evidence_ref": "synthetic-base-gate-report"
+  },
+  "unresolved_conflicts": [],
+  "new_queries": [],
+  "term_reviews": [
+    {
+      "phrase": "gift from grandpa",
+      "fit": "truthful",
+      "intent": "specific",
+      "evidence": "unknown",
+      "decision": "core_identity",
+      "volume_state": "unknown",
+      "evidence_refs": [
+        "synthetic-unknown-source"
+      ],
+      "reason": "Distinct truthful sender; keep bounded identity hypothesis, not demand proof.",
+      "market": "unverified",
+      "risks": [
+        "unquantified",
+        "scope_unknown"
+      ],
+      "risk_disposition": "Keep identity coverage with opportunity cost explicit.",
+      "change_evidence": "Same-scope first-party search terms/orders or comparable qualified research.",
+      "numeric_claim_for_phrase": false,
+      "volume_only_decision": false
+    },
+    {
+      "phrase": "personalized journal",
+      "fit": "truthful",
+      "intent": "broad",
+      "evidence": "qualified_estimate",
+      "decision": "demand_supported_test",
+      "volume_state": "number",
+      "evidence_refs": [
+        "synthetic-qualified-source"
+      ],
+      "reason": "Truthful name personalization and product-type entry; estimate is not SKU sales.",
+      "market": "verified_US",
+      "risks": [
+        "intent_uncertain"
+      ],
+      "risk_disposition": "Complement exact identity, inspect competing interpretations.",
+      "change_evidence": "Comparable SKU first-party results.",
+      "numeric_claim_for_phrase": true,
+      "exact_phrase_join": true,
+      "measurement_mode": "provider_estimate_matching_scope_recorded",
+      "period": "named_source_window",
+      "volume_only_decision": false
+    }
+  ],
+  "reviews": [
+    {
+      "run_id": "synthetic-author",
+      "independent": false,
+      "author_participation": true,
+      "preloaded_consensus": false,
+      "roles": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "source_families": [
+        "buyer_role_original_article",
+        "product_record",
+        "official_etsy"
+      ],
+      "source_refs_opened": [
+        "synthetic-product",
+        "synthetic-intent"
+      ],
+      "outcome": "PASS",
+      "role_outcomes": {
+        "B": "PASS",
+        "C": "PASS",
+        "D": "PASS",
+        "E": "PASS"
+      }
+    },
+    {
+      "run_id": "synthetic-independent",
+      "independent": true,
+      "author_participation": false,
+      "preloaded_consensus": false,
+      "roles": [
+        "A",
+        "B",
+        "C"
+      ],
+      "source_families": [
+        "provider_docs",
+        "raw_observations",
+        "competitor_pages"
+      ],
+      "source_refs_opened": [
+        "synthetic-raw",
+        "synthetic-comparable"
+      ],
+      "outcome": "PASS",
+      "role_outcomes": {
+        "A": "PASS",
+        "B": "PASS",
+        "C": "PASS"
+      }
+    }
+  ],
+  "available_evidence": [
+    {
+      "phrase": "christian journal",
+      "field": "monthly_series",
+      "source_refs": [
+        "synthetic-monthlyEvidence"
+      ]
+    }
+  ]
+}

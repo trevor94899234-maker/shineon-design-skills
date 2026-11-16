@@ -1,0 +1,1681 @@
+{
+  "schema_version": "2.0",
+  "release": "2026.10.07.1",
+  "audit_date": "2026-10-07",
+  "baseline": {
+    "library_file_id": "libfile_ed5a99d8ac888191a0800519cedae32b",
+    "library_version": 0,
+    "source_ledger": "coach-source-ledger-2026-10-05.json",
+    "audit_date": "2026-10-05",
+    "exact_audit_time_known": false,
+    "complete_upload_cutoff_available": false,
+    "prior_video_ids_known_for_selected_corpus": true
+  },
+  "scope": "Original 14-Coach roster plus explicitly requested RJ Martinez. Selected public-source increment; no complete channel inventory. Brand cases are separate later work.",
+  "counts": {
+    "original_coaches_checked": 14,
+    "added_coaches": 1,
+    "full_extracted_video_transcripts_reviewed_this_release": 21,
+    "original_roster_full_transcripts": 18,
+    "added_coach_full_transcripts": 3,
+    "description_chapters_only_videos": 1,
+    "added_coach_full_articles": 3,
+    "confirmed_post_prior_date_videos": 4,
+    "confirmed_post_prior_date_original_roster_videos": 3,
+    "confirmed_post_prior_date_added_coach_videos": 1,
+    "same_audit_day_new_to_ledger_videos": 1,
+    "older_full_transcripts_newly_reviewed_in_ledger": 16,
+    "complete_channel_inventories": 0,
+    "exact_total_new_uploads": null
+  },
+  "confirmed_new_source_ids": [
+    "STA-V002",
+    "CHU-V002",
+    "MEG-V003",
+    "RJ-01"
+  ],
+  "channels": [
+    {
+      "coach": "Dylan Jahraus",
+      "channel_url": "https://www.youtube.com/@dylanjahraus",
+      "channel_id": "UCeO8Gmc2B-3G2fgcFnRR4Xw",
+      "identity": "prior ledger and fresh channel metadata",
+      "searches": [
+        "month-filter name search",
+        "after:2026-10-05 name search"
+      ],
+      "reviewed_sources": [
+        "DYL-V002",
+        "DYL-V003"
+      ],
+      "new_after_cutoff_confirmed": 0,
+      "unreviewed_candidate": "https://www.youtube.com/watch?v=vjKV9ol6BBA",
+      "outcome": "No post-Oct5 upload verified; candidate fetch cancelled, not evidence of no new uploads.",
+      "full_channel_coverage": false,
+      "upload_cutoff_established": false,
+      "official_rss_attempt": "web tool cache miss for channel_id feed",
+      "direct_channel_attempt": "Firecrawl channel shell malformed-request 401 text; metadata only",
+      "latest_complete_channel_watermark": null,
+      "complete_since_prior_audit": false
+    },
+    {
+      "coach": "Joe Robert",
+      "channel_url": "https://www.youtube.com/@RealJoeRobert",
+      "channel_id": "UCNh9lB7D5JMiDQTJKYZ556Q",
+      "identity": "prior ledger and fresh channel metadata",
+      "searches": [
+        "month-filter name search"
+      ],
+      "reviewed_sources": [
+        "JOE-V002",
+        "JOE-V003"
+      ],
+      "new_after_cutoff_confirmed": 0,
+      "outcome": "Selected Sept20/Sept30 sources reviewed. Month-filter results do not establish no newer uploads.",
+      "full_channel_coverage": false,
+      "upload_cutoff_established": false,
+      "official_rss_attempt": "web tool cache miss for channel_id feed",
+      "direct_channel_attempt": "Firecrawl channel shell malformed-request 401 text; metadata only",
+      "latest_complete_channel_watermark": null,
+      "complete_since_prior_audit": false
+    },
+    {
+      "coach": "Starla Moore",
+      "channel_url": "https://www.youtube.com/@StarlaMoore",
+      "channel_id": "UCcPXCoEtPJxesAXp-evqzqg",
+      "identity": "prior ledger and current watch uploader",
+      "searches": [
+        "month-filter name search",
+        "found in after-Oct5 other-coach search"
+      ],
+      "reviewed_sources": [
+        "STA-V002"
+      ],
+      "new_after_cutoff_confirmed": 1,
+      "outcome": "One Oct6 upload confirmed; no exhaustive count.",
+      "full_channel_coverage": false,
+      "upload_cutoff_established": false,
+      "official_rss_attempt": "web tool cache miss for channel_id feed",
+      "direct_channel_attempt": "Firecrawl channel shell malformed-request 401 text; metadata only",
+      "latest_complete_channel_watermark": null,
+      "complete_since_prior_audit": false
+    },
+    {
+      "coach": "Christina Umerez",
+      "channel_url": "https://www.youtube.com/@c.u.online",
+      "channel_id": "UCe3U6y0-4cNz-adavoOBfsQ",
+      "identity": "https://www.cuonline.ca/ primary creator homepage links directly to @c.u.online; watch descriptions identify Christina Umerez and uploader C.U.Online",
+      "identity_source_url": "https://www.cuonline.ca/",
+      "searches": [
+        "identity search",
+        "month-filter channel name search",
+        "after:2026-10-05 channel name search"
+      ],
+      "reviewed_sources": [
+        "CHU-V001",
+        "CHU-V002"
+      ],
+      "new_after_cutoff_confirmed": 1,
+      "outcome": "One Oct6 upload confirmed; no exhaustive count.",
+      "full_channel_coverage": false,
+      "upload_cutoff_established": false,
+      "official_rss_attempt": "web tool cache miss for channel_id feed",
+      "direct_channel_attempt": "web open footer-only shell; no listing inventory",
+      "latest_complete_channel_watermark": null,
+      "complete_since_prior_audit": false
+    },
+    {
+      "coach": "Meg Heckman",
+      "channel_url": "https://www.youtube.com/@itsmegheckman",
+      "channel_id": "UC0d-JbubL4XZmw4hdcGeXRw",
+      "identity_evidence": "Live /videos page metadata name and identifier; new watch page uploader matches.",
+      "latest_confirmed_observed_upload": {
+        "video_id": "6qWlxOwC4tI",
+        "date_published": "2026-10-06T09:00:31-07:00",
+        "source_id": "MEG-V003"
+      },
+      "selected_sources": [
+        "MEG-V002",
+        "MEG-V003"
+      ],
+      "discovery_sources": [
+        {
+          "url": "https://prepublish.ai/youtube-channel/itsmegheckman",
+          "status": "Secondary 50-upload sample claims YouTube Data API read Oct5, covers Aug16–Oct4. Insufficient to rule out later uploads."
+        },
+        {
+          "url": "https://zolotube.com/watch?v=6qWlxOwC4tI",
+          "status": "Indexed mirror discovered Oct6 upload, then original independently scraped."
+        }
+      ],
+      "methods": [
+        "Firecrawl search",
+        "Firecrawl live channel /videos scrape",
+        "Web indexed search",
+        "Firecrawl public RSS scrape",
+        "Firecrawl live watch-page transcript"
+      ],
+      "coverage_gap": "Channel /videos is a malformed-request shell; RSS returned404. Cannot establish all uploads through audit time.",
+      "unreviewed_candidates": [
+        {
+          "url": "https://www.youtube.com/watch?v=jAs2NhFLS7I",
+          "title": "Reviewing Every Print On Demand Supplier (Use This One)",
+          "date": "2026-09-29",
+          "date_evidence": "secondary Prepublish index only",
+          "review": "not_reviewed"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=pd_DDmlDghw",
+          "title": "Stop Wasting Hours on T-Shirt Design. Use This AI Process Instead.",
+          "date": "2026-09-15",
+          "date_evidence": "secondary Prepublish index only",
+          "review": "not_reviewed"
+        }
+      ],
+      "complete_since_prior_audit": false,
+      "latest_complete_channel_watermark": null
+    },
+    {
+      "coach": "Jesse Teaches",
+      "channel_url": "https://www.youtube.com/@jesseteaches",
+      "channel_id": "UCFbwFMBENf67WenJSWtEJTg",
+      "identity_evidence": "Live /videos metadata and reviewed watch-page uploader.",
+      "latest_confirmed_observed_upload": {
+        "video_id": "h7j7UQMo0lQ",
+        "title": "The Etsy Ornament Market Just Changed Forever",
+        "date_published": "2026-09-08",
+        "date_evidence": "Indexed original YouTube result, not full watch metadata"
+      },
+      "selected_sources": [
+        "JES-V002"
+      ],
+      "methods": [
+        "Firecrawl live channel /videos scrape",
+        "Firecrawl indexed search including after:2026-10-04",
+        "Web public RSS and channel fetch",
+        "Live watch-page full transcript"
+      ],
+      "coverage_gap": "Channel shell and failed public feed prevent complete inventory. Date-filtered search primarily returned other creators' videos with Jesse in recommendations; none counted as Jesse upload.",
+      "unreviewed_candidates": [
+        {
+          "url": "https://www.youtube.com/watch?v=h7j7UQMo0lQ",
+          "title": "The Etsy Ornament Market Just Changed Forever",
+          "date": "2026-09-08",
+          "review": "description_chapters_only_no_teaching_adopted"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=2EBYSFvHcuw",
+          "title": "How to Design a Best-Selling Etsy Ornament (Step-by-Step)",
+          "date": null,
+          "review": "indexed_title_only"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=hQ5MiyTIfuk",
+          "title": "I'm Pausing YouTube for This HUGE Ornament Opportunity",
+          "date": null,
+          "review": "indexed_title_only"
+        }
+      ],
+      "complete_since_prior_audit": false,
+      "latest_complete_channel_watermark": null
+    },
+    {
+      "coach": "Anna Beck",
+      "channel_url": null,
+      "company_channel_url": "https://www.youtube.com/@AnywherePOD",
+      "personal_channel_identity": "not_verified",
+      "identity_evidence": [
+        "Reviewed 2025 guest video bMcK52E3xas introduction names Anna Beck from AnywherePOD; guest closing self-identifies with company and its YouTube channel.",
+        "https://etsysummit.com/abeck-jan2026/ presenter bio identifies Anna Beck on the AnywherePOD team.",
+        "Firecrawl indexed original @AnywherePOD channel confirms company title, not a personally owned Anna channel."
+      ],
+      "latest_confirmed_observed_upload": null,
+      "selected_sources": [
+        "ANN-V002"
+      ],
+      "methods": [
+        "Name/role search",
+        "Reviewed host-named guest video",
+        "Public summit presenter biography",
+        "Company channel search"
+      ],
+      "coverage_gap": "No authenticated personally controlled Anna channel or complete speaker-attributed AnywherePOD upload list. No claim that company videos generally are Anna's. CedCommerce is a host, not Anna's channel.",
+      "unreviewed_candidates": [
+        {
+          "url": "https://www.youtube.com/watch?v=aZ_Ho7MZbg0",
+          "title": "The Fastest Way to Create a Best Seller In 30 Days with Anna Beck",
+          "date": null,
+          "review": "indexed_title_only"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=EWYzypaL6WY",
+          "title": "5 Live Session 5 with Emma Beck Friday Sept 26th, 2025",
+          "date": null,
+          "review": "unreviewed_title_description_name_conflict_Emma_vs_Anna"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=GARF6Q9Y4aQ",
+          "title": "How to Make Personalized Products Easy With Etsy Live Previews",
+          "date": null,
+          "review": "unreviewed_speaker_not_verified"
+        }
+      ],
+      "complete_since_prior_audit": false,
+      "latest_complete_channel_watermark": null
+    },
+    {
+      "coach": "Courtney Nichole",
+      "channel_url": "https://www.youtube.com/@CourtneyNichole1",
+      "channel_id": "UCK4jxvf6uT1CUZ_LDo_KrbA",
+      "identity_evidence": "Live channel metadata and both full reviewed watch-page uploaders.",
+      "latest_confirmed_observed_upload": {
+        "video_id": "ZZEGIxdSwjI",
+        "date_published": "2026-10-05T07:06:41-07:00",
+        "source_id": "COU-V003"
+      },
+      "selected_sources": [
+        "COU-V002",
+        "COU-V003"
+      ],
+      "methods": [
+        "Firecrawl live channel /videos scrape",
+        "Firecrawl indexed search including after:2026-10-04",
+        "Web public feed fetch",
+        "Live watch-page full transcripts"
+      ],
+      "coverage_gap": "No full upload list. Oct5 upload absent from prior ledger but no exact prior-audit timestamp, so same-day sequence unknown.",
+      "unreviewed_candidates": [
+        {
+          "url": "https://www.youtube.com/watch?v=P9JpLtD4BJY",
+          "title": "Etsy Said I Broke the Rules. The Court Just Proved Otherwise.",
+          "date": null,
+          "review": "indexed_title_only_no_legal_claim_adopted"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=DOA2XSvpku4",
+          "title": "How to SURVIVE Your First Year on Etsy (4 Tips)",
+          "date": null,
+          "review": "indexed_title_only"
+        }
+      ],
+      "complete_since_prior_audit": false,
+      "latest_complete_channel_watermark": null
+    },
+    {
+      "coach": "George McConnell",
+      "channel_url": "https://www.youtube.com/@GeorgeDMcConnell",
+      "channel_id": "UCukxylq4xJppUDMW-gi-9jQ",
+      "identity_confidence": "high",
+      "identity_evidence": [
+        "https://www.youtube.com/@GeorgeDMcConnell/videos",
+        "https://printify.com/blog/how-george-mcconnell-turned-setbacks-into-a-thriving-etsy-business/",
+        "https://www.youtube.com/watch?v=Ubyo0fX_9_w"
+      ],
+      "prior_processed": [
+        "Ip22EY2N-q4"
+      ],
+      "newly_processed": [
+        "Ubyo0fX_9_w"
+      ],
+      "latest_upload_proven": false,
+      "complete_since_cutoff": false,
+      "limitations": [
+        "Live /videos scrape returned error-401 body despite HTTP200 metadata. Public channel RSS web retrieval cache miss.",
+        "Own-channel discovery found candidates but their exact dates and full content were not inspected.",
+        "Episode2 predates cutoff; its known prior discovery is not prior full processing."
+      ],
+      "complete_since_prior_audit": false,
+      "latest_complete_channel_watermark": null
+    },
+    {
+      "coach": "Luna Vega",
+      "channel_url": "https://www.youtube.com/@misslunavega",
+      "channel_id": "UCV3-kGFJHeFnh6RP9fFPoRg",
+      "identity_confidence": "high_for_handle_medium_channel_id_search_index",
+      "identity_evidence": [
+        "https://www.youtube.com/channel/UCV3-kGFJHeFnh6RP9fFPoRg/posts",
+        "https://www.youtube.com/watch?v=eNR_HHMa-MU"
+      ],
+      "prior_processed": [
+        "eNR_HHMa-MU"
+      ],
+      "newly_processed": [],
+      "latest_upload_proven": false,
+      "complete_since_cutoff": false,
+      "limitations": [
+        "September-filtered search surfaced recent community posts, not date-verified coach uploads. Recent posts are not new video evidence.",
+        "Web channel scrape yielded footer only.",
+        "Transcript read for 7yZ0LG5301Q returned user-cancelled tool call; no content adopted from title/description or third-party summaries."
+      ],
+      "complete_since_prior_audit": false,
+      "latest_complete_channel_watermark": null
+    },
+    {
+      "coach": "Ronnie McKenzie",
+      "channel_url": "https://www.youtube.com/@RonnieMcKenzie",
+      "channel_id": null,
+      "identity_confidence": "high",
+      "identity_evidence": [
+        "https://www.youtube.com/@RonnieMcKenzie",
+        "https://www.youtube.com/playlist?list=PLyQ7cpkOY4jePPgR8_3g34Gpv7bkrF4oz",
+        "https://storehacks.com/print-on-demand-designs/"
+      ],
+      "prior_processed_articles": [
+        "https://storehacks.com/print-on-demand-designs/"
+      ],
+      "newly_processed": [],
+      "latest_upload_proven": false,
+      "complete_since_cutoff": false,
+      "limitations": [
+        "Search confirms Storehacks POD channel, distinguishing namesakes (ASL creator, political guest).",
+        "Web channel scrape yielded footer only. Third-party stats page's November2025 latest-upload claim is stale and not adopted.",
+        "Transcript read for NBK2uy2d4vU returned user-cancelled tool call; no teaching adopted from title."
+      ],
+      "complete_since_prior_audit": false,
+      "latest_complete_channel_watermark": null
+    },
+    {
+      "coach": "Mario Menduni",
+      "channel_url": "https://www.youtube.com/@MarioMenduni",
+      "channel_id": "UCcSAonU3nOC16fbs8U2HYMA",
+      "identity_confidence": "high",
+      "identity_evidence": [
+        "https://www.youtube.com/@MarioMenduni/videos",
+        "https://www.youtube.com/watch?v=KsSzlGl5U8U"
+      ],
+      "prior_processed": [
+        "gcqZdELhEv8"
+      ],
+      "newly_processed": [
+        "KsSzlGl5U8U"
+      ],
+      "latest_upload_proven": false,
+      "complete_since_cutoff": false,
+      "limitations": [
+        "Live /videos returned error-401 body despite HTTP200 metadata; public RSS web retrieval cache miss.",
+        "Public free-course playlist with at least 21 indexed entries discovered; only selected Seasonality transcript newly inspected, not whole curriculum.",
+        "Publication is February2024, with older pandemic-era temporal cues; not current strategy proof."
+      ],
+      "complete_since_prior_audit": false,
+      "latest_complete_channel_watermark": null
+    },
+    {
+      "coach": "Chris Blair",
+      "verified_source_channel": "https://www.youtube.com/@ShineOnPOD",
+      "source_role": "guest on supplier-hosted channel; personal channel not established",
+      "latest_verified_upload_in_selected_corpus": "2026-09-30 (prior ledger)",
+      "coverage": "selected_sources_and_date_filtered_search; channel page unusable",
+      "confirmed_post_2026_10_05_uploads": [],
+      "new_upload_absence_proven": false,
+      "complete_since_prior_audit": false,
+      "latest_complete_channel_watermark": null
+    },
+    {
+      "coach": "Gina Menduni",
+      "verified_channel": "https://www.youtube.com/@ginamenduni",
+      "channel_id": "UCt5ALmRxzIJY6Abh9E74xGw",
+      "identity_evidence": [
+        "https://www.youtube.com/channel/UCt5ALmRxzIJY6Abh9E74xGw/videos",
+        "https://www.youtube.com/watch?v=b95vrO-NZnQ"
+      ],
+      "additional_host_channel": "https://www.youtube.com/@MarioMenduni",
+      "latest_verified_upload_in_selected_corpus": "2024-02-21",
+      "coverage": "identity metadata plus selected videos; latest-upload list unavailable",
+      "confirmed_post_2026_10_05_uploads": [],
+      "new_upload_absence_proven": false,
+      "complete_since_prior_audit": false,
+      "latest_complete_channel_watermark": null
+    },
+    {
+      "coach": "RJ Martinez",
+      "added_by_user_this_release": true,
+      "channel_url": "https://www.youtube.com/@rjmartinez",
+      "channel_id": "UCgUAPPjwz--1MRiEojS1QPw",
+      "identity_evidence": [
+        "https://www.youtube.com/watch?v=BPfHyZoFDjM",
+        "https://merchinformer.com/merch-by-amazon-success-interview-with-rj-martinez/"
+      ],
+      "facebook_url": "https://www.facebook.com/RJhustles",
+      "complete_since_prior_audit": false,
+      "latest_complete_channel_watermark": null,
+      "limits": "Facebook body not retrieved; creator-linked cross-platform identity verified. No canonical current owned Etsy shop or independently audited earnings verified."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "DYL-V002",
+      "coach": "Dylan Jahraus",
+      "kind": "youtube_video",
+      "title": "You’re Not Lazy, You’re Actually Just Doing Etsy Wrong",
+      "url": "https://www.youtube.com/watch?v=BEMCOSvnTN8",
+      "video_id": "BEMCOSvnTN8",
+      "channel_display": "[Dylan Jahraus](https://www.youtube.com/@dylanjahraus)",
+      "date_published": "2026-10-01T06:00:08-07:00",
+      "upload_date": "2026-10-01T06:00:08-07:00",
+      "display_uploaded_at": "2026-10-01",
+      "display_published_at": null,
+      "duration_display": "07:02",
+      "duration_metadata": "PT7M3S",
+      "html_title": "You’re Not Lazy, You’re Actually Just Doing Etsy Wrong - YouTube",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": [],
+      "in_previous_2026_10_05_ledger": false,
+      "new_after_2026_10_05_calendar_date": false,
+      "novelty": "older_video_not_in_2026_10_05_ledger",
+      "historical_processing_beyond_prior_ledger": "unknown",
+      "provenance_confidence": "high_primary_public_watch_page",
+      "transcription_confidence": "medium_not_audio_verified",
+      "status": "design_quality_before_replication",
+      "transcript_words": 1381,
+      "transcript_sha256": "73b97408d8c501bd7ed997afca2bea5ee463b098eadba665ef2bf76c3dc12e7b",
+      "claim_locations": [
+        {
+          "claim": "Improve design before multiplying carriers",
+          "start_char": 542,
+          "end_char": 1783,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Typography and pattern hypotheses",
+          "start_char": 1957,
+          "end_char": 3810,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "No copying; Pinterest is inspiration",
+          "start_char": 3810,
+          "end_char": 5453,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        }
+      ],
+      "special_limits": [],
+      "source_role": "selected_public_teaching_or_promotion",
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "new_after_prior_audit_date": false
+    },
+    {
+      "source_id": "DYL-V003",
+      "coach": "Dylan Jahraus",
+      "kind": "youtube_video",
+      "title": "Etsy's Major 2026 Updates + 4 Ways to Change Your Shop Today & Live Shop Audits with Dylan Jahraus",
+      "url": "https://www.youtube.com/watch?v=U67j9a4B9eE",
+      "video_id": "U67j9a4B9eE",
+      "channel_display": "[Dylan Jahraus](https://www.youtube.com/@dylanjahraus)",
+      "date_published": "2026-09-17T01:52:32-07:00",
+      "upload_date": "2026-09-17T01:52:32-07:00",
+      "display_uploaded_at": "2026-09-17",
+      "display_published_at": "2026-09-16",
+      "duration_display": "37:09",
+      "duration_metadata": "PT37M9S",
+      "html_title": "Etsy's Major 2026 Updates + 4 Ways to Change Your Shop Today & Live Shop Audits with Dylan Jahraus - YouTube",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": [],
+      "in_previous_2026_10_05_ledger": false,
+      "new_after_2026_10_05_calendar_date": false,
+      "novelty": "older_video_not_in_2026_10_05_ledger",
+      "historical_processing_beyond_prior_ledger": "unknown",
+      "provenance_confidence": "high_primary_public_watch_page",
+      "transcription_confidence": "medium_not_audio_verified",
+      "status": "mostly_promotional_q_and_a_no_new_rule",
+      "transcript_words": 6058,
+      "transcript_sha256": "dda6e8a934af268459efdecfa67594c831795ee3a454305a470048460136f4e0",
+      "claim_locations": [
+        {
+          "claim": "Reject fixed new-shop boost",
+          "start_char": 1798,
+          "end_char": 2143,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Reject holiday embargo threshold",
+          "start_char": 9325,
+          "end_char": 11656,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Reject dead-listing penalty and 50/50 SEO",
+          "start_char": 12453,
+          "end_char": 13848,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Inspect before abandoning listings",
+          "start_char": 20183,
+          "end_char": 21678,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Reject legal fine claim and thumbnail ban",
+          "start_char": 25438,
+          "end_char": 27072,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        }
+      ],
+      "special_limits": [
+        "Displayed premiere Sept16 versus upload metadata Sept17; transcript identifies the live date as September16."
+      ],
+      "source_role": "selected_public_teaching_or_promotion",
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "new_after_prior_audit_date": false
+    },
+    {
+      "source_id": "JOE-V002",
+      "coach": "Joe Robert",
+      "kind": "youtube_video",
+      "title": "This EASY Design Trend Is Making Beginners THOUSANDS!",
+      "url": "https://www.youtube.com/watch?v=eyd4e0CoWAA",
+      "video_id": "eyd4e0CoWAA",
+      "channel_display": "[Joe Robert](https://www.youtube.com/@RealJoeRobert)",
+      "date_published": "2026-09-20T05:16:19-07:00",
+      "upload_date": "2026-09-20T05:16:19-07:00",
+      "display_uploaded_at": "2026-09-20",
+      "display_published_at": null,
+      "duration_display": "11:34",
+      "duration_metadata": "PT11M35S",
+      "html_title": "This EASY Design Trend Is Making Beginners THOUSANDS! - YouTube",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": [],
+      "in_previous_2026_10_05_ledger": false,
+      "new_after_2026_10_05_calendar_date": false,
+      "novelty": "older_video_not_in_2026_10_05_ledger",
+      "historical_processing_beyond_prior_ledger": "unknown",
+      "provenance_confidence": "high_primary_public_watch_page",
+      "transcription_confidence": "medium_not_audio_verified",
+      "status": "personalization_workflow_hypothesis",
+      "transcript_words": 2625,
+      "transcript_sha256": "9c9b653aa9ca95d213b865df5fcdb13fcbd136a8b7b6e16ade64e07e93ab0f7b",
+      "claim_locations": [
+        {
+          "claim": "Separate image and text input layers",
+          "start_char": 4210,
+          "end_char": 4699,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Preview transformations",
+          "start_char": 5896,
+          "end_char": 5980,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "AI mockup QA",
+          "start_char": 11696,
+          "end_char": 11987,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Show input-to-output mapping",
+          "start_char": 12081,
+          "end_char": 12652,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        }
+      ],
+      "special_limits": [],
+      "source_role": "selected_public_teaching_or_promotion",
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "new_after_prior_audit_date": false
+    },
+    {
+      "source_id": "JOE-V003",
+      "coach": "Joe Robert",
+      "kind": "youtube_video",
+      "title": "What I WISH I Knew Before Using OpoShop For My Print On Demand Store",
+      "url": "https://www.youtube.com/watch?v=XmwpXNDDH78",
+      "video_id": "XmwpXNDDH78",
+      "channel_display": "[Joe Robert](https://www.youtube.com/@RealJoeRobert)",
+      "date_published": "2026-09-30T04:12:35-07:00",
+      "upload_date": "2026-09-30T04:12:35-07:00",
+      "display_uploaded_at": "2026-09-30",
+      "display_published_at": null,
+      "duration_display": "11:50",
+      "duration_metadata": "PT11M51S",
+      "html_title": "What I WISH I Knew Before Using OpoShop For My Print On Demand Store - YouTube",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": [],
+      "in_previous_2026_10_05_ledger": false,
+      "new_after_2026_10_05_calendar_date": false,
+      "novelty": "older_video_not_in_2026_10_05_ledger",
+      "historical_processing_beyond_prior_ledger": "unknown",
+      "provenance_confidence": "high_primary_public_watch_page",
+      "transcription_confidence": "medium_not_audio_verified",
+      "status": "owned_store_brand_context",
+      "transcript_words": 2444,
+      "transcript_sha256": "df72375670972cef858ef4e7aab44741d8a3adbee0b1650a0bdc2a6e02c201cf",
+      "claim_locations": [
+        {
+          "claim": "Evergreen audience and coherent brand",
+          "start_char": 3240,
+          "end_char": 5587,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Economics separate from product novelty",
+          "start_char": 5880,
+          "end_char": 7261,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Reject sales targets as forecasts",
+          "start_char": 9414,
+          "end_char": 10166,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Influencer marketing is owned-store scope",
+          "start_char": 10585,
+          "end_char": 13064,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        }
+      ],
+      "special_limits": [],
+      "source_role": "selected_public_teaching_or_promotion",
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "new_after_prior_audit_date": false
+    },
+    {
+      "source_id": "STA-V002",
+      "coach": "Starla Moore",
+      "kind": "youtube_video",
+      "title": "5 Etsy Growth Tips that NO ONE talks about",
+      "url": "https://www.youtube.com/watch?v=wqF9ky8p_XQ",
+      "video_id": "wqF9ky8p_XQ",
+      "channel_display": "[Starla Moore](https://www.youtube.com/@StarlaMoore)",
+      "date_published": "2026-10-06T09:15:22-07:00",
+      "upload_date": "2026-10-06T09:15:22-07:00",
+      "display_uploaded_at": "2026-10-06",
+      "display_published_at": null,
+      "duration_display": "06:13",
+      "duration_metadata": "PT6M13S",
+      "html_title": "5 Simple Etsy Changes That Will Change Your Q4 - YouTube",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": [
+        [
+          "00:00",
+          "Intro"
+        ],
+        [
+          "01:20",
+          "Tip 1"
+        ],
+        [
+          "02:18",
+          "Tip 2"
+        ],
+        [
+          "03:22",
+          "Tip 3"
+        ],
+        [
+          "04:18",
+          "Tip 4"
+        ],
+        [
+          "04:53",
+          "Tip 5"
+        ]
+      ],
+      "in_previous_2026_10_05_ledger": false,
+      "new_after_2026_10_05_calendar_date": true,
+      "novelty": "confirmed_publication_after_2026_10_05",
+      "historical_processing_beyond_prior_ledger": "unknown",
+      "provenance_confidence": "high_primary_public_watch_page",
+      "transcription_confidence": "medium_not_audio_verified",
+      "status": "buyer_information_and_trust",
+      "transcript_words": 970,
+      "transcript_sha256": "bde43cab19ff6b44dda11d9d09e2d2d54d4d6b75aa2efb9257b55524fdbc90f8",
+      "claim_locations": [
+        {
+          "claim": "Shop story/policies",
+          "start_char": 1156,
+          "end_char": 2065,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Distinct useful images",
+          "start_char": 2065,
+          "end_char": 3065,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Clear product video",
+          "start_char": 3065,
+          "end_char": 3993,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Bundle economics claim",
+          "start_char": 3993,
+          "end_char": 4520,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Review/ranking causal claim",
+          "start_char": 4520,
+          "end_char": 5519,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        }
+      ],
+      "special_limits": [
+        "Search/main/HTML titles vary; stable video ID is the deduplication key."
+      ],
+      "source_role": "selected_public_teaching_or_promotion",
+      "recency_class": "published_after_2026_10_05",
+      "new_after_prior_audit_date": true
+    },
+    {
+      "source_id": "CHU-V001",
+      "coach": "Christina Umerez",
+      "kind": "youtube_video",
+      "title": "How To Make Your First $1000 On Etsy (Guaranteed)",
+      "url": "https://www.youtube.com/watch?v=BJ0O-I3zsjE",
+      "video_id": "BJ0O-I3zsjE",
+      "channel_display": "[C.U.Online](https://www.youtube.com/@c.u.online)",
+      "date_published": "2026-09-29T09:00:13-07:00",
+      "upload_date": "2026-09-29T09:00:13-07:00",
+      "display_uploaded_at": "2026-09-29",
+      "display_published_at": null,
+      "duration_display": "16:12",
+      "duration_metadata": "PT16M13S",
+      "html_title": "How To Make Your First $1000 On Etsy (Guaranteed) - YouTube",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": [
+        [
+          "00:00",
+          "Introduction"
+        ],
+        [
+          "00:45",
+          "Storefront"
+        ],
+        [
+          "03:16",
+          "Buyer Questions"
+        ],
+        [
+          "06:44",
+          "Guarantees"
+        ],
+        [
+          "10:10",
+          "New Listings"
+        ],
+        [
+          "11:41",
+          "Competition"
+        ],
+        [
+          "13:02",
+          "Don’t Give Up"
+        ],
+        [
+          "16:00",
+          "Outro"
+        ]
+      ],
+      "in_previous_2026_10_05_ledger": false,
+      "new_after_2026_10_05_calendar_date": false,
+      "novelty": "older_video_not_in_2026_10_05_ledger",
+      "historical_processing_beyond_prior_ledger": "unknown",
+      "provenance_confidence": "high_primary_public_watch_page",
+      "transcription_confidence": "medium_not_audio_verified",
+      "status": "buyer_questions_with_return_policy_guardrail",
+      "transcript_words": 3045,
+      "transcript_sha256": "7e4371bdf29faf32743ed68581bd70f9f3bd3691d7a1663a4605763878f939d0",
+      "claim_locations": [
+        {
+          "claim": "Consistent visual information",
+          "start_char": 1801,
+          "end_char": 3313,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Answer buyer questions with verified facts",
+          "start_char": 3313,
+          "end_char": 5483,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Reject blanket return and satisfaction guarantees",
+          "start_char": 7527,
+          "end_char": 10425,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Volume anecdotes are not quotas",
+          "start_char": 10425,
+          "end_char": 11720,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Competitor patterns are hypotheses",
+          "start_char": 11720,
+          "end_char": 13083,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        }
+      ],
+      "special_limits": [],
+      "source_role": "selected_public_teaching_or_promotion",
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "new_after_prior_audit_date": false
+    },
+    {
+      "source_id": "CHU-V002",
+      "coach": "Christina Umerez",
+      "kind": "youtube_video",
+      "title": "TOP 2026 Trending Ornament Niches To Add Now (Research Tutorial)",
+      "url": "https://www.youtube.com/watch?v=SVdk4RyGuaQ",
+      "video_id": "SVdk4RyGuaQ",
+      "channel_display": "[C.U.Online](https://www.youtube.com/@c.u.online)",
+      "date_published": "2026-10-06T09:00:20-07:00",
+      "upload_date": "2026-10-06T09:00:20-07:00",
+      "display_uploaded_at": "2026-10-06",
+      "display_published_at": null,
+      "duration_display": "14:14",
+      "duration_metadata": "PT14M14S",
+      "html_title": "TOP 2026 Trending Ornament Niches To Add Now (Research Tutorial) - YouTube",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": [
+        [
+          "00:00",
+          "Introduction"
+        ],
+        [
+          "00:33",
+          "Discover Niches"
+        ],
+        [
+          "03:54",
+          "Ornament #1"
+        ],
+        [
+          "05:26",
+          "Ornament #2"
+        ],
+        [
+          "07:09",
+          "Ornament #3"
+        ],
+        [
+          "07:57",
+          "Ornament #4"
+        ],
+        [
+          "09:02",
+          "Search Trend"
+        ],
+        [
+          "09:36",
+          "Ornament #5"
+        ],
+        [
+          "10:24",
+          "Recommendations"
+        ],
+        [
+          "11:21",
+          "Printify Ornaments"
+        ],
+        [
+          "13:52",
+          "Outro"
+        ]
+      ],
+      "in_previous_2026_10_05_ledger": false,
+      "new_after_2026_10_05_calendar_date": true,
+      "novelty": "confirmed_publication_after_2026_10_05",
+      "historical_processing_beyond_prior_ledger": "unknown",
+      "provenance_confidence": "high_primary_public_watch_page",
+      "transcription_confidence": "medium_not_audio_verified",
+      "status": "dated_market_research_hypotheses",
+      "transcript_words": 2600,
+      "transcript_sha256": "4fc55e6aca7d4595644b2ca657a03c090a48c0ed4b86d3f9aa993345c3230882",
+      "claim_locations": [
+        {
+          "claim": "Filmed mid-September",
+          "start_char": 718,
+          "end_char": 757,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Filter screening and rights caution",
+          "start_char": 2313,
+          "end_char": 4527,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Estimated sales are not transactions",
+          "start_char": 5048,
+          "end_char": 13956,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Keep average and monthly trend separate",
+          "start_char": 9720,
+          "end_char": 10531,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Repeat method rather than niche copying",
+          "start_char": 10531,
+          "end_char": 11172,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        },
+        {
+          "claim": "Supplier samples and product-specific boundaries",
+          "start_char": 11585,
+          "end_char": 13956,
+          "basis": "0-based character offsets in extracted Transcript section; not timestamps",
+          "exact_anchor_found": true
+        }
+      ],
+      "special_limits": [
+        "Filmed mid-September according to transcript; Oct6 upload is not Oct6 marketplace data.",
+        "Ornaments, not journals. eRank location filter not established from transcript; no US-specific demand verified."
+      ],
+      "source_role": "selected_public_teaching_or_promotion",
+      "recency_class": "published_after_2026_10_05",
+      "new_after_prior_audit_date": true
+    },
+    {
+      "source_id": "MEG-V002",
+      "coach": "Meg Heckman",
+      "kind": "youtube_video",
+      "title": "Brutally Honest Advice for Anyone Starting Print On Demand",
+      "url": "https://www.youtube.com/watch?v=pv3nTvpq6G0",
+      "video_id": "pv3nTvpq6G0",
+      "channel": "Meg Heckman",
+      "channel_url": "https://www.youtube.com/@itsmegheckman",
+      "date_published": "2026-09-22T09:00:01-07:00",
+      "upload_date": "2026-09-22T09:00:01-07:00",
+      "display_uploaded_at": "2026-09-22",
+      "duration_iso": "PT25M26S",
+      "display_duration": "25:25",
+      "retrieved_date": "2026-10-07",
+      "access": "public_watch_page_transcript",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": "0:00 Introduction\n0:52 Lesson #1\n4:36 Lesson #2\n7:31 Lesson #3\n12:04 Lesson #4\n15:39 Lesson #5\n18:59 Lesson #6\n22:44 Recap",
+      "prior_processing_status": "not_in_2026_10_05_ledger",
+      "new_after_prior_audit_date": false,
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "provenance_confidence": "high",
+      "transcription_confidence": "medium_not_audio_verified",
+      "extracted_transcript_words": 5119,
+      "creator_chapters_note": "Creator-supplied description chapters; not independently measured timestamps.",
+      "source_role": "selected_public_teaching_or_promotion"
+    },
+    {
+      "source_id": "JES-V002",
+      "coach": "Jesse Teaches",
+      "kind": "youtube_video",
+      "title": "The Etsy Ornament Secret That Made Me $500,000+",
+      "url": "https://www.youtube.com/watch?v=EO0_ZciFy28",
+      "video_id": "EO0_ZciFy28",
+      "channel": "Jesse Teaches",
+      "channel_url": "https://www.youtube.com/@jesseteaches",
+      "date_published": "2026-08-13T07:00:39-07:00",
+      "upload_date": "2026-08-13T07:00:39-07:00",
+      "display_uploaded_at": "2026-08-13",
+      "duration_iso": "PT18M20S",
+      "display_duration": "18:19",
+      "retrieved_date": "2026-10-07",
+      "access": "public_watch_page_transcript",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": "00:00 Intro\n00:35 Secret #1 — The 40X Multiplier\n02:17 Secret #2 — The Etsy Ads Advantage\n04:56 Secret #3 — The Offer Stack\n09:57 Secret #4 — Launch Timing\n13:18 Secret #5 — Price Drop to Drive Rank",
+      "prior_processing_status": "not_in_2026_10_05_ledger",
+      "new_after_prior_audit_date": false,
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "provenance_confidence": "high",
+      "transcription_confidence": "medium_not_audio_verified",
+      "extracted_transcript_words": 3628,
+      "creator_chapters_note": "Creator-supplied description chapters; not independently measured timestamps.",
+      "source_role": "selected_public_teaching_or_promotion"
+    },
+    {
+      "source_id": "ANN-V002",
+      "coach": "Anna Beck (guest)",
+      "kind": "youtube_video",
+      "title": "I Uploaded 100 Etsy Listings in 1 Click… Here’s How",
+      "url": "https://www.youtube.com/watch?v=bMcK52E3xas",
+      "video_id": "bMcK52E3xas",
+      "channel": "PassiveIncomeAngel",
+      "channel_url": "https://www.youtube.com/@passiveincomeangel",
+      "date_published": "2025-11-18T05:51:04-08:00",
+      "upload_date": "2025-11-18T05:51:04-08:00",
+      "display_uploaded_at": "2025-11-18",
+      "duration_iso": "PT24M42S",
+      "display_duration": "24:42",
+      "retrieved_date": "2026-10-07",
+      "access": "public_watch_page_transcript",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": "00:00 Introduction to Keyword Research and AI Tools\n00:27 Welcome to the Wednesday Grind\n00:50 Anna Beck's 20 Listings with One Click Workflow\n01:26 Creating Listings with Anywhere POD\n03:55 Using AI for SEO and Listing Optimization\n10:36 Designing with AI and Manual Methods\n15:23 Etsy SEO and Keyword Research Strategies\n20:07 Final Tips and Where to Find More Resources",
+      "prior_processing_status": "not_in_2026_10_05_ledger",
+      "new_after_prior_audit_date": false,
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "provenance_confidence": "high",
+      "transcription_confidence": "medium_not_audio_verified",
+      "extracted_transcript_words": 4786,
+      "creator_chapters_note": "Creator-supplied description chapters; not independently measured timestamps.",
+      "source_role": "selected_public_teaching_or_promotion"
+    },
+    {
+      "source_id": "COU-V002",
+      "coach": "Courtney Nichole",
+      "kind": "youtube_video",
+      "title": "7 Things I See in Every Struggling Etsy Shop",
+      "url": "https://www.youtube.com/watch?v=zDHf5OU3fKY",
+      "video_id": "zDHf5OU3fKY",
+      "channel": "Courtney Nichole",
+      "channel_url": "https://www.youtube.com/@CourtneyNichole1",
+      "date_published": "2026-08-31T08:27:17-07:00",
+      "upload_date": "2026-08-31T08:27:17-07:00",
+      "display_uploaded_at": "2026-08-31",
+      "duration_iso": "PT10M18S",
+      "display_duration": "10:18",
+      "retrieved_date": "2026-10-07",
+      "access": "public_watch_page_transcript",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": null,
+      "prior_processing_status": "not_in_2026_10_05_ledger",
+      "new_after_prior_audit_date": false,
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "provenance_confidence": "high",
+      "transcription_confidence": "medium_not_audio_verified",
+      "extracted_transcript_words": 1506,
+      "creator_chapters_note": null,
+      "source_role": "selected_public_teaching_or_promotion"
+    },
+    {
+      "source_id": "MEG-V003",
+      "coach": "Meg Heckman",
+      "kind": "youtube_video",
+      "title": "YouTube",
+      "url": "https://www.youtube.com/watch?v=6qWlxOwC4tI",
+      "video_id": "6qWlxOwC4tI",
+      "channel": "Meg Heckman",
+      "channel_url": "https://www.youtube.com/@itsmegheckman",
+      "date_published": "2026-10-06T09:00:31-07:00",
+      "upload_date": "2026-10-06T09:00:31-07:00",
+      "display_uploaded_at": "2026-10-06",
+      "duration_iso": "PT31M22S",
+      "display_duration": "31:22",
+      "retrieved_date": "2026-10-07",
+      "access": "public_watch_page_transcript",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": "0:00 Introduction\n1:42 Step 1: Pick Your Niche\n5:16 Step 2: Do Your Research\n9:05 Step 3: Create 100 Designs\n13:15 Step 4: Build Your Shopify\n18:03 Step 5: Upload Your Designs\n21:55 Step 6: Run Your Facebook Ads\n27:33 Step 7: Rinse and Repeat",
+      "prior_processing_status": "not_in_2026_10_05_ledger",
+      "new_after_prior_audit_date": true,
+      "recency_class": "published_after_2026_10_05",
+      "provenance_confidence": "high",
+      "transcription_confidence": "medium_not_audio_verified",
+      "extracted_transcript_words": 5977,
+      "transcript_completeness_note": "Complete extracted transcript from opening to closing.",
+      "creator_chapters_note": "Creator-supplied description chapters; not independently measured timestamps.",
+      "discovery_title": "The Easiest Way to Get Your First 100 Sales in 2026 (Full Playbook)",
+      "discovery_title_note": "Indexed mirror title differed from live original; canonical video ID and live title retained.",
+      "source_role": "selected_public_teaching_or_promotion"
+    },
+    {
+      "source_id": "COU-V003",
+      "coach": "Courtney Nichole",
+      "kind": "youtube_video",
+      "title": "The Printify Settings Most Sellers Never Find\" + SETTINGS NOBODY FINDS",
+      "url": "https://www.youtube.com/watch?v=ZZEGIxdSwjI",
+      "video_id": "ZZEGIxdSwjI",
+      "channel": "Courtney Nichole",
+      "channel_url": "https://www.youtube.com/@CourtneyNichole1",
+      "date_published": "2026-10-05T07:06:41-07:00",
+      "upload_date": "2026-10-05T07:06:41-07:00",
+      "display_uploaded_at": "2026-10-05",
+      "duration_iso": "PT14M35S",
+      "display_duration": "14:35",
+      "retrieved_date": "2026-10-07",
+      "access": "public_watch_page_transcript",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "creator_chapters": null,
+      "prior_processing_status": "not_in_2026_10_05_ledger",
+      "new_after_prior_audit_date": false,
+      "recency_class": "same_audit_date_new_to_ledger",
+      "provenance_confidence": "high",
+      "transcription_confidence": "medium_not_audio_verified",
+      "extracted_transcript_words": 2289,
+      "transcript_completeness_note": "Extracted transcript runs through all teaching and stops at the final sign-off phrase; no missing teaching segment evident.",
+      "creator_chapters_note": null,
+      "source_role": "selected_public_teaching_or_promotion"
+    },
+    {
+      "video_id": "Ubyo0fX_9_w",
+      "title": "Episode 2 | Print On Demand Peak Playbook with George McConnell - Peak Multiplied",
+      "url": "https://www.youtube.com/watch?v=Ubyo0fX_9_w",
+      "channel": "Gelato",
+      "datePublished": "2026-09-29T06:42:52-07:00",
+      "uploadDate": "2026-09-29T06:42:52-07:00",
+      "duration": "PT13M4S",
+      "transcript_words": 2095,
+      "transcript_complete_observed": true,
+      "creator_chapters": null,
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "provenance_confidence": "high_primary_watch_metadata",
+      "transcription_confidence": "medium_not_audio_verified",
+      "in_prior_ledger": false,
+      "new_after_2026_10_05": false,
+      "processing_category": "older_unprocessed",
+      "source_id": "GEO-V002",
+      "duration_display": "13:03",
+      "channel_url": "https://www.youtube.com/@GelatoCreate",
+      "discovered_prior_not_reviewed": true,
+      "claim_locations": [
+        {
+          "transcript_lines": "29-70",
+          "topic": "Revenue multiplication formula and workload cost"
+        },
+        {
+          "transcript_lines": "121-132",
+          "topic": "AI copy and manual review"
+        },
+        {
+          "transcript_lines": "144-189",
+          "topic": "Pricing, personalization and discounts"
+        },
+        {
+          "transcript_lines": "199-225",
+          "topic": "Channel/country expansion"
+        },
+        {
+          "transcript_lines": "282-319",
+          "topic": "Halloween test and prescriptive weekly checklist"
+        }
+      ],
+      "date_published": "2026-09-29T06:42:52-07:00",
+      "kind": "youtube_video",
+      "source_role": "selected_public_teaching_or_promotion",
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "new_after_prior_audit_date": false
+    },
+    {
+      "video_id": "KsSzlGl5U8U",
+      "title": "Print on demand profits free course with mario menduni video2 Seasonality",
+      "url": "https://www.youtube.com/watch?v=KsSzlGl5U8U",
+      "channel": "Mario Menduni",
+      "datePublished": "2024-02-16T08:10:22-08:00",
+      "uploadDate": "2024-02-16T08:10:22-08:00",
+      "duration": "PT11M56S",
+      "transcript_words": 2246,
+      "transcript_complete_observed": true,
+      "creator_chapters": null,
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "provenance_confidence": "high_primary_watch_metadata",
+      "transcription_confidence": "medium_not_audio_verified",
+      "in_prior_ledger": false,
+      "new_after_2026_10_05": false,
+      "processing_category": "older_unprocessed",
+      "source_id": "MAR-V002",
+      "duration_display": "11:56",
+      "channel_url": "https://www.youtube.com/@MarioMenduni",
+      "content_age_note": "Narration references pandemic back-to-school period and examples occurring in September despite February 2024 upload; recording date unknown and likely older than upload. Do not present as a 2024 or 2026 market measurement.",
+      "claim_locations": [
+        {
+          "transcript_lines": "1-60",
+          "topic": "Family-gifting seasonality and dangerous doubling-down rhetoric"
+        },
+        {
+          "transcript_lines": "98-136",
+          "topic": "Gift-for-wife/mom Google Trends seasonal comparisons"
+        },
+        {
+          "transcript_lines": "199-278",
+          "topic": "Development through quote/layout iterations; pandemic temporal cue"
+        },
+        {
+          "transcript_lines": "280-306",
+          "topic": "Historical paid-social dayparting claims"
+        }
+      ],
+      "date_published": "2024-02-16T08:10:22-08:00",
+      "kind": "youtube_video",
+      "source_role": "selected_public_teaching_or_promotion",
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "new_after_prior_audit_date": false
+    },
+    {
+      "source_id": "CHR-V002",
+      "coach": "Chris Blair",
+      "title": "Why Most POD Sellers Lose Q4 (And How Not To) - YouTube",
+      "url": "https://www.youtube.com/watch?v=UoRBYlH1Bnc",
+      "date_published": "2026-09-18T09:15:05-07:00",
+      "duration": "PT68M40S",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "status": "older_newly_processed_with_conditions",
+      "new_since_prior_audit": false,
+      "prior_processing_status": "absent_from_2026-10-05_ledger",
+      "transcript_words": 11271,
+      "transcript_sha256": "bad8ab30a54c97355e86004a5fc70a1e6268337fcd29898149926fd8dbabe05f",
+      "provenance_confidence": "high",
+      "transcription_confidence": "medium_not_audio_verified",
+      "video_id": "UoRBYlH1Bnc",
+      "kind": "youtube_video",
+      "source_role": "selected_public_teaching_or_promotion",
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "new_after_prior_audit_date": false
+    },
+    {
+      "source_id": "GIN-V002",
+      "coach": "Gina Menduni",
+      "title": "The number 1 most common Etsy question I get in my DMs ✅ Etsy store audit #etsysellingtips #etsy - YouTube",
+      "url": "https://www.youtube.com/watch?v=b95vrO-NZnQ",
+      "date_published": "2023-02-03T09:39:36-08:00",
+      "duration": "PT0M48S",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "status": "older_newly_processed_no_actionable_method",
+      "new_since_prior_audit": false,
+      "prior_processing_status": "absent_from_2026-10-05_ledger",
+      "transcript_words": 172,
+      "transcript_sha256": "80995bbcc9d985a8a625a27f94e71c111b33495722e1cb4231de922ea2bcf529",
+      "provenance_confidence": "high",
+      "transcription_confidence": "medium_not_audio_verified",
+      "video_id": "b95vrO-NZnQ",
+      "kind": "youtube_video",
+      "source_role": "selected_public_teaching_or_promotion",
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "new_after_prior_audit_date": false
+    },
+    {
+      "source_id": "GIN-V003",
+      "coach": "Gina Menduni",
+      "title": "POD Profits Free Course video17  The Etsy of It All   Keywords 101 with Coach Gina Menduni - YouTube",
+      "url": "https://www.youtube.com/watch?v=We-iPgSHzjg",
+      "date_published": "2024-02-21T04:11:24-08:00",
+      "duration": "PT7M39S",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "status": "older_newly_processed_rejected_stale_keyword_rules",
+      "new_since_prior_audit": false,
+      "prior_processing_status": "absent_from_2026-10-05_ledger",
+      "transcript_words": 1170,
+      "transcript_sha256": "98ebf4df1b12332bd7971103acb0b07ec1821308b9af81f15607867e68bf947f",
+      "provenance_confidence": "high",
+      "transcription_confidence": "medium_not_audio_verified",
+      "video_id": "We-iPgSHzjg",
+      "kind": "youtube_video",
+      "source_role": "selected_public_teaching_or_promotion",
+      "recency_class": "older_newly_reviewed_in_this_ledger",
+      "new_after_prior_audit_date": false
+    },
+    {
+      "source_id": "RJ-01",
+      "coach": "RJ Martinez",
+      "kind": "youtube_video",
+      "title": "Sellers Are Quitting Etsy Over AI Slop. That's the Biggest Opening in 8 Years.",
+      "url": "https://www.youtube.com/watch?v=xZnKixhiv04",
+      "video_id": "xZnKixhiv04",
+      "channel": "Print On Demand - RJ Martinez",
+      "channel_url": "https://www.youtube.com/@rjmartinez",
+      "date_published": "2026-10-06T05:15:12-07:00",
+      "upload_date": "2026-10-06T05:15:12-07:00",
+      "duration_metadata": "PT8M38S",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "provenance_confidence": "high_primary_public_watch_page",
+      "transcription_confidence": "medium_not_audio_verified",
+      "new_after_prior_audit_date": true,
+      "recency_class": "published_after_2026_10_05",
+      "status": "conditional_lens_with_explicit_rejections"
+    },
+    {
+      "source_id": "RJ-02",
+      "coach": "RJ Martinez",
+      "kind": "youtube_video",
+      "title": "I Copied a $1 Million Etsy Shop's System (You Can Start This From $0).",
+      "url": "https://www.youtube.com/watch?v=BPfHyZoFDjM",
+      "video_id": "BPfHyZoFDjM",
+      "channel": "Print On Demand - RJ Martinez",
+      "channel_url": "https://www.youtube.com/@rjmartinez",
+      "date_published": "2026-08-31T06:45:06-07:00",
+      "upload_date": "2026-08-31T06:45:06-07:00",
+      "duration_metadata": "PT10M34S",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "provenance_confidence": "high_primary_public_watch_page",
+      "transcription_confidence": "medium_not_audio_verified",
+      "new_after_prior_audit_date": false,
+      "recency_class": "older_newly_reviewed_added_coach",
+      "status": "conditional_lens_with_explicit_rejections"
+    },
+    {
+      "source_id": "RJ-03",
+      "coach": "RJ Martinez",
+      "kind": "youtube_video",
+      "title": "This Etsy Shop Made $3.8 Million - I Rebuilt It With AI in 20 Minutes.",
+      "url": "https://www.youtube.com/watch?v=BDDGq3_murA",
+      "video_id": "BDDGq3_murA",
+      "channel": "Print On Demand - RJ Martinez",
+      "channel_url": "https://www.youtube.com/@rjmartinez",
+      "date_published": "2026-06-30T20:00:05-07:00",
+      "upload_date": "2026-06-30T20:00:05-07:00",
+      "duration_metadata": "PT27M46S",
+      "retrieved_date": "2026-10-07",
+      "review": "description_and_chapters_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "provenance_confidence": "high_primary_public_watch_page",
+      "transcription_confidence": "medium_not_audio_verified",
+      "new_after_prior_audit_date": false,
+      "recency_class": "older_newly_reviewed_added_coach",
+      "status": "conditional_lens_with_explicit_rejections",
+      "review_note": "Initial extraction returned transcript; durable second retrieval only description/chapters. Excluded from complete-transcript count and content-level claims beyond durable evidence."
+    },
+    {
+      "source_id": "RJ-04",
+      "coach": "RJ Martinez",
+      "kind": "youtube_video",
+      "title": "10 Etsy Niches That Are Printing Money Right Now (Nobody Is Selling These).",
+      "url": "https://www.youtube.com/watch?v=XPPcunCY3p4",
+      "video_id": "XPPcunCY3p4",
+      "channel": "Print On Demand - RJ Martinez",
+      "channel_url": "https://www.youtube.com/@rjmartinez",
+      "date_published": "2026-05-23T10:30:11-07:00",
+      "upload_date": "2026-05-23T10:30:11-07:00",
+      "duration_metadata": "PT21M45S",
+      "retrieved_date": "2026-10-07",
+      "review": "full_extracted_transcript_reviewed",
+      "audio_video_watched": false,
+      "segment_timestamps_available": false,
+      "provenance_confidence": "high_primary_public_watch_page",
+      "transcription_confidence": "medium_not_audio_verified",
+      "new_after_prior_audit_date": false,
+      "recency_class": "older_newly_reviewed_added_coach",
+      "status": "conditional_lens_with_explicit_rejections"
+    },
+    {
+      "source_id": "RJ-05",
+      "coach": "RJ Martinez",
+      "kind": "article",
+      "title": "10 Etsy niches with real proof of demand",
+      "url": "https://sendfox.com/rjhustles/c/yp9exd/10-etsy-niches-with-real-proof-of-demand",
+      "published_date": "2026-03-25",
+      "review": "full_article_reviewed",
+      "retrieved_date": "2026-10-07",
+      "status": "historical_context_or_conditional_lens"
+    },
+    {
+      "source_id": "RJ-06",
+      "coach": "RJ Martinez",
+      "kind": "article",
+      "title": "Direct Q and A with RJ Martinez",
+      "url": "https://merchinformer.com/merch-by-amazon-success-interview-with-rj-martinez/",
+      "published_date": "2018-04-16",
+      "review": "full_article_reviewed",
+      "retrieved_date": "2026-10-07",
+      "status": "historical_context_or_conditional_lens"
+    },
+    {
+      "source_id": "RJ-07",
+      "coach": "RJ Martinez",
+      "kind": "article",
+      "title": "Protect your print on demand business from trademark issues",
+      "url": "https://sendfox.com/rjhustles/c/ny2rgp/important-how-to-protect-your-print-on-demand-business-from-trademark-issues",
+      "published_date": "2025-02-28",
+      "review": "full_article_reviewed",
+      "retrieved_date": "2026-10-07",
+      "status": "historical_context_or_conditional_lens"
+    }
+  ],
+  "unreviewed_candidates": [
+    {
+      "coach": "Dylan Jahraus",
+      "video_id": "vjKV9ol6BBA",
+      "url": "https://www.youtube.com/watch?v=vjKV9ol6BBA",
+      "search_title": "EXACTLY What To Sell on Etsy This Holiday Season 2026 (5 NEW Trends)",
+      "search_relative_date": "2 days ago",
+      "verified_upload_date": null,
+      "access_result": "user cancelled MCP tool call",
+      "retry_performed": false,
+      "review": "not_reviewed",
+      "teaching_adopted": false
+    },
+    {
+      "coach": "George McConnell",
+      "video_id": "y91cq1RYR9c",
+      "title": "I Launched a Print on Demand Product at the Airport in 10 Minutes",
+      "url": "https://www.youtube.com/watch?v=y91cq1RYR9c",
+      "review": "search_excerpt_only",
+      "published_date": null
+    },
+    {
+      "coach": "George McConnell",
+      "video_id": "ivr76W8G7C8",
+      "title": "Print on Demand Just Got Easier",
+      "url": "https://www.youtube.com/watch?v=ivr76W8G7C8",
+      "review": "search_excerpt_only",
+      "published_date": null
+    },
+    {
+      "coach": "Luna Vega",
+      "video_id": "7yZ0LG5301Q",
+      "title": "New Claude AI just UNLOCKED a High Demand Digital Product!",
+      "url": "https://www.youtube.com/watch?v=7yZ0LG5301Q",
+      "discovery_source": "https://videohighlight.com/v/7yZ0LG5301Q",
+      "review": "not_reviewed_tool_cancelled",
+      "published_date": null,
+      "duration": null
+    },
+    {
+      "coach": "Luna Vega",
+      "video_id": "e0ZZ5CSWy8E",
+      "title": "I asked Claude AI to make me as much money as possible",
+      "url": "https://www.youtube.com/watch?v=e0ZZ5CSWy8E",
+      "discovery_source": "https://videohighlight.com/v/e0ZZ5CSWy8E",
+      "review": "third_party_excerpt_only_not_adopted",
+      "published_date": null,
+      "date_hint_unverified": "2026-04-23 per RareSocial"
+    },
+    {
+      "coach": "Ronnie McKenzie",
+      "video_id": "NBK2uy2d4vU",
+      "title": "I Used 5 AI Tools to Build a Print on Demand Metal Art Product From Scratch",
+      "url": "https://www.youtube.com/watch?v=NBK2uy2d4vU",
+      "review": "not_reviewed_tool_cancelled",
+      "published_date": null,
+      "duration": null
+    },
+    {
+      "coach": "Ronnie McKenzie",
+      "video_id": "HMSqWnAIMq4",
+      "title": "How I Make $100,000+/month with AI Physical Products",
+      "url": "https://www.youtube.com/watch?v=HMSqWnAIMq4",
+      "review": "search_excerpt_only",
+      "published_date": null
+    },
+    {
+      "coach": "Mario Menduni",
+      "video_id": "0guqw-VMVnw",
+      "title": "ShineOn Scaling Master Class with Mario Menduni q4 2024 2 of 2",
+      "url": "https://www.youtube.com/watch?v=0guqw-VMVnw",
+      "review": "search_excerpt_only",
+      "published_date": null
+    },
+    {
+      "coach": "Mario Menduni",
+      "video_id": "zDvbksO7BZc",
+      "title": "POD Profits w/ mario menduni video 10 The importance of using copyrighters",
+      "url": "https://www.youtube.com/watch?v=zDvbksO7BZc",
+      "review": "search_excerpt_only",
+      "published_date": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jAs2NhFLS7I",
+      "title": "Reviewing Every Print On Demand Supplier (Use This One)",
+      "date": "2026-09-29",
+      "date_evidence": "secondary Prepublish index only",
+      "review": "not_reviewed",
+      "coach": "Meg Heckman"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pd_DDmlDghw",
+      "title": "Stop Wasting Hours on T-Shirt Design. Use This AI Process Instead.",
+      "date": "2026-09-15",
+      "date_evidence": "secondary Prepublish index only",
+      "review": "not_reviewed",
+      "coach": "Meg Heckman"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=h7j7UQMo0lQ",
+      "title": "The Etsy Ornament Market Just Changed Forever",
+      "date": "2026-09-08",
+      "review": "description_chapters_only_no_teaching_adopted",
+      "coach": "Jesse Teaches"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2EBYSFvHcuw",
+      "title": "How to Design a Best-Selling Etsy Ornament (Step-by-Step)",
+      "date": null,
+      "review": "indexed_title_only",
+      "coach": "Jesse Teaches"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hQ5MiyTIfuk",
+      "title": "I'm Pausing YouTube for This HUGE Ornament Opportunity",
+      "date": null,
+      "review": "indexed_title_only",
+      "coach": "Jesse Teaches"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aZ_Ho7MZbg0",
+      "title": "The Fastest Way to Create a Best Seller In 30 Days with Anna Beck",
+      "date": null,
+      "review": "indexed_title_only",
+      "coach": "Anna Beck"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EWYzypaL6WY",
+      "title": "5 Live Session 5 with Emma Beck Friday Sept 26th, 2025",
+      "date": null,
+      "review": "unreviewed_title_description_name_conflict_Emma_vs_Anna",
+      "coach": "Anna Beck"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GARF6Q9Y4aQ",
+      "title": "How to Make Personalized Products Easy With Etsy Live Previews",
+      "date": null,
+      "review": "unreviewed_speaker_not_verified",
+      "coach": "Anna Beck"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=P9JpLtD4BJY",
+      "title": "Etsy Said I Broke the Rules. The Court Just Proved Otherwise.",
+      "date": null,
+      "review": "indexed_title_only_no_legal_claim_adopted",
+      "coach": "Courtney Nichole"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DOA2XSvpku4",
+      "title": "How to SURVIVE Your First Year on Etsy (4 Tips)",
+      "date": null,
+      "review": "indexed_title_only",
+      "coach": "Courtney Nichole"
+    }
+  ],
+  "misattributed_exclusions": [
+    {
+      "url": "https://www.youtube.com/watch?v=YyuWEoemHVA",
+      "actual_uploader": "JAY'S WAY - Jay De Souza",
+      "not_coach": "Gina Menduni"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=y-9Kh2a9K_8",
+      "actual_uploader": "Adrian Vonarx",
+      "title": "It's Boring But it's How Print on Demand Sellers Get Rich",
+      "reason": "Search recommendation snippet mentioned Meg; live watch page identified a different coach. Excluded from roster counts and no teaching adopted."
+    }
+  ],
+  "limitations": [
+    "Confirmed-new counts are lower bounds, not exhaustive upload totals. Absence from the previous selected ledger is not proof a video was never processed elsewhere.",
+    "Channel pages/feeds were unavailable or incomplete. Date-filtered searches can miss uploads or include recommendation snippets.",
+    "Three selected fetches were cancelled: Dylan vjKV9ol6BBA, Luna 7yZ0LG5301Q, Ronnie NBK2uy2d4vU; not retried and no teaching adopted.",
+    "No video/audio or visual sales screenshots independently watched. Full extracted transcript review is text review, not validation of results.",
+    "Christina Oct6 tutorial was filmed mid-September; release date and data observation period are different. Courtney Oct5 upload is same-day sequence unresolved.",
+    "No store, ads, prices, policies, customer messages or account settings were changed. No local computer access.",
+    "Coach stories, search-volume or sales estimates, badges, follower counts and demonstrations do not prove journal demand, actual revenue, profit or causal performance."
+  ]
+}

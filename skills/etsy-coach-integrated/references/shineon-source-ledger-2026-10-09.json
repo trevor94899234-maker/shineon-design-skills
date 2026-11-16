@@ -1,0 +1,555 @@
+{
+  "title": "ShineOn official-source coaching ledger",
+  "checked_at": "2026-10-09",
+  "scope": "Selected first-party supplier pages, authoritative Etsy boundary checks, and separately verified official channel sources; not full-channel or whole-site audit.",
+  "identity": {
+    "supplier": "ShineOn Print-On-Demand",
+    "user_spelling": "Shaon",
+    "resolution": "High-confidence contextual match, pending explicit spelling/SKU confirmation if material.",
+    "distinct_from": "Existing historical ShineEtsyCoach method"
+  },
+  "counts": {
+    "business_perspectives": 30,
+    "new_supplier_lenses": 1,
+    "brand_cohort": 50,
+    "counts_policy": "No new human coach or brand case count.",
+    "ledger_source_rows": 30
+  },
+  "reading_scale": {
+    "full_visible_article_text": "Read returned visible article body, excluding linked/embedded video, images or private content unless independently recorded.",
+    "partial_public_sheet_text": "Some sheet rows visible; not entire workbook.",
+    "full_visible_index_text": "Navigation/index text only; linked content not thereby read.",
+    "selected_transcript_sections_read": "Complete transcript retrieved; only specified substantive sections reviewed. No audiovisual viewing.",
+    "entire_retrieved_transcript_read": "All returned transcript text reviewed; completeness not verified against audio. No audiovisual viewing."
+  },
+  "sources": [
+    {
+      "source_id": "SO01",
+      "url": "https://resources.shineon.com/",
+      "title": "ShineOn Resources",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": null,
+      "read_level": "full_visible_page_text",
+      "findings": [
+        "Official navigation to seller teaching, YouTube, Facebook group, help center and Canto."
+      ],
+      "limits": "Navigation verification; does not mean all linked content read."
+    },
+    {
+      "source_id": "SO02",
+      "url": "https://shineon.com/",
+      "title": "ShineOn homepage",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": null,
+      "read_level": "full_visible_page_text",
+      "findings": [
+        "Supplier positions personalized emotional gifts, high margins and upsells as sales proposition."
+      ],
+      "limits": "Self-promotional claims, no independent causal or shop-level result validation; broad US/EU marketing conflicts with more specific shipping support."
+    },
+    {
+      "source_id": "SO03",
+      "url": "https://resources.shineon.com/phrase-building-1445",
+      "title": "Phrase Building",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": null,
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Keep the message understandable, readable and emotionally relevant to a buyer/recipient relationship.",
+        "Supplier offers relationship and occasion variants as inspiration."
+      ],
+      "limits": "No date displayed; performance claims lack exposed sample, denominator or journal/Etsy specificity; examples not licensed for indiscriminate copying."
+    },
+    {
+      "source_id": "SO04",
+      "url": "https://resources.shineon.com/product-funnel-3700",
+      "title": "Product Funnel Resources",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": null,
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Supplier diagnoses price, page speed, conveyed value and average order value in a paid-ad funnel.",
+        "Cross-sell sequence connects gift-giving relationships."
+      ],
+      "limits": "Undated Shopify/message-card paid-traffic context; its price ranges, CTR threshold, shipping-charge rule and upsell apps are not Etsy journal rules."
+    },
+    {
+      "source_id": "SO05",
+      "url": "https://resources.shineon.com/ad-creatives-9397",
+      "title": "Ad Creatives",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": null,
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Make message readable in a product crop; use a clear opening, gift-giver/recipient angle, product details and call to action.",
+        "Separates unboxing, product-feature and recipient-review angles."
+      ],
+      "limits": "No visual/video viewing of embedded media. Do not import fake reactions, fake reviews, unsupported discounts/urgency or expensive-variant bait; social ad tactics are not Etsy photo/video requirements."
+    },
+    {
+      "source_id": "SO06",
+      "url": "https://resources.shineon.com/daughtergranddaughter-niche-2263",
+      "title": "Daughter / Granddaughter Niche",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": null,
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Distinguishes several giver-to-recipient relationships and related-gift cross-sells."
+      ],
+      "limits": "Supplier jewelry examples, no measured Etsy journal demand; relation list is hypothesis input."
+    },
+    {
+      "source_id": "SO07",
+      "url": "https://resources.shineon.com/playbooks-6325",
+      "title": "ShineOn Selling Playbooks",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": null,
+      "read_level": "full_visible_index_text",
+      "findings": [
+        "Product playbooks link market positioning and suggested messaging."
+      ],
+      "limits": "Index only for linked playbooks; no journal playbook shown in this selected index; do not claim playbooks fully read."
+    },
+    {
+      "source_id": "SO08",
+      "url": "https://resources.shineon.com/fathers-day-resources-9740",
+      "title": "Father's Day Resources",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": null,
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Includes Graphic Journal among merchant-favorite candidates and separates father-role gift angles."
+      ],
+      "limits": "No dated evidence of current sales or 2026 journal demand; linked social content not thereby read."
+    },
+    {
+      "source_id": "SO09",
+      "url": "https://resources.shineon.com/winter-holidays",
+      "title": "Winter Holiday",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": null,
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Mixes gift angles, product ideas, priority shipping and upgrades."
+      ],
+      "limits": "Undated; contains explicit Summer 2024 link and strike notice. Not a verified 2026 cutoff calendar; deadline image not read."
+    },
+    {
+      "source_id": "SO10",
+      "url": "https://help.shineon.com/",
+      "title": "ShineOn Help Center",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": null,
+      "read_level": "full_visible_index_text",
+      "findings": [
+        "Redirects to teamshineon.zendesk.com/hc/en-us, establishing support-site identity."
+      ],
+      "limits": "Index, not all support articles."
+    },
+    {
+      "source_id": "SO11",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/39841210455953-Design-and-Care-Advice-Graphic-Journal",
+      "title": "Design and Care Advice - Graphic Journal",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2026-04-24T17:24:00Z",
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Graphic Journal: vegan leather, 100 sheets/200 lined pages, brown elastic, ribbon.",
+        "Artwork PNG/transparency, 1410x2220 at 300 DPI, under 100 MB; links product templates.",
+        "Page lists US standard shipping $6.31."
+      ],
+      "limits": "This is a supplier model fact, not yet a match to owner SKU or current account quote; embedded Loom, templates and mockups not viewed/downloaded."
+    },
+    {
+      "source_id": "SO12",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/50311714551953-Design-and-Care-Advice-Engraved-Leather-Journal",
+      "title": "Design and Care Advice - Engraved Leather Journal",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2026-09-30T19:18:00Z",
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Separate engraved product with 200 lined pages; supports SVG and PNG."
+      ],
+      "limits": "Not evidence the user sells engraved journals; update date is not a proven launch date; embedded Loom not viewed."
+    },
+    {
+      "source_id": "SO13",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/26479886497681-Design-and-Care-Advice-Ambassador-Bound-Journal",
+      "title": "Design and Care Advice - Ambassador Bound Journal",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2025-07-14T16:47:00Z",
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Different product: UltraHyde hardcover, 80 cream-lined pages; different artwork template."
+      ],
+      "limits": "Do not merge this model with 200-page Graphic Journal; template media not reviewed."
+    },
+    {
+      "source_id": "SO14",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+      "title": "Production and Sync Timescales & Info",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2026-04-23T15:50:00Z",
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Graphic Journal listed at typical 2–3 business-day production, separate from transit.",
+        "Holiday load, synchronization/payment and QA can lengthen timeline; Etsy needs third-party integration."
+      ],
+      "limits": "Typical supplier estimate; no holiday arrival guarantee. Do not reuse supplier hand-made language to imply owner handcrafts the item."
+    },
+    {
+      "source_id": "SO15",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info",
+      "title": "Shipping Timescales, Prices & Info",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2026-04-20T15:10:00Z",
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Standard domestic transit listed 2–5 days, apart from production; rates are starting rates.",
+        "Extra same-order items, weight, quantity and separate packaging affect total cost; FAQ says items typically ship as produced.",
+        "Support says EU facility shut and products now ship from US; shutdown year not established by date-less August 21 sentence."
+      ],
+      "limits": "Verify SKU, current order quote, destination and actual route. No automatic combined-shipping saving, gift-box promise or delivery guarantee."
+    },
+    {
+      "source_id": "SO16",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/28352692706449-Gift-Wrap-My-Order-Upsell",
+      "title": "Gift Wrap My Order - Upsell",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2025-10-03T15:24:00Z",
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Shopify-only gift-wrap feature, up to five items, requires specified paid tiers/apps; Graphic Journal listed compatible.",
+        "Personalized message excluded."
+      ],
+      "limits": "Not proof of Etsy integration, bundled packaging, free wrap or available add-on for owner SKU."
+    },
+    {
+      "source_id": "SO17",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/10538063598737-How-to-enable-upsells-and-view-upsell-options",
+      "title": "How to enable upsells and view upsell options",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2025-02-18T21:06:00Z",
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Distinguishes product/cart/post-purchase upsells; options vary by product."
+      ],
+      "limits": "Older subscription wording; do not rely on this for current plan entitlement or Etsy capability."
+    },
+    {
+      "source_id": "SO18",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/10904990980241-Setting-Up-Priority-Shipping-Shopify-API",
+      "title": "Setting Up Priority Shipping (Shopify & API)",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2026-04-20T17:33:00Z",
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Priority can depend on sales channel, product compatibility and address; FedEx cannot serve PO boxes."
+      ],
+      "limits": "No setup performed; no promise that current Etsy connector sends correct shipping method."
+    },
+    {
+      "source_id": "SO19",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/45432586249873-ShineOn-Pricing-Update-April-2026",
+      "title": "ShineOn Pricing Update - April 2026",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2026-04-08T13:52:00Z",
+      "read_level": "article_header_and_relevant_product_rows",
+      "findings": [
+        "April 8, 2026 increase +$0.50/unit includes Graphic Journal."
+      ],
+      "limits": "Not full current unit-cost quote; future products not retroactively added. Use current catalog/tier before pricing; avoid adding increase twice to already-updated quote."
+    },
+    {
+      "source_id": "SO20",
+      "url": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?usp=sharing",
+      "title": "ShineOn Prices + Shipping - April Update",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": null,
+      "read_level": "partial_public_sheet_text",
+      "findings": [
+        "Official shipping support links sheet; subscription-tier columns visible."
+      ],
+      "limits": "Only initial rows available; Graphic Journal price row not read; cannot calculate owner margin."
+    },
+    {
+      "source_id": "SO21",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/10482796083089-Adding-Additional-Product-Mockups-and-creating-UGC",
+      "title": "Adding Additional Product Mockups and creating UGC",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2026-03-22T02:45:00Z",
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Use product-specific mockups and safe zones; can order samples to film original product content."
+      ],
+      "limits": "Mockup is not a real product photo; purchased/prerecorded UGC not evidence of a genuine customer experience. No order/download/edit performed."
+    },
+    {
+      "source_id": "SO22",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/26612184362769-Etsy-Compliance",
+      "title": "Etsy Compliance",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2026-04-16T13:43:00Z",
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Supplier categorizes leather journals/wallets as compliant and many standard message-card jewelry products as non-compliant."
+      ],
+      "limits": "Supplier interpretation, not Etsy assurance; must verify actual design/personalization and current Etsy rules."
+    },
+    {
+      "source_id": "SO23",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/30031023275537-Etsy-Compliant-Products",
+      "title": "Etsy - Compliant Products",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2026-04-16T13:45:00Z",
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Detailed supplier list includes Ambassador Bound Journal; not all names align with broader compliance page."
+      ],
+      "limits": "List omission alone does not prove Graphic Journal prohibited. Current SKU and Etsy authoritative policy govern; no compliance certificate issued."
+    },
+    {
+      "source_id": "SO24",
+      "url": "https://www.etsy.com/legal/creativity/",
+      "title": "Etsy's Creativity Standards",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2025-06-10",
+      "read_level": "full_visible_policy_text",
+      "findings": [
+        "Original designs and buyer-personalized products have separate qualifying pathways; relevant production-partner disclosure and truthful product presentation remain necessary."
+      ],
+      "limits": "Etsy, not supplier, governs Etsy policy. Current page read 2026-10-09; does not independently approve user listing."
+    },
+    {
+      "source_id": "SO25",
+      "url": "https://help.etsy.com/hc/en-us/articles/360000336547-Working-with-Production-Partners-on-Etsy",
+      "title": "Working with Production Partners on Etsy",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": null,
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Production assistance requires disclosure and accurate shipping-origin representation; distinguishes qualifying partners from generic resale/white label."
+      ],
+      "limits": "Apply to actual workflow, not company branding alone."
+    },
+    {
+      "source_id": "SO26",
+      "url": "https://teamshineon.zendesk.com/hc/en-us/articles/35731869023889-Etsy-Lab-Shop-Talk-PODU",
+      "title": "Etsy Lab & Shop Talk - PODU",
+      "checked_at": "2026-10-09",
+      "published_at": null,
+      "updated_at": "2025-06-06T14:33:00Z",
+      "read_level": "full_visible_article_text",
+      "findings": [
+        "Supplier explicitly offers Etsy-oriented coaching spaces; supports keeping supplier education distinct from individual expert identities."
+      ],
+      "limits": "Commercial service description, not evidence of course content read or human coach participation; no subscription or audit purchased."
+    },
+    {
+      "title": "How to List 20+ Print-on-Demand Products in Minutes (Live Demo)",
+      "url": "https://www.youtube.com/watch?v=W8uEoVAa8jo",
+      "channel": "ShineOn Print-On-Demand",
+      "teachers": "Michael (host); Chris Meats (AnywherePOD founder, spelling verified in description)",
+      "published_local_date": "2026-03-06",
+      "publication_metadata": "2026-03-06T21:32:24-08:00",
+      "live_start_utc": "2026-03-06T16:05:22+00:00",
+      "upload_display_utc_date": "2026-03-07",
+      "checked_date": "2026-10-09",
+      "access": "Full transcript text and description retrieved via Firecrawl YouTube postprocessor; selected substantive sections read; no audiovisual viewing.",
+      "transcript_read_bounds": "Read introduction/description and selected main demonstration/Q&A spanning roughly character offsets 25000–61855 of retrieved markdown; no reliable timestamps were supplied.",
+      "source_summary": "Research demand and keywords before scaling listings. Build one reusable product template, preserve personalized text layers, and reuse approved mockups/prices. Feed AI researched keywords and actual product information. Give distinct birthday variants their own appropriate intent rather than expecting one listing to rank for every age. Test small creative variations.",
+      "application": "Adapt as a manual checklist first: verified journal template, editable name, actual SKU mockups, personalized-name instructions, human-reviewed titles/tags, and a small coherent variant batch. Automation is optional.",
+      "bounds": "Demo uses a spiral notebook, not verified user's 200-lined-page journal. Do not transfer dimensions, materials, current prices, software availability, or gift-wrap eligibility. Speaker's tentative Etsy fee and policy statements are not authorities. Demo is commercially promotional; subscription/API costs and account permissions require independent review.",
+      "prior_id": "SH-YT-01",
+      "retrieval_completeness": "Complete transcript text returned by tool; not independently checked against audio",
+      "read_level": "selected_transcript_sections_read",
+      "time_anchors": "Unavailable: returned transcript has no timestamps; do not invent video timecodes. Use section and character bounds recorded in transcript_read_bounds.",
+      "source_id": "YT02"
+    },
+    {
+      "title": "What 700,000 Orders Taught Us About Winning Jewelry Phrases",
+      "url": "https://www.youtube.com/watch?v=D3VCWyMfy4U",
+      "channel": "ShineOn Print-On-Demand",
+      "teachers": "Michael (host; description signature; transcript surname is unreliable)",
+      "published_local_date": "2026-08-07",
+      "publication_metadata": "2026-08-07T21:50:13-07:00",
+      "live_start_utc": "2026-08-07T14:58:37+00:00",
+      "upload_display_utc_date": "2026-08-08",
+      "checked_date": "2026-10-09",
+      "access": "Full transcript text and description retrieved; selected teaching and Q&A sections substantively read; no audiovisual viewing.",
+      "transcript_read_bounds": "Read introduction/description and main teaching/Q&A roughly character offsets 20000–68500 of 93463-character retrieved markdown; did not review every opening song or later Q&A. No reliable timestamps supplied.",
+      "source_summary": "Separates gift sender from recipient, studies emotional motifs, prioritizes understandable language, and recommends testing phrases with a consistent simple design before embellishing. Claimed 700,000-order analysis aggregates historical winning jewelry-card phrases. Around 70 words/five sentences are loose averages, explicitly not a formula.",
+      "application": "For journals, hypothesize a clear giver–recipient–occasion–feeling combination, write original short cover wording, maintain legibility beside the name, and compare controlled variants. These are coaching hypotheses until shop data supports them.",
+      "bounds": "Supplier retrospective claims are not independent evidence, causal proof, Etsy demand data, or journal conversion rates. Do not force jewelry word counts on journal covers, infer male buyer dominance for journals, or promise income. Do not adopt unverified assertions that fragments are public domain. Check rights and use original/licensed language.",
+      "prior_id": "SH-YT-02",
+      "retrieval_completeness": "Complete transcript text returned by tool; not independently checked against audio",
+      "read_level": "selected_transcript_sections_read",
+      "time_anchors": "Unavailable: returned transcript has no timestamps; do not invent video timecodes. Use section and character bounds recorded in transcript_read_bounds.",
+      "source_id": "YT01"
+    },
+    {
+      "title": "DESIGN TIPS AND TRICKS THRU PRODUCT TEARDOWN FOR PRINT-ON-DEMAND | Coffee with Michael | ShineOn",
+      "url": "https://www.youtube.com/watch?v=DYfiPN4kgVQ",
+      "channel": "ShineOn Print-On-Demand",
+      "teachers": "Michael and Jim named in transcript; additional speaker's name is inconsistently transcribed, not asserted.",
+      "published_local_date": "2022-03-25",
+      "publication_metadata": "2022-03-25T21:51:35-07:00",
+      "live_start_utc": "2022-03-25T14:58:28+00:00",
+      "upload_display_utc_date": "2022-03-26",
+      "checked_date": "2026-10-09",
+      "access": "Full transcript retrieved; selected first product teardown read; historical corroboration only; no audiovisual viewing.",
+      "transcript_read_bounds": "Introduction/description and approximately character offsets 25500–42500 of 89190-character markdown. No reliable timestamps supplied.",
+      "source_summary": "First teardown discusses readable message placement, reducing distracting details, and distinguishing feed-ad requirements from Etsy product-page presentation. Panelists disagree on how to show a necklace/earring bundle. One favors larger order value; another favors a simpler acquisition image.",
+      "application": "Use legibility and honest product hierarchy as review prompts. For journals, consider bundles only after verifying components, fulfillment, margin, and genuine customer need.",
+      "bounds": "Jewelry example and 2022 tactics are not current Etsy rules. Do not fabricate free gifts, inflated reference prices, customer-style testimonials, or undisclosed UGC. No present bundle availability verified.",
+      "prior_id": "SH-YT-03",
+      "retrieval_completeness": "Complete transcript text returned by tool; not independently checked against audio",
+      "read_level": "selected_transcript_sections_read",
+      "time_anchors": "Unavailable: returned transcript has no timestamps; do not invent video timecodes. Use section and character bounds recorded in transcript_read_bounds.",
+      "source_id": "YT03"
+    },
+    {
+      "title": "10 Etsy Ranking Tips Most POD Sellers Completely Ignore",
+      "url": "https://www.youtube.com/watch?v=HMf4q_LZwDo",
+      "channel": "ShineOn Print-On-Demand",
+      "teachers": "Andrew (named in description)",
+      "published_local_date": "2026-09-23",
+      "publication_metadata": "2026-09-23T09:15:24-07:00",
+      "checked_date": "2026-10-09",
+      "access": "Full description and entire 18884-character transcript read; no audiovisual viewing.",
+      "transcript_read_bounds": "All retrieved transcript text; no reliable timestamps supplied.",
+      "source_summary": "Recommends relevant researched keywords, separating buyer intent from recipient, coherent store branding, and a clear, readable main product image. Suggests occasional promotions and product diversity, but supports several ranking claims with anecdote or speculation.",
+      "application": "Useful organic-first checklist: actual journal and name visible in main image; truthful relevant phrases in copy; coherent brand; evidence-led buyer/occasion targeting. Verify rules with Etsy primary guidance.",
+      "bounds": "Do not import comma/hyphen ranking folklore, exact algorithm claims, the unsubstantiated buyer percentage, alleged discount ranking effects, or product-diversity mandates. Do not expand SKU range or discount before cost/fulfillment validation.",
+      "prior_id": "SH-YT-04",
+      "retrieval_completeness": "Complete transcript text returned by tool; not independently checked against audio",
+      "read_level": "entire_retrieved_transcript_read",
+      "time_anchors": "Unavailable: returned transcript has no timestamps; do not invent video timecodes. Use section and character bounds recorded in transcript_read_bounds.",
+      "source_id": "YT04"
+    }
+  ],
+  "official_channels": [
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@ShineOnPOD",
+      "canonical_channel_id": "UCzcPf326yBa1X-J-RGdyfmQ",
+      "evidence_url": "https://resources.shineon.com/",
+      "evidence": "Resources page link 25 explicitly identifies this as ShineOn's YouTube channel. Channel metadata confirms canonical ID."
+    },
+    {
+      "platform": "Facebook group",
+      "url": "https://www.facebook.com/groups/shineonprofitsondemand",
+      "evidence_url": "https://resources.shineon.com/",
+      "evidence": "Resources links 20 and 21 point to this group; official YouTube About and video descriptions corroborate."
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/shineon/",
+      "evidence_url": "https://www.youtube.com/c/ShineOnPOD/about",
+      "evidence": "Live scrape of official channel About page returned an Instagram-labelled outbound redirect whose target is this exact profile. Metadata has same verified channel ID."
+    },
+    {
+      "platform": "Facebook page",
+      "url": "https://www.facebook.com/ShineOnHQ",
+      "evidence_url": "https://www.youtube.com/c/ShineOnPOD/about",
+      "evidence": "Same official channel About page explicitly links this Facebook page."
+    }
+  ],
+  "channel_read_counts": {
+    "official_identity_pages_substantively_read": 2,
+    "youtube_transcripts_retrieved": 4,
+    "youtube_transcripts_whole_text_read": 1,
+    "youtube_transcripts_selected_sections_read": 3,
+    "audiovisual_videos_watched": 0,
+    "facebook_posts_substantively_read": 0,
+    "instagram_posts_substantively_read": 0,
+    "exhaustive_channel_audit": false
+  },
+  "social_access": [
+    {
+      "url": "https://www.facebook.com/groups/shineonprofitsondemand",
+      "status": "Identity verified, content not read",
+      "detail": "web tool cache miss; Firecrawl explicitly reports unsupported site. Search returned no journal posts. No login or group join attempted."
+    },
+    {
+      "url": "https://www.instagram.com/shineon/",
+      "status": "Identity verified, content not read",
+      "detail": "web tool failed fetch; Firecrawl explicitly reports unsupported site. Search snippets were discovery only, not substantive post evidence."
+    },
+    {
+      "url": "https://www.facebook.com/ShineOnHQ",
+      "status": "Identity verified through official outbound link; page content not read",
+      "detail": "No claim about specific posts."
+    }
+  ],
+  "channel_checked_at_utc": "2026-10-09T15:38:22Z",
+  "revision": "2026-10-09.2",
+  "status": {
+    "website_selected_source_review": "completed within listed scope",
+    "youtube_selected_source_review": "completed within recorded read bounds",
+    "facebook_instagram_content_review": "incomplete: official identities verified; zero substantive post bodies read",
+    "sku_matching": "pending",
+    "contribution_definition": "Net merchandise revenue after discounts and refunds; net collected shipping; no duplicate deduction of discounts, refunds or platform-netted costs."
+  },
+  "social_followup_2026_10_09": {
+    "checked_at_utc": "2026-10-09T15:45:00Z",
+    "result": "No newly read substantive social post. Targeted public-source checks exhausted safe accessible routes used here; do not report completed social-content research.",
+    "attempts": [
+      {
+        "url": "https://web.facebook.com/groups/shineonprofitsondemand/posts/3099132467030788/",
+        "discovered_from": "https://resources.shineon.com/fathers-day-resources-9740",
+        "result": "web fetch failed/cache miss; no body read"
+      },
+      {
+        "url": "https://web.facebook.com/groups/shineonprofitsondemand/posts/3114021245541910/",
+        "discovered_from": "https://resources.shineon.com/fathers-day-resources-9740",
+        "result": "web fetch failed/cache miss; no body read"
+      },
+      {
+        "url": "https://www.facebook.com/ShineOnHQ/posts/got-a-few-spare-hours-a-week-and-an-itch-to-build-something-of-your-own-for-10-w/1353284680292399/",
+        "discovered_from": "Firecrawl search query site:facebook.com/ShineOnHQ journal personalized",
+        "result": "search excerpt only; web cache miss; Firecrawl unsupported. No reliable body/author/date, no lesson adopted."
+      },
+      {
+        "url": "https://www.facebook.com/ShineOnHQ/posts/important-deadline-announcementthe-cutoff-date-for-buyers-to-get-their-graphic-a/3305080296383503/",
+        "discovered_from": "same targeted public search",
+        "result": "web returned Facebook temporarily-blocked page, not post body. Stopped this access route; no bypass attempted."
+      },
+      {
+        "url": "https://www.facebook.com/ShineOnHQ/posts/got-a-few-spare-hours-a-week-and-an-itch-to-build-something-of-your-own-for-10-w/1353284566959077/",
+        "discovered_from": "same targeted public search",
+        "result": "discovery excerpt only; not further accessed or adopted"
+      },
+      {
+        "url": "https://www.instagram.com/shineon/",
+        "result": "public web fetch failed; targeted Firecrawl site search returned zero results. Failure/empty search does not prove no posts exist."
+      }
+    ],
+    "remaining_gap": "Facebook and Instagram actual post content, publication dates, visuals and substantive lessons unreviewed. Continue only if genuinely accessible material or authorized user-provided exports/links become available, respecting access restrictions."
+  }
+}

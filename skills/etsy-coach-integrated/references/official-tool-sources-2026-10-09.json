@@ -1,0 +1,143 @@
+{
+  "audit_date": "2026-10-09",
+  "retrieved_at_precision": "date",
+  "retrieval_window_utc": {"start": "2026-10-09T01:10:21Z", "end": "2026-10-09T01:12:07Z"},
+  "scope": "Public first-party eRank, EverBee and Marmalead teaching deltas; no account access, new keyword measurements, paid tools, Firecrawl, owner computer, or formal skill edits.",
+  "baseline_files_read": [
+    "personal-skills-checkout/skill-6ac5ec23ad448191899cf759f6b27fe7/references/official-research-tools-2026-10-07.md",
+    "personal-skills-checkout/skill-6ac5ec23ad448191899cf759f6b27fe7/references/official-research-tool-sources-2026-10-07.json",
+    "personal-skills-checkout/skill-6ac5ec23ad448191899cf759f6b27fe7/references/keyword-coach-workflow.md"
+  ],
+  "counts": {"adopted_or_qualified_public_sources": 15, "new_source_urls_vs_baseline_tool_ledger": 10, "baseline_source_url_rechecks": 5, "new_keyword_demand_measurements": 0},
+  "interpretation_rule": "Official provider sources establish what providers say about their tools and teaching. They are not independent validation, Etsy policy, actual competitor sales or evidence of MyGiftStyle demand. Product and buyer fit, commercial intent and appropriately scoped evidence must be evaluated together; neither high nor low volume alone qualifies or rejects a phrase.",
+  "sources": [
+    {
+      "id": "ER-D01", "provider": "eRank", "title": "FAQ", "url": "https://help.erank.com/faq/", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_tool_help", "date_display": null, "published": null, "modified": null,
+      "read_depth": "relevant_main_text_sections_ranking_listing_optimization_keyword_research", "relation_to_baseline": "recheck_ER-O02",
+      "provider_teaching": "No universal ideal combination of keyword metrics. Highly relevant multiword phrases matter; low/medium-volume long tails may reflect more specific shopping intent. CTR is clicks divided by searches and can exceed 100%. Grades evaluate structure and do not assess product fit; leave well-performing listings alone regardless of grade.",
+      "coach_interpretation": "Supports rejecting fixed volume cutoffs and grade chasing. Treat intent language as a teaching heuristic, not measured likelihood that an individual shopper will buy.",
+      "date_and_method_limits": "Undated live FAQ; earlier ledger's modified date was not independently recovered here. No current account UI or individual keyword data inspected. Do not adopt the Google Analytics setup instructions from this page."
+    },
+    {
+      "id": "ER-D02", "provider": "eRank", "title": "Guide de démarrage sur eRank", "url": "https://help.erank.com/fr/blog/guide-de-demarrage-sur-erank/", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_historical_teaching", "date_display": "18 janvier 2023", "published": "2023-01-18", "modified": null,
+      "read_depth": "claim_relevant_main_article_sections", "relation_to_baseline": "new_URL_delta",
+      "provider_teaching": "Unknown means eRank does not have the information, not zero. An extremely relevant keyword with Unknown statistics can still be worthwhile. The guide permits a mix of highly relevant lower-volume phrases and broader higher-volume phrases.",
+      "coach_interpretation": "Preserve Unknown as missing information. It neither proves nor disproves market demand; high fit can justify a bounded test or useful coverage alongside other evidence.",
+      "date_and_method_limits": "Historical 2023 French guide. Do not import its old photo counts, title display limits, marketplace demographics or other unverified platform rules."
+    },
+    {
+      "id": "ER-D03", "provider": "eRank", "title": "What If My Keyword Has No Etsy Searches?", "url": "https://help.erank.com/blog/what-if-my-keyword-has-no-etsy-searches/", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_historical_teaching", "date_display": "23 September 2020", "published": "2020-09-23", "modified": null,
+      "read_depth": "full_main_article_text", "relation_to_baseline": "new_URL_delta",
+      "provider_teaching": "The historical example explains that below 20 searches eRank could not accurately capture a numeric result, with the chart appearing absent/zero-like. The author cautions against one-month spikes. A promising girls-related phrase is ultimately not selected because the actual bracelet is adult-sized.",
+      "coach_interpretation": "Keep <20 as a threshold qualifier, not an exact zero or midpoint. The product-fit example illustrates that volume cannot override the actual item.",
+      "date_and_method_limits": "The <20 description is a 2020 limitation, not proof of all current eRank UI behavior or a threshold shared by other providers. The author's 250-search/20%-CTR preferences are personal historical examples, not current universal gates."
+    },
+    {
+      "id": "ER-D04", "provider": "eRank", "title": "Keyword Tool", "url": "https://hc.erank.com/en/articles/8420556-keyword-tool", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_tool_help", "date_display": "Updated this week", "published": null, "modified": null,
+      "read_depth": "full_main_article_text_video_not_watched", "relation_to_baseline": "recheck_ER-O03",
+      "provider_teaching": "Top statistics include near matches; the Exact table filter retains input word order without requiring an otherwise identical phrase. Average statistics cover twelve months and trends span fifteen months. Tag Occurrences counts occurrences among the analyzed top 100 listings. The trend overview also describes a selected specific day.",
+      "coach_interpretation": "Retain existing near-match and sample rules. The day wording means date granularity should be verified in an actual tooltip rather than assumed from an article summary.",
+      "date_and_method_limits": "Relative update text is not a precise publication/modified date. No live tool UI checked. The documented KD ratio/direction inconsistency remains unresolved."
+    },
+    {
+      "id": "ER-D05", "provider": "eRank", "title": "Understand eRank Metrics in 5 Minutes", "url": "https://hc.erank.com/en/articles/11178612-understand-erank-metrics-in-5-minutes", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_tool_help", "date_display": "June 5, 2026", "published": null, "modified": null,
+      "read_depth": "full_main_article_text", "relation_to_baseline": "recheck_ER-O04",
+      "provider_teaching": "Average Searches and Clicks are monthly averages from the past twelve months for the selected marketplace/country. Average CTR uses the same period. Trend graphs cover fifteen months; competition excludes ads and personalized results. KD text still combines a volume-to-competition wording with a lower-is-better interpretation.",
+      "coach_interpretation": "Keep country, marketplace, trailing-average window and chart dates independent. Do not reconstruct or combine KD with EverBee or Marmalead scores.",
+      "date_and_method_limits": "Displayed date's publication-versus-update role is not identified. Examples are teaching examples, not MyGiftStyle observations."
+    },
+    {
+      "id": "EB-D01", "provider": "EverBee", "title": "Keyword Research", "url": "https://help.everbee.io/en/article/4-keyword-research-suite", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_tool_help", "date_display": "February 25, 2026", "published": null, "modified": null,
+      "read_depth": "full_main_article_text_video_not_watched", "relation_to_baseline": "new_URL_delta",
+      "provider_teaching": "This Keyword Research guide defines Search Volume as searches during the last thirty days and competition as competing listings. It explicitly says no single number determines good search volume.",
+      "coach_interpretation": "Use the definition only for the documented feature/version. Do not equate it with eRank's twelve-month average, Marmalead's forecast, or an unspecified EverBee Tag Analytics volume.",
+      "date_and_method_limits": "Displayed date role unspecified. The page does not establish every output's US geographic scope, exact matching, update latency, or missing-value semantics."
+    },
+    {
+      "id": "EB-D02", "provider": "EverBee", "title": "Boost your keyword Research", "url": "https://help.everbee.io/en/article/10-boost-your-keyword-research", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_teaching", "date_display": "August 20, 2025", "published": null, "modified": null,
+      "read_depth": "full_main_article_text_video_not_watched", "relation_to_baseline": "new_URL_delta",
+      "provider_teaching": "Its good-keyword checklist mentions high/medium volume, relevance, possible long-tail intent and low competition. The same page recommends less-popular specific phrases that describe real product distinctions. It suggests product-description, occasion, style and recipient seeds, with competitor tags as a starting point.",
+      "coach_interpretation": "Retain truthful product-led seed generation and specific buyer language. Do not convert the checklist into a volume floor or copying competitors into validation.",
+      "date_and_method_limits": "Older than EB-D03; provides no validated numeric high/medium cutoff. Tag visibility alone does not show source-attributed traffic or sales. Export capacities were not tested."
+    },
+    {
+      "id": "EB-D03", "provider": "EverBee", "title": "How Do I Use Real Search Volume Data to Pick Etsy Products?", "url": "https://blog.everbee.io/how-to-use-real-search-volume-data-to-pick-etsy-products", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_teaching_with_product_marketing", "date_display": "Sep 13, 2026; Updated Sep 13, 2026", "published": "2026-09-13", "modified": "2026-09-13",
+      "read_depth": "full_main_article_text", "relation_to_baseline": "new_URL_delta",
+      "provider_teaching": "Search volume is estimated and insufficient by itself. Evaluate buyer intent, competing listings, timing, margin, shop/production fit and executable differentiation. Lower-volume long tails may be better when intent and the entry path are clearer; inspect actual search results rather than relying solely on listing counts.",
+      "coach_interpretation": "A strong current source for joint fit/intent/evidence judgment and listing-level validation. It supports the existing method rather than a new numeric gate.",
+      "date_and_method_limits": "Vendor teaching and promotion, not independent effectiveness evidence or an actual journal-market study. Claims about demand do not prove particular search volumes, purchases, or achievable MyGiftStyle sales."
+    },
+    {
+      "id": "EB-D04", "provider": "EverBee", "title": "Product Analytics", "url": "https://help.everbee.io/en/article/3-product-analytics", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_tool_help", "date_display": "April 27, 2025", "published": null, "modified": null,
+      "read_depth": "full_main_article_text_video_not_watched", "relation_to_baseline": "recheck_EB-O05",
+      "provider_teaching": "Monthly Sales remains defined as estimated Total Sales divided by listing age in months. Tag Analytics Volume is described as average monthly searches, without its averaging window. Separate listing Trends offers selectable date windows.",
+      "coach_interpretation": "The precise delta is feature-level ambiguity: do not backfill Tag Analytics Volume with the Keyword Research last-thirty-day definition. Lifetime-averaged sales and selected-period trend estimates remain different.",
+      "date_and_method_limits": "Historical help date; live UI and subscription-specific availability were not checked. No raw provider sales estimate becomes an actual merchant ledger."
+    },
+    {
+      "id": "EB-D05", "provider": "EverBee", "title": "EverBee Research MCP: Ask Claude for Etsy Market Research", "url": "https://help.everbee.io/en/article/211-everbee-research-mcp-ask-claude-for-etsy-market-research", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_tool_help_and_feature_claim", "date_display": "September 23, 2026", "published": null, "modified": null,
+      "read_depth": "full_main_article_text", "relation_to_baseline": "new_URL_delta",
+      "provider_teaching": "The page claims its tag analysis can identify tags driving listing traffic, and says the MCP uses the same research engine as the app.",
+      "coach_interpretation": "Classify that as a provider feature claim pending the actual metric, attribution method, period and source. Visible tags and general keyword volume cannot independently establish competitor traffic attribution.",
+      "date_and_method_limits": "No attribution methodology or raw traffic evidence is provided on this page. No MCP was installed, authorized, contacted or tested. Do not infer current plan support or integration availability from this report."
+    },
+    {
+      "id": "EB-D06", "provider": "EverBee", "title": "Keyword Score", "url": "https://help.everbee.io/en/article/52-keyword-score", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_tool_help", "date_display": "August 19, 2025", "published": null, "modified": null,
+      "read_depth": "full_main_article_text", "relation_to_baseline": "recheck_EB-O03",
+      "provider_teaching": "The guide describes score using relevance/searchability language but gives Search Volume divided by Competing Listings times 1000. It says there is no single good-score number.",
+      "coach_interpretation": "The formula does not encode actual product fidelity, recipient suitability, or buyer expectations. Keep the native score plus independent fit assessment; do not turn it into a relevance or conversion score.",
+      "date_and_method_limits": "Dated help formula; current UI/version not tested. The introductory no-competitors phrase should not replace the documented ratio."
+    },
+    {
+      "id": "MM-D01", "provider": "Marmalead", "title": "Marmalead homepage", "url": "https://marmalead.com/", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_marketing_feature_definition", "date_display": null, "published": null, "modified": null,
+      "read_depth": "claim_relevant_homepage_sections", "relation_to_baseline": "new_provider_URL_delta",
+      "provider_teaching": "Search Volume is expected searches over the next thirty days; Engagement is expected unique visits over the next thirty days. Seasonality combines over twelve months of performance with a three-month forecast.",
+      "coach_interpretation": "Record forecast generation date and target interval independently from historical observations. Do not rename these metrics as completed monthly actuals.",
+      "date_and_method_limits": "Undated live landing page. No forecast model, per-keyword uncertainty, US geographic scope or authenticated UI inspected."
+    },
+    {
+      "id": "MM-D02", "provider": "Marmalead", "title": "Keyword Comparison Tool-torial", "url": "https://intercom.help/marmalead/en/articles/2278968-keyword-comparison-tool-torial", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_historical_tool_help", "date_display": "December 3, 2018 in opened page; search excerpt said Updated this week", "published": null, "modified": null,
+      "read_depth": "full_main_article_text", "relation_to_baseline": "new_provider_URL_delta",
+      "provider_teaching": "Comparison includes long-tail, search, engagement and competition metrics. Engagement is expected unique views over the next thirty days. Top Tags are common tags on listings targeting the keyword; competition counts competing listings.",
+      "coach_interpretation": "Top Tags is a discovery surface, not independently attributed tag traffic. Preserve unique views versus unique visits terminology and feature/date context.",
+      "date_and_method_limits": "Conflicting date presentations prevent assigning an exact current update. The opened page carries a 2018 date; use current MM-D01 for currently advertised forecast horizon."
+    },
+    {
+      "id": "MM-D03", "provider": "Marmalead", "title": "How to Achieve an A Grade in Marmalead", "url": "https://intercom.help/marmalead/en/articles/2347564-how-to-achieve-an-a-grade-in-marmalead", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_tool_grading_teaching", "date_display": "June 6, 2024", "published": null, "modified": null,
+      "read_depth": "full_main_article_text", "relation_to_baseline": "new_provider_URL_delta",
+      "provider_teaching": "The A-grade tutorial recommends long-tail focus keywords with at least 300 engagements. Long-tail status is not determined by word count alone; the tool uses additional market and phrase factors.",
+      "coach_interpretation": "300 is a dated provider grade target, not a universal keyword acceptance threshold, Etsy ranking rule or MyGiftStyle demand floor. A broad three-word phrase is not necessarily intent-specific.",
+      "date_and_method_limits": "2024 tutorial; not proof that present grading weights are identical. Good grades do not establish sales or product fit."
+    },
+    {
+      "id": "MM-D04", "provider": "Marmalead", "title": "The Best Etsy Keyword Tool for SEO Research in 2026", "url": "https://blog.marmalead.com/best-etsy-keyword-tool/", "retrieved_at": "2026-10-09", "source_class": "vendor_primary_marketing_and_teaching", "date_display": "June 1, 2026", "published": "2026-06-01", "modified": null,
+      "read_depth": "claim_relevant_main_article_sections", "relation_to_baseline": "new_provider_URL_delta",
+      "provider_teaching": "Search volume alone is insufficient. The article claims next-thirty-day forecasts are 95% accurate, uses clicks/favorites/purchases language around engagement, and warns that tools measure behavior differently.",
+      "coach_interpretation": "Keep the comparability warning, but distinguish marketing claims from field definitions. Do not convert 95% into a confidence interval, per-keyword accuracy, guaranteed growth, or a prohibition on corroborating other evidence.",
+      "date_and_method_limits": "No auditable per-keyword forecast-error method, sample or causal evaluation provided in the inspected sections. Engagement language differs from the explicit visits/views definitions in MM-D01/02."
+    }
+  ],
+  "unresolved_gaps": [
+    "No new keyword lookup or MyGiftStyle demand evidence was gathered.",
+    "No provider-wide current threshold/Unknown convention was established for EverBee or Marmalead; the explicit eRank <20 explanation is historical.",
+    "EverBee Tag Analytics average-monthly window is not resolved by a different feature's last-thirty-day help text.",
+    "Marmalead views/visits versus purchases marketing semantics need feature-level clarification before quantitative attribution.",
+    "Current eRank trend tooltip day/month granularity was not independently inspected.",
+    "Actual US geographic scope for every EverBee/Marmalead metric is not established by these public pages.",
+    "No video viewing or image inspection is claimed; all teaching extraction was text-based."
+  ],
+  "excluded_or_not_used": [
+    {"url": "https://help.everbee.io/en/article/6-how-does-everbee-work", "reason": "Prior baseline recorded a user-cancelled fetch. It was not actively reopened; an incidental search excerpt was not adopted as a new read."},
+    {"url": "https://blog.marmalead.com/how-to-use-marmaleads-search-tool-an-etsy-seo-tutorial/", "reason": "Read relevant 2023 tutorial sections during discovery, but omitted from adopted sources because current forecast semantics and grading limits were supported more directly elsewhere."},
+    {"url": "https://www.everbee.io/keyword-research", "reason": "Discovery marketing excerpt only; sample keyword values and growth examples were not treated as research observations."},
+    {"url": "https://www.everbee.io/mcp", "reason": "Discovery marketing excerpt only; illustrative sales/keyword figures were not adopted."}
+  ],
+  "suggested_regression_tests": [
+    {"case": "Accurate name-only Christian journal phrase has Unknown or <20 volume", "expected": "Do not auto-reject or label zero demand; assess intent, corroboration and field role, then justified hold/test/selection."},
+    {"case": "High-volume engraved genuine leather journal for a printed vegan leather product", "expected": "Reject for product mismatch regardless of score."},
+    {"case": "eRank average 100, EverBee volume 200, Marmalead searches 300", "expected": "Do not average or rank as the same monthly measure; record the three different windows and scope."},
+    {"case": "Competitor uses a tag and vendor general volume is high", "expected": "Call it a candidate, not proof the tag drove that competitor's visits/orders."},
+    {"case": "Marmalead A-grade requires 300 engagement but accurate narrow phrase is below it", "expected": "Do not impose 300 as an Etsy or business acceptance cutoff."},
+    {"case": "Marmalead predicts 95% accuracy", "expected": "Label provider self-claim, not per-keyword confidence or guaranteed business result."}
+  ]
+}

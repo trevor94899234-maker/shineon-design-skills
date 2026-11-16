@@ -1,0 +1,4118 @@
+{
+  "schema_version": "1.0",
+  "audit_date": "2026-10-07",
+  "scope": "Read-only current public-source freshness review for eight specified business perspectives. Official feed latest15 inventory plus sixteen selected public watch-page text reads.",
+  "baseline": [
+    "coach-source-ledger-2026-10-07.json",
+    "coach-source-ledger-2026-10-05.json"
+  ],
+  "checked_at_start": "2026-10-07T17:12:50.711Z",
+  "checked_at_end": "2026-10-07T17:30:43.675386+00:00",
+  "official_feed_method": {
+    "formats": [
+      "rawHtml"
+    ],
+    "maxAge": 0,
+    "parsed_as": "Atom XML with YouTube and Media RSS namespaces",
+    "all_8_status_code": 200,
+    "all_8_content_type": "text/xml; charset=UTF-8",
+    "updated_is_not_publication_date": true
+  },
+  "counts": {
+    "channels": 8,
+    "feed_entries": 120,
+    "selected_watch_page_reads": 16,
+    "full_extracted_transcripts": 15,
+    "partial_extracted_transcripts": 1,
+    "audio_or_video_watched": 0,
+    "complete_channel_inventories": 0,
+    "confirmed_feed_entries_published_after_2026_10_05": 13,
+    "post_prior_date_entries_not_in_processed_source_ledgers": 9
+  },
+  "mygiftstyle_constraints": {
+    "product": "200 lined pages; printed leatherette; no guided or scripture interior",
+    "typical_price": "USD49.95",
+    "us_buyer_share": "90–95%",
+    "advertising": "zero owner-directed ad spend; existing90-day start unknown; Etsy Offsite Ads attribution remains separate",
+    "weekly_total_time": "3–5 hours including fulfillment"
+  },
+  "evidence_limits": [
+    "Creator claims, examples, sales estimates and self-reported results are not independently verified sales/profit or causal evidence.",
+    "Full extracted text is distinct from watching/listening. No screenshots or transaction dashboards were independently inspected.",
+    "Current Etsy, OpenAI and supplier feature/policy assertions remain subject to primary official verification by the integrating audit; this batch does not elevate coach claims into policy.",
+    "This is a dated selected-content review. No recurring monitoring, account changes, posting, paid enrollments or tool upgrades performed."
+  ],
+  "channels": [
+    {
+      "coach": "Christina Umerez",
+      "channel_id": "UCe3U6y0-4cNz-adavoOBfsQ",
+      "channel_url": "https://www.youtube.com/channel/UCe3U6y0-4cNz-adavoOBfsQ",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe3U6y0-4cNz-adavoOBfsQ",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "SVdk4RyGuaQ",
+        "url": "https://www.youtube.com/watch?v=SVdk4RyGuaQ",
+        "title": "TOP 2026 Trending Ornament Niches To Add Now (Research Tutorial)",
+        "published": "2026-10-06T16:00:20+00:00",
+        "updated": "2026-10-07T13:55:46+00:00"
+      },
+      "last_processed": {
+        "video_id": "SVdk4RyGuaQ",
+        "url": "https://www.youtube.com/watch?v=SVdk4RyGuaQ",
+        "published": "2026-10-06T09:00:20-07:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07",
+        "source_id": "CHU-V002"
+      },
+      "last_processed_definition": "Most recently published source with complete extracted text reviewed, including retained baseline; exact prior processing clock time is unavailable.",
+      "last_processed_before_this_refresh": {
+        "source_id": "CHU-V002",
+        "video_id": "SVdk4RyGuaQ",
+        "url": "https://www.youtube.com/watch?v=SVdk4RyGuaQ",
+        "date_published": "2026-10-06T09:00:20-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+      ],
+      "scope": {
+        "returned_items": 15,
+        "oldest_returned_published": "2026-06-23T16:00:07+00:00",
+        "newest_returned_published": "2026-10-06T16:00:20+00:00",
+        "full_channel_coverage": false,
+        "complete_since_prior_audit": false,
+        "latest_complete_channel_watermark": null,
+        "feed_includes_mixed_formats": true
+      },
+      "new_after_prior_date_ids": [
+        "SVdk4RyGuaQ"
+      ],
+      "new_after_prior_date_not_previously_processed_ids": [],
+      "older_or_same_date_not_previously_processed_ids": [
+        "1gPDuryLANw",
+        "LG4Hi781nKI",
+        "fc8Trpvrm78",
+        "aQsYuOuMj0E",
+        "E7TFOcZp0q0",
+        "pJPME0V0jCI",
+        "XOEm0Fqw794",
+        "roBQzLUxG2I",
+        "8zxLE70NF_U",
+        "qH_dpJ8WSVE",
+        "AFHv4hFOZ9w",
+        "-Bi-jCxF800",
+        "uQGjVlHBzqo"
+      ],
+      "newly_processed_source_ids": [
+        "F8-CHU-01",
+        "F8-CHU-02"
+      ],
+      "inventory": [
+        {
+          "video_id": "SVdk4RyGuaQ",
+          "url": "https://www.youtube.com/watch?v=SVdk4RyGuaQ",
+          "title": "TOP 2026 Trending Ornament Niches To Add Now (Research Tutorial)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-06T16:00:20+00:00",
+            "updated": "2026-10-07T13:55:46+00:00"
+          },
+          "last_processed": {
+            "source_id": "CHU-V002",
+            "checked_at": "2026-10-07",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "CHU-V002",
+          "decision": "retained_prior_method_not_reread",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": true,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "BJ0O-I3zsjE",
+          "url": "https://www.youtube.com/watch?v=BJ0O-I3zsjE",
+          "title": "How To Make Your First $1000 On Etsy (Guaranteed)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-29T16:00:13+00:00",
+            "updated": "2026-10-03T03:03:56+00:00"
+          },
+          "last_processed": {
+            "source_id": "CHU-V001",
+            "checked_at": "2026-10-07",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "CHU-V001",
+          "decision": "retained_prior_method_not_reread",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": true,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "1gPDuryLANw",
+          "url": "https://www.youtube.com/watch?v=1gPDuryLANw",
+          "title": "Create Bestsellers In Seconds With Printifys FREE new AI Design Tool",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-22T16:00:12+00:00",
+            "updated": "2026-09-27T17:41:17+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-CHU-02",
+          "decision": "retain_file_variant_qa_reject_template_as_demand_proof",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "LG4Hi781nKI",
+          "url": "https://www.youtube.com/watch?v=LG4Hi781nKI",
+          "title": "Kittl New Brand Studio Just Launched And It's a Gamechanger!",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-16T16:00:26+00:00",
+            "updated": "2026-09-28T23:55:47+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "fc8Trpvrm78",
+          "url": "https://www.youtube.com/watch?v=fc8Trpvrm78",
+          "title": "3 BRAND NEW Print Types Just Launched on Printify (Puff print, glitter print tutorial)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-08T16:00:15+00:00",
+            "updated": "2026-09-26T21:59:43+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_description_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "declined_unrelated_apparel_print_types",
+          "decision_note_zh": "描述為puff／metallic／glitter服飾印刷及mockups，不代表printed leatherette journal可交付此工藝。",
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "aQsYuOuMj0E",
+          "url": "https://www.youtube.com/watch?v=aQsYuOuMj0E",
+          "title": "How to design ornaments that ACTUALLY sell (as a beginner)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-01T16:00:04+00:00",
+            "updated": "2026-09-29T02:40:01+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "E7TFOcZp0q0",
+          "url": "https://www.youtube.com/watch?v=E7TFOcZp0q0",
+          "title": "How I made 100 Sales on a BRAND NEW store (No Ads or Marketing)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-08-25T16:00:24+00:00",
+            "updated": "2026-10-01T17:52:29+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-CHU-01",
+          "decision": "bounded_organic_case_with_assets_and_concentration_limits",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "pJPME0V0jCI",
+          "url": "https://www.youtube.com/watch?v=pJPME0V0jCI",
+          "title": "How To Create Million Dollar Tshirt Designs (No Skill)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-08-17T16:00:38+00:00",
+            "updated": "2026-10-02T00:42:09+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "XOEm0Fqw794",
+          "url": "https://www.youtube.com/watch?v=XOEm0Fqw794",
+          "title": "Top BESTSELLING Halloween Trends in 2026",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-08-06T16:00:02+00:00",
+            "updated": "2026-09-27T18:07:57+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "roBQzLUxG2I",
+          "url": "https://www.youtube.com/watch?v=roBQzLUxG2I",
+          "title": "Kittl Workflows Just Dropped! 3x Your Print on Demand Assets",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-07-30T16:00:34+00:00",
+            "updated": "2026-09-30T06:43:51+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "8zxLE70NF_U",
+          "url": "https://www.youtube.com/watch?v=8zxLE70NF_U",
+          "title": "Brand New Printify Updates You NEED To Know About (August 2026)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-07-27T16:00:30+00:00",
+            "updated": "2026-10-02T01:24:34+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "qH_dpJ8WSVE",
+          "url": "https://www.youtube.com/watch?v=qH_dpJ8WSVE",
+          "title": "5 GROWING Niches To Add To Your Store For August 2026",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-07-21T16:00:33+00:00",
+            "updated": "2026-09-30T03:49:54+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "AFHv4hFOZ9w",
+          "url": "https://www.youtube.com/watch?v=AFHv4hFOZ9w",
+          "title": "How to AI-Proof Your Etsy Business In 2026",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-07-16T15:00:27+00:00",
+            "updated": "2026-09-27T06:13:51+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "-Bi-jCxF800",
+          "url": "https://www.youtube.com/watch?v=-Bi-jCxF800",
+          "title": "KITTL Launches Agentic AI! Game-changer for POD Tutorial",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-07-07T16:00:17+00:00",
+            "updated": "2026-10-02T03:51:24+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "uQGjVlHBzqo",
+          "url": "https://www.youtube.com/watch?v=uQGjVlHBzqo",
+          "title": "Claude + Arcads MCP: From Product Image to Finished UGC Ad in Minutes",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-06-23T16:00:07+00:00",
+            "updated": "2026-09-28T06:12:07+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        }
+      ]
+    },
+    {
+      "coach": "Courtney Nichole",
+      "channel_id": "UCK4jxvf6uT1CUZ_LDo_KrbA",
+      "channel_url": "https://www.youtube.com/channel/UCK4jxvf6uT1CUZ_LDo_KrbA",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK4jxvf6uT1CUZ_LDo_KrbA",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "CdEMIJhaK9A",
+        "url": "https://www.youtube.com/watch?v=CdEMIJhaK9A",
+        "title": "Your Etsy Buyers Never Have to Open Canva Again - AnywhereDigital Full Walkthrough",
+        "published": "2026-10-07T14:00:34+00:00",
+        "updated": "2026-10-07T14:20:18+00:00"
+      },
+      "last_processed": {
+        "video_id": "CdEMIJhaK9A",
+        "url": "https://www.youtube.com/watch?v=CdEMIJhaK9A",
+        "published": "2026-10-07T14:00:34+00:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "source_id": "F8-COU-01"
+      },
+      "last_processed_definition": "Most recently published source with complete extracted text reviewed, including retained baseline; exact prior processing clock time is unavailable.",
+      "last_processed_before_this_refresh": {
+        "source_id": "COU-V003",
+        "video_id": "ZZEGIxdSwjI",
+        "url": "https://www.youtube.com/watch?v=ZZEGIxdSwjI",
+        "date_published": "2026-10-05T07:06:41-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+      ],
+      "scope": {
+        "returned_items": 15,
+        "oldest_returned_published": "2026-10-02T00:00:19+00:00",
+        "newest_returned_published": "2026-10-07T14:00:34+00:00",
+        "full_channel_coverage": false,
+        "complete_since_prior_audit": false,
+        "latest_complete_channel_watermark": null,
+        "feed_includes_mixed_formats": true
+      },
+      "new_after_prior_date_ids": [
+        "CdEMIJhaK9A"
+      ],
+      "new_after_prior_date_not_previously_processed_ids": [
+        "CdEMIJhaK9A"
+      ],
+      "older_or_same_date_not_previously_processed_ids": [
+        "Nj2NZ9WSFrs",
+        "dGW3MwfBzQA",
+        "fJfcncA6L5U",
+        "y5gyJcETpys",
+        "Y1vSU7lEyq0",
+        "Vd293rB0YsI",
+        "n5RZHFJW3Wc",
+        "wpDsBAqO11o",
+        "eB1K3JEB6tk",
+        "5K4vaCuNKA8",
+        "bzDdoPe_Sg8",
+        "ABLGQxrZERk",
+        "MFAuxWY66Qo"
+      ],
+      "newly_processed_source_ids": [
+        "F8-COU-01",
+        "F8-COU-02"
+      ],
+      "inventory": [
+        {
+          "video_id": "CdEMIJhaK9A",
+          "url": "https://www.youtube.com/watch?v=CdEMIJhaK9A",
+          "title": "Your Etsy Buyers Never Have to Open Canva Again - AnywhereDigital Full Walkthrough",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-07T14:00:34+00:00",
+            "updated": "2026-10-07T14:20:18+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-COU-01",
+          "decision": "adapt_import_and_preview_qa_no_digital_tool_rollout",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "Nj2NZ9WSFrs",
+          "url": "https://www.youtube.com/shorts/Nj2NZ9WSFrs",
+          "title": "Does It Live Past October 31st? #etsyseller #etsytips #etsytrends #fallonetsy #shorts",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-05T23:00:35+00:00",
+            "updated": "2026-10-05T23:00:38+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_description_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "covered_by_selected_parent_video",
+          "decision_note_zh": "母片ABLGQxrZERk已核讀；季後用途問題可保留，Halloween禁令不移植。",
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "dGW3MwfBzQA",
+          "url": "https://www.youtube.com/shorts/dGW3MwfBzQA",
+          "title": "Early Means Fewer Competitors. Crowded Means You're Not First. #etsyseller #etsytips #etsytrends",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-05T19:00:31+00:00",
+            "updated": "2026-10-05T19:00:34+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "fJfcncA6L5U",
+          "url": "https://www.youtube.com/shorts/fJfcncA6L5U",
+          "title": "Use One or Two Personalization Fields #etsyseller #etsytips #etsytrends #fallonetsy #shorts",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-05T16:00:00+00:00",
+            "updated": "2026-10-05T16:00:03+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_description_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "covered_by_selected_parent_video",
+          "decision_note_zh": "母片ABLGQxrZERk已核讀；必要欄位清晰度可保留，固定一至二欄不是轉換率定律。",
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "ZZEGIxdSwjI",
+          "url": "https://www.youtube.com/watch?v=ZZEGIxdSwjI",
+          "title": "The Printify Settings Most Sellers Never Find\" + SETTINGS NOBODY FINDS",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-05T14:06:41+00:00",
+            "updated": "2026-10-06T03:01:40+00:00"
+          },
+          "last_processed": {
+            "source_id": "COU-V003",
+            "checked_at": "2026-10-07",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "COU-V003",
+          "decision": "retained_prior_method_not_reread",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": true,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "y5gyJcETpys",
+          "url": "https://www.youtube.com/shorts/y5gyJcETpys",
+          "title": "If You Make It By Hand, Price It Like It's Made By Hand #etsyseller #etsytips #etsytrends",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-05T14:00:02+00:00",
+            "updated": "2026-10-05T14:00:10+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "Y1vSU7lEyq0",
+          "url": "https://www.youtube.com/shorts/Y1vSU7lEyq0",
+          "title": "When a Big-Box Store Sells Out, That's an Opening #etsyseller #etsytips #etsytrends #fallonetsy",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-05T01:00:17+00:00",
+            "updated": "2026-10-05T09:17:38+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "Vd293rB0YsI",
+          "url": "https://www.youtube.com/shorts/Vd293rB0YsI",
+          "title": "Call It Moody Decor, Not Halloween Decor #etsyseller #etsytips #etsytrends #fallonetsy",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-04T22:00:18+00:00",
+            "updated": "2026-10-05T09:46:14+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "n5RZHFJW3Wc",
+          "url": "https://www.youtube.com/shorts/n5RZHFJW3Wc",
+          "title": "A Costume Gets Worn Once. A Coat Gets Worn All Winter #etsyseller #etsytips #etsytrends #shorts",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-04T19:00:34+00:00",
+            "updated": "2026-10-05T10:32:36+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "wpDsBAqO11o",
+          "url": "https://www.youtube.com/shorts/wpDsBAqO11o",
+          "title": "Don't Build Anything Halloween-Themed Right Now #etsyseller #etsytips #etsytrends #fallonetsy",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-04T16:35:11+00:00",
+            "updated": "2026-10-05T10:30:08+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "eB1K3JEB6tk",
+          "url": "https://www.youtube.com/shorts/eB1K3JEB6tk",
+          "title": "Most Sellers Are Missing Half of This #EtsySeller #PinterestForBusiness #EtsyShop",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-02T19:30:35+00:00",
+            "updated": "2026-10-02T19:30:40+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "5K4vaCuNKA8",
+          "url": "https://www.youtube.com/shorts/5K4vaCuNKA8",
+          "title": "Name Your Boards Like They're Answering a Search #EtsySeller #PinterestForBusiness #EtsyShop",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-02T16:00:00+00:00",
+            "updated": "2026-10-02T16:00:05+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "bzDdoPe_Sg8",
+          "url": "https://www.youtube.com/shorts/bzDdoPe_Sg8",
+          "title": "A Sentence, Not a Keyword #EtsySeller #PinterestForBusiness #EtsyShop #EtsyTip",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-02T14:00:40+00:00",
+            "updated": "2026-10-02T14:00:42+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "ABLGQxrZERk",
+          "url": "https://www.youtube.com/watch?v=ABLGQxrZERk",
+          "title": "5 Etsy Trends That Outlast Halloween",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-02T14:00:14+00:00",
+            "updated": "2026-10-02T21:17:45+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-COU-02",
+          "decision": "adapt_occasion_lifetime_and_simple_personalization",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "MFAuxWY66Qo",
+          "url": "https://www.youtube.com/shorts/MFAuxWY66Qo",
+          "title": "Let Pinterest Write Your Title For You #EtsySeller #PinterestForBusiness #EtsyShop",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-02T00:00:19+00:00",
+            "updated": "2026-10-04T23:36:15+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        }
+      ]
+    },
+    {
+      "coach": "Dylan Jahraus",
+      "channel_id": "UCeO8Gmc2B-3G2fgcFnRR4Xw",
+      "channel_url": "https://www.youtube.com/channel/UCeO8Gmc2B-3G2fgcFnRR4Xw",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeO8Gmc2B-3G2fgcFnRR4Xw",
+      "checked_at": "2026-10-07T17:12:50.711Z",
+      "latest_observed": {
+        "video_id": "88Qaqn1DcwQ",
+        "url": "https://www.youtube.com/shorts/88Qaqn1DcwQ",
+        "title": "40 Orders to 50K in 6 Weeks",
+        "published": "2026-10-07T13:00:02+00:00",
+        "updated": "2026-10-07T13:00:03+00:00"
+      },
+      "last_processed": {
+        "video_id": "6ypnzgyyf3o",
+        "url": "https://www.youtube.com/shorts/6ypnzgyyf3o",
+        "published": "2026-10-06T21:00:37+00:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "source_id": "F8-DYL-01"
+      },
+      "last_processed_definition": "Most recently published source with complete extracted text reviewed, including retained baseline; exact prior processing clock time is unavailable.",
+      "last_processed_before_this_refresh": {
+        "source_id": "DYL-V002",
+        "video_id": "BEMCOSvnTN8",
+        "url": "https://www.youtube.com/watch?v=BEMCOSvnTN8",
+        "date_published": "2026-10-01T06:00:08-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles.",
+        "vjKV9ol6BBA prior watch fetch was cancelled; no retry, no teaching adopted."
+      ],
+      "scope": {
+        "returned_items": 15,
+        "oldest_returned_published": "2026-09-29T13:00:07+00:00",
+        "newest_returned_published": "2026-10-07T13:00:02+00:00",
+        "full_channel_coverage": false,
+        "complete_since_prior_audit": false,
+        "latest_complete_channel_watermark": null,
+        "feed_includes_mixed_formats": true
+      },
+      "new_after_prior_date_ids": [
+        "88Qaqn1DcwQ",
+        "6ypnzgyyf3o",
+        "FrRf1NcfZbo"
+      ],
+      "new_after_prior_date_not_previously_processed_ids": [
+        "88Qaqn1DcwQ",
+        "6ypnzgyyf3o",
+        "FrRf1NcfZbo"
+      ],
+      "older_or_same_date_not_previously_processed_ids": [
+        "vjKV9ol6BBA",
+        "gTuWj1lIbWE",
+        "EouN5s3j8s4",
+        "83-T4y_SJn4",
+        "XZfqtFprGPA",
+        "6X-fdiBUiJw",
+        "eA6ZS4E838g",
+        "dLbixCrhDE8",
+        "sAci8ZAZtc4",
+        "iZ-qnW-f-1E",
+        "WHqtTvp_5Uo"
+      ],
+      "newly_processed_source_ids": [
+        "F8-DYL-01"
+      ],
+      "inventory": [
+        {
+          "video_id": "88Qaqn1DcwQ",
+          "url": "https://www.youtube.com/shorts/88Qaqn1DcwQ",
+          "title": "40 Orders to 50K in 6 Weeks",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-10-07T13:00:02+00:00",
+            "updated": "2026-10-07T13:00:03+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_description_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "declined_testimonial_no_operational_method",
+          "decision_note_zh": "學生營收見證及教練宣傳；未核營收、利潤或因果。",
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "6ypnzgyyf3o",
+          "url": "https://www.youtube.com/shorts/6ypnzgyyf3o",
+          "title": "Why Your Products Suck",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-10-06T21:00:37+00:00",
+            "updated": "2026-10-06T21:00:42+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-DYL-01",
+          "decision": "retain_existing_customer_problem_lens_no_new_operational_rule",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "FrRf1NcfZbo",
+          "url": "https://www.youtube.com/shorts/FrRf1NcfZbo",
+          "title": "Traffic Webinar 2",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-10-06T13:00:04+00:00",
+            "updated": "2026-10-06T13:00:10+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_description_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "declined_webinar_promotion_no_full_teaching",
+          "decision_note_zh": "免費流量webinar宣傳；沒有讀註冊後課程，不採流量數字。",
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "vjKV9ol6BBA",
+          "url": "https://www.youtube.com/watch?v=vjKV9ol6BBA",
+          "title": "EXACTLY What To Sell on Etsy This Holiday Season 2026 🎁 (5 NEW Trends)",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-10-05T13:00:29+00:00",
+            "updated": "2026-10-05T15:18:31+00:00"
+          },
+          "last_processed": null,
+          "read_state": "prior_watch_fetch_cancelled_feed_metadata_only",
+          "gaps": [
+            "Prior user-cancelled watch request not retried; no teaching adopted. Feed inventory obtained without reopening the watch page."
+          ],
+          "source_id": null,
+          "decision": "cancelled_do_not_retry_without_new_specific_authorization",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "gTuWj1lIbWE",
+          "url": "https://www.youtube.com/shorts/gTuWj1lIbWE",
+          "title": "The BEST Products To Sell",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-10-04T21:00:39+00:00",
+            "updated": "2026-10-05T18:13:17+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "EouN5s3j8s4",
+          "url": "https://www.youtube.com/shorts/EouN5s3j8s4",
+          "title": "From running her shop blindly to getting 30–40 sales a day",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-10-04T13:00:27+00:00",
+            "updated": "2026-10-04T13:00:27+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "83-T4y_SJn4",
+          "url": "https://www.youtube.com/shorts/83-T4y_SJn4",
+          "title": "Most Etsy sellers are missing at least 5 FREE ways to get traffic to their shop",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-10-03T21:00:36+00:00",
+            "updated": "2026-10-03T21:00:38+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "XZfqtFprGPA",
+          "url": "https://www.youtube.com/shorts/XZfqtFprGPA",
+          "title": "This Trend is About To BLOW UP",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-10-03T13:00:12+00:00",
+            "updated": "2026-10-04T11:44:23+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "6X-fdiBUiJw",
+          "url": "https://www.youtube.com/shorts/6X-fdiBUiJw",
+          "title": "How To Choose Etsy Products To Sell",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-10-02T21:00:38+00:00",
+            "updated": "2026-10-03T14:12:16+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "eA6ZS4E838g",
+          "url": "https://www.youtube.com/shorts/eA6ZS4E838g",
+          "title": "$636 to $14,000 in just a few months!",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-10-02T13:00:18+00:00",
+            "updated": "2026-10-02T13:00:18+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "BEMCOSvnTN8",
+          "url": "https://www.youtube.com/watch?v=BEMCOSvnTN8",
+          "title": "You’re Not Lazy, You’re Actually Just Doing Etsy Wrong",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-10-01T13:00:08+00:00",
+            "updated": "2026-10-04T23:44:02+00:00"
+          },
+          "last_processed": {
+            "source_id": "DYL-V002",
+            "checked_at": "2026-10-07",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "DYL-V002",
+          "decision": "retained_prior_method_not_reread",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": true,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "dLbixCrhDE8",
+          "url": "https://www.youtube.com/shorts/dLbixCrhDE8",
+          "title": "The HARDEST Product To Sell on Etsy",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-09-30T21:00:08+00:00",
+            "updated": "2026-10-04T23:41:23+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "sAci8ZAZtc4",
+          "url": "https://www.youtube.com/shorts/sAci8ZAZtc4",
+          "title": "STOP Getting Product Ideas on Etsy",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-09-30T13:15:31+00:00",
+            "updated": "2026-10-04T23:42:15+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "iZ-qnW-f-1E",
+          "url": "https://www.youtube.com/shorts/iZ-qnW-f-1E",
+          "title": "99% of Etsy Sellers Fail",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-09-29T21:00:20+00:00",
+            "updated": "2026-10-03T02:57:37+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "WHqtTvp_5Uo",
+          "url": "https://www.youtube.com/shorts/WHqtTvp_5Uo",
+          "title": "Your Etsy Prices Are Too LOW",
+          "checked_at": "2026-10-07T17:12:50.711Z",
+          "latest_observed": {
+            "published": "2026-09-29T13:00:07+00:00",
+            "updated": "2026-10-03T02:56:06+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        }
+      ]
+    },
+    {
+      "coach": "Jesse Teaches",
+      "channel_id": "UCFbwFMBENf67WenJSWtEJTg",
+      "channel_url": "https://www.youtube.com/channel/UCFbwFMBENf67WenJSWtEJTg",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbwFMBENf67WenJSWtEJTg",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "sFFADWlPaDQ",
+        "url": "https://www.youtube.com/watch?v=sFFADWlPaDQ",
+        "title": "We Just Cracked the Etsy Ornament Market",
+        "published": "2026-09-21T21:18:02+00:00",
+        "updated": "2026-09-26T19:16:43+00:00"
+      },
+      "last_processed": {
+        "video_id": "sFFADWlPaDQ",
+        "url": "https://www.youtube.com/watch?v=sFFADWlPaDQ",
+        "published": "2026-09-21T21:18:02+00:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "source_id": "F8-JES-01"
+      },
+      "last_processed_definition": "Most recently published source with complete extracted text reviewed, including retained baseline; exact prior processing clock time is unavailable.",
+      "last_processed_before_this_refresh": {
+        "source_id": "JES-V002",
+        "video_id": "EO0_ZciFy28",
+        "url": "https://www.youtube.com/watch?v=EO0_ZciFy28",
+        "date_published": "2026-08-13T07:00:39-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+      ],
+      "scope": {
+        "returned_items": 15,
+        "oldest_returned_published": "2025-08-20T14:20:21+00:00",
+        "newest_returned_published": "2026-09-21T21:18:02+00:00",
+        "full_channel_coverage": false,
+        "complete_since_prior_audit": false,
+        "latest_complete_channel_watermark": null,
+        "feed_includes_mixed_formats": true
+      },
+      "new_after_prior_date_ids": [],
+      "new_after_prior_date_not_previously_processed_ids": [],
+      "older_or_same_date_not_previously_processed_ids": [
+        "sFFADWlPaDQ",
+        "h7j7UQMo0lQ",
+        "2EBYSFvHcuw",
+        "Gj8myzWNcKM",
+        "csQ9niHKtc8",
+        "zkUDuRcMCTE",
+        "--ujBWF230A",
+        "h8tes2E7VSg",
+        "8tWwaQCm0uU",
+        "pxdmvVNnSFg",
+        "U3BRTlPuD8s",
+        "nlbfvRYm8uQ",
+        "Pc8a2YQcVNY"
+      ],
+      "newly_processed_source_ids": [
+        "F8-JES-01",
+        "F8-JES-02"
+      ],
+      "inventory": [
+        {
+          "video_id": "sFFADWlPaDQ",
+          "url": "https://www.youtube.com/watch?v=sFFADWlPaDQ",
+          "title": "We Just Cracked the Etsy Ornament Market",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-21T21:18:02+00:00",
+            "updated": "2026-09-26T19:16:43+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-JES-01",
+          "decision": "adapt_legibility_to_real_canvas_reject_product_expansion",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "h7j7UQMo0lQ",
+          "url": "https://www.youtube.com/watch?v=h7j7UQMo0lQ",
+          "title": "The Etsy Ornament Market Just Changed Forever",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-08T14:30:11+00:00",
+            "updated": "2026-09-26T02:19:32+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-JES-02",
+          "decision": "close_prior_description_only_gap_with_supplier_promotion_boundary",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "EO0_ZciFy28",
+          "url": "https://www.youtube.com/watch?v=EO0_ZciFy28",
+          "title": "The Etsy Ornament Secret That Made Me $500,000+",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-08-13T14:00:39+00:00",
+            "updated": "2026-10-04T10:23:13+00:00"
+          },
+          "last_processed": {
+            "source_id": "JES-V002",
+            "checked_at": "2026-10-07",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "JES-V002",
+          "decision": "retained_prior_method_not_reread",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": true,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "2EBYSFvHcuw",
+          "url": "https://www.youtube.com/watch?v=2EBYSFvHcuw",
+          "title": "How to Design a Best-Selling Etsy Ornament (Step-by-Step)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-08-06T14:00:32+00:00",
+            "updated": "2026-10-01T06:09:38+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "4xP4Wo9aAKE",
+          "url": "https://www.youtube.com/watch?v=4xP4Wo9aAKE",
+          "title": "I Sold 50,000 Ornaments on Etsy — Here's What I'd Do in 2026",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-07-31T14:00:29+00:00",
+            "updated": "2026-10-01T04:22:08+00:00"
+          },
+          "last_processed": {
+            "source_id": "JES-V001",
+            "checked_at": "2026-10-05",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "JES-V001",
+          "decision": "retained_prior_method_not_reread",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": true,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "Gj8myzWNcKM",
+          "url": "https://www.youtube.com/watch?v=Gj8myzWNcKM",
+          "title": "Watch a $1.7M Etsy Seller Design From Scratch",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-07-23T20:09:54+00:00",
+            "updated": "2026-10-02T03:40:57+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "csQ9niHKtc8",
+          "url": "https://www.youtube.com/watch?v=csQ9niHKtc8",
+          "title": "How This Etsy Shop Hit 450,000 Sales",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-07-16T16:00:39+00:00",
+            "updated": "2026-10-04T18:58:59+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "zkUDuRcMCTE",
+          "url": "https://www.youtube.com/watch?v=zkUDuRcMCTE",
+          "title": "The Etsy Product With Incredible Profit Margins",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-07-07T17:00:35+00:00",
+            "updated": "2026-10-05T01:03:06+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "--ujBWF230A",
+          "url": "https://www.youtube.com/watch?v=--ujBWF230A",
+          "title": "$2.6M Etsy Print on Demand… Why Most Sellers Never Get There",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-02-26T19:51:03+00:00",
+            "updated": "2026-10-02T04:33:13+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "h8tes2E7VSg",
+          "url": "https://www.youtube.com/watch?v=h8tes2E7VSg",
+          "title": "Work From Home Mom Makes $1.5M with Etsy POD (2026 Strategy)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-02-10T21:36:24+00:00",
+            "updated": "2026-10-04T08:21:56+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "8tWwaQCm0uU",
+          "url": "https://www.youtube.com/watch?v=8tWwaQCm0uU",
+          "title": "47,000 Ornaments Sold | Etsy SEO Titles & Tags",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2025-09-29T18:02:49+00:00",
+            "updated": "2026-10-01T14:48:54+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "pxdmvVNnSFg",
+          "url": "https://www.youtube.com/watch?v=pxdmvVNnSFg",
+          "title": "Etsy Ornament Design Masterclass | How We Sold 80,000 Ornaments",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2025-09-27T17:05:18+00:00",
+            "updated": "2026-10-05T03:02:45+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "U3BRTlPuD8s",
+          "url": "https://www.youtube.com/watch?v=U3BRTlPuD8s",
+          "title": "Etsy Ornament Masterclass | Photo Templates That SELL (Part 2)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2025-09-25T16:37:29+00:00",
+            "updated": "2026-10-03T14:53:43+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "nlbfvRYm8uQ",
+          "url": "https://www.youtube.com/watch?v=nlbfvRYm8uQ",
+          "title": "Etsy Ornament Masterclass | How We Sold 80,000 Ornaments (Part 1)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2025-09-23T21:40:46+00:00",
+            "updated": "2026-10-04T18:00:05+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "Pc8a2YQcVNY",
+          "url": "https://www.youtube.com/watch?v=Pc8a2YQcVNY",
+          "title": "Etsy Ornament Goldmines 2025! (Top Niches)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2025-08-20T14:20:21+00:00",
+            "updated": "2026-10-03T21:39:09+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        }
+      ]
+    },
+    {
+      "coach": "Joe Robert",
+      "channel_id": "UCNh9lB7D5JMiDQTJKYZ556Q",
+      "channel_url": "https://www.youtube.com/channel/UCNh9lB7D5JMiDQTJKYZ556Q",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNh9lB7D5JMiDQTJKYZ556Q",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "gadBItpHP3o",
+        "url": "https://www.youtube.com/shorts/gadBItpHP3o",
+        "title": "Watch This Before You Use Gelato (Print On Demand For Beginners)",
+        "published": "2026-10-01T19:15:35+00:00",
+        "updated": "2026-10-04T23:32:34+00:00"
+      },
+      "last_processed": {
+        "video_id": "gadBItpHP3o",
+        "url": "https://www.youtube.com/shorts/gadBItpHP3o",
+        "published": "2026-10-01T19:15:35+00:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "source_id": "F8-JOE-01"
+      },
+      "last_processed_definition": "Most recently published source with complete extracted text reviewed, including retained baseline; exact prior processing clock time is unavailable.",
+      "last_processed_before_this_refresh": {
+        "source_id": "JOE-V003",
+        "video_id": "XmwpXNDDH78",
+        "url": "https://www.youtube.com/watch?v=XmwpXNDDH78",
+        "date_published": "2026-09-30T04:12:35-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+      ],
+      "scope": {
+        "returned_items": 15,
+        "oldest_returned_published": "2026-07-31T09:42:43+00:00",
+        "newest_returned_published": "2026-10-01T19:15:35+00:00",
+        "full_channel_coverage": false,
+        "complete_since_prior_audit": false,
+        "latest_complete_channel_watermark": null,
+        "feed_includes_mixed_formats": true
+      },
+      "new_after_prior_date_ids": [],
+      "new_after_prior_date_not_previously_processed_ids": [],
+      "older_or_same_date_not_previously_processed_ids": [
+        "gadBItpHP3o",
+        "kctv9W8ziaw",
+        "ZKFUyI-v_9M",
+        "Z5UsYkm-Mr4",
+        "INVDpI_1J90",
+        "fW1qN6WL7Bw",
+        "_CG_AOnFqoE",
+        "7j0JKivPF-8",
+        "SXMvhsmHlgQ",
+        "aBVxRAZ2WkQ",
+        "rs9Qrw2PbTQ",
+        "ah9kfPNfv9k",
+        "u7qJzHSxbo0"
+      ],
+      "newly_processed_source_ids": [
+        "F8-JOE-01",
+        "F8-JOE-02"
+      ],
+      "inventory": [
+        {
+          "video_id": "gadBItpHP3o",
+          "url": "https://www.youtube.com/shorts/gadBItpHP3o",
+          "title": "Watch This Before You Use Gelato (Print On Demand For Beginners)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-01T19:15:35+00:00",
+            "updated": "2026-10-04T23:32:34+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-JOE-01",
+          "decision": "adapt_cash_timing_and_sku_specific_cost_check",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "kctv9W8ziaw",
+          "url": "https://www.youtube.com/shorts/kctv9W8ziaw",
+          "title": "This Little Known Gelato Tool Makes Money! (Print On Demand)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-01T10:07:53+00:00",
+            "updated": "2026-10-04T23:42:45+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-JOE-02",
+          "decision": "retain_personalization_input_output_clarity_not_tool_adoption",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "XmwpXNDDH78",
+          "url": "https://www.youtube.com/watch?v=XmwpXNDDH78",
+          "title": "What I WISH I Knew Before Using OpoShop For My Print On Demand Store",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-30T11:12:35+00:00",
+            "updated": "2026-10-04T23:40:37+00:00"
+          },
+          "last_processed": {
+            "source_id": "JOE-V003",
+            "checked_at": "2026-10-07",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "JOE-V003",
+          "decision": "retained_prior_method_not_reread",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": true,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "ZKFUyI-v_9M",
+          "url": "https://www.youtube.com/watch?v=ZKFUyI-v_9M",
+          "title": "I Started a Print On Demand Store in 30 Days Using OpoShop",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-28T15:42:54+00:00",
+            "updated": "2026-10-02T16:17:45+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "Z5UsYkm-Mr4",
+          "url": "https://www.youtube.com/watch?v=Z5UsYkm-Mr4",
+          "title": "Why I Left Shopify For OpoShop (Print On Demand)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-23T12:53:25+00:00",
+            "updated": "2026-10-02T16:17:44+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "eyd4e0CoWAA",
+          "url": "https://www.youtube.com/watch?v=eyd4e0CoWAA",
+          "title": "This EASY Design Trend Is Making Beginners THOUSANDS!",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-20T12:16:19+00:00",
+            "updated": "2026-10-02T16:17:40+00:00"
+          },
+          "last_processed": {
+            "source_id": "JOE-V002",
+            "checked_at": "2026-10-07",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "JOE-V002",
+          "decision": "retained_prior_method_not_reread",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": true,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "INVDpI_1J90",
+          "url": "https://www.youtube.com/watch?v=INVDpI_1J90",
+          "title": "This Mistake CRUSHES Beginner Print On Demand Stores",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-11T11:21:02+00:00",
+            "updated": "2026-10-02T16:17:38+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "fW1qN6WL7Bw",
+          "url": "https://www.youtube.com/watch?v=fW1qN6WL7Bw",
+          "title": "What I WISH I Knew Before Using Gelato On My Print On Demand Store",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-04T17:15:50+00:00",
+            "updated": "2026-10-02T16:17:43+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "_CG_AOnFqoE",
+          "url": "https://www.youtube.com/shorts/_CG_AOnFqoE",
+          "title": "👀 $10k/Month Print On Demand Trends I'm Trying",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-08-31T18:55:00+00:00",
+            "updated": "2026-10-01T08:45:05+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "7j0JKivPF-8",
+          "url": "https://www.youtube.com/shorts/7j0JKivPF-8",
+          "title": "The Secrets Successful POD Sellers Know & Most Beginners Don't!",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-08-31T10:25:39+00:00",
+            "updated": "2026-10-04T07:36:31+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "SXMvhsmHlgQ",
+          "url": "https://www.youtube.com/watch?v=SXMvhsmHlgQ",
+          "title": "The Easy Way This Print On Demand Store Made $5 Million",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-08-27T16:51:19+00:00",
+            "updated": "2026-10-02T16:17:40+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "aBVxRAZ2WkQ",
+          "url": "https://www.youtube.com/watch?v=aBVxRAZ2WkQ",
+          "title": "I’m Trying These 5 Print On Demand Trends in 2027",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-08-19T18:54:20+00:00",
+            "updated": "2026-10-02T16:17:38+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "rs9Qrw2PbTQ",
+          "url": "https://www.youtube.com/watch?v=rs9Qrw2PbTQ",
+          "title": "5 OUTDATED Print On Demand Tips To Avoid In 2026",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-08-13T13:35:36+00:00",
+            "updated": "2026-10-02T16:17:40+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "ah9kfPNfv9k",
+          "url": "https://www.youtube.com/watch?v=ah9kfPNfv9k",
+          "title": "This Print On Demand Store Has 85,000 Customers!",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-08-07T17:55:14+00:00",
+            "updated": "2026-10-02T16:17:41+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "u7qJzHSxbo0",
+          "url": "https://www.youtube.com/shorts/u7qJzHSxbo0",
+          "title": "3 Print On Demand Products That Sell Like Crazy In The Summer! #printondemand",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-07-31T09:42:43+00:00",
+            "updated": "2026-10-04T23:51:21+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        }
+      ]
+    },
+    {
+      "coach": "Meg Heckman",
+      "channel_id": "UC0d-JbubL4XZmw4hdcGeXRw",
+      "channel_url": "https://www.youtube.com/channel/UC0d-JbubL4XZmw4hdcGeXRw",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0d-JbubL4XZmw4hdcGeXRw",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "XX1Zbbnmim4",
+        "url": "https://www.youtube.com/shorts/XX1Zbbnmim4",
+        "title": "The Sale Happens in the Half Second the Buyer Gets the Joke",
+        "published": "2026-10-07T15:30:16+00:00",
+        "updated": "2026-10-07T15:30:18+00:00"
+      },
+      "last_processed": {
+        "video_id": "XX1Zbbnmim4",
+        "url": "https://www.youtube.com/shorts/XX1Zbbnmim4",
+        "published": "2026-10-07T15:30:16+00:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "source_id": "F8-MEG-01"
+      },
+      "last_processed_definition": "Most recently published source with complete extracted text reviewed, including retained baseline; exact prior processing clock time is unavailable.",
+      "last_processed_before_this_refresh": {
+        "source_id": "MEG-V003",
+        "video_id": "6qWlxOwC4tI",
+        "url": "https://www.youtube.com/watch?v=6qWlxOwC4tI",
+        "date_published": "2026-10-06T09:00:31-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+      ],
+      "scope": {
+        "returned_items": 15,
+        "oldest_returned_published": "2026-09-25T15:30:16+00:00",
+        "newest_returned_published": "2026-10-07T15:30:16+00:00",
+        "full_channel_coverage": false,
+        "complete_since_prior_audit": false,
+        "latest_complete_channel_watermark": null,
+        "feed_includes_mixed_formats": true
+      },
+      "new_after_prior_date_ids": [
+        "XX1Zbbnmim4",
+        "6qWlxOwC4tI",
+        "A5eBYtM9BiI"
+      ],
+      "new_after_prior_date_not_previously_processed_ids": [
+        "XX1Zbbnmim4",
+        "A5eBYtM9BiI"
+      ],
+      "older_or_same_date_not_previously_processed_ids": [
+        "YHPySv0aeAI",
+        "F_9dPGLg8Bg",
+        "5I09NeUkwSs",
+        "hxheM8SGEw4",
+        "fwLG7zyauv4",
+        "YjSHQ7W2ak8",
+        "jAs2NhFLS7I",
+        "7SnAGSsbh1M",
+        "myhRpcZrg2k",
+        "cmQLVd6X-ac",
+        "N32zm6ljRGY",
+        "fn4QzrytyJ8"
+      ],
+      "newly_processed_source_ids": [
+        "F8-MEG-01",
+        "F8-MEG-02"
+      ],
+      "inventory": [
+        {
+          "video_id": "XX1Zbbnmim4",
+          "url": "https://www.youtube.com/shorts/XX1Zbbnmim4",
+          "title": "The Sale Happens in the Half Second the Buyer Gets the Joke",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-07T15:30:16+00:00",
+            "updated": "2026-10-07T15:30:18+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-MEG-01",
+          "decision": "retain_whole_design_meaning_check_no_sales_causality",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "6qWlxOwC4tI",
+          "url": "https://www.youtube.com/watch?v=6qWlxOwC4tI",
+          "title": "How to Actually Get Your First 100 Sales (Full Playbook)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-06T16:00:31+00:00",
+            "updated": "2026-10-07T09:23:50+00:00"
+          },
+          "last_processed": {
+            "source_id": "MEG-V003",
+            "checked_at": "2026-10-07",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "MEG-V003",
+          "decision": "retained_prior_method_not_reread",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": true,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "A5eBYtM9BiI",
+          "url": "https://www.youtube.com/shorts/A5eBYtM9BiI",
+          "title": "Other Brands Are Showing You Their Best Sellers for Free",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-06T15:30:28+00:00",
+            "updated": "2026-10-07T01:10:07+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "YHPySv0aeAI",
+          "url": "https://www.youtube.com/shorts/YHPySv0aeAI",
+          "title": "My Best Selling Designs Are Not My Best Looking Designs",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-05T15:30:36+00:00",
+            "updated": "2026-10-05T23:48:46+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "F_9dPGLg8Bg",
+          "url": "https://www.youtube.com/shorts/F_9dPGLg8Bg",
+          "title": "Answer These Three Questions Before You Pick A Niche",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-04T15:30:22+00:00",
+            "updated": "2026-10-04T15:30:25+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "5I09NeUkwSs",
+          "url": "https://www.youtube.com/shorts/5I09NeUkwSs",
+          "title": "A Trend Is Just A Topic With A Deadline",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-03T15:30:06+00:00",
+            "updated": "2026-10-03T15:30:09+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "hxheM8SGEw4",
+          "url": "https://www.youtube.com/shorts/hxheM8SGEw4",
+          "title": "This Is How A Niche Becomes Disgustingly Profitable",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-02T15:30:05+00:00",
+            "updated": "2026-10-02T15:30:09+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "fwLG7zyauv4",
+          "url": "https://www.youtube.com/shorts/fwLG7zyauv4",
+          "title": "The Real Reason Profitable Stores Quietly Fail",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-01T15:30:09+00:00",
+            "updated": "2026-10-04T23:42:04+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "YjSHQ7W2ak8",
+          "url": "https://www.youtube.com/shorts/YjSHQ7W2ak8",
+          "title": "The Simple Test That Tells You If You Have A Real Niche",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-30T15:30:23+00:00",
+            "updated": "2026-10-04T23:40:45+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "jAs2NhFLS7I",
+          "url": "https://www.youtube.com/watch?v=jAs2NhFLS7I",
+          "title": "Reviewing Every Print On Demand Supplier (Use This One)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-29T18:32:54+00:00",
+            "updated": "2026-10-03T03:03:03+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-MEG-02",
+          "decision": "adapt_comparison_dimensions_not_provider_ranking",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "7SnAGSsbh1M",
+          "url": "https://www.youtube.com/shorts/7SnAGSsbh1M",
+          "title": "If Designing Feels Like Homework, You're In The Wrong Niche",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-29T15:30:02+00:00",
+            "updated": "2026-10-03T02:59:05+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "myhRpcZrg2k",
+          "url": "https://www.youtube.com/shorts/myhRpcZrg2k",
+          "title": "Chasing Trends Killed My First Print On Demand Store",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-28T15:30:04+00:00",
+            "updated": "2026-10-02T08:23:06+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "cmQLVd6X-ac",
+          "url": "https://www.youtube.com/shorts/cmQLVd6X-ac",
+          "title": "How Big Does Your Niche Actually Need To Be To Make Money?",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-27T15:30:21+00:00",
+            "updated": "2026-10-01T01:05:34+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "N32zm6ljRGY",
+          "url": "https://www.youtube.com/shorts/N32zm6ljRGY",
+          "title": "Write These Three Numbers Down Before You Start Your Business",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-26T15:30:16+00:00",
+            "updated": "2026-10-03T02:10:58+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "fn4QzrytyJ8",
+          "url": "https://www.youtube.com/shorts/fn4QzrytyJ8",
+          "title": "The Real Reason We Spend $200 a Month on Ad Testing on the First Month",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-25T15:30:16+00:00",
+            "updated": "2026-09-30T19:56:18+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        }
+      ]
+    },
+    {
+      "coach": "RJ Martinez",
+      "channel_id": "UCgUAPPjwz--1MRiEojS1QPw",
+      "channel_url": "https://www.youtube.com/channel/UCgUAPPjwz--1MRiEojS1QPw",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgUAPPjwz--1MRiEojS1QPw",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "jqaT01aCAGc",
+        "url": "https://www.youtube.com/shorts/jqaT01aCAGc",
+        "title": "\"Grandma's a Small. Uncle Mike's a 4XL.\" (25-Shirt Etsy Orders)",
+        "published": "2026-10-07T16:41:34+00:00",
+        "updated": "2026-10-07T16:42:48+00:00"
+      },
+      "last_processed": {
+        "video_id": "jze90AO_EiM",
+        "url": "https://www.youtube.com/watch?v=jze90AO_EiM",
+        "published": "2026-10-07T13:15:11+00:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "source_id": "F8-RJ-01"
+      },
+      "last_processed_definition": "Most recently published source with complete extracted text reviewed, including retained baseline; exact prior processing clock time is unavailable.",
+      "last_processed_before_this_refresh": {
+        "source_id": "RJ-01",
+        "video_id": "xZnKixhiv04",
+        "url": "https://www.youtube.com/watch?v=xZnKixhiv04",
+        "date_published": "2026-10-06T05:15:12-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles."
+      ],
+      "scope": {
+        "returned_items": 15,
+        "oldest_returned_published": "2026-09-26T04:56:22+00:00",
+        "newest_returned_published": "2026-10-07T16:41:34+00:00",
+        "full_channel_coverage": false,
+        "complete_since_prior_audit": false,
+        "latest_complete_channel_watermark": null,
+        "feed_includes_mixed_formats": true
+      },
+      "new_after_prior_date_ids": [
+        "jqaT01aCAGc",
+        "jze90AO_EiM",
+        "1F6mQ_q2w3o",
+        "xZnKixhiv04"
+      ],
+      "new_after_prior_date_not_previously_processed_ids": [
+        "jqaT01aCAGc",
+        "jze90AO_EiM",
+        "1F6mQ_q2w3o"
+      ],
+      "older_or_same_date_not_previously_processed_ids": [
+        "9RQRrVB7efM",
+        "7_Sv87oQjQo",
+        "284LMlMmmHs",
+        "m_dRkPcfqYQ",
+        "wpXa3uJW0Cg",
+        "UP_QgK47_Xw",
+        "AeMhyF4P0zo",
+        "XONNLKx2Tu4",
+        "yDb-gifp7GY",
+        "clZDhbt_mHo",
+        "wwkrr0xVprg"
+      ],
+      "newly_processed_source_ids": [
+        "F8-RJ-01",
+        "F8-RJ-02"
+      ],
+      "inventory": [
+        {
+          "video_id": "jqaT01aCAGc",
+          "url": "https://www.youtube.com/shorts/jqaT01aCAGc",
+          "title": "\"Grandma's a Small. Uncle Mike's a 4XL.\" (25-Shirt Etsy Orders)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-07T16:41:34+00:00",
+            "updated": "2026-10-07T16:42:48+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_description_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "declined_apparel_group_order_transfer",
+          "decision_note_zh": "Gelato付費合作的多人衣服尺寸示例，已核讀其連結母片；不轉成journal規格。",
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "jze90AO_EiM",
+          "url": "https://www.youtube.com/watch?v=jze90AO_EiM",
+          "title": "The Best Etsy Clothing Shops Aren't Out-Designing You. They're Using Better Blanks.",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-07T13:15:11+00:00",
+            "updated": "2026-10-07T13:22:57+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-RJ-01",
+          "decision": "retain_verifiable_material_claims_reject_apparel_transfer",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "1F6mQ_q2w3o",
+          "url": "https://www.youtube.com/shorts/1F6mQ_q2w3o",
+          "title": "$12 AI Slop vs $75 Artist: Which Etsy Pet Portrait Wins?",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-06T20:20:56+00:00",
+            "updated": "2026-10-07T10:54:44+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_description_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "duplicate_prior_longform_guardrails",
+          "decision_note_zh": "連結已讀RJ-01，重複AI pet portrait及第一行披露主張；沿用官方校正。",
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "xZnKixhiv04",
+          "url": "https://www.youtube.com/watch?v=xZnKixhiv04",
+          "title": "Sellers Are Quitting Etsy Over AI Slop. That's the Biggest Opening in 8 Years.",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-06T12:15:12+00:00",
+            "updated": "2026-10-07T07:22:38+00:00"
+          },
+          "last_processed": {
+            "source_id": "RJ-01",
+            "checked_at": "2026-10-07",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "RJ-01",
+          "decision": "retained_prior_method_not_reread",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": true,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "9RQRrVB7efM",
+          "url": "https://www.youtube.com/shorts/9RQRrVB7efM",
+          "title": "It's Not a Funny Shirt Shop. It's a Gift Shop Wearing a Funny Shirt Costume.",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-05T16:33:04+00:00",
+            "updated": "2026-10-06T16:26:42+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_description_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "declined_paid_ad_recipe_and_unverified_causality",
+          "decision_note_zh": "Superscale贊助；Meta廣告存在時間不能證明盈利，不移植折扣或付費廣告。",
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "7_Sv87oQjQo",
+          "url": "https://www.youtube.com/watch?v=7_Sv87oQjQo",
+          "title": "I Rebuilt a $9M Etsy Shop's Ads With AI in 20 Minutes",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-05T13:15:28+00:00",
+            "updated": "2026-10-05T13:19:57+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_description_excerpt_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "deferred_paid_ad_demonstration",
+          "decision_note_zh": "已讀描述前段及收益估算／廣告年齡主張，未讀完整教學；與零廣告範圍不符。",
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "284LMlMmmHs",
+          "url": "https://www.youtube.com/watch?v=284LMlMmmHs",
+          "title": "I Gave Meta's New AI Agent (Muse) 5 Real Jobs. It Failed One and Swore It Didn't.",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-03T15:45:35+00:00",
+            "updated": "2026-10-04T18:31:50+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "m_dRkPcfqYQ",
+          "url": "https://www.youtube.com/watch?v=m_dRkPcfqYQ",
+          "title": "ChatGPT Won't Pick Your Shop - Here's How to Fix It",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-02T13:15:03+00:00",
+            "updated": "2026-10-03T15:05:16+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-RJ-02",
+          "decision": "reject_ai_ranking_causality_retain_human_qa_hypotheses",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "wpXa3uJW0Cg",
+          "url": "https://www.youtube.com/watch?v=wpXa3uJW0Cg",
+          "title": "5 Low Competition Print on Demand Niches This Week (One Has a Halloween Deadline)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-01T13:15:10+00:00",
+            "updated": "2026-10-04T23:42:54+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "UP_QgK47_Xw",
+          "url": "https://www.youtube.com/shorts/UP_QgK47_Xw",
+          "title": "This Shirt Says \"There's a Skelly in My Belly\" (5 Niches to Upload Before Halloween)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-30T19:42:10+00:00",
+            "updated": "2026-10-04T23:39:22+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "AeMhyF4P0zo",
+          "url": "https://www.youtube.com/watch?v=AeMhyF4P0zo",
+          "title": "I Built an Etsy Proof Store in 30 Minutes With AI (One Design, Two Stores)",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-30T15:45:38+00:00",
+            "updated": "2026-10-03T16:15:43+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "XONNLKx2Tu4",
+          "url": "https://www.youtube.com/watch?v=XONNLKx2Tu4",
+          "title": "This Etsy Shop Is 4 Months Old and Made $57K Last Month With One Template",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-29T03:45:06+00:00",
+            "updated": "2026-10-06T19:58:42+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "yDb-gifp7GY",
+          "url": "https://www.youtube.com/shorts/yDb-gifp7GY",
+          "title": "Someone Buys Your $4 File. Etsy Sells Them a $40 Print. You Get $0?",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-28T17:44:23+00:00",
+            "updated": "2026-10-02T08:21:57+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "clZDhbt_mHo",
+          "url": "https://www.youtube.com/watch?v=clZDhbt_mHo",
+          "title": "Etsy Just Put Every Digital Seller in a Test They Didn't Sign Up For",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-26T23:45:01+00:00",
+            "updated": "2026-10-06T17:00:19+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "wwkrr0xVprg",
+          "url": "https://www.youtube.com/shorts/wwkrr0xVprg",
+          "title": "Stop Building the Same Listing Four Times for Four Different Stores",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-26T04:56:22+00:00",
+            "updated": "2026-09-30T19:03:37+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        }
+      ]
+    },
+    {
+      "coach": "Starla Moore",
+      "channel_id": "UCcPXCoEtPJxesAXp-evqzqg",
+      "channel_url": "https://www.youtube.com/channel/UCcPXCoEtPJxesAXp-evqzqg",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcPXCoEtPJxesAXp-evqzqg",
+      "checked_at": "2026-10-07T17:12:50.712Z",
+      "latest_observed": {
+        "video_id": "wqF9ky8p_XQ",
+        "url": "https://www.youtube.com/watch?v=wqF9ky8p_XQ",
+        "title": "5 Etsy Growth Tips that NO ONE talks about",
+        "published": "2026-10-06T16:15:22+00:00",
+        "updated": "2026-10-06T21:28:45+00:00"
+      },
+      "last_processed": {
+        "video_id": "wqF9ky8p_XQ",
+        "url": "https://www.youtube.com/watch?v=wqF9ky8p_XQ",
+        "published": "2026-10-06T09:15:22-07:00",
+        "read_state": "full_extracted_transcript_reviewed",
+        "checked_at": "2026-10-07",
+        "source_id": "STA-V002"
+      },
+      "last_processed_definition": "Most recently published source with complete extracted text reviewed, including retained baseline; exact prior processing clock time is unavailable.",
+      "last_processed_before_this_refresh": {
+        "source_id": "STA-V002",
+        "video_id": "wqF9ky8p_XQ",
+        "url": "https://www.youtube.com/watch?v=wqF9ky8p_XQ",
+        "date_published": "2026-10-06T09:15:22-07:00",
+        "retrieved_date": "2026-10-07",
+        "review": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "official_feed_xml_parsed_and_selected_watch_text_reviewed",
+      "gaps": [
+        "Only the 15 entries returned by the official public Atom feed are inventoried; not a complete channel, Shorts, live, deleted, private, members-only or community-post history.",
+        "Latest observed is a public feed watermark, not proof that no newer or omitted publication exists.",
+        "Older/newer unprocessed entries remain explicit in inventory; no teaching inferred from titles.",
+        "3LRjRtcHCpE extracted text ends mid-sentence; partial review only."
+      ],
+      "scope": {
+        "returned_items": 15,
+        "oldest_returned_published": "2026-09-18T16:00:07+00:00",
+        "newest_returned_published": "2026-10-06T16:15:22+00:00",
+        "full_channel_coverage": false,
+        "complete_since_prior_audit": false,
+        "latest_complete_channel_watermark": null,
+        "feed_includes_mixed_formats": true
+      },
+      "new_after_prior_date_ids": [
+        "wqF9ky8p_XQ"
+      ],
+      "new_after_prior_date_not_previously_processed_ids": [],
+      "older_or_same_date_not_previously_processed_ids": [
+        "c_ifx0jXnWw",
+        "tn6RpyniNU4",
+        "gtSCtaihLkw",
+        "3LRjRtcHCpE",
+        "XBHmGlF7f-k",
+        "nGc-SWLJOBo",
+        "UeBW1OLWyVs",
+        "NoKQV5YdWbU",
+        "-DsTdkfGP4k",
+        "N_SKQQNKTpI",
+        "U2tawrlAndI",
+        "mEcnweiPhzw",
+        "3h5Xyzf0IaA"
+      ],
+      "newly_processed_source_ids": [
+        "F8-STA-01",
+        "F8-STA-02",
+        "F8-STA-03"
+      ],
+      "inventory": [
+        {
+          "video_id": "wqF9ky8p_XQ",
+          "url": "https://www.youtube.com/watch?v=wqF9ky8p_XQ",
+          "title": "5 Etsy Growth Tips that NO ONE talks about",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-06T16:15:22+00:00",
+            "updated": "2026-10-06T21:28:45+00:00"
+          },
+          "last_processed": {
+            "source_id": "STA-V002",
+            "checked_at": "2026-10-07",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "STA-V002",
+          "decision": "retained_prior_method_not_reread",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": true,
+          "new_after_2026_10_05_calendar_date": true
+        },
+        {
+          "video_id": "c_ifx0jXnWw",
+          "url": "https://www.youtube.com/shorts/c_ifx0jXnWw",
+          "title": "Etsy Holiday Shipping Tips to Avoid BIG Issues  #etsy #handmadealphas",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-05T17:15:05+00:00",
+            "updated": "2026-10-07T01:41:52+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-STA-01",
+          "decision": "adapt_buyer_information_visibility_reject_generic_deadline_rule",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "tn6RpyniNU4",
+          "url": "https://www.youtube.com/shorts/tn6RpyniNU4",
+          "title": "Late Holiday Orders: How to Handle it on Etsy!  #etsy #handmadealphas",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-04T17:00:01+00:00",
+            "updated": "2026-10-04T17:00:04+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "gtSCtaihLkw",
+          "url": "https://www.youtube.com/shorts/gtSCtaihLkw",
+          "title": "Why Etsy Will Actually Delete That Review #etsyseller #etsytips #handmade",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-03T16:00:11+00:00",
+            "updated": "2026-10-03T16:00:17+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "FtmLQgfl0H0",
+          "url": "https://www.youtube.com/watch?v=FtmLQgfl0H0",
+          "title": "2026 Etsy Holiday Décor Trends to List NOW - The Friday Bean Coffee Meet",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-03T06:21:21+00:00",
+            "updated": "2026-10-03T11:13:57+00:00"
+          },
+          "last_processed": {
+            "source_id": "STA-V001",
+            "checked_at": "2026-10-05",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "STA-V001",
+          "decision": "retained_prior_method_not_reread",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": true,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "3LRjRtcHCpE",
+          "url": "https://www.youtube.com/shorts/3LRjRtcHCpE",
+          "title": "Etsy tags: Why less is sometimes more #etsytips #smallbusiness",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-10-01T16:45:18+00:00",
+            "updated": "2026-10-04T23:35:45+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:15:34.606Z",
+            "read_state": "partial_extracted_transcript_reviewed"
+          },
+          "read_state": "partial_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-STA-02",
+          "decision": "reject_nonsense_tag_recipe_partial_excerpt_only",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "XBHmGlF7f-k",
+          "url": "https://www.youtube.com/shorts/XBHmGlF7f-k",
+          "title": "Etsy Tags: Mix & Match Keywords for Max Exposure!",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-30T17:16:09+00:00",
+            "updated": "2026-10-04T23:40:09+00:00"
+          },
+          "last_processed": {
+            "checked_at": "2026-10-07T17:21:37.652Z",
+            "read_state": "full_extracted_transcript_reviewed"
+          },
+          "read_state": "full_extracted_transcript_reviewed",
+          "gaps": [],
+          "source_id": "F8-STA-03",
+          "decision": "conditional_phrase_decomposition_under_official_keyword_rules",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "nGc-SWLJOBo",
+          "url": "https://www.youtube.com/watch?v=nGc-SWLJOBo",
+          "title": "Shared Access On Etsy: What You Need To Know",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-29T16:15:29+00:00",
+            "updated": "2026-10-03T03:03:59+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "UeBW1OLWyVs",
+          "url": "https://www.youtube.com/watch?v=UeBW1OLWyVs",
+          "title": "Etsy Just Announced MAJOR Autumn Updates - The Friday Bean Coffee Meet",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-25T18:34:33+00:00",
+            "updated": "2026-10-01T21:41:00+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "NoKQV5YdWbU",
+          "url": "https://www.youtube.com/shorts/NoKQV5YdWbU",
+          "title": "Etsy Customizations: Small Adds, Big Revenue! #etsy",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-23T16:15:29+00:00",
+            "updated": "2026-09-28T00:03:30+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "-DsTdkfGP4k",
+          "url": "https://www.youtube.com/watch?v=-DsTdkfGP4k",
+          "title": "All Etsy Fees EXPLAINED for 2026",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-22T16:15:24+00:00",
+            "updated": "2026-10-03T13:23:15+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "N_SKQQNKTpI",
+          "url": "https://www.youtube.com/shorts/N_SKQQNKTpI",
+          "title": "Etsy Gift Basket Rules: Boost Value, Stay Compliant #etsy",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-21T17:15:36+00:00",
+            "updated": "2026-09-25T21:48:33+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "U2tawrlAndI",
+          "url": "https://www.youtube.com/shorts/U2tawrlAndI",
+          "title": "Etsy Product Upgrades: My #1 Revenue Booster! #etsy",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-20T17:00:21+00:00",
+            "updated": "2026-09-26T03:54:58+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "mEcnweiPhzw",
+          "url": "https://www.youtube.com/shorts/mEcnweiPhzw",
+          "title": "Etsy Shop Setup Costs: What You Need to Know! #etsy",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-19T16:45:02+00:00",
+            "updated": "2026-10-03T22:30:28+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        },
+        {
+          "video_id": "3h5Xyzf0IaA",
+          "url": "https://www.youtube.com/watch?v=3h5Xyzf0IaA",
+          "title": "Reviewing the Shops of Handmade Alpha Academy Students - The Friday Bean Coffee Meet",
+          "checked_at": "2026-10-07T17:12:50.712Z",
+          "latest_observed": {
+            "published": "2026-09-18T16:00:07+00:00",
+            "updated": "2026-09-27T01:24:15+00:00"
+          },
+          "last_processed": null,
+          "read_state": "official_feed_metadata_captured_teaching_not_reviewed",
+          "gaps": [
+            "Full teaching not reviewed in this refresh."
+          ],
+          "source_id": null,
+          "decision": "unprocessed_candidate_no_teaching_adopted",
+          "decision_note_zh": null,
+          "present_in_prior_processed_source_ledger": false,
+          "new_after_2026_10_05_calendar_date": false
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "coach": "Dylan Jahraus",
+      "video_id": "6ypnzgyyf3o",
+      "url": "https://www.youtube.com/shorts/6ypnzgyyf3o",
+      "title": "Why Your Products Suck",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-10-06T21:00:37+00:00",
+        "updated": "2026-10-06T21:00:42+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-10-06T14:00:37-07:00",
+        "upload_date": "2026-10-06T14:00:37-07:00",
+        "duration": "PT0M25S",
+        "source_url": "https://www.youtube.com/watch?v=6ypnzgyyf3o",
+        "status_code": 200,
+        "uploader_names": [
+          "Why Your Products Suck",
+          "Dylan Jahraus"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 95,
+      "transcript_sha256": "cbedc846516d8f0fc3072ad59638f76c048a684a87ba18f49f17e806672d19f5",
+      "claim_locations": [
+        {
+          "character_start": 243,
+          "character_end": 271,
+          "exact_anchor": "A product does not guarantee",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 413,
+          "character_end": 443,
+          "exact_anchor": "throwing\nspaghetti at the wall",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": true,
+      "recency_class": "published_after_2026_10_05",
+      "source_id": "F8-DYL-01",
+      "decision": "retain_existing_customer_problem_lens_no_new_operational_rule",
+      "method_zh": "漂亮或符合賣家喜好，不等於已有願意付費的客群。先核對買家實際任務及產品能回答的問題。",
+      "application_zh": "以一款現有journal的送禮者、收禮人、場合及真正用途作假設；不把美觀評語當需求證據。",
+      "reject_zh": [
+        "短片沒有證明任何本店listing無人願買，也沒有測試方法或成效資料。"
+      ]
+    },
+    {
+      "coach": "Joe Robert",
+      "video_id": "gadBItpHP3o",
+      "url": "https://www.youtube.com/shorts/gadBItpHP3o",
+      "title": "Watch This Before You Use Gelato (Print On Demand For Beginners)",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-10-01T19:15:35+00:00",
+        "updated": "2026-10-04T23:32:34+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-10-01T12:15:35-07:00",
+        "upload_date": "2026-10-01T12:15:35-07:00",
+        "duration": "PT2M1S",
+        "source_url": "https://www.youtube.com/watch?v=gadBItpHP3o",
+        "status_code": 200,
+        "uploader_names": [
+          "Watch This Before You Use Gelato (Print On Demand For Beginners)",
+          "Joe Robert"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 391,
+      "transcript_sha256": "8e6745500bb9ebdc7525b8db428d94ca32a9a926b3e8dcdc8854f05dddf8ca1b",
+      "claim_locations": [
+        {
+          "character_start": 197,
+          "character_end": 215,
+          "exact_anchor": "second transaction",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 492,
+          "character_end": 518,
+          "exact_anchor": "Each item inside of\nGelato",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 1897,
+          "character_end": 1918,
+          "exact_anchor": "few\nthings in a month",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": false,
+      "recency_class": "older_unprocessed_source",
+      "source_id": "F8-JOE-01",
+      "decision": "adapt_cash_timing_and_sku_specific_cost_check",
+      "method_zh": "顧客付款與供應商扣款是兩筆流程；逐產品核對運費及可提供的包裝、個人化選項。",
+      "application_zh": "建立真實journal每單成本、供應商付款時點與Etsy撥款時點的記錄；不因平台宣傳改供應商。",
+      "reject_zh": [
+        "幾單便抵回會費、就近生產必然快、所有訂單自動個人化均須另核當前SKU與帳戶；不是本店事實。"
+      ]
+    },
+    {
+      "coach": "Joe Robert",
+      "video_id": "kctv9W8ziaw",
+      "url": "https://www.youtube.com/shorts/kctv9W8ziaw",
+      "title": "This Little Known Gelato Tool Makes Money! (Print On Demand)",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-10-01T10:07:53+00:00",
+        "updated": "2026-10-04T23:42:45+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-10-01T03:07:53-07:00",
+        "upload_date": "2026-10-01T03:07:53-07:00",
+        "duration": "PT1M13S",
+        "source_url": "https://www.youtube.com/watch?v=kctv9W8ziaw",
+        "status_code": 200,
+        "uploader_names": [
+          "This Little Known Gelato Tool Makes Money! (Print On Demand)",
+          "Joe Robert"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 227,
+      "transcript_sha256": "d1075fc8bbdc01e88e41119a2ca2c9ea349f4cb3688f118572f621fd9edaddd5",
+      "claim_locations": [
+        {
+          "character_start": 250,
+          "character_end": 268,
+          "exact_anchor": "enter all of their",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 559,
+          "character_end": 581,
+          "exact_anchor": "personalization\nlayers",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 455,
+          "character_end": 483,
+          "exact_anchor": "any\nproduct inside of Gelato",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": false,
+      "recency_class": "older_unprocessed_source",
+      "source_id": "F8-JOE-02",
+      "decision": "retain_personalization_input_output_clarity_not_tool_adoption",
+      "method_zh": "示範文字層、相片輸入及預覽；可用來檢查買家輸入與成品之間是否清楚。",
+      "application_zh": "本SKU只展示真正可修改姓名及固定artwork；長短姓名仍需人工QA。",
+      "reject_zh": [
+        "影片說Gelato任何產品都適用及live preview，不證明Etsy原生功能、ShineOn journal相容性或本店已有接駁。"
+      ]
+    },
+    {
+      "coach": "Starla Moore",
+      "video_id": "c_ifx0jXnWw",
+      "url": "https://www.youtube.com/shorts/c_ifx0jXnWw",
+      "title": "Etsy Holiday Shipping Tips to Avoid BIG Issues  #etsy #handmadealphas",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-10-05T17:15:05+00:00",
+        "updated": "2026-10-07T01:41:52+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-10-05T10:15:05-07:00",
+        "upload_date": "2026-10-05T10:15:05-07:00",
+        "duration": "PT1M11S",
+        "source_url": "https://www.youtube.com/watch?v=c_ifx0jXnWw",
+        "status_code": 200,
+        "uploader_names": [
+          "Etsy Holiday Shipping Tips to Avoid BIG Issues  #etsy #handmadealphas",
+          "Starla Moore"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 194,
+      "transcript_sha256": "d88e463c28b78b5a916708b64b765c0371d462423ef38f3773a51cc5c89a8302",
+      "claim_locations": [
+        {
+          "character_start": 123,
+          "character_end": 149,
+          "exact_anchor": "most important information",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 969,
+          "character_end": 986,
+          "exact_anchor": "at least one week",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": false,
+      "recency_class": "same_prior_audit_date_sequence_unknown",
+      "source_id": "F8-STA-01",
+      "decision": "adapt_buyer_information_visibility_reject_generic_deadline_rule",
+      "method_zh": "把材質、尺寸及交付重要資訊放進買家容易看到的產品圖片，並使描述與政策一致。",
+      "application_zh": "有真實供應商資料才製作journal製作／運送說明；截單日要包含個人化處理、production及承運時間。",
+      "reject_zh": [
+        "片中反覆說10張圖片，不用作現行媒體上限。承運商日期永不準、統一提早一週屬作者經驗，不能作通用保證或本店截單日。"
+      ]
+    },
+    {
+      "coach": "Starla Moore",
+      "video_id": "3LRjRtcHCpE",
+      "url": "https://www.youtube.com/shorts/3LRjRtcHCpE",
+      "title": "Etsy tags: Why less is sometimes more #etsytips #smallbusiness",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-10-01T16:45:18+00:00",
+        "updated": "2026-10-04T23:35:45+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "partial_extracted_transcript_reviewed"
+      },
+      "read_state": "partial_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-10-01T09:45:18-07:00",
+        "upload_date": "2026-10-01T09:45:18-07:00",
+        "duration": "PT0M32S",
+        "source_url": "https://www.youtube.com/watch?v=3LRjRtcHCpE",
+        "status_code": 200,
+        "uploader_names": [
+          "Etsy tags: Why less is sometimes more #etsytips #smallbusiness",
+          "Starla Moore"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 86,
+      "transcript_sha256": "436572ee0512792cdc24ca9aee2cf0ef77c81b9cd8f6374d7e7dbaa840a1c735",
+      "claim_locations": [
+        {
+          "character_start": 455,
+          "character_end": 484,
+          "exact_anchor": "nonsense tag cozy couch throw",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": false,
+      "recency_class": "older_unprocessed_source",
+      "source_id": "F8-STA-02",
+      "decision": "reject_nonsense_tag_recipe_partial_excerpt_only",
+      "method_zh": "部分抽取字幕主張把不同修飾詞組成nonsense tag，以跨tag broad matching增加涵蓋。",
+      "application_zh": "只把相關字詞當待驗證詞庫；拆分與重組不繼承原查詢的搜尋量、競爭或成效。",
+      "reject_zh": [
+        "不可把任意拼字的tag當通用公式，不推斷固定搜尋權重。字幕末尾停在It，標部分抽取，不算完整核讀。"
+      ]
+    },
+    {
+      "coach": "Starla Moore",
+      "video_id": "XBHmGlF7f-k",
+      "url": "https://www.youtube.com/shorts/XBHmGlF7f-k",
+      "title": "Etsy Tags: Mix & Match Keywords for Max Exposure!",
+      "checked_at": "2026-10-07T17:21:37.652Z",
+      "latest_observed": {
+        "published": "2026-09-30T17:16:09+00:00",
+        "updated": "2026-10-04T23:40:09+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:21:37.652Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-09-30T10:16:09-07:00",
+        "upload_date": "2026-09-30T10:16:09-07:00",
+        "duration": "PT0M42S",
+        "source_url": "https://www.youtube.com/watch?v=XBHmGlF7f-k",
+        "status_code": 200,
+        "uploader_names": [
+          "Etsy Tags: Mix & Match Keywords for Max Exposure!",
+          "Starla Moore"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 104,
+      "transcript_sha256": "7c4b60a8ee862903b7dbe317bfd1b3b90a58bcb57b0b80b1557c580db963d11f",
+      "claim_locations": [
+        {
+          "character_start": 68,
+          "character_end": 83,
+          "exact_anchor": "break\nthis term",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 331,
+          "character_end": 356,
+          "exact_anchor": "strongest keyword matches",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 478,
+          "character_end": 491,
+          "exact_anchor": "broad\nmatches",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": false,
+      "recency_class": "older_unprocessed_source",
+      "source_id": "F8-STA-03",
+      "decision": "conditional_phrase_decomposition_under_official_keyword_rules",
+      "method_zh": "以beige wool及chunky knit blanket示範長詞拆分，以及詞組與跨tag組合的差別。",
+      "application_zh": "只在產品語義準確、自然可理解及Etsy字數限制內整理詞庫；新組合的指標保持未知，需獨立證據。",
+      "reject_zh": [
+        "她的exact／broad分類與strongest措辭不當作已驗證固定排序權重，也不支持上一短片的無意義拼詞。"
+      ]
+    },
+    {
+      "coach": "Christina Umerez",
+      "video_id": "E7TFOcZp0q0",
+      "url": "https://www.youtube.com/watch?v=E7TFOcZp0q0",
+      "title": "How I made 100 Sales on a BRAND NEW store (No Ads or Marketing)",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-08-25T16:00:24+00:00",
+        "updated": "2026-10-01T17:52:29+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-08-25T09:00:24-07:00",
+        "upload_date": "2026-08-25T09:00:24-07:00",
+        "duration": "PT19M58S",
+        "source_url": "https://www.youtube.com/watch?v=E7TFOcZp0q0",
+        "status_code": 200,
+        "uploader_names": [
+          "How I made 100 Sales on a BRAND NEW store (No Ads or Marketing)",
+          "C.U.Online"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 4010,
+      "transcript_sha256": "58a752a2bdc42cd76fd429759efcb5b56b7636c0247549c6d299a82f498e2c51",
+      "claim_locations": [
+        {
+          "character_start": 1813,
+          "character_end": 1834,
+          "exact_anchor": "currently August 17th",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 4967,
+          "character_end": 4982,
+          "exact_anchor": "only about five",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 5033,
+          "character_end": 5061,
+          "exact_anchor": "two of them make up about 90",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 19810,
+          "character_end": 19823,
+          "exact_anchor": "had a\nstep up",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": false,
+      "recency_class": "older_unprocessed_source",
+      "source_id": "F8-CHU-01",
+      "decision": "bounded_organic_case_with_assets_and_concentration_limits",
+      "method_zh": "自述不用廣告的新店案例；核對多個近期listing而非單個成功者，讓圖片和可選產品簡單清楚。",
+      "application_zh": "可保留不同買家問題的事實圖片及真實到手價。影片自述拍攝日8/17、6/18開店；已有Shopify設計／mockup及多年經驗，82款中約5款有售、約2款佔90次sales。",
+      "reject_zh": [
+        "數字為自述，未看畫面或審計；不視為journal預測。拒絕82款配額、AI SEO自動正確、無條件退款／保證、Etsy Plus帶來排名、固定2026演算法主張。"
+      ],
+      "recording_date_evidence": "Creator says August 17; June 18 store creation, year inferred as 2026 from upload/context, not independently verified."
+    },
+    {
+      "coach": "Christina Umerez",
+      "video_id": "1gPDuryLANw",
+      "url": "https://www.youtube.com/watch?v=1gPDuryLANw",
+      "title": "Create Bestsellers In Seconds With Printifys FREE new AI Design Tool",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-09-22T16:00:12+00:00",
+        "updated": "2026-09-27T17:41:17+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-09-22T09:00:12-07:00",
+        "upload_date": "2026-09-22T09:00:12-07:00",
+        "duration": "PT10M6S",
+        "source_url": "https://www.youtube.com/watch?v=1gPDuryLANw",
+        "status_code": 200,
+        "uploader_names": [
+          "Create Bestsellers In Seconds With Printifys FREE new AI Design Tool",
+          "C.U.Online"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 2135,
+      "transcript_sha256": "14b58aecb55c8cbed991e36a2a13fafc9801ab7051f8130b714cfc08d43f05cb",
+      "claim_locations": [
+        {
+          "character_start": 7631,
+          "character_end": 7648,
+          "exact_anchor": "66 DPI\nto 300 DPI",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 8194,
+          "character_end": 8219,
+          "exact_anchor": "make sure the sizes\nmatch",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": false,
+      "recency_class": "older_unprocessed_source",
+      "source_id": "F8-CHU-02",
+      "decision": "retain_file_variant_qa_reject_template_as_demand_proof",
+      "method_zh": "示範保存設計、分開深淺版本、校對尺寸及產品／顏色適配。",
+      "application_zh": "只把可重用原創artwork、姓名層與版本QA接回現有journal流程；工具產物仍需文字、權利及實際印刷規格檢查。",
+      "reject_zh": [
+        "Printify趨勢模板不是需求證明。50個每日credits、AI升66至300DPI就不用擔心品質等為示範當時說法，沒有當前官方功能核對；不照抄TV／fandom／流行語或供應商模板。"
+      ]
+    },
+    {
+      "coach": "Meg Heckman",
+      "video_id": "XX1Zbbnmim4",
+      "url": "https://www.youtube.com/shorts/XX1Zbbnmim4",
+      "title": "The Sale Happens in the Half Second the Buyer Gets the Joke",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-10-07T15:30:16+00:00",
+        "updated": "2026-10-07T15:30:18+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-10-07T08:30:16-07:00",
+        "upload_date": "2026-10-07T08:30:16-07:00",
+        "duration": "PT0M52S",
+        "source_url": "https://www.youtube.com/watch?v=XX1Zbbnmim4",
+        "status_code": 200,
+        "uploader_names": [
+          "The Sale Happens in the Half Second the Buyer Gets the Joke",
+          "Meg Heckman"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 195,
+      "transcript_sha256": "a023ec92d80ea215ee83082420507cb78d106838549eb0efb45dd53cd15f078a",
+      "claim_locations": [
+        {
+          "character_start": 926,
+          "character_end": 952,
+          "exact_anchor": "when it all\ncomes together",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 820,
+          "character_end": 831,
+          "exact_anchor": "half second",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": true,
+      "recency_class": "published_after_2026_10_05",
+      "source_id": "F8-MEG-01",
+      "decision": "retain_whole_design_meaning_check_no_sales_causality",
+      "method_zh": "圖像、文字與對象共同形成可理解概念，單獨好看的元素不等於完整信息。",
+      "application_zh": "在小縮圖檢查Christian送禮journal的封面、姓名及祝福是否一起易讀；不把服飾笑話搬作信仰內容。",
+      "reject_zh": [
+        "作者說半秒內理解就是bestseller，不是已驗證時間門檻或成交因果；沒有獨立觀看其示範圖像。"
+      ]
+    },
+    {
+      "coach": "Meg Heckman",
+      "video_id": "jAs2NhFLS7I",
+      "url": "https://www.youtube.com/watch?v=jAs2NhFLS7I",
+      "title": "Reviewing Every Print On Demand Supplier (Use This One)",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-09-29T18:32:54+00:00",
+        "updated": "2026-10-03T03:03:03+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-09-29T11:32:54-07:00",
+        "upload_date": "2026-09-29T11:32:54-07:00",
+        "duration": "PT22M53S",
+        "source_url": "https://www.youtube.com/watch?v=jAs2NhFLS7I",
+        "status_code": 200,
+        "uploader_names": [
+          "Reviewing Every Print On Demand Supplier (Use This One)",
+          "Meg Heckman"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 3812,
+      "transcript_sha256": "22e0e24671a144a0d9d4bebfd80a160e6b488a3642d2aecc465903f9ee91d469",
+      "claim_locations": [
+        {
+          "character_start": 1752,
+          "character_end": 1768,
+          "exact_anchor": "exact same shirt",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 1932,
+          "character_end": 1955,
+          "exact_anchor": "same customer in the US",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 9266,
+          "character_end": 9275,
+          "exact_anchor": "two parts",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 17300,
+          "character_end": 17322,
+          "exact_anchor": "used them back in 2022",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": false,
+      "recency_class": "older_unprocessed_source",
+      "source_id": "F8-MEG-02",
+      "decision": "adapt_comparison_dimensions_not_provider_ranking",
+      "method_zh": "比較同款底物、同種印刷、同一美國目的地的訂閱、生產成本、運費、時效、品質及客服；把製作與運送時間分開。",
+      "application_zh": "若日後需核供應商，逐一記錄本journal SKU的完整成本與交期，讓穩定銷量節省覆蓋会費才評估付費方案。",
+      "reject_zh": [
+        "原例是Gildan64000及Shopify；分數主觀，Gelato客服經驗明說是2022年。2026上傳不使舊體驗變成當前同條件實測；價格／政策及journal優勝者均未核實。"
+      ],
+      "historical_component": "Gelato support and shipping experience explicitly from 2022."
+    },
+    {
+      "coach": "Jesse Teaches",
+      "video_id": "sFFADWlPaDQ",
+      "url": "https://www.youtube.com/watch?v=sFFADWlPaDQ",
+      "title": "We Just Cracked the Etsy Ornament Market",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-09-21T21:18:02+00:00",
+        "updated": "2026-09-26T19:16:43+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-09-21T14:18:02-07:00",
+        "upload_date": "2026-09-21T14:18:02-07:00",
+        "duration": "PT9M5S",
+        "source_url": "https://www.youtube.com/watch?v=sFFADWlPaDQ",
+        "status_code": 200,
+        "uploader_names": [
+          "We Just Cracked the Etsy Ornament Market",
+          "Jesse Teaches"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 1770,
+      "transcript_sha256": "d7a90155a00efe4b86b80ebf8305a519e4ff994adbfc5c1d29273e216aaae9ce",
+      "claim_locations": [
+        {
+          "character_start": 1993,
+          "character_end": 2013,
+          "exact_anchor": "60/40 or 40/60 split",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 9345,
+          "character_end": 9367,
+          "exact_anchor": "names have\ngotten tiny",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": false,
+      "recency_class": "older_unprocessed_source",
+      "source_id": "F8-JES-01",
+      "decision": "adapt_legibility_to_real_canvas_reject_product_expansion",
+      "method_zh": "作者推廣自家story ornament，講述滿版及60/40或40/60的圖像／文字布局，以避免裁掉故事或把姓名縮得太小。",
+      "application_zh": "對現有journal只保留版面容量、姓名可讀與固定artwork QA；測長短姓名及真實印刷安全區。",
+      "reject_zh": [
+        "77%空間、限定供應、較高價格或勝出搜尋不移植至journal；不自動新增照片個人化、ornament、付費membership或供應商。未看畫面，不能稱已驗證比較mockup。"
+      ],
+      "completeness_note": "Returned text ends after final family/group illustration; no audio verification. No explicit mid-sentence cutoff observed."
+    },
+    {
+      "coach": "Jesse Teaches",
+      "video_id": "h7j7UQMo0lQ",
+      "url": "https://www.youtube.com/watch?v=h7j7UQMo0lQ",
+      "title": "The Etsy Ornament Market Just Changed Forever",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-09-08T14:30:11+00:00",
+        "updated": "2026-09-26T02:19:32+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-09-08T07:30:11-07:00",
+        "upload_date": "2026-09-08T07:30:11-07:00",
+        "duration": "PT6M5S",
+        "source_url": "https://www.youtube.com/watch?v=h7j7UQMo0lQ",
+        "status_code": 200,
+        "uploader_names": [
+          "The Etsy Ornament Market Just Changed Forever",
+          "Jesse Teaches"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 1143,
+      "transcript_sha256": "98cac02f23f899f87f36d6d80c0089ee6b772de684f5d62587e9cc234503cd72",
+      "claim_locations": [
+        {
+          "character_start": 1064,
+          "character_end": 1090,
+          "exact_anchor": "Ornaments are built around",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 1914,
+          "character_end": 1917,
+          "exact_anchor": "77%",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 4897,
+          "character_end": 4900,
+          "exact_anchor": "99%",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "2026-10-07 ledger had description_and_chapters_only; full extracted text newly retained here.",
+      "new_after_2026_10_05_calendar_date": false,
+      "recency_class": "older_unprocessed_source",
+      "source_id": "F8-JES-02",
+      "decision": "close_prior_description_only_gap_with_supplier_promotion_boundary",
+      "method_zh": "作者自家產品發布，解釋紀念物與人生場合的關係，以及印刷面積、姓名和完整畫面的限制。",
+      "application_zh": "先檢查journal真正能承載的文字及用途；送禮敘事必須依實物，不能加稱內頁有引導或經文。",
+      "reject_zh": [
+        "商品獨家、77%面積、premium coating、禮盒、價格／毛利和99%賣家無權取得均為作者供應商說法，不是本journal資料或已驗證業績。"
+      ],
+      "prior_state": "2026-10-07 ledger had description_and_chapters_only; full extracted text newly retained here."
+    },
+    {
+      "coach": "Courtney Nichole",
+      "video_id": "CdEMIJhaK9A",
+      "url": "https://www.youtube.com/watch?v=CdEMIJhaK9A",
+      "title": "Your Etsy Buyers Never Have to Open Canva Again - AnywhereDigital Full Walkthrough",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-10-07T14:00:34+00:00",
+        "updated": "2026-10-07T14:20:18+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-10-07T07:00:34-07:00",
+        "upload_date": "2026-10-07T07:00:34-07:00",
+        "duration": "PT19M28S",
+        "source_url": "https://www.youtube.com/watch?v=CdEMIJhaK9A",
+        "status_code": 200,
+        "uploader_names": [
+          "Your Etsy Buyers Never Have to Open Canva Again - AnywhereDigital Full Walkthrough",
+          "Courtney Nichole"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 3060,
+      "transcript_sha256": "3fd81ad7d6f34c8084ccf4f7573f147e0fb6b34c9c9075d31d6e025c1f6f1004",
+      "claim_locations": [
+        {
+          "character_start": 7455,
+          "character_end": 7471,
+          "exact_anchor": "change the fonts",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 12626,
+          "character_end": 12661,
+          "exact_anchor": "never suggest you\nrely solely on AI",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 663,
+          "character_end": 669,
+          "exact_anchor": "mockup",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 594,
+          "character_end": 607,
+          "exact_anchor": "email capture",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": true,
+      "recency_class": "published_after_2026_10_05",
+      "source_id": "F8-COU-01",
+      "decision": "adapt_import_and_preview_qa_no_digital_tool_rollout",
+      "method_zh": "AnywhereDigital數碼邀請示範；作者提醒Canva匯入文字層可能代換缺少字體，AI標題／描述／tags仍須人手核對，預覽需測試。",
+      "application_zh": "把字體可用性、姓名輸入、固定artwork、預覽和輸出對照列入現有Canva journal QA。PNG是flattened，不能因AI辨認文字便聲稱原生可編輯姓名層。",
+      "reject_zh": [
+        "數碼交付、email capture、upsell、$29創始價、大量刊登和一鍵連接均非本店授權或現行功能驗證；不自動訂閱、接駁、收email或發佈。"
+      ]
+    },
+    {
+      "coach": "Courtney Nichole",
+      "video_id": "ABLGQxrZERk",
+      "url": "https://www.youtube.com/watch?v=ABLGQxrZERk",
+      "title": "5 Etsy Trends That Outlast Halloween",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-10-02T14:00:14+00:00",
+        "updated": "2026-10-02T21:17:45+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-10-02T07:00:14-07:00",
+        "upload_date": "2026-10-02T07:00:14-07:00",
+        "duration": "PT9M40S",
+        "source_url": "https://www.youtube.com/watch?v=ABLGQxrZERk",
+        "status_code": 200,
+        "uploader_names": [
+          "5 Etsy Trends That Outlast Halloween",
+          "Courtney Nichole"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 1280,
+      "transcript_sha256": "190e3c38bbdacaa0c2e186194f2f47e5730a82cabf7d193df229c63c9ac285d4",
+      "claim_locations": [
+        {
+          "character_start": 193,
+          "character_end": 206,
+          "exact_anchor": "several weeks",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 5193,
+          "character_end": 5220,
+          "exact_anchor": "five\npersonalization fields",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 5230,
+          "character_end": 5249,
+          "exact_anchor": "only use\none or two",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 6582,
+          "character_end": 6612,
+          "exact_anchor": "Does it live past October 31st",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": false,
+      "recency_class": "older_unprocessed_source",
+      "source_id": "F8-COU-02",
+      "decision": "adapt_occasion_lifetime_and_simple_personalization",
+      "method_zh": "用商品在節日後是否仍有用途篩選，並減少無必要個人化選項；用一個假設先測。",
+      "application_zh": "全年送禮用途加適切季節敘事；真正必要的姓名欄位先說清，不任意擴增資料收集。",
+      "reject_zh": [
+        "搜尋需數星期settle、不能做Halloween、少欄位必增成交、零售商售罄等於Etsy需求、改名便賣到12月均不是已驗證定律。色盤趋势及五欄位說法另核，不重做核準artwork。"
+      ]
+    },
+    {
+      "coach": "RJ Martinez",
+      "video_id": "jze90AO_EiM",
+      "url": "https://www.youtube.com/watch?v=jze90AO_EiM",
+      "title": "The Best Etsy Clothing Shops Aren't Out-Designing You. They're Using Better Blanks.",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-10-07T13:15:11+00:00",
+        "updated": "2026-10-07T13:22:57+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-10-07T06:15:11-07:00",
+        "upload_date": "2026-10-07T06:15:11-07:00",
+        "duration": "PT7M10S",
+        "source_url": "https://www.youtube.com/watch?v=jze90AO_EiM",
+        "status_code": 200,
+        "uploader_names": [
+          "The Best Etsy Clothing Shops Aren't Out-Designing You. They're Using Better Blanks.",
+          "Print On Demand - RJ Martinez"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 1242,
+      "transcript_sha256": "a33060f20927d286333547864799ad750e57c0b5beeba9b50aff433241df8cd9",
+      "claim_locations": [
+        {
+          "character_start": 197,
+          "character_end": 220,
+          "exact_anchor": "partnership with Gelato",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 3415,
+          "character_end": 3430,
+          "exact_anchor": "rough estimates",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": true,
+      "recency_class": "published_after_2026_10_05",
+      "source_id": "F8-RJ-01",
+      "decision": "retain_verifiable_material_claims_reject_apparel_transfer",
+      "method_zh": "Gelato付費合作影片，按客群分配衣服底物；強調材料／供應鏈價值聲稱要可查證。",
+      "application_zh": "本店只保留以可驗證實物證明價值：printed leatherette、200頁間線、真正可訂姓名；不加未有證據的环保、handmade或高級材料詞。",
+      "reject_zh": [
+        "服飾GSM、群體25件訂單、尺寸及新品數量均不等於journal能力。EverBee月營收只是估算；樣品自述與付費合作不證明特定材料造成成交。"
+      ],
+      "commercial_relationship": "Explicit paid partnership with Gelato in official description and spoken transcript."
+    },
+    {
+      "coach": "RJ Martinez",
+      "video_id": "m_dRkPcfqYQ",
+      "url": "https://www.youtube.com/watch?v=m_dRkPcfqYQ",
+      "title": "ChatGPT Won't Pick Your Shop - Here's How to Fix It",
+      "checked_at": "2026-10-07T17:15:34.606Z",
+      "latest_observed": {
+        "published": "2026-10-02T13:15:03+00:00",
+        "updated": "2026-10-03T15:05:16+00:00",
+        "basis": "official Atom feed"
+      },
+      "last_processed": {
+        "checked_at": "2026-10-07T17:15:34.606Z",
+        "read_state": "full_extracted_transcript_reviewed"
+      },
+      "read_state": "full_extracted_transcript_reviewed",
+      "gaps": [
+        "Audio and video not watched; extracted text not audio-verified.",
+        "Visual demonstrations, account displays and commercial results not independently verified."
+      ],
+      "watch_metadata": {
+        "date_published": "2026-10-02T06:15:03-07:00",
+        "upload_date": "2026-10-02T06:15:03-07:00",
+        "duration": "PT5M56S",
+        "source_url": "https://www.youtube.com/watch?v=m_dRkPcfqYQ",
+        "status_code": 200,
+        "uploader_names": [
+          "ChatGPT Won't Pick Your Shop - Here's How to Fix It",
+          "Print On Demand - RJ Martinez"
+        ]
+      },
+      "audio_video_watched": false,
+      "full_channel_coverage": false,
+      "transcript_words": 1050,
+      "transcript_sha256": "014a463ad41053456c4651c1559cc12376bd78065d79905202f0f163a231bd7f",
+      "claim_locations": [
+        {
+          "character_start": 3981,
+          "character_end": 3991,
+          "exact_anchor": "Zero means",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        },
+        {
+          "character_start": 5208,
+          "character_end": 5240,
+          "exact_anchor": "I'll show you what happens after",
+          "basis": "0-based offsets in stripped extracted Transcript text; not playback timestamps"
+        }
+      ],
+      "prior_source_id": null,
+      "prior_processing_note": "not_present_as_fully_processed_source_in_retained_ledgers",
+      "new_after_2026_10_05_calendar_date": false,
+      "recency_class": "older_unprocessed_source",
+      "source_id": "F8-RJ-02",
+      "decision": "reject_ai_ranking_causality_retain_human_qa_hypotheses",
+      "method_zh": "作者用ChatGPT比對入選與未入選listing，自述仍未報告改圖後結果。可把產生的問題當人工審查提示。",
+      "application_zh": "檢查縮圖、真實材質／內頁、到手價及準確交期；每項原因仍用第一方資料核實。",
+      "reject_zh": [
+        "ChatGPT自述不信任不是其真實推薦機制或排名因果；10 prompts出現率不是信任分數。未推薦不等於弱listing，AI列的缺口也不是新需求。平台現行功能需官方核對；不新增10款批次或改價配額。"
+      ],
+      "outcome_status": "No observed post-change outcome in this video; promised for future."
+    }
+  ]
+}

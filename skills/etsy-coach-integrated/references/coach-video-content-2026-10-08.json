@@ -1,0 +1,362 @@
+{
+  "audit_id": "COACH-CONTENT-2026-10-08",
+  "release": "2026.10.08.2",
+  "review_window_utc": [
+    "2026-10-08T04:02:01Z",
+    "2026-10-08T04:14:00Z"
+  ],
+  "prior_metadata_audit": "coach-video-freshness-2026-10-08.json",
+  "counts": {
+    "target_video_ids": 6,
+    "all_displayed_caption_texts_read": 4,
+    "visible_caption_segments": 561,
+    "unresolved_contents": 2,
+    "audio_or_full_frame_watches": 0,
+    "new_people": 0,
+    "formal_business_perspectives": 30,
+    "completed_candidate_pool": 50,
+    "Amy_existing_card_refined": 1,
+    "Starla_existing_aftercare_clarification": 1,
+    "Dylan_new_procedures_admitted": 0
+  },
+  "sources": [
+    {
+      "source_id": "REFRESH-20261008-AMY-01",
+      "url": "https://www.youtube.com/watch?v=-EsK4kcC8lI",
+      "title": "3 Steps To Product Photos That Sell",
+      "creator_displayed": "Amy Eaton",
+      "displayed_publication_date": "2026-10-07",
+      "original_recording_date": null,
+      "duration_displayed": "40:01",
+      "duration_seconds": 2401,
+      "transcript_first_start": "0:00",
+      "transcript_last_start": "39:57",
+      "final_caption_start_to_player_end_seconds": 4,
+      "caption_segments_count": 300,
+      "caption_word_count_approx": 7245,
+      "retrieval_method": "Official YouTube Show transcript UI; all displayed English caption segments read; no audio or full-frame review.",
+      "retrieval_window_utc": "2026-10-08T04:03:00Z/2026-10-08T04:06:00Z",
+      "sha256": "4247ba86e52304084109619c2ae828dc5f8dd24a2c5b264970c7d576f44aef19",
+      "read_level": "All 300 displayed caption segments semantically read; page chrome, comments and recommendations excluded",
+      "semantic_coverage": [
+        {
+          "range": "0:00–5:52",
+          "content": "Introduction, importance claims, testimonials and teaching roadmap"
+        },
+        {
+          "range": "5:58–17:10",
+          "content": "Lighting qualities and natural/artificial trade-offs"
+        },
+        {
+          "range": "17:18–22:37",
+          "content": "Styled photos, scale cues, audience/brand, background and props"
+        },
+        {
+          "range": "22:45–30:52",
+          "content": "Editing rationale, tonal adjustment, color balance, crop/resize, program and profile advice"
+        },
+        {
+          "range": "31:01–31:48",
+          "content": "Explicit limits of free training"
+        },
+        {
+          "range": "31:57–39:57",
+          "content": "Course sales claims, offers, sign-up urgency and conclusion"
+        }
+      ],
+      "methods": [
+        {
+          "method": "Soft, bright, even and neutral lighting",
+          "timestamp_ranges": [
+            "8:55–10:17",
+            "11:29–14:26",
+            "14:26–17:10"
+          ],
+          "admission": "retain as practical photography teaching; lux/Kelvin ranges are author heuristics, not mandatory shop specs"
+        },
+        {
+          "method": "Use purposeful scene and scale cues without competing with product",
+          "timestamp_ranges": [
+            "19:21–22:37"
+          ],
+          "admission": "conditional; do not imply props are included or universal conversion uplift"
+        },
+        {
+          "method": "Tones, color fidelity, crop/size without false detail, and color-profile awareness",
+          "timestamp_ranges": [
+            "24:50–27:56",
+            "29:47–30:44"
+          ],
+          "admission": "retain general quality control; do not adopt historical Etsy aspect/size or old software claims"
+        }
+      ],
+      "excluded_or_unverified_claims": [
+        {
+          "timestamp_ranges": [
+            "3:28–4:08",
+            "17:50–19:21",
+            "26:34–27:14"
+          ],
+          "reason": "Testimonials, interaction/algorithm claims, historical aspect/size advice not proof of present shop performance or current requirements"
+        },
+        {
+          "timestamp_ranges": [
+            "28:19–29:38",
+            "36:19–38:04"
+          ],
+          "reason": "Software pricing/free availability and course offer/guarantee/urgency are not verified current commercial facts"
+        }
+      ],
+      "limitations": [
+        "Only rendered captions read; audio not listened to and slide examples not independently inspected",
+        "Last caption start is not caption end; final 4 seconds are not individually evidenced by timestamps",
+        "Automatic-transcription-like errors exist",
+        "Displayed publication date does not establish original recording date",
+        "Presenter explicitly reserves detailed how-to for paid course"
+      ],
+      "method_audit_alias": "AE-V1",
+      "video_id": "-EsK4kcC8lI",
+      "status": "visible_transcript_read_bounded_photography_increment",
+      "published_at_utc": "2026-10-07T21:13:11Z",
+      "prior_source_date_review": "coach-video-freshness-2026-10-08.json",
+      "hash_scope": "Original saved visible-page text; teaching review excludes page chrome/comments."
+    },
+    {
+      "source_id": "REFRESH-20261008-AMY-02",
+      "url": "https://www.youtube.com/watch?v=8MQlQ2PaoDs",
+      "title": "Demystifying The Perfect White Background Photo with Amy Eaton",
+      "creator_displayed": "Amy Eaton",
+      "displayed_publication_date": "2026-10-07",
+      "original_recording_date": null,
+      "historical_content_indicators": [
+        {
+          "timestamp_range": "0:17–0:32",
+          "evidence_paraphrase": "Presenter says daycare is unavailable and children are home during the pandemic"
+        },
+        {
+          "page_element": "Visible comments",
+          "evidence_paraphrase": "Two comments displayed as six years old"
+        }
+      ],
+      "duration_displayed": "33:50",
+      "duration_seconds": 2030,
+      "transcript_first_start": "0:00",
+      "transcript_last_start": "33:43",
+      "final_caption_start_to_player_end_seconds": 7,
+      "caption_segments_count": 251,
+      "caption_word_count_approx": 6030,
+      "retrieval_method": "Official YouTube Show transcript UI; all displayed English caption segments read; no audio or full-frame review.",
+      "retrieval_window_utc": "2026-10-08T04:03:00Z/2026-10-08T04:06:59Z",
+      "parent_tool_read_time_utc": "2026-10-08T04:06:22Z",
+      "sha256": "b8feba5f40a524d8d6ea7d9731cfd022a0ab999198d7da31ad3dd4d954f536df",
+      "read_level": "All 251 displayed caption segments semantically read; page chrome, comments and recommendations excluded from teaching",
+      "semantic_coverage": [
+        {
+          "range": "0:00–3:01",
+          "content": "Pandemic framing, roadmap and scope limit"
+        },
+        {
+          "range": "3:10–8:21",
+          "content": "Historical Amazon need, optional brand fit, biography and testimonials"
+        },
+        {
+          "range": "8:21–14:05",
+          "content": "Purported business reasons for white backgrounds and fidelity"
+        },
+        {
+          "range": "14:14–18:39",
+          "content": "Three mistakes: insufficient background white, wrong subject exposure, no shadows"
+        },
+        {
+          "range": "18:39–28:14",
+          "content": "Five methods and summary"
+        },
+        {
+          "range": "28:21–33:43",
+          "content": "Limits of free explanation, course contents/offer and farewell"
+        }
+      ],
+      "methods": [
+        {
+          "method": "White background is conditional on product/brand or actual destination requirement",
+          "timestamp_ranges": [
+            "5:18–6:12",
+            "15:26–15:42"
+          ],
+          "admission": "retain; no automatic all-white shop direction"
+        },
+        {
+          "method": "Expose for product first; edit background afterward",
+          "timestamp_ranges": [
+            "18:47–20:55"
+          ],
+          "admission": "retain as main new quality-control rule"
+        },
+        {
+          "method": "Adjust background separately and protect white/light product details",
+          "timestamp_ranges": [
+            "21:03–22:29"
+          ],
+          "admission": "retain, but not a complete editing tutorial"
+        },
+        {
+          "method": "Keep soft grounding shadows and define pale product edges",
+          "timestamp_ranges": [
+            "17:02–18:16",
+            "25:12–26:38"
+          ],
+          "admission": "retain; silver-jewelry black-board technique is product-specific"
+        },
+        {
+          "method": "Separate background lighting or save a proven edit as a repeatable action",
+          "timestamp_ranges": [
+            "22:36–24:59"
+          ],
+          "admission": "optional workflow only if existing need/setup; no equipment/course purchase"
+        }
+      ],
+      "excluded_or_unverified_claims": [
+        {
+          "timestamp_ranges": [
+            "3:10–4:21",
+            "8:21–11:12"
+          ],
+          "reason": "Historical Amazon platform requirements/deadline and SEO assertions are not current Etsy rules"
+        },
+        {
+          "timestamp_ranges": [
+            "7:33–8:21",
+            "28:21–33:01"
+          ],
+          "reason": "Student business results and paid-course promises/prices are promotional and unverified"
+        }
+      ],
+      "limitations": [
+        "Only rendered captions read; audio and image demonstrations not independently inspected",
+        "30:45–31:02 has a 17-second caption-start gap and incomplete textual transition; cause unknown",
+        "24:59–25:12 has a 13-second caption-start gap, possibly demonstration but not verified",
+        "Final 7 seconds are not individually evidenced; last caption contains farewell",
+        "Displayed 2026 date conflicts with historical-context indicators and cannot establish recency of recording",
+        "Presenter explicitly says detailed demonstrations are in paid course"
+      ],
+      "method_audit_alias": "AE-V2",
+      "video_id": "8MQlQ2PaoDs",
+      "status": "visible_transcript_read_bounded_photography_increment",
+      "published_at_utc": "2026-10-07T21:11:24Z",
+      "prior_source_date_review": "coach-video-freshness-2026-10-08.json",
+      "hash_scope": "Original saved visible-page text; teaching review excludes page chrome/comments."
+    },
+    {
+      "source_id": "REFRESH-20261008-STA-01",
+      "coach": "Starla Moore",
+      "video_id": "kUpvoJUjFgo",
+      "url": "https://www.youtube.com/watch?v=kUpvoJUjFgo",
+      "published_utc": "2026-10-07T17:15:07Z",
+      "checked_at_window_utc": [
+        "2026-10-08T04:08:20Z",
+        "2026-10-08T04:09:28Z"
+      ],
+      "duration_seconds": 36,
+      "read_depth": "all_visible_official_English_transcript_segments_semantically_reviewed",
+      "segments": 5,
+      "first_segment": "0:00",
+      "last_segment_start": "0:33",
+      "audio_video_reviewed": false,
+      "source_summary_zh": "影片勸賣家不要因四星而驚慌，並示範感謝及詢問怎樣才能獲得五星；本店不採該評分目標句式。",
+      "support_timestamps": [
+        "0:00–0:17：四星不等於重大負評、先避免驚慌",
+        "0:17–0:33：感謝買家並詢問可改善之處的示例"
+      ],
+      "bounded_adoption_zh": "補強既有Nancy售後卡的情緒與資訊分流；本店草稿改成中性詢問商品／服務體驗，不沿用「怎樣才給五星」句式。",
+      "not_adopted": [
+        "不保證回覆能改評或增銷",
+        "不以折扣、退款或利益換評分",
+        "不自動聯絡買家或催促修改評價",
+        "沒有當前Etsy政策查核，教練例句不當平台許可證"
+      ],
+      "novelty": "有限補強既有售後方法，不新增Coach或獨立任務",
+      "sha256": "7e30d44d3fdae1002d39e97e51c8da7e0510fb50017b002c58f88de9b3c99035",
+      "status": "visible_transcript_read_bounded_aftercare_clarification",
+      "hash_scope": "Isolated five-segment visible transcript text, not audio/video media."
+    },
+    {
+      "source_id": "REFRESH-20261008-DYL-01",
+      "coach": "Dylan Jahraus",
+      "video_id": "gu6jtgof7nw",
+      "url": "https://www.youtube.com/watch?v=gu6jtgof7nw",
+      "published_utc": "2026-10-07T21:00:05Z",
+      "checked_at_window_utc": [
+        "2026-10-08T04:11:24Z",
+        "2026-10-08T04:11:54Z"
+      ],
+      "duration_seconds": 33,
+      "read_depth": "all_visible_official_English_transcript_segments_semantically_reviewed",
+      "segments": 5,
+      "first_segment": "0:00",
+      "last_segment_start": "0:22",
+      "audio_video_reviewed": false,
+      "source_summary_zh": "33秒短片宣傳外部流量課程，提及Pinterest、email、Instagram自動化、部落格及送禮指南；沒有逐項流程。",
+      "support_timestamps": [
+        "0:02：自報Pinterest55萬次免費到訪，沒有呈示可審計範圍／期間",
+        "0:10–0:18：列舉外部渠道",
+        "0:22：引導60分鐘課程，並非短片已教授10項方法"
+      ],
+      "bounded_adoption_zh": "只能把列舉渠道當可選研究題目；不在每週3–5小時內疊加渠道或自動化，品牌技能既有單渠道／單指標工時閘門不變。",
+      "not_adopted": [
+        "55萬自述不是本店結果或可預測目標",
+        "free沒有證明零工時或工具成本",
+        "不自動建立email名單、IG自動化或向媒體投稿",
+        "未註冊、購買或讀取該60分鐘課程"
+      ],
+      "novelty": "無新增可操作方法；短片promotion_only結論現已由實際字幕支持",
+      "sha256": "565ba60b896eb69a2bc4b9080da75b35c3fff56de9a3c55095cb83b78575e2f2",
+      "status": "visible_transcript_read_promotion_only_no_new_method",
+      "hash_scope": "Isolated five-segment visible transcript text, not audio/video media."
+    }
+  ],
+  "remaining_sources": [
+    {
+      "source_id": "REFRESH-20261008-JOE-01",
+      "video_id": "uJXhCr-iPdU",
+      "url": "https://www.youtube.com/watch?v=uJXhCr-iPdU",
+      "duration_seconds": 906,
+      "status": "content_unresolved_after_supported_cloud_routes",
+      "read_depth": "official_description_and_metadata_only; audiovisual teaching not read",
+      "new_methods_admitted": [],
+      "blocker_summary": "正常雲端轉錄稿／播放未取得可讀正文。Joe的已取消下載未重試；匯出路徑不等於已取得內容。"
+    },
+    {
+      "source_id": "REFRESH-20261008-MEI-01",
+      "video_id": "3r6Na54iOM0",
+      "url": "https://www.youtube.com/watch?v=3r6Na54iOM0",
+      "duration_seconds": 7,
+      "status": "description_only_video_content_unresolved",
+      "read_depth": "official_description_and_metadata_only; audiovisual teaching not read",
+      "new_methods_admitted": [],
+      "blocker_summary": "正常雲端介面沒有可用轉錄稿，播放器未載入；不推測7秒片中畫面或說話。"
+    }
+  ],
+  "deduplication": {
+    "already_retained": "NC6-AE1/AE2 lighting, diffusion, fill, white balance, truthful product and one20minute slot; Nancy evidence-led aftercare and Brand single-channel limits.",
+    "increment": "Expose the subject correctly at capture, then edit only the background while keeping product color/text/pale edges and natural grounding shadows. Refines the existing Amy card, not a new Coach.",
+    "Starla_adaptation": "Neutral experience feedback is the shop adaptation; the original five-star wording is not adopted.",
+    "Dylan": "Channel list and course promotion do not supply ten workflows or verified results."
+  },
+  "date_caution": {
+    "video_id": "8MQlQ2PaoDs",
+    "original_recording_date": "unknown",
+    "page_publication_metadata": "2026-10-07T21:11:24Z",
+    "historical_content_evidence": [
+      "Official transcript0:17–0:32 discusses pandemic childcare",
+      "Official page comments displayed6yearsago"
+    ],
+    "classification": "recently_observed_publication_metadata_with_historical_content_evidence; not_verified_newly_recorded_2026_teaching"
+  },
+  "interpretation_limits": [
+    "All displayed captions read is not a complete audiovisual watch or word-perfect transcript.",
+    "Amy original recording dates unknown; white-background transcript pandemic reference and six-year-old comments signal historical material.",
+    "No current prices, offers, software availability, platform rules or conversion/revenue promises imported.",
+    "Content abstracts and timestamps only; no full captions or raw page captures distributed."
+  ],
+  "scope": "Content integration only; no image editing, customer message, account action, purchases, local installation or automated schedule performed."
+}

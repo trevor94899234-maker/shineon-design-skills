@@ -1,0 +1,153 @@
+{
+  "version": "2026.10.07-NC4",
+  "language": "zh-Hant",
+  "counts": {
+    "prior_candidates": 28,
+    "new_candidates": 3,
+    "cumulative_candidates": 31,
+    "people_with_complete_relevant_body": 3,
+    "fully_read_teaching_or_interview_bodies": 5,
+    "source_records": 7,
+    "limited_case_support": 1,
+    "deferred_new_methods": 2,
+    "new_business_roster": 0,
+    "new_full_audio_or_video": 0
+  },
+  "sources": [
+    {
+      "source_id": "NC4-D1",
+      "url": "https://www.alura.io/interview/rosspaintshop",
+      "title": "Etsy Seller Interview with Danae of RossPaintShop",
+      "published_date": "2023-01-24",
+      "read_status": "原始第一人稱訪談；已讀完整正文",
+      "scope": "客製需求、簡化買家選擇、手繪／雕刻、自家履約；流量與收入為歷史自述。Alura有工具推廣利益。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC4-D2",
+      "url": "https://www.etsy.com/shop/RossPaintShop",
+      "title": "RossPaintShop",
+      "published_date": null,
+      "read_status": "官方商店身份、About及商品／評論入口區段已讀",
+      "scope": "Danae Giacchino；索引快照14,107累計sales，快取約兩個月，不是今天即時庫存或單品成果。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC4-D3",
+      "url": "https://www.rosspaintshop.com/",
+      "title": "Ross Paint Shop website",
+      "published_date": null,
+      "read_status": "Etsy官方外連入口本次404，正文未讀",
+      "scope": "不以入口失效推定停業或無其他內容。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC4-P1",
+      "url": "https://www.horacioprinting.com/blogs/news/so-you-want-to-make-your-own-planner-and-sell-it-lets-get-real",
+      "title": "So You Want To Make Your OWN Planner and Sell it",
+      "published_date": "2023-03-07",
+      "read_status": "官方文章完整正文已讀；影音未讀",
+      "scope": "Polly Payne署名，Christian planner、大量印刷、Shopify及預售。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC4-P2",
+      "url": "https://www.horacioprinting.com/blogs/dream-planning-podcast/behind-the-scenes-on-the-2024-dream-planner-collection",
+      "title": "Behind the Scenes on the 2024 Dream Planner Collection",
+      "published_date": "2023-02-23",
+      "read_status": "官方文章完整正文已讀；影音未讀",
+      "scope": "樣本作行銷素材，預售與大批製作流程；6至9月及100預售為她的語境，不能當本店門檻。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC4-P3",
+      "url": "https://www.horacioprinting.com/blogs/dream-planning-podcast/how-to-create-a-paper-planner-or-journal-7-steps-to-go-from-idea-to-completed-product",
+      "title": "How to Create a Paper Planner or Journal",
+      "published_date": "2023-03-01",
+      "read_status": "官方文章完整正文已讀；影音未讀",
+      "scope": "七步製作、內頁母版、校對和樣本；文章日與內嵌Podcast日不同，未將文章當完整影音。",
+      "accessed_date": "2026-10-07"
+    },
+    {
+      "source_id": "NC4-S1",
+      "url": "https://www.godlywoodgirl.com/blogs/tshirtbusiness/how-to-start-a-t-shirt-business-in-24-hours-christian-entrepreneur-series",
+      "title": "HOW TO START A T SHIRT BUSINESS IN 24 HOURS",
+      "published_date": "2019-05-08",
+      "read_status": "官方教學文章正文已讀；影片未讀",
+      "scope": "Stephanie Rodnez署名；Christian POD模板、設計、上傳及開店入門，未完整教授獲客，導向付費課。",
+      "accessed_date": "2026-10-07"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "NC4-C1",
+      "name": "Danae Giacchino",
+      "brand": "RossPaintShop",
+      "classification": "創辦人第一手實務案例",
+      "decision": "保留有限佐證，不增商務教練",
+      "source_ids": [
+        "NC4-D1",
+        "NC4-D2",
+        "NC4-D3"
+      ],
+      "product_fit": "Christian個人化聖經、婚禮及親友禮物；非空白journal或POD。",
+      "teaching": "實際客製需求可形成標準款；簡化可調選項服務已面對很多決定的買家。",
+      "proof": "Etsy身份與全店累計sales快照可核；收入與Etsy主要流量為2023訪談自述。profit margin欄填美元，口徑不明，不作利潤率。",
+      "boundary": "不能複製雕刻製程、客製工時、交付承諾或當年SEO表述。"
+    },
+    {
+      "candidate_id": "NC4-C2",
+      "name": "Polly Payne",
+      "brand": "Horacio Printing",
+      "classification": "Christian紙品創辦人及Print School教師",
+      "decision": "暫緩新增方法",
+      "source_ids": [
+        "NC4-P1",
+        "NC4-P2",
+        "NC4-P3"
+      ],
+      "product_fit": "Christian planner／journal相近；Shopify、大量印刷及預售不同。",
+      "teaching": "3篇文章完整教授構思、內頁、校對、樣本及預售流程。",
+      "proof": "方法屬本人官方公開教學；未核實Etsy或ShineOn銷售。",
+      "boundary": "樣本／校對原則已覆蓋；不採大量印刷、100份預售、6至9月時程或內頁設計。"
+    },
+    {
+      "candidate_id": "NC4-C3",
+      "name": "Stephanie Rodnez",
+      "brand": "Godlywood Girl",
+      "classification": "Christian POD入門教師",
+      "decision": "暫緩新增方法",
+      "source_ids": [
+        "NC4-S1"
+      ],
+      "product_fit": "信仰POD服飾相鄰，非journal及已核Etsy實店。",
+      "teaching": "2019入門：選印刷商、模板、設計、上傳、開店。獲客內容主要導向付費課程。",
+      "proof": "官方文章本人署名與自我介紹；無本次可核實的相符店舖成果。",
+      "boundary": "24小時開店不是24小時銷售；不採舊供應商名單、不把付費課綱當已讀方法。"
+    }
+  ],
+  "method_card": {
+    "method_id": "NC4-METHOD-01",
+    "name": "個人化決策量檢查",
+    "classification": "既有指引的創辦人案例佐證，非新增完整人物框架",
+    "source_ids": [
+      "NC4-D1"
+    ],
+    "source_observation": "簡單版面及有限可調項目服務已面對很多婚禮決定的買家；品牌亦希望減少客製工作。",
+    "shop_adaptation": "在既有SKU草稿分清必填資料、固定設計及真正有用的選項；每一項須相容送禮意圖、能準確交付且不造成不必要往返。",
+    "test": "用既有資料作一段個人化說明與一個真實可交付示例，供店主審閱。",
+    "time_cap_minutes": 15,
+    "guardrails": [
+      "本來已只有必要輸入就不新增工作",
+      "不更改在售選項、接觸顧客、承諾新增客製服務或自行發布",
+      "替代現有一項改善，不疊加工時",
+      "不聲稱減少選項必然提高轉換"
+    ],
+    "measurement": [
+      "批准套用後才比較澄清訊息次數及每單處理分鐘",
+      "相同範圍、期間的訪問與訂單另記；不用orders/views冒充轉換率"
+    ]
+  },
+  "remaining_gap": "尚未找到可新增的Christian個人化ShineOn journal低工時自然內容增長教學；不代表這類教師不存在。",
+  "coverage_limit": "本輪只針對所列公開來源及3人；不作完整頻道或課程審核。"
+}

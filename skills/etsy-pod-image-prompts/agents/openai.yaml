@@ -1,0 +1,14 @@
+interface:
+  display_name: Etsy POD Image Prompts
+  short_description: 建立準確圖片及可核對的 APOD 圖庫交接
+  default_prompt: Use $etsy-pod-image-prompts to create a product-accurate Etsy listing
+    image prompt.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

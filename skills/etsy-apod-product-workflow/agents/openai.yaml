@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product to Private APOD"
+  short_description: "Coordinate POD listing text, thumbnails and APOD saves"
+  default_prompt: "Use $etsy-apod-product-workflow to complete or resume this product's authorized private APOD listing, reusing prior decisions and asking only for genuinely missing owner decisions."

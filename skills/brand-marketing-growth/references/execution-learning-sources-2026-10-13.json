@@ -1,0 +1,122 @@
+{
+  "audit_date_utc": "2026-10-13",
+  "event_window": "2026-10-12 through 2026-10-13",
+  "baseline_formal_commit": "5cd545af01b8b0655f8fbde0bd884f097eabac27",
+  "new_browser_or_account_operations": false,
+  "new_keyword_queries": 0,
+  "new_market_or_source_refresh_claim": false,
+  "local_vault_sync": false,
+  "dashboard_import_or_apply": false,
+  "user_communication_alone_is_sync": false,
+  "release": "2026.10.13.1",
+  "sources": [
+    {
+      "source_id": "GROWTH-20261012",
+      "artifact": "marketing-daily-20261013/baselines/growth-last-review-20261012.json",
+      "sha256": "59962d4980056dfc04891635b88069abd5ad06f37ec14b2e593ec75dd16438cb",
+      "read_level": "complete structured record",
+      "supports": [
+        "C1 operational recommendation, not demand ranking",
+        "18.49 known production+US first-shipping cost floor, excluded costs retained",
+        "28-day draft with start_at null and conditional launch",
+        "two-layer capacity and separate metrics",
+        "three-product bundle rejection; matching journal unverified"
+      ]
+    },
+    {
+      "source_id": "DAILY-20261013",
+      "artifact": "marketing-daily-20261013/CURRENT.json",
+      "sha256": "3483ec372ea5d69142bb3ba77871639c8ff7b7a024831e0d8aa37188afbf7016",
+      "read_level": "complete structured record",
+      "supports": [
+        "no new query or formal skill edit in daily run",
+        "partial reading limitations",
+        "local Vault and Dashboard not synchronized"
+      ]
+    },
+    {
+      "source_id": "KEYWORD-SIX-20261012",
+      "artifact": "mgrowth-run-20261012/sources/Keyword_and_Competitor_Evidence_v3_Current_20261012/Keyword_and_Competitor_Evidence_v3_Current_20261012/capture-contract-six.json",
+      "sha256": "cb7996b32848591aebf832501ca1b7450bbdcb5cafad8af5b1b4e7bd7d412bce",
+      "read_level": "complete structured record",
+      "supports": [
+        "six USA/Etsy literal phrases in one batch",
+        "quota2/200 to3/200",
+        "831 average versus Sep2026 point10; exact averaging endpoints unknown",
+        "Unknown/dash/CSV differences"
+      ]
+    },
+    {
+      "source_id": "GALLERY-C1",
+      "artifact": "full-gallery-20261012/apod-receipts/C1_FINAL_18_saved_download_verified.json",
+      "sha256": "c18189e9f228c49b46ae343f2cdc8f1865895ed28c9388a37c7d2fa46977c230",
+      "read_level": "complete structured record",
+      "supports": [
+        "18 distinct saved roles",
+        "all recorded downloaded hashes match",
+        "role02 at position2"
+      ]
+    },
+    {
+      "source_id": "GALLERY-C2",
+      "artifact": "full-gallery-20261012/apod-receipts/C2_FINAL_18_saved_download_verified.json",
+      "sha256": "ff128b629b617ac216eac2aa329328e4751bb2894c4002c1be51782ff88e8cd1",
+      "read_level": "complete structured record",
+      "supports": [
+        "18 distinct saved roles",
+        "all recorded downloaded hashes match",
+        "role02 at position2"
+      ]
+    },
+    {
+      "source_id": "GALLERY-C3",
+      "artifact": "full-gallery-20261012/apod-receipts/C3_FINAL_18_saved_download_verified.json",
+      "sha256": "797b994bc4ba72480bbc852fa0bd71c98f78daecc43277d83b807016e3524fb1",
+      "read_level": "complete structured record",
+      "supports": [
+        "18 distinct saved roles",
+        "all recorded downloaded hashes match",
+        "role02 at position2"
+      ]
+    },
+    {
+      "source_id": "VIDEO-FINAL",
+      "artifact": "full-gallery-20261012/final-video-package/Video_Verification.json",
+      "sha256": "3646471e15f89e469c5f44029a27336172ed53151975aa87ceaacc3976526bc5",
+      "read_level": "complete structured record",
+      "supports": [
+        "6/8/6-second final videos",
+        "720-square H264 and file hashes",
+        "recorded every-second/scene-ending QA; no new playback claimed"
+      ]
+    },
+    {
+      "source_id": "GALLERY-HANDOFF",
+      "artifact": "full-gallery-20261012/coordination/Production_Handoff.txt",
+      "sha256": "2acad0943615c03c4ac98d43bce07672a5f6d7ea5a3d5fd41fc2020d0f905b1c",
+      "read_level": "complete plain-text handoff, later video status superseded by final receipts",
+      "supports": [
+        "role01 and18 missing for each SKU",
+        "digital illustrations not physical proof",
+        "production art separate from gallery"
+      ]
+    }
+  ],
+  "verification_limits": [
+    "Read existing artifacts and independently recomputed all54 accepted source hashes against recorded downloaded hashes; no new remote redownload.",
+    "Source media frame reviews are historical recorded QA; this revision does not claim new visual playback or physical proof.",
+    "Parent-supplied old-tab/cropped-candidate context informs generic safeguards only where primary replay evidence was not independently reviewed.",
+    "A–F formal file present at baseline; resource interface read failed, verified checkout read succeeded.",
+    "Recomputed the three final local video hashes and ffprobe duration/codec/dimensions:6/8/6 seconds,720-square H264, all matched final receipts; no new visual frame inspection."
+  ],
+  "source_resolution_check": {
+    "file": "brand-marketing-growth/references/cohesive-series-production-workflow-2026-10-10.md",
+    "baseline_release": "2026.10.12.1",
+    "baseline_lines": 323,
+    "baseline_sha256": "495cc823a901ca05168bfeb195f24378de3efdfc7338a987cfb3bcf17c794b2a",
+    "formal_tree_file_exists": true,
+    "skills_resource_read": "failed to read skill resource",
+    "verified_checkout_read": "complete file read; A–F preserved with scoped capacity correction",
+    "missing_original_text_reconstructed": false
+  }
+}

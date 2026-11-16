@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "run": {
+    "run_id": null,
+    "mode": "research_only",
+    "stage": "draft",
+    "buyer_country": null,
+    "currency": null,
+    "language": null,
+    "collected_at": null,
+    "min_qualified_shops": null,
+    "candidate_goal": null,
+    "target_decision": null,
+    "inventory_expected": null,
+    "inventory_stop": "not_requested",
+    "inventory_snapshot_id": null,
+    "scope_notes": []
+  },
+  "sources": [],
+  "shops": [],
+  "listings": [],
+  "metrics": [],
+  "claims": [],
+  "inventory_pages": [],
+  "qualifications": [],
+  "keywords": [],
+  "corrections": [],
+  "social_accounts": [],
+  "qa": {
+    "extractor": null,
+    "independent_reviewer": null,
+    "semantic_status": "pending",
+    "audited_categories": [],
+    "errors_by_category": {},
+    "expanded_categories": [],
+    "category_audit_complete": {},
+    "source_integrity_status": "pending",
+    "output_checks": [],
+    "limitations": [],
+    "semantic_audit_ref": null
+  }
+}

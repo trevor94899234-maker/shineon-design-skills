@@ -1,0 +1,384 @@
+{
+  "version": "NC7-integrated-1",
+  "date": "2026-10-07",
+  "language": "zh-Hant",
+  "input_skill_versions": {
+    "etsy-coach-integrated": "2026.10.07.8",
+    "brand-marketing-growth": "2026.10.07.7"
+  },
+  "write_status": "已整合有限補充至brand-marketing-growth；Etsy只橋接及更新候選數",
+  "counts": {
+    "new_completed_candidates": 7,
+    "prior_candidate_pool": 43,
+    "formal_business_perspectives_before": 30,
+    "formal_business_perspectives_after": 30,
+    "limited_supplements": 2,
+    "deferred": 5,
+    "source_records": 11,
+    "full_article_texts": 7,
+    "official_transcript_pages": 1,
+    "official_show_note_pages": 2,
+    "failed_page_fetches": 1,
+    "new_audio_video_watched_or_listened": 0,
+    "cumulative_candidate_pool": 50,
+    "new_formal_business_perspectives": 0
+  },
+  "shop_constraints": {
+    "product": "個人化印刷Christian ShineOn journal；200普通間線頁",
+    "market": "約90–95%美國",
+    "price_context": "典型USD49.95，非本輪核價",
+    "ads": "既有90日零owner廣告，起止日未知",
+    "owner_hours_per_week": "3–5，先扣履約客服"
+  },
+  "sources": [
+    {
+      "source_id": "NC7-MA1",
+      "person": "Megan Auman",
+      "url": "https://www.designinganmba.com/2014/04/07/creating-pinterest-content/",
+      "title": "how to capitalize on your Pinterest followers with great content",
+      "published_date": "2014-04-07",
+      "modified_date": "2017-04-14",
+      "read_level": "完整官方教學文章正文；附圖未逐張視查",
+      "scope": "同行偏好的製作內容不必然吸引買家；提供買家有用的使用內容並明確連接相關目的頁。",
+      "http_status": 200,
+      "accessed_date": "2026-10-07",
+      "source_type": "官方來源",
+      "capture_status": "本輪工具回傳已讀；未持存完整正文／影音／逐字稿"
+    },
+    {
+      "source_id": "NC7-MA2",
+      "person": "Megan Auman",
+      "url": "https://www.designinganmba.com/2012/05/10/pinterest-value-tool/",
+      "title": "Is Pinterest the right tool for you business?",
+      "published_date": "2012-05-10",
+      "modified_date": "2017-04-14",
+      "read_level": "官方文章正文已讀；流程圖未視查，留言不作教師證據",
+      "scope": "歷史視覺渠道論述，沒有可移植的當前平台效果或本店成績。",
+      "http_status": 200,
+      "accessed_date": "2026-10-07",
+      "source_type": "官方來源",
+      "capture_status": "本輪工具回傳已讀；未持存完整正文／影音／逐字稿"
+    },
+    {
+      "source_id": "NC7-NW1",
+      "person": "Nora Wolf",
+      "url": "https://wolf-craft.com/blog/holiday-gift-guide-pitching-how-to",
+      "title": "Holiday Gift Guide Pitching: Five Reasons We Start in... July",
+      "published_date": "2022-08-10",
+      "modified_date": "2025-07-16",
+      "read_level": "完整官方署名教學文章正文；示例截圖未逐張視查",
+      "scope": "研究刊物受眾、既有送禮指南、圖片及陳列形式；區分紙本與數碼編輯週期；晚季機會不能忽略交付要求。",
+      "http_status": 200,
+      "accessed_date": "2026-10-07",
+      "source_type": "官方來源",
+      "capture_status": "本輪工具回傳已讀；未持存完整正文／影音／逐字稿"
+    },
+    {
+      "source_id": "NC7-NW2",
+      "person": "Nora Wolf",
+      "url": "https://wolf-craft.com/blog/how-to-write-email-subject-lines-editors-will-actually-open",
+      "title": "How to Write Pitch Email Subject Lines that Editors Will Actually Open",
+      "published_date": "2024-01-29",
+      "modified_date": "2024-11-19",
+      "read_level": "完整官方署名文章正文已分段讀取；示例媒體成果未獨立核實",
+      "scope": "按實際欄目、商品、價格帶和單一場合寫清角度，避免空泛自誇與多節日混投。",
+      "http_status": 200,
+      "accessed_date": "2026-10-07",
+      "source_type": "官方來源",
+      "capture_status": "本輪工具回傳已讀；未持存完整正文／影音／逐字稿"
+    },
+    {
+      "source_id": "NC7-NW3",
+      "person": "Nora Wolf / Katie Hunt",
+      "url": "https://www.prooftoproduct.com/podcast-episodes/pitching-holiday-gift-guides",
+      "title": "340 | Pitching Holiday Gift Guides with Nora Wolf, Wolf PR",
+      "published_date": "2024-04-30",
+      "modified_date": "2026-04-24",
+      "read_level": "完整官方節目簡介／人物介紹；未聽31:53音訊，沒有本集完整逐字稿",
+      "scope": "核對Nora的Wolf PR／Wolf Craft身份及受訪教學範圍；不當成完整口述方法。",
+      "http_status": 200,
+      "accessed_date": "2026-10-07",
+      "source_type": "官方來源",
+      "capture_status": "本輪工具回傳已讀；未持存完整正文／影音／逐字稿"
+    },
+    {
+      "source_id": "NC7-NW4",
+      "person": "Nora Wolf",
+      "url": "https://www.happylandcreative.com/blog/5-things-to-do-in-june-to-get-ready-for-holiday-media-placements",
+      "title": "5 things to do in June to get ready for holiday media placements",
+      "published_date": null,
+      "modified_date": null,
+      "read_level": "搜尋摘要後即時擷取404；沒有正文",
+      "scope": "失效入口，不作方法或身份的主要依據。",
+      "http_status": 404,
+      "accessed_date": "2026-10-07",
+      "source_type": "失效外部入口",
+      "capture_status": "本輪工具回傳已讀；未持存完整正文／影音／逐字稿"
+    },
+    {
+      "source_id": "NC7-ML1",
+      "person": "Monica Little",
+      "url": "https://www.monicalittlecoaching.com/blog/episode101",
+      "title": "EP 101: The simplest hack to get comfortable talking on your Instagram stories for more sales",
+      "published_date": "2024-06-05",
+      "modified_date": null,
+      "read_level": "完整官方節目簡介；未聽音訊，具體hack未在正文交代",
+      "scope": "確認談Instagram出鏡困難，但不能由標題替她補出方法。",
+      "http_status": 200,
+      "accessed_date": "2026-10-07",
+      "source_type": "官方來源",
+      "capture_status": "本輪工具回傳已讀；未持存完整正文／影音／逐字稿"
+    },
+    {
+      "source_id": "NC7-KH1",
+      "person": "Katie Hunt",
+      "url": "https://www.prooftoproduct.com/podcast-episodes/the-5-day-exercise-that-sets-your-1-business-priority-every-quarter",
+      "title": "462 | The 5-Day Exercise That Sets Your #1 Business Priority Every Quarter with Katie Hunt",
+      "published_date": "2026-09-29",
+      "modified_date": "2026-09-29",
+      "read_level": "官方頁所附逐字稿已分段讀取至最後18:18時間標記；未聽19:14音訊，不保存／交付逐字稿全文",
+      "scope": "回顧近90日、評估三個營運面向、選一個優先項、三個里程碑及48小時內最小行動；原安排5日各約30分鐘。",
+      "http_status": 200,
+      "accessed_date": "2026-10-07",
+      "source_type": "官方來源",
+      "capture_status": "本輪工具回傳已讀；未持存完整正文／影音／逐字稿"
+    },
+    {
+      "source_id": "NC7-LK1",
+      "person": "Lucy Kelly",
+      "url": "https://bloombybelmonili.com/2022/05/09/6-tips-for-selling-handmade-items-on-social-media/",
+      "title": "6 Tips For Selling Handmade Items on Social Media",
+      "published_date": "2022-05-09",
+      "modified_date": "2022-05-09",
+      "read_level": "完整官方教學文章正文；文內技術截圖未視查",
+      "scope": "買家內容、品牌一致性、先徵得顧客同意才重分享；2022串接步驟及20%比例不作現行規範。",
+      "http_status": 200,
+      "accessed_date": "2026-10-07",
+      "source_type": "官方來源",
+      "capture_status": "本輪工具回傳已讀；未持存完整正文／影音／逐字稿"
+    },
+    {
+      "source_id": "NC7-SB1",
+      "person": "Susan Bradley / The Social Sales Girls",
+      "url": "https://www.thesocialsalesgirls.com/blog/organic-sales-dont-miss-these-2-strategies-episode-282",
+      "title": "Organic Sales: Don’t miss these 2 strategies. Episode 282",
+      "published_date": "2025-08-26",
+      "modified_date": null,
+      "read_level": "完整官方文章正文；嵌入播放器顯示訂閱要求，未登入／繞過／聽取音訊",
+      "scope": "相近受眾非競品合作及等待名單漏斗；客戶1600訂閱者等屬案例自述，且偏Shopify與email。",
+      "http_status": 200,
+      "accessed_date": "2026-10-07",
+      "source_type": "官方來源",
+      "capture_status": "本輪工具回傳已讀；未持存完整正文／影音／逐字稿"
+    },
+    {
+      "source_id": "NC7-JA1",
+      "person": "Jennifer Allwood",
+      "url": "https://jenniferallwood.com/start-a-blog-2/",
+      "title": "How to Start a Blog- Blogging Advice for Newbies & Creatives",
+      "published_date": "2017-11-27",
+      "modified_date": "2022-01-27",
+      "read_level": "完整官方第一人稱文章正文；未讀連結課程",
+      "scope": "包含信仰與創意業務背景；博客、email與多渠道增長，主要原則已覆蓋且工作範圍偏大。",
+      "http_status": 200,
+      "accessed_date": "2026-10-07",
+      "source_type": "官方來源",
+      "capture_status": "本輪工具回傳已讀；未持存完整正文／影音／逐字稿"
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Megan Auman",
+      "decision": "採用有限歷史內容診斷補充；不新增正式商務名額",
+      "source_ids": [
+        "NC7-MA1",
+        "NC7-MA2"
+      ],
+      "increment": "區分內容吸引的是同行還是真正購買者，比單純增加發文或按讚更接近實際買家任務。",
+      "caveat": "2014教學、珠寶／自有網站為主；非現行Pinterest演算法、Etsy或Christian journal成功證據。",
+      "outcome_evidence": "沒有獨立驗證相同產品／客群／價格／零廣告／工時組合的結果",
+      "commercial_interest": "自有商品、課程、會員、教練或相關商業服務；依來源可見範圍判斷"
+    },
+    {
+      "name": "Nora Wolf",
+      "decision": "採用可選產品PR資格篩選補充；不列Etsy專家",
+      "source_ids": [
+        "NC7-NW1",
+        "NC7-NW2",
+        "NC7-NW3",
+        "NC7-NW4"
+      ],
+      "increment": "送禮指南需同時符合讀者、欄目、價格帶、圖像形式和實際截稿期，適合先篩選再決定是否投入。",
+      "caveat": "產品PR及課程業者；不證實Christian／ShineOn實績，媒體刊登與銷售因果未審計；本店未開PR任務。",
+      "outcome_evidence": "沒有獨立驗證相同產品／客群／價格／零廣告／工時組合的結果",
+      "commercial_interest": "自有商品、課程、會員、教練或相關商業服務；依來源可見範圍判斷"
+    },
+    {
+      "name": "Monica Little",
+      "decision": "暫緩；具體教學證據不足",
+      "source_ids": [
+        "NC7-ML1"
+      ],
+      "increment": null,
+      "caveat": "只取得節目簡介，沒有可歸屬的出鏡hack步驟；不由標題或學員見證補寫。",
+      "outcome_evidence": "沒有獨立驗證相同產品／客群／價格／零廣告／工時組合的結果",
+      "commercial_interest": "自有商品、課程、會員、教練或相關商業服務；依來源可見範圍判斷"
+    },
+    {
+      "name": "Katie Hunt",
+      "decision": "暫緩；已讀完整公開逐字稿但與現有優先項／工時流程重複",
+      "source_ids": [
+        "NC7-KH1",
+        "NC7-NW3"
+      ],
+      "increment": null,
+      "caveat": "有2026-09-29近期完整文字，仍非新穎或適配的充分條件。原五日共約150分鐘；不加成每週任務，不把主持Nora訪談算成自己的PR方法。",
+      "outcome_evidence": "沒有獨立驗證相同產品／客群／價格／零廣告／工時組合的結果",
+      "commercial_interest": "自有商品、課程、會員、教練或相關商業服務；依來源可見範圍判斷"
+    },
+    {
+      "name": "Lucy Kelly",
+      "decision": "暫緩；買家內容／UGC授權／品牌一致性原則已覆蓋",
+      "source_ids": [
+        "NC7-LK1"
+      ],
+      "increment": null,
+      "caveat": "2022介面串接步驟未核現況；不採固定20%促銷比例及未證因果。",
+      "outcome_evidence": "沒有獨立驗證相同產品／客群／價格／零廣告／工時組合的結果",
+      "commercial_interest": "自有商品、課程、會員、教練或相關商業服務；依來源可見範圍判斷"
+    },
+    {
+      "name": "Susan Bradley",
+      "decision": "暫緩；主要方法需要合作及email渠道，超出當前有界改善",
+      "source_ids": [
+        "NC7-SB1"
+      ],
+      "increment": null,
+      "caveat": "Shopify導向；合作、贈獎、等待名單及自動email不能默認適用Etsy。播放器要求訂閱，未嘗試取得付費內容。",
+      "outcome_evidence": "沒有獨立驗證相同產品／客群／價格／零廣告／工時組合的結果",
+      "commercial_interest": "自有商品、課程、會員、教練或相關商業服務；依來源可見範圍判斷"
+    },
+    {
+      "name": "Jennifer Allwood",
+      "decision": "暫緩；歷史創意業務教學可讀，沒有本店新增方法",
+      "source_ids": [
+        "NC7-JA1"
+      ],
+      "increment": null,
+      "caveat": "信仰身份不能代替Christian journal成績；博客、網站、email及多渠道建設超出3–5小時下的本輪範圍。",
+      "outcome_evidence": "沒有獨立驗證相同產品／客群／價格／零廣告／工時組合的結果",
+      "commercial_interest": "自有商品、課程、會員、教練或相關商業服務；依來源可見範圍判斷"
+    }
+  ],
+  "uncompleted_exploration_not_counted": [
+    {
+      "name": "Renae Christine",
+      "status": "僅初步搜尋未形成候選資格卡，不計入7人"
+    }
+  ],
+  "global_caveats": [
+    "選定來源研究，不是完整頻道刷新",
+    "已知43人及30正式名單已去重",
+    "沒有符合全部本店條件的獨立業績驗證",
+    "沒有新付費服務、當前付費內容、外部接觸或用戶本機動作",
+    "不保存／分享完整課程或逐字稿；台帳為原創摘要與來源定位"
+  ],
+  "integrated_skill_versions": {
+    "etsy-coach-integrated": "2026.10.07.9",
+    "brand-marketing-growth": "2026.10.07.8"
+  },
+  "integration_source_recheck": [
+    {
+      "url": "https://www.designinganmba.com/2014/04/07/creating-pinterest-content/",
+      "title": "how to capitalize on your Pinterest followers with great content - Designing an MBA",
+      "published": "2014-04-07T12:38:20+00:00",
+      "modified": "2017-04-14T16:13:54+00:00",
+      "http_status": 200,
+      "text_length": 9795,
+      "review_date": "2026-10-07",
+      "scope": "重新取得並核對採用方法核心正文；未視查全部圖片、未看／聽影音；不保存完整正文於技能或可攜包"
+    },
+    {
+      "url": "https://wolf-craft.com/blog/holiday-gift-guide-pitching-how-to",
+      "title": "Holiday Gift Guide Pitching: Five Reasons We Start in... July — Wolf Craft",
+      "published": "2022-08-10T09:42:00-0300",
+      "modified": "2025-07-16T13:07:19-0300",
+      "http_status": 200,
+      "text_length": 16596,
+      "review_date": "2026-10-07",
+      "scope": "重新取得並核對採用方法核心正文；未視查全部圖片、未看／聽影音；不保存完整正文於技能或可攜包"
+    },
+    {
+      "url": "https://wolf-craft.com/blog/how-to-write-email-subject-lines-editors-will-actually-open",
+      "title": "How to write pitch email subject lines [with examples!] — Wolf Craft",
+      "published": "2024-01-29T17:58:00-0300",
+      "modified": "2024-11-19T16:19:15-0300",
+      "http_status": 200,
+      "text_length": 30143,
+      "review_date": "2026-10-07",
+      "scope": "重新取得並核對採用方法核心正文；未視查全部圖片、未看／聽影音；不保存完整正文於技能或可攜包"
+    }
+  ],
+  "workflow_state": "可按需採用的有界方法；未發布、未套用至本店、未量得本店成效。",
+  "time_budget_provenance": "15／20分鐘是本店可調整上限示例，非來源教師數字。",
+  "adopted_limited_method_supplements": [
+    {
+      "method_id": "NC7-MA-content-audience",
+      "person": "Megan Auman",
+      "status": "已整合有限歷史補充；本店未套用",
+      "owner_skill": "brand-marketing-growth",
+      "trigger": "有既有內容但不清楚在服務真正送禮買家還是同行",
+      "source_ids": [
+        "NC7-MA1"
+      ],
+      "shop_adaptation": [
+        "只看一則既有／待批準內容，列出誰會收藏或點擊、要完成的送禮任務、目的頁提供甚麼。",
+        "若重心只有設計或製作技巧，且原有資料支持買家需要用途說明，改為一則真實姓名封面、普通間線內頁或送禮時序的草稿。",
+        "保持同一SKU與一個既有渠道；有清楚買家用途時不另加工作。"
+      ],
+      "time_budget_minutes_max": 15,
+      "metrics": [
+        "製作分鐘",
+        "有分母時的有效外連點擊／曝光",
+        "同範圍Etsy到訪及訂單分列"
+      ],
+      "stop_or_review": "已有清楚買家用途則停止；沒有足夠曝光／到訪仍未定，不以少量按讚推定受眾身份。",
+      "exclusions": [
+        "不辨識個人宗教身份",
+        "不假冒評論／買家故事",
+        "不把2014平台與追蹤者數字當現況",
+        "不自動開Pinterest／博客／網站",
+        "發布另需授權"
+      ]
+    },
+    {
+      "method_id": "NC7-NW-gift-guide-fit",
+      "person": "Nora Wolf",
+      "status": "已整合可選產品PR篩選；未啟動PR",
+      "owner_skill": "brand-marketing-growth",
+      "trigger": "店主明確考慮送禮指南曝光，或已有合適具體機會",
+      "source_ids": [
+        "NC7-NW1",
+        "NC7-NW2"
+      ],
+      "shop_adaptation": [
+        "只核一個目前仍有效的美國送禮指南：讀者／收禮人、商品類別、價格口徑、投稿方式、真實截稿期及圖片要求。",
+        "核本店SKU價格、運費、個人化處理與可交付日期；49.95美元不可未核運費及指南口徑便宣稱符合under $50。",
+        "輸出可考慮／不相容／資料不足與一個有據角度；沒有匹配或餘額工時便停止。"
+      ],
+      "time_budget_minutes_max": 20,
+      "metrics": [
+        "合格或不合格判斷是否有來源",
+        "研究分鐘"
+      ],
+      "stop_or_review": "本輪只做有界篩選。沒有現成機會或有界工時就不啟動；不能因10月仍有數碼機會而承諾趕得上。",
+      "exclusions": [
+        "不寄信／送樣／購課／買刊位／訂閱",
+        "不假造限量或速遞承諾",
+        "不把普通200頁間線寫成guided prayer內頁",
+        "不將歷史編輯月份當2026截稿日",
+        "不把媒體曝光當銷售效果"
+      ]
+    }
+  ]
+}

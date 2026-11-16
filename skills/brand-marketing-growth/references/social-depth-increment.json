@@ -1,0 +1,903 @@
+{
+  "version": "SD-2026-10-07.1",
+  "scope": "3個已讀口述方法的重新分析，2個近類品牌用途補充，5份原創短片草稿；不是新讀完5家社群。",
+  "brand_ids": [
+    "B50-020",
+    "B50-037",
+    "B50-040",
+    "B50-041",
+    "B50-042"
+  ],
+  "counts": {
+    "new_brands": 0,
+    "new_full_social_reads": 0,
+    "new_watched_videos": 0,
+    "reused_full_transcript_methods": 3,
+    "source_records_added": 13,
+    "new_distinct_source_urls": 6,
+    "original_drafts": 5,
+    "access_audit_records": 22
+  },
+  "sources": [
+    {
+      "source_id": "LIL-DEEP-OWN-01",
+      "url": "https://lilianaandliam.com/",
+      "read_level": "web extracted homepage text",
+      "fetched_at": "2026-10-07",
+      "cache_note": "web tool states crawled today",
+      "supports": [
+        "站內按 Wife、Mother、Daughter、Husband 等收禮人分類",
+        "首頁展示 Our Bucket List、I choose you、Best Traveled Together、Book Of Us journal"
+      ],
+      "limits": "本輪首頁抽取沒有顯示社交外連；不是完整網站／影音審計。",
+      "case_id": "B50-020",
+      "observed_at": "2026-10-07",
+      "prior_same_url_source_ids": []
+    },
+    {
+      "source_id": "LIL-DEEP-ABOUT-01",
+      "url": "https://lilianaandliam.com/pages/about-us",
+      "read_level": "web extracted official page text including brand account and displayed customer reviews",
+      "fetched_at": "2026-10-07",
+      "cache_note": "web tool states crawled 3 weeks ago",
+      "supports": [
+        "官網自述 2021 年由 Andria/Dre 創立；2025-04-15 離世後由家人延續",
+        "官網顯示 B. H. 於 2026-05-19 的 journal 評價：送給妻子並開始一起寫 bucket list；品牌回覆強調共同填寫用途"
+      ],
+      "limits": "品牌自述及站內展示評價，未獨立核實；不是社交貼文、不構成成效／因果證據。不要借用其喪親故事作 MyGiftStyle 行銷。",
+      "case_id": "B50-020",
+      "observed_at": "2026-10-07",
+      "prior_same_url_source_ids": []
+    },
+    {
+      "source_id": "LIL-DEEP-PRODUCT-01",
+      "url": "https://lilianaandliam.com/products/personalized-leather-journal-our-bucket-list-custom-leather-notebook-for-the-one-you-love-wedding-or-anniversary-gift-love-letters-memory-book",
+      "read_level": "web extracted full product description",
+      "fetched_at": "2026-10-07",
+      "cache_note": "web tool states crawled last year; historical cache",
+      "supports": [
+        "夫妻／男女朋友／準新人送禮用途",
+        "custom-printed vegan leather, 100 sheets / 200 lined pages",
+        "page includes official Facebook/Pinterest/Instagram/TikTok outbound links"
+      ],
+      "limits": "歷史快取仍含已過時的創辦人第一人稱敘述；價格、庫存及服務時效不可當即時資料。產品頁圖片僅有連結及 alt text，未觀看。",
+      "case_id": "B50-020",
+      "observed_at": "2026-10-07",
+      "prior_same_url_source_ids": []
+    },
+    {
+      "source_id": "LIL-DEEP-PRIOR-PROOF",
+      "url": "https://www.etsy.com/shop/LilianaAndLiam",
+      "read_level": "inherited official-account association proof from existing 50-brand registry",
+      "observed_at": "2026-10-07",
+      "supports": [
+        "Instagram https://www.instagram.com/lilianaandliam from Etsy About outbound link",
+        "TikTok https://www.tiktok.com/@lilianaandliam from official website outbound link"
+      ],
+      "limits": "關聯核查沿用已存證據，不稱為本輪新取得社交內容。",
+      "case_id": "B50-020",
+      "prior_same_url_source_ids": [
+        "etx-src-b37988f60be6"
+      ]
+    },
+    {
+      "source_id": "LIL-DEEP-SEARCH-01",
+      "url": "https://www.instagram.com/p/DdkJcEcI6GG/",
+      "read_level": "Firecrawl search excerpt only",
+      "observed_at": "2026-10-07",
+      "firecrawl_search_id": "01a116e7-b0df-714c-8faa-f27e1cc1b646",
+      "limits": "caption、媒體、音軌、日期、互動及發布者頁面均未完整核讀",
+      "case_id": "B50-020",
+      "prior_same_url_source_ids": [
+        "etx-src-eeac61916303"
+      ]
+    },
+    {
+      "source_id": "LIL-DEEP-SEARCH-02",
+      "url": "https://www.instagram.com/p/DcygjVvklHV/",
+      "read_level": "Firecrawl search excerpt only",
+      "observed_at": "2026-10-07",
+      "firecrawl_search_id": "01a116e7-b0df-714c-8faa-f27e1cc1b646",
+      "limits": "caption、媒體、音軌、日期、互動及發布者頁面均未完整核讀",
+      "case_id": "B50-020",
+      "prior_same_url_source_ids": []
+    },
+    {
+      "source_id": "LIL-DEEP-SEARCH-03",
+      "url": "https://www.instagram.com/p/DE5BXS8peIO/",
+      "read_level": "Firecrawl search excerpt only",
+      "observed_at": "2026-10-07",
+      "firecrawl_search_id": "01a116e7-b0df-714c-8faa-f27e1cc1b646",
+      "limits": "caption、媒體、音軌、日期、互動及發布者頁面均未完整核讀",
+      "case_id": "B50-020",
+      "prior_same_url_source_ids": [
+        "etx-src-c82aca407d1f"
+      ]
+    },
+    {
+      "source_id": "DSD-S01",
+      "url": "https://www.duncanandstone.com/",
+      "type": "official website",
+      "read_level": "本輪網頁文字讀取及重讀先前保存HTML的社交連結",
+      "supports": "品牌身份、官網指向Instagram及TikTok",
+      "date": "2026-10-07",
+      "case_id": "B50-037",
+      "observed_at": "2026-10-07",
+      "prior_same_url_source_ids": [
+        "ds:home"
+      ]
+    },
+    {
+      "source_id": "DSD-S02",
+      "url": "https://www.duncanandstone.com/products/dear-son-a-prompted-prayer-journal-childhood-keepsake",
+      "type": "official product page",
+      "read_level": "產品正文、內頁項目、FAQ已讀",
+      "supports": "引導式父母寫給孩子的角色；不能訂單客製；230頁亞麻金箔",
+      "date": "2026-10-07",
+      "case_id": "B50-037",
+      "observed_at": "2026-10-07",
+      "prior_same_url_source_ids": [
+        "ds:son"
+      ]
+    },
+    {
+      "source_id": "DSD-S03",
+      "url": "https://www.instagram.com/p/C17vzQcxLCv/",
+      "type": "official Instagram post search excerpt, reused",
+      "read_level": "先前Firecrawl索引節錄，未讀完整caption、圖片或影片",
+      "supports": "索引明列duncanandstone帳號、2024-01-10及祖父母記憶本補貨CTA",
+      "date": "2026-10-07",
+      "case_id": "B50-037",
+      "observed_at": "2026-10-07",
+      "prior_same_url_source_ids": [
+        "ds:content:grandparent-instagram:source",
+        "ds:social-search"
+      ]
+    },
+    {
+      "source_id": "DSD-S04",
+      "url": "https://www.duncanandstone.com/blogs/duncan-stone/easy-guide-how-to-start-a-prayer-journal-for-your-child",
+      "type": "official blog",
+      "read_level": "本輪重讀正文、FAQ及CTA；未審圖片",
+      "supports": "少量可開始的祈禱寫作方法、孩子不愛寫字的FAQ、最後導向商品系列",
+      "published_at": "2026-05-08",
+      "date_precision_note": "沿用既有完整台帳已核文章日期；本輪頁末同日相鄰文章日期不是另一次獨立日期證據。",
+      "date": "2026-10-07",
+      "case_id": "B50-037",
+      "observed_at": "2026-10-07",
+      "prior_same_url_source_ids": [
+        "ds:content:prayer:source"
+      ]
+    },
+    {
+      "source_id": "DSD-S05",
+      "url": "https://www.instagram.com/reel/DeAjNBZpUAY/",
+      "type": "new indexed Reel candidate",
+      "read_level": "Firecrawl搜尋標題／不完整節錄",
+      "supports": "存在祈禱記憶相關候選URL；尚不足確認作者或完整內容",
+      "date": "2026-10-07",
+      "case_id": "B50-037",
+      "observed_at": "2026-10-07",
+      "prior_same_url_source_ids": [],
+      "identity_status": "候選 作者未核",
+      "case_relation": "針對B50-037搜尋發現的線索，不代表已核品牌擁有"
+    },
+    {
+      "source_id": "DSD-S06",
+      "url": "https://www.instagram.com/p/B9gtrfZAt75/",
+      "type": "new indexed post candidate",
+      "read_level": "Firecrawl搜尋標題／不完整節錄",
+      "supports": "腳印、聖經、祈禱卡第27週主題候選；作者未核",
+      "date": "2026-10-07",
+      "case_id": "B50-037",
+      "observed_at": "2026-10-07",
+      "prior_same_url_source_ids": [],
+      "identity_status": "候選 作者未核",
+      "case_relation": "針對B50-037搜尋發現的線索，不代表已核品牌擁有"
+    }
+  ],
+  "reused_source_ids": [
+    "CB-S038",
+    "CB-S172",
+    "CB-S071"
+  ],
+  "method_analyses": [
+    {
+      "analysis_id": "SD-M01",
+      "case_id": "B50-040",
+      "source_id": "CB-S038",
+      "url": "https://www.youtube.com/watch?v=1kr2kgEyx-c",
+      "title_original": "My Morning Routine with The Daily Grace Co.",
+      "published_at": "2022-01-20",
+      "source_observed_at": "2026-10-07",
+      "analysis_date": "2026-10-07",
+      "read_level": "重用2026-10-07較早已核完整逐字稿的來源記錄；本輪未重新取得全文或觀看畫面",
+      "new_full_read": false,
+      "method_title_zh": "把產品放進一個容易開始的日常動作",
+      "opening_message_paraphrase": "以早晨的日常流程帶入Bible、journal及study bundle的分工。",
+      "spoken_or_text_progression_paraphrase": "從早晨習慣開始；介紹各物品用途；把用途連回可查產品。",
+      "actual_cta_scope": "影片description列精確產品連結；未把它改稱口述立即購買指令。",
+      "customer_question_inferred": "我買了這本，可以怎樣開始用？",
+      "question_status": "研究者概括的購買問題，不是已讀顧客留言",
+      "actual_visual_sequence": null,
+      "visual_limit": "畫面、鏡頭時長、字幕位置、剪輯與音樂均未核；以下原創分鏡不是原片拆鏡。",
+      "transfer_boundary": "只借日常使用與產品證據的順序。本店空白間線內頁不具有它的guided study架構。",
+      "success_limit": "單一歷史影片與其互動不能證明近期TikTok／Etsy轉換、純自然流量或利潤。"
+    },
+    {
+      "analysis_id": "SD-M02",
+      "case_id": "B50-041",
+      "source_id": "CB-S172",
+      "url": "https://www.youtube.com/watch?v=OR0jnd7c9wA",
+      "title_original": "Intro to the James Method System",
+      "published_at": "2024-10-04",
+      "source_observed_at": "2026-10-07",
+      "analysis_date": "2026-10-07",
+      "read_level": "重用2026-10-07較早已核完整逐字稿的來源記錄；本輪未重新取得全文或觀看畫面",
+      "new_full_read": false,
+      "method_title_zh": "先解決不知道從何開始",
+      "opening_message_paraphrase": "面向不知如何深入閱讀的人，解釋study系統的各層。",
+      "spoken_or_text_progression_paraphrase": "書卷背景；每章摘要；個別經文與字詞；說明各產品配合。",
+      "actual_cta_scope": "片末邀請問題；本輪沒有逐字確認更多口述CTA。",
+      "customer_question_inferred": "這幾件產品有甚麼不同，我應從哪裏開始？",
+      "question_status": "研究者概括的購買問題，不是已讀顧客留言",
+      "actual_visual_sequence": null,
+      "visual_limit": "畫面、鏡頭時長、字幕位置、剪輯與音樂均未核；以下原創分鏡不是原片拆鏡。",
+      "transfer_boundary": "本店較簡單，縮成一條選購問題：可改甚麼、內頁是甚麼、誰會用。不要宣稱本店有word-study課程或guided prompts。",
+      "success_limit": "單一歷史影片與其互動不能證明近期TikTok／Etsy轉換、純自然流量或利潤。"
+    },
+    {
+      "analysis_id": "SD-M03",
+      "case_id": "B50-042",
+      "source_id": "CB-S071",
+      "url": "https://www.youtube.com/watch?v=q-4kqu8YVkA",
+      "title_original": "Can The Well-Watered Woman Book + Journal Be Used Independently?",
+      "published_at": "2021-01-19",
+      "source_observed_at": "2026-10-07",
+      "analysis_date": "2026-10-07",
+      "read_level": "重用2026-10-07較早已核完整逐字稿的來源記錄；本輪未重新取得全文或觀看畫面",
+      "new_full_read": false,
+      "method_title_zh": "一支短片回答一個購買疑問",
+      "opening_message_paraphrase": "直接處理書本與配套journal能否獨立使用。",
+      "spoken_or_text_progression_paraphrase": "提出單一問題；直接回答能各自使用；區分互動實作與背景解說。",
+      "actual_cta_scope": "本日先前台帳未保存明確片末CTA，維持未知。",
+      "customer_question_inferred": "一定要一起買，還是只買journal也可以？",
+      "question_status": "研究者概括的購買問題，不是已讀顧客留言",
+      "actual_visual_sequence": null,
+      "visual_limit": "畫面、鏡頭時長、字幕位置、剪輯與音樂均未核；以下原創分鏡不是原片拆鏡。",
+      "transfer_boundary": "借單題FAQ的清楚程度，不套它的book bundle。本店可回答內頁是否已印經文、姓名印在哪裏。",
+      "success_limit": "單一歷史影片與其互動不能證明近期TikTok／Etsy轉換、純自然流量或利潤。"
+    }
+  ],
+  "limited_samples": [
+    {
+      "sample_id": "DSD-01",
+      "platform": "Instagram",
+      "status": "既有樣本重用，未升級讀取深度",
+      "permalink": "https://www.instagram.com/p/C17vzQcxLCv/",
+      "published_at": "2024-01-10",
+      "published_at_evidence": "先前Firecrawl搜尋節錄明列帳號及日期；時區未知",
+      "read_level": "INDEX_EXCERPT_ONLY",
+      "full_caption_read": false,
+      "video_watched": false,
+      "visual_review": false,
+      "hook_quote": "The Grandparent Memory Book is back in stock!!",
+      "hook_zh": "用明確商品補貨作開場",
+      "visual_sequence": null,
+      "spoken_story": null,
+      "text_story_observed": "索引只見祖父母記憶本補貨及送禮引導。",
+      "cta_quote": "Grab the perfect gift",
+      "cta_scope": "不完整索引節錄，不宣稱是完整結尾CTA",
+      "customer_question_actual": null,
+      "buyer_question_inferred": "想送祖父母一本記憶本，現在能買嗎？（分析推論，非實際留言）",
+      "product": "Grandparent Memory Book",
+      "product_url": null,
+      "buyer": "送祖父母禮物的人（推論）",
+      "giver": "未指明",
+      "recipient": "祖父母（依商品名稱）",
+      "writer": "此節錄未說明",
+      "occasion": "未說明",
+      "visible_metrics": {
+        "likes": 11,
+        "comments": 0,
+        "scope": "先前搜尋索引快照，非當前即時數據"
+      },
+      "mechanism_hypothesis": "商品名稱、可購狀態與送禮目的在開場靠近，可能減少理解步驟；沒有成交歸因證據。",
+      "mygiftstyle_transfer_limit": "只借明確用途；MyGiftStyle未核補貨事件，不可寫back in stock或營造虛假稀缺。",
+      "source_ids": [
+        "DSD-S01",
+        "DSD-S03"
+      ]
+    },
+    {
+      "sample_id": "DSD-02",
+      "platform": "Official blog",
+      "status": "完整文字補充，不能算社交短片",
+      "permalink": "https://www.duncanandstone.com/blogs/duncan-stone/easy-guide-how-to-start-a-prayer-journal-for-your-child",
+      "published_at": "2026-05-08",
+      "read_level": "FULL_BODY_FAQ_CTA_READ_NO_IMAGE_REVIEW",
+      "full_caption_read": null,
+      "video_watched": false,
+      "visual_review": false,
+      "hook_zh": "將祈禱習慣連到可留下的家庭信仰記錄，並降低開始難度。",
+      "visual_sequence": null,
+      "spoken_story": null,
+      "text_story_observed": "先提出品牌使命，再列孩子可做的小活動和寫作區塊，以FAQ處理不喜歡寫字、頻率及是否需買特別本子的疑問，最後導向Childhood Prayer Journals。",
+      "actual_cta": "Shop our Childhood Prayer Journals",
+      "customer_question_actual": "官方自寫FAQ詢問孩子不喜歡寫字怎麼辦，建議畫畫或由家長代筆；不是顧客留言證據。",
+      "buyer_question_inferred": "我或收禮人不知道第一頁要寫什麼，能否容易開始？",
+      "product": "Childhood Prayer Journals系列",
+      "product_url": "https://www.duncanandstone.com/collections/childhood-prayer-journals",
+      "buyer": "文章向家長說話",
+      "giver": "未指定",
+      "recipient": "孩子及家庭",
+      "writer": "本文孩子畫／寫或家長代筆；指定Dear Son SKU的主要角色為父母記錄，兩者保留差別。",
+      "occasion": "日常信仰記錄",
+      "visible_metrics": {
+        "comments": 0,
+        "scope": "本輪頁面所示；不代表閱讀數或銷售"
+      },
+      "mechanism_hypothesis": "用一個小起步示範處理空白頁疑問，可能比只列材質更好說明用途；本輪無本店數據驗證。",
+      "mygiftstyle_transfer_limit": "示範手寫內容要清楚是使用者自行加入，不是假裝原本印有引導題目。",
+      "source_ids": [
+        "DSD-S02",
+        "DSD-S04"
+      ]
+    }
+  ],
+  "access_audit": [
+    {
+      "time_utc": "2026-10-07T15:05:05Z",
+      "url": "https://www.tiktok.com/@lilianaandliam",
+      "status": "not_accessible_via_tool",
+      "case_id": "B50-020"
+    },
+    {
+      "time_utc": "2026-10-07T15:05:25Z",
+      "query": "\"lilianaandliam\" site:tiktok.com",
+      "status": "robots_blocked_non_retryable",
+      "case_id": "B50-020"
+    },
+    {
+      "time_utc": "2026-10-07T15:05:05Z",
+      "url": "https://www.instagram.com/p/DE5BXS8peIO/",
+      "status": "cache_miss",
+      "case_id": "B50-020"
+    },
+    {
+      "time_utc": "2026-10-07T15:06:19Z",
+      "url": "https://www.instagram.com/p/DE5BXS8peIO/",
+      "status": "unsupported_site",
+      "error_code": "INVALID_ARGUMENT",
+      "session_id": null,
+      "case_id": "B50-020"
+    },
+    {
+      "time_utc": "2026-10-07T15:06:40Z",
+      "url": "https://www.instagram.com/p/Ddoy_ccmZyW/",
+      "status": "cache_miss",
+      "case_id": "B50-020"
+    },
+    {
+      "time_utc": "2026-10-07T15:06:40Z",
+      "url": "https://www.instagram.com/p/Dd6tvyfgdpG/",
+      "status": "cache_miss",
+      "case_id": "B50-020"
+    },
+    {
+      "time_utc": "2026-10-07T15:05:37Z",
+      "queries": [
+        "\"lilianaandliam\" site:youtube.com",
+        "\"Liliana and Liam\" YouTube",
+        "\"lilianaandliam\" \"youtube.com/watch\""
+      ],
+      "status": "no_verified_channel_found_in_bounded_search",
+      "case_id": "B50-020"
+    },
+    {
+      "time_utc": "2026-10-07T15:06:40Z",
+      "queries": [
+        "site:lilianaandliam.com \"video\"",
+        "site:lilianaandliam.com \"instagram\" \"tiktok\""
+      ],
+      "status": "no_results",
+      "case_id": "B50-020"
+    },
+    {
+      "time_utc": "2026-10-07T15:07:24Z",
+      "query": "\"lilianaandliam\" site:instagram.com/p/",
+      "status": "success_excerpts_only",
+      "creditsUsed": 2,
+      "search_id": "01a116e7-b0df-714c-8faa-f27e1cc1b646",
+      "case_id": "B50-020"
+    },
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@duncanandstone",
+      "tool": "web.open",
+      "status": "INTERNAL_ERROR_NO_CONTENT",
+      "case_id": "B50-037"
+    },
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@duncanandstone/video",
+      "tool": "web.search_query",
+      "status": "ROBOTS_NON_RETRYABLE",
+      "case_id": "B50-037"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/reel/DeAjNBZpUAY/",
+      "tool": "web.open",
+      "status": "CACHE_MISS",
+      "case_id": "B50-037"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/p/B9gtrfZAt75/",
+      "tool": "web.open",
+      "status": "CACHE_MISS",
+      "case_id": "B50-037"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/reel/DeAjNBZpUAY/",
+      "tool": "firecrawl.scrape basic proxy",
+      "status": "UNSUPPORTED_SITE",
+      "case_id": "B50-037"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@duncanandstone",
+      "tool": "web.open",
+      "status": "CACHE_MISS",
+      "case_id": "B50-037"
+    },
+    {
+      "platform": "Social search",
+      "query": "site:instagram.com duncanandstone prayer",
+      "tool": "firecrawl.search",
+      "status": "SUCCESS_EXCERPTS_ONLY",
+      "credits_used": 2,
+      "search_id": "01a116e6-8d16-750a-a5d7-bfaef99a88eb",
+      "case_id": "B50-037"
+    },
+    {
+      "platform": "Instagram search",
+      "query": "duncanandstone on prayer site:instagram.com",
+      "tool": "firecrawl.search",
+      "status": "INTERNAL_ERROR",
+      "case_id": "B50-037"
+    },
+    {
+      "case_id": "B50-040",
+      "url": "https://www.youtube.com/watch?v=1kr2kgEyx-c",
+      "status": "MCP_REQUEST_TIMED_OUT",
+      "observed_at": "2026-10-07",
+      "result": "未取得畫面或字幕；未收到可用session ID，不宣稱已觀看。"
+    },
+    {
+      "case_id": "B50-040",
+      "url": "https://www.youtube.com/watch?v=1kr2kgEyx-c",
+      "status": "INTERNAL_ERROR",
+      "observed_at": "2026-10-07",
+      "result": "未取得新內容；停止重試。"
+    },
+    {
+      "case_id": "B50-041",
+      "url": "https://www.youtube.com/watch?v=OR0jnd7c9wA",
+      "status": "INTERNAL_ERROR",
+      "observed_at": "2026-10-07",
+      "result": "重用較早已讀字幕記錄，未升級畫面深度。"
+    },
+    {
+      "case_id": "B50-042",
+      "url": "https://www.youtube.com/watch?v=q-4kqu8YVkA",
+      "status": "INTERNAL_ERROR",
+      "observed_at": "2026-10-07",
+      "result": "重用較早已讀字幕記錄，未升級畫面深度。"
+    },
+    {
+      "case_id": "B50-030",
+      "url": "https://www.instagram.com/merryheartco/",
+      "status": "NOT_RETRIED_KNOWN_UNSUPPORTED",
+      "observed_at": "2026-10-07",
+      "result": "本輪不重複不支援的Instagram讀取；未新增Merry社交方法案例。"
+    }
+  ],
+  "context_changes": [
+    {
+      "finding": "官網現行 About 敘述家人延續已故創辦人所創品牌。",
+      "source_id": "LIL-DEEP-ABOUT-01",
+      "impact": "舊商品頁的創辦人第一人稱是歷史快取；不能據此認定現在仍由創辦人經營。品牌的哀傷／傳承故事不能移植為 MyGiftStyle 自身經歷。"
+    }
+  ],
+  "original_drafts": [
+    {
+      "draft_id": "MGS-SD-D01",
+      "status": "原創草稿 尚未拍攝或發布 未證實成效",
+      "title_zh": "用真實內頁回答一個問題",
+      "hook_en": "What's inside?",
+      "roles": {
+        "intended_buyer": "送禮者或自用者",
+        "giver": "未限定",
+        "recipient": "所選款收禮者",
+        "writer": "收禮者自行書寫",
+        "occasion": "一般選購／信仰書寫"
+      },
+      "product_scope": "任何已核200間線素皮journal款，不借其他SKU照片或選項。",
+      "customer_question_inferred": "內頁已有文字嗎，還是自己寫？",
+      "source_basis": [
+        "SD-M03／CB-S071：單題FAQ結構",
+        "OWN-S02：印刷素皮與200間線頁；OWN-S03：印刷工藝限制，該記錄頁數未核"
+      ],
+      "storyboard": [
+        {
+          "seconds": "0–2",
+          "original_proposed_visual": "實拍已核姓名封面，清楚看見原設計；不加不存在的立體刻痕。",
+          "on_screen_text_en": "What's inside?"
+        },
+        {
+          "seconds": "2–6",
+          "original_proposed_visual": "翻開同一本的真實間線頁。",
+          "on_screen_text_en": "200 lined pages for your own words."
+        },
+        {
+          "seconds": "6–12",
+          "original_proposed_visual": "成人在示範本寫一行原創筆記，旁註只是使用示例。",
+          "on_screen_text_en": "A note. A prayer. A place to begin."
+        },
+        {
+          "seconds": "12–18",
+          "original_proposed_visual": "回到封面與姓名位置。",
+          "on_screen_text_en": "Printed on the cover. Personal to you."
+        }
+      ],
+      "caption_en": "Wondering what’s inside? The personalized design is printed on the cover, with 200 lined pages inside for your own prayers, notes, and reflections. Take a closer look at the exact design and personalization options in our Etsy shop.",
+      "cta_en": "Find MyGiftStyle on Etsy and check the exact design and personalization details.",
+      "channel_use": "可用於已存在且當週有餘裕的IG／Facebook；TikTok只是未來可重用格式，不表示已開戶或決定新增平台。",
+      "rights_and_truth": [
+        "只用自己有權使用的實物／準確既有素材，不改封面圖案或商品構造。",
+        "示範名用虛構成年姓名；不冒充顧客訂單、UGC、推薦或個人見證。",
+        "內頁示例必須是自己手寫；不得稱預印禱告／經文／guided內容。",
+        "只宣稱印刷素皮與已核200間線頁；不得稱雕刻、自己裝訂或自家印刷。"
+      ],
+      "publication_gates": [
+        "確認所選Pastor／Daughter設計對應實際可售SKU及可改欄位。",
+        "真實內頁素材可用才拍翻頁；沒有實物則用清楚標為mockup的準確封面及產品文字，不偽造翻頁。",
+        "核對Etsy落地頁可開、價格與交期；不預設link in bio已設定或TikTok提供點擊功能。",
+        "本輪僅草稿；發布前確認當次明確授權涵蓋具體內容及平台。"
+      ],
+      "effort": "若已有真實素材，選一份在共同每週3–5小時內製作；不是五份同週任務。"
+    },
+    {
+      "draft_id": "MGS-SD-D02",
+      "status": "原創草稿 尚未拍攝或發布 未證實成效",
+      "title_zh": "牧者感謝先說為何送",
+      "hook_en": "For the pastor who has encouraged you.",
+      "roles": {
+        "intended_buyer": "曾受牧者幫助的成人",
+        "giver": "成人會友／親友，屬選定創作情境",
+        "recipient": "牧者",
+        "writer": "牧者自己書寫",
+        "occasion": "感謝與鼓勵，不限定某節日或期限"
+      },
+      "product_scope": "只用店主已核Pastor設計；此處不新增經文、職銜、教會名或背面客製服務。",
+      "customer_question_inferred": "送牧者一本journal，有甚麼具體意義和用途？",
+      "source_basis": [
+        "SD-M01／CB-S038：從具體使用到產品",
+        "B50-019 CherishLaneGifts：牧者感謝任務，非本文已看其社交影片"
+      ],
+      "storyboard": [
+        {
+          "seconds": "0–3",
+          "original_proposed_visual": "實拍已核Pastor設計封面與名字；只顯示實際藝術內容。",
+          "on_screen_text_en": "For the pastor who has encouraged you."
+        },
+        {
+          "seconds": "3–7",
+          "original_proposed_visual": "拍姓名區與印刷表面實物近景，保持原來字體。",
+          "on_screen_text_en": "A name that makes it personal."
+        },
+        {
+          "seconds": "7–13",
+          "original_proposed_visual": "翻開真實間線頁；成人示範寫日期和一行筆記。",
+          "on_screen_text_en": "Room for notes, prayers, and reflections."
+        },
+        {
+          "seconds": "13–20",
+          "original_proposed_visual": "同本封面平放，簡單清楚的行動文字。",
+          "on_screen_text_en": "See the journal details on Etsy."
+        }
+      ],
+      "caption_en": "For the pastor whose encouragement has meant so much. A personalized printed journal with 200 lined pages for notes, prayers, and reflections. Choose the name exactly as you’d like it printed, and check the full design and personalization details in our Etsy shop.",
+      "cta_en": "Find MyGiftStyle on Etsy and check the exact design and personalization details.",
+      "channel_use": "可用於已存在且當週有餘裕的IG／Facebook；TikTok只是未來可重用格式，不表示已開戶或決定新增平台。",
+      "rights_and_truth": [
+        "只用自己有權使用的實物／準確既有素材，不改封面圖案或商品構造。",
+        "示範名用虛構成年姓名；不冒充顧客訂單、UGC、推薦或個人見證。",
+        "內頁示例必須是自己手寫；不得稱預印禱告／經文／guided內容。",
+        "只宣稱印刷素皮與已核200間線頁；不得稱雕刻、自己裝訂或自家印刷。"
+      ],
+      "publication_gates": [
+        "確認所選Pastor／Daughter設計對應實際可售SKU及可改欄位。",
+        "真實內頁素材可用才拍翻頁；沒有實物則用清楚標為mockup的準確封面及產品文字，不偽造翻頁。",
+        "核對Etsy落地頁可開、價格與交期；不預設link in bio已設定或TikTok提供點擊功能。",
+        "本輪僅草稿；發布前確認當次明確授權涵蓋具體內容及平台。"
+      ],
+      "effort": "若已有真實素材，選一份在共同每週3–5小時內製作；不是五份同週任務。"
+    },
+    {
+      "draft_id": "MGS-SD-D03",
+      "status": "原創草稿 尚未拍攝或發布 未證實成效",
+      "title_zh": "女兒自己寫下新的篇章",
+      "hook_en": "Her name. Her next chapter.",
+      "roles": {
+        "intended_buyer": "父母",
+        "giver": "父母",
+        "recipient": "成年女兒",
+        "writer": "女兒本人",
+        "occasion": "日常鼓勵／新的生活階段"
+      },
+      "product_scope": "使用已核Daughter款；不宣稱附孩子成長prompts、預印prayers或人生規劃課程。",
+      "customer_question_inferred": "這份禮物是女兒自己使用，還是父母代寫？",
+      "source_basis": [
+        "DSD-02：用小步驟說明書寫用途",
+        "DSD-S02：競品父母寫給孩子；本草稿刻意改為女兒自己寫"
+      ],
+      "storyboard": [
+        {
+          "seconds": "0–3",
+          "original_proposed_visual": "已核Daughter款封面與虛構成年姓名。",
+          "on_screen_text_en": "Her name. Her next chapter."
+        },
+        {
+          "seconds": "3–7",
+          "original_proposed_visual": "清楚展示真實間線內頁，避免以guided題目填滿。",
+          "on_screen_text_en": "200 lined pages for her own words."
+        },
+        {
+          "seconds": "7–12",
+          "original_proposed_visual": "成年手在示範本寫原創一句短筆記；標明使用示範。",
+          "on_screen_text_en": "A place for prayers, plans, and reflections."
+        },
+        {
+          "seconds": "12–18",
+          "original_proposed_visual": "以原封面收尾，不演虛假拆禮反應。",
+          "on_screen_text_en": "Explore the personalized journal on Etsy."
+        }
+      ],
+      "caption_en": "A gift for your daughter as she begins her next chapter. Her name on the printed cover, with 200 lined pages for her own prayers, plans, and reflections. Explore the exact design and personalization details in our Etsy shop.",
+      "cta_en": "Find MyGiftStyle on Etsy and check the exact design and personalization details.",
+      "channel_use": "可用於已存在且當週有餘裕的IG／Facebook；TikTok只是未來可重用格式，不表示已開戶或決定新增平台。",
+      "rights_and_truth": [
+        "只用自己有權使用的實物／準確既有素材，不改封面圖案或商品構造。",
+        "示範名用虛構成年姓名；不冒充顧客訂單、UGC、推薦或個人見證。",
+        "內頁示例必須是自己手寫；不得稱預印禱告／經文／guided內容。",
+        "只宣稱印刷素皮與已核200間線頁；不得稱雕刻、自己裝訂或自家印刷。"
+      ],
+      "publication_gates": [
+        "確認所選Pastor／Daughter設計對應實際可售SKU及可改欄位。",
+        "真實內頁素材可用才拍翻頁；沒有實物則用清楚標為mockup的準確封面及產品文字，不偽造翻頁。",
+        "核對Etsy落地頁可開、價格與交期；不預設link in bio已設定或TikTok提供點擊功能。",
+        "本輪僅草稿；發布前確認當次明確授權涵蓋具體內容及平台。"
+      ],
+      "effort": "若已有真實素材，選一份在共同每週3–5小時內製作；不是五份同週任務。"
+    },
+    {
+      "draft_id": "MGS-SD-D04",
+      "status": "原創草稿 尚未拍攝或發布 未證實成效",
+      "title_zh": "先寫一段自己的心意再送出",
+      "hook_en": "Her name on the cover. Your words on the first page.",
+      "roles": {
+        "intended_buyer": "父母",
+        "giver": "父母",
+        "recipient": "成年女兒",
+        "writer": "送禮者可先親筆寫一頁；女兒之後使用",
+        "occasion": "一般鼓勵／生日情境待選"
+      },
+      "product_scope": "手寫心意是買家收貨後自行添加的可選做法，店舖沒有承諾代寫、預寫或額外配送服務。若直寄收禮者，這個使用流程不適用。",
+      "customer_question_inferred": "只加一個名字之外，如何讓禮物更有自己的心意？",
+      "source_basis": [
+        "LIL-DEEP-PRODUCT-01：具體送禮者書寫用途；不是已看社群方法",
+        "SD-M01：以一個容易開始的動作展示用途"
+      ],
+      "storyboard": [
+        {
+          "seconds": "0–3",
+          "original_proposed_visual": "Daughter款原封面及姓名清楚入鏡。",
+          "on_screen_text_en": "Her name on the cover."
+        },
+        {
+          "seconds": "3–8",
+          "original_proposed_visual": "送禮者示範在真實第一頁手寫短句，不顯示真實顧客個資。",
+          "on_screen_text_en": "Your words on the first page."
+        },
+        {
+          "seconds": "8–14",
+          "original_proposed_visual": "手寫原創提示 One thing I admire about you is… 並明示是自己加寫。",
+          "on_screen_text_en": "A note idea to write yourself."
+        },
+        {
+          "seconds": "14–20",
+          "original_proposed_visual": "合上同一本，回到實際封面。",
+          "on_screen_text_en": "Add your own note before gifting."
+        }
+      ],
+      "caption_en": "Her name on the cover. A few words from you on the first page. If you’d like, add your own handwritten note before giving her the journal. The printed personalized cover and 200 lined pages leave room for the words she’ll write next. Find the details in our Etsy shop.",
+      "cta_en": "Find MyGiftStyle on Etsy and check the exact design and personalization details.",
+      "channel_use": "可用於已存在且當週有餘裕的IG／Facebook；TikTok只是未來可重用格式，不表示已開戶或決定新增平台。",
+      "rights_and_truth": [
+        "只用自己有權使用的實物／準確既有素材，不改封面圖案或商品構造。",
+        "示範名用虛構成年姓名；不冒充顧客訂單、UGC、推薦或個人見證。",
+        "內頁示例必須是自己手寫；不得稱預印禱告／經文／guided內容。",
+        "只宣稱印刷素皮與已核200間線頁；不得稱雕刻、自己裝訂或自家印刷。"
+      ],
+      "publication_gates": [
+        "確認所選Pastor／Daughter設計對應實際可售SKU及可改欄位。",
+        "真實內頁素材可用才拍翻頁；沒有實物則用清楚標為mockup的準確封面及產品文字，不偽造翻頁。",
+        "核對Etsy落地頁可開、價格與交期；不預設link in bio已設定或TikTok提供點擊功能。",
+        "本輪僅草稿；發布前確認當次明確授權涵蓋具體內容及平台。",
+        "買家先收到實物才可親筆寫第一頁；直送收禮者時選其他草稿，不提供店舖代寫服務。"
+      ],
+      "effort": "若已有真實素材，選一份在共同每週3–5小時內製作；不是五份同週任務。"
+    },
+    {
+      "draft_id": "MGS-SD-D05",
+      "status": "原創草稿 尚未拍攝或發布 未證實成效",
+      "title_zh": "下單前只核對三件事",
+      "hook_en": "Before you personalize it…",
+      "roles": {
+        "intended_buyer": "正在選購的送禮者",
+        "giver": "未限定",
+        "recipient": "所選SKU指定對象",
+        "writer": "按所選用途",
+        "occasion": "下單前個人化確認"
+      },
+      "product_scope": "只標出所選SKU確實允許更改的欄位，不加照片、背面字、日期、校稿或加急服務。",
+      "customer_question_inferred": "我下單前要準備哪些資料，哪些部分可以改？",
+      "source_basis": [
+        "SD-M02／CB-S172：先區分產品任務，再給下一步",
+        "OWN-Q05：不能把泛用描述當每款可改欄位"
+      ],
+      "storyboard": [
+        {
+          "seconds": "0–3",
+          "original_proposed_visual": "展示所選款真實封面，不變更圖案。",
+          "on_screen_text_en": "Before you personalize it…"
+        },
+        {
+          "seconds": "3–7",
+          "original_proposed_visual": "框出實際可改的姓名區，採字數合規的虛構成年名。",
+          "on_screen_text_en": "1. Check the name and spelling."
+        },
+        {
+          "seconds": "7–11",
+          "original_proposed_visual": "畫面並列原封面和真實間線內頁。",
+          "on_screen_text_en": "2. Check the cover and pages."
+        },
+        {
+          "seconds": "11–16",
+          "original_proposed_visual": "以中性文字引導看具體商品條件，避免承諾固定交期。",
+          "on_screen_text_en": "3. Read the listing details."
+        }
+      ],
+      "caption_en": "A quick check before you order: confirm the name and spelling, look at the cover and lined pages, and read the exact personalization options in the listing. Each design has its own details. Find MyGiftStyle on Etsy when you’re ready to take a closer look.",
+      "cta_en": "Find MyGiftStyle on Etsy and check the exact design and personalization details.",
+      "channel_use": "可用於已存在且當週有餘裕的IG／Facebook；TikTok只是未來可重用格式，不表示已開戶或決定新增平台。",
+      "rights_and_truth": [
+        "只用自己有權使用的實物／準確既有素材，不改封面圖案或商品構造。",
+        "示範名用虛構成年姓名；不冒充顧客訂單、UGC、推薦或個人見證。",
+        "內頁示例必須是自己手寫；不得稱預印禱告／經文／guided內容。",
+        "只宣稱印刷素皮與已核200間線頁；不得稱雕刻、自己裝訂或自家印刷。"
+      ],
+      "publication_gates": [
+        "確認所選Pastor／Daughter設計對應實際可售SKU及可改欄位。",
+        "真實內頁素材可用才拍翻頁；沒有實物則用清楚標為mockup的準確封面及產品文字，不偽造翻頁。",
+        "核對Etsy落地頁可開、價格與交期；不預設link in bio已設定或TikTok提供點擊功能。",
+        "本輪僅草稿；發布前確認當次明確授權涵蓋具體內容及平台。"
+      ],
+      "effort": "若已有真實素材，選一份在共同每週3–5小時內製作；不是五份同週任務。"
+    }
+  ],
+  "budget": {
+    "total_owner_week_hours": "3–5，包括履約及客服",
+    "example_minutes": {
+      "fulfillment_customer_service": 90,
+      "capture_one_batch": 45,
+      "edit_one_selected_draft": 30,
+      "arrange_existing_channels": 20,
+      "review": 25
+    },
+    "total_example_minutes": 210,
+    "rules": [
+      "只選一份稿，不把5份同週相加。",
+      "可用3小時週需減30分鐘內容；若履約增加則再減量。",
+      "已存在主渠道優先；TikTok沒有新增帳戶／每日發片計劃。",
+      "與原90天零主動投放計劃共用，起訖未知不重設。"
+    ]
+  },
+  "measurement": {
+    "primary": "可取得的商品點擊及有效個人化詢問；缺觸及分母則只記原數",
+    "secondary": "同SKU店訪與訂單及實際製作分鐘；無逐帖歸因則unknown",
+    "window": "候選檢視設定：每則7天記錄、同格式3個樣本後才作暫定比較；不是平台要求或已證明樣本門檻。流量不足維持未定，按實際目標調整。",
+    "offsite_ads": "Etsy Social可能含Offsite Ads；零自行投放不等於純自然。"
+  },
+  "boundaries": [
+    "觀察到的口述結構、研究者推論與原創分鏡三層分開。",
+    "草稿裡的秒數、畫面、caption和CTA皆新創；不是競品原片逐鏡記錄。",
+    "沒有把未知Fresh品牌解作FARFETCH，也沒有新增品牌池或教師。",
+    "研究及草稿不授權發布、聯絡、投放、購買、開戶或設定監察。",
+    "社交分鏡不是可直接上傳Etsy的成品；Etsy商品影片另按當前規格縮編並核對。"
+  ],
+  "reused_owner_evidence": [
+    {
+      "source_id": "OWN-S02",
+      "url": "https://www.etsy.com/listing/4533436478",
+      "observed_at": "2026-10-07",
+      "read_level": "重用本日已核本店商品頁",
+      "supports": {
+        "cover_material": "vegan leather",
+        "cover_process": "printed",
+        "size_inches": "W 5.8 × L 8.5 × 5/8",
+        "pages": "100 sheets / 200 lined pages",
+        "closure": "brown elastic band",
+        "bookmark": "ribbon",
+        "weight_ounces": 11.33,
+        "personalization": [
+          "custom name",
+          "Est. year",
+          "Bible verse"
+        ]
+      }
+    },
+    {
+      "source_id": "OWN-S03",
+      "url": "https://www.etsy.com/listing/4521175482",
+      "observed_at": "2026-10-07",
+      "read_level": "重用本日已核本店商品頁",
+      "supports": {
+        "cover_material": "vegan leather",
+        "cover_process": "printed; explicitly not engraved, embossed, debossed, carved, stamped or burned",
+        "personalization_description": [
+          "name",
+          "year",
+          "short message",
+          "faith phrase"
+        ],
+        "visible_personalization_controls": [
+          "Custom Name (Case-sensitive)",
+          "2026"
+        ],
+        "pages": null
+      }
+    },
+    {
+      "source_id": "OWN-S04",
+      "url": "https://www.etsy.com/listing/4526837390",
+      "observed_at": "2026-10-07",
+      "read_level": "重用本日已核本店商品頁",
+      "supports": {
+        "personalization_control": "Custom Name (Case-sensitive), 15-character visible field",
+        "cover_material": null,
+        "cover_process": null,
+        "pages": null
+      }
+    }
+  ],
+  "owner_issue_reference": {
+    "OWN-Q05": {
+      "source_id": "OWN-S04",
+      "finding": "泛用文字提照片／日期／訊息，但控制欄只核姓名，不能跨欄位宣傳。"
+    }
+  },
+  "integration": {
+    "brand_release": "2026.10.07.5",
+    "etsy_release": "2026.10.07.6",
+    "combined_B50_and_social_source_records": 382,
+    "combined_distinct_urls": 371,
+    "base_content_sample_count_unchanged": 137,
+    "no_new_full_social_reads": true,
+    "drafts_are_not_observed_content": true
+  }
+}

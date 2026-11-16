@@ -1,0 +1,207 @@
+{
+  "release": "2026.10.07.2",
+  "type": "品牌案例來源表，非教練新片台帳",
+  "sources": [
+    {
+      "source_id": "FF-S01",
+      "title": "公司定位與規模",
+      "url": "https://aboutfarfetch.com/about/farfetch/",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S02",
+      "title": "Coupang 收購公告 2024年1月31日",
+      "url": "https://ir.aboutcoupang.com/news-events/news/news-details/2024/Coupang-Completes-Acquisition-of-Farfetch/default.aspx",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S03",
+      "title": "Coupang 2025年年報",
+      "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000024/cpng-20251231.htm",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S04",
+      "title": "Coupang 2024年第四季與全年業績",
+      "url": "https://ir.aboutcoupang.com/news-events/news/news-details/2025/Coupang-Announces-Results-for-Fourth-Quarter-2024-51017a495/default.aspx",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S05",
+      "title": "Coupang 2026年第二季業績",
+      "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000070/cpng-06302026ex991.htm",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S06",
+      "title": "FARFETCH 官方社群連結目錄",
+      "url": "https://aboutfarfetch.com/news/social-media/",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S07",
+      "title": "FARFETCH 全球 Facebook 頁",
+      "url": "https://www.facebook.com/Farfetch/",
+      "checked_date": "2026-10-07",
+      "scope": "搜尋索引／節錄，非完整即場平台盤點"
+    },
+    {
+      "source_id": "FF-S08",
+      "title": "FARFETCH 常見問題",
+      "url": "https://www.farfetch.com/faqs/",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S09",
+      "title": "女裝商店與當季選品",
+      "url": "https://www.farfetch.com/shopping/women/items.aspx",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S10",
+      "title": "FARFETCH FIRST 2026年5月7日",
+      "url": "https://www.farfetch.com/mc/stories/press-releases/farfetch-unveils-farfetch-first-redefining-the-luxury-customer-experience/",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S11",
+      "title": "FARFETCH Live 2026年5月26日",
+      "url": "https://www.farfetch.com/stories/press-releases/farfetch-live-an-exclusive-livestream-experience-for-private-clients/",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S12",
+      "title": "婚禮場合選品 2026年6月3日",
+      "url": "https://www.farfetch.com/dk/stories/press-releases/farfetch-unveils-exclusive-bridal-and-wedding-guest-collections-channelling-romance-season/",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S13",
+      "title": "Pre Fall 宣傳 2026年7月27日",
+      "url": "https://www.farfetch.com/stories/press-releases/farfetch-unveils-pre-fall-campaign-mastering-transeasonal-style/",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S14",
+      "title": "Givenchy 合作 2026年9月17日",
+      "url": "https://www.farfetch.com/fr/stories/press-releases/givenchy-launches-new-econcession-with-farfetch",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S15",
+      "title": "FARFETCH Advertising",
+      "url": "https://advertising.farfetch.com/",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S16",
+      "title": "聯盟行銷計劃",
+      "url": "https://www.farfetch.com/mc/pag1987.aspx",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S17",
+      "title": "FARFETCH YouTube 品牌頻道",
+      "url": "https://www.youtube.com/@farfetch",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S18",
+      "title": "Your choice your FARFETCH 2020年9月16日",
+      "url": "https://www.youtube.com/watch?v=qLPPGeTIuds",
+      "checked_date": "2026-10-07",
+      "scope": "歷史公開影片描述及可取得文字；沒有完整視覺成效審計"
+    },
+    {
+      "source_id": "FF-S19",
+      "title": "From T A in New York To You 2021年4月14日",
+      "url": "https://www.youtube.com/watch?v=XBngLLtWb-8",
+      "checked_date": "2026-10-07",
+      "scope": "歷史公開影片描述及可取得文字；沒有完整視覺成效審計"
+    },
+    {
+      "source_id": "FF-S20",
+      "title": "Test Drive Mini Bags 2021年10月14日",
+      "url": "https://www.youtube.com/watch?v=OugNx2t0Gdw",
+      "checked_date": "2026-10-07",
+      "scope": "歷史公開影片描述及可取得文字；沒有完整視覺成效審計"
+    },
+    {
+      "source_id": "FF-S21",
+      "title": "Valentino Garavani FW26 2026年9月22日",
+      "url": "https://www.youtube.com/watch?v=jTGcz8lcAkw",
+      "checked_date": "2026-10-07",
+      "scope": "近期影片發現及metadata，不能據此聲稱已核讀完整影音"
+    },
+    {
+      "source_id": "FF-S22",
+      "title": "FARFETCH 官方 LinkedIn",
+      "url": "https://www.linkedin.com/company/farfetch.com",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S23",
+      "title": "Fashion Feed 實用指南目錄",
+      "url": "https://www.farfetch.com/uk/style-guide/how-to/",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S24",
+      "title": "Access 會員制度",
+      "url": "https://www.farfetch.com/mc/farfetch-access-programme",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S25",
+      "title": "FARFETCH 聯絡頁及平台模式說明",
+      "url": "https://www.farfetch.com/contact-us/",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    },
+    {
+      "source_id": "FF-S26",
+      "title": "Instagram Polo Ralph Lauren 貼文 索引樣本",
+      "url": "https://www.instagram.com/farfetch/p/Db0fvZnm2sA/",
+      "checked_date": "2026-10-07",
+      "scope": "搜尋索引／節錄，非完整即場平台盤點"
+    },
+    {
+      "source_id": "FF-S27",
+      "title": "Instagram Dries Van Noten 貼文 索引樣本",
+      "url": "https://www.instagram.com/farfetch/p/DdwTrkiky2T/",
+      "checked_date": "2026-10-07",
+      "scope": "搜尋索引／節錄，非完整即場平台盤點"
+    },
+    {
+      "source_id": "FF-S28",
+      "title": "FARFETCH Threads 歷史節目說明",
+      "url": "https://www.linkedin.com/posts/farfetch.com_s2-farfetch-threads-the-platform-for-the-activity-7000850543636045825-E0bU",
+      "checked_date": "2026-10-07",
+      "scope": "官方或原始來源的已讀內容，支持範圍以案例及原頁為準"
+    }
+  ],
+  "limits": [
+    "索引粉絲數不是當前即場完整盤點，不證明香港受眾或銷售。",
+    "歷史財務期間、當期分部數字及品牌單體盈利不可混同。",
+    "公司活動自述只支持其對活動的說明，不證明成交提升或因果。"
+  ]
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ornament 掛飾｜Growth → APOD"
+  short_description: "掛飾定位、研究、文案與 thumbnail，接到私人 APOD 保存驗證"
+  default_prompt: "用 $etsy-ornament-apod-workflow，按這款 ornament 的現有來源與批准，由 Growth 接到 thumbnail 及私人 APOD 保存驗證。"
+policy:
+  allow_implicit_invocation: true

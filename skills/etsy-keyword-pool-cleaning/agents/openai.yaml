@@ -1,0 +1,14 @@
+interface:
+  display_name: Etsy Keyword Pool Cleaning
+  short_description: Clean and trace Etsy keyword research exports
+  default_prompt: Use $etsy-keyword-pool-cleaning to clean my keyword exports and
+    preserve evidence.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

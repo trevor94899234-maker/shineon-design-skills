@@ -1,0 +1,176 @@
+{
+  "version": "2026.10.07-BN5",
+  "audited_at": "2026-10-07T16:00:00Z",
+  "window": {
+    "from": "2026-09-08",
+    "through": "2026-10-07",
+    "scope": "6家已在庫品牌，有限選定來源，非全頻道盤點"
+  },
+  "counts": {
+    "brands_checked": 6,
+    "new_brands": 0,
+    "source_records_added": 6,
+    "distinct_urls_added_to_B50_social": 4,
+    "new_url_with_displayed_recent_article_date": 1,
+    "existing_url_with_different_displayed_date": 1,
+    "undated_current_pages": 2,
+    "index_only_or_no_verified_delta": 2,
+    "new_full_audio_or_video_reads": 0
+  },
+  "sources": [
+    {
+      "source_id": "BN5-PS-01",
+      "case_id": "B50-031",
+      "url": "https://papersunday.com/blogs/dailydevotionals/daily-devotional-2-chronicles-32-8",
+      "source_kind": "official_blog",
+      "published_at_displayed": "2026-10-06",
+      "original_publication_verified": false,
+      "observed_at": "2026-10-07",
+      "read_level": "完整文章文字已讀；未核畫面／音訊",
+      "delta_kind": "new_dated_source",
+      "fact": "反思問題、FAQ與指定journal入口把內容接到產品用途。",
+      "limitation": "原始首發未核；沒有點擊、成交或因果資料。"
+    },
+    {
+      "source_id": "BN5-PS-02",
+      "case_id": "B50-031",
+      "url": "https://papersunday.com/blogs/dailydevotionals/daily-devotional-proverbs-16-24",
+      "source_kind": "official_blog",
+      "published_at_displayed": "2026-10-07",
+      "prior_source_id": "B50-PS-03",
+      "prior_ledger_published_at": "2024-07-08",
+      "original_publication_verified": false,
+      "observed_at": "2026-10-07",
+      "read_level": "完整文章文字已讀；未核畫面／音訊",
+      "delta_kind": "existing_url_new_observation",
+      "fact": "目前頁面有反思問題、FAQ及Honeycomb journal入口。",
+      "limitation": "保留舊日期與本次顯示日期；無歷史完整正文對照，不判定原始首發、重發、修訂原因或舊值正誤。"
+    },
+    {
+      "source_id": "BN5-PS-03",
+      "case_id": "B50-031",
+      "url": "https://papersunday.com/pages/group-orders",
+      "source_kind": "official_service_page",
+      "published_at": null,
+      "observed_at": "2026-10-07",
+      "read_level": "完整可見主文已讀",
+      "delta_kind": "undated_current_page",
+      "fact": "收集姓名清單、核拼字、一張發票及同址團購流程。",
+      "limitation": "搜尋相對日期不證明推出日；其折扣、客製能力及交期不可移植。"
+    },
+    {
+      "source_id": "BN5-ST-01",
+      "case_id": "B50-014",
+      "url": "https://sweettomorrowco.com/",
+      "source_kind": "official_homepage",
+      "published_at": null,
+      "observed_at": "2026-10-07",
+      "read_level": "完整可見首頁文字已讀；未視覺審核",
+      "delta_kind": "undated_current_page",
+      "fact": "按場合及收禮人分開導航。",
+      "metrics": [
+        {
+          "label": "customers",
+          "value": "38,000+",
+          "scope": "首頁正文的品牌自述"
+        },
+        {
+          "label": "5-star reviews",
+          "value": "8,500+",
+          "scope": "首頁正文的品牌自述"
+        },
+        {
+          "label": "gifts delivered",
+          "value": "38,000+",
+          "scope": "metadata的品牌自述"
+        },
+        {
+          "label": "reviews",
+          "value": "8,700+",
+          "scope": "metadata的品牌自述"
+        },
+        {
+          "label": "reviews",
+          "value": 527,
+          "scope": "嵌入評論widget"
+        }
+      ],
+      "limitation": "正文、metadata及widget標籤／範圍不同；不能相加、推成長或當journal單款銷量。"
+    },
+    {
+      "source_id": "BN5-LS-01",
+      "case_id": "B50-035",
+      "url": "https://www.lissasuedesigns.com/blog-1",
+      "source_kind": "official_blog_index",
+      "published_at": null,
+      "observed_at": "2026-10-07",
+      "read_level": "只讀可見文章索引",
+      "delta_kind": "no_verified_delta",
+      "fact": "本次回傳索引可見2024-01-08及2023-08-15項目。",
+      "limitation": "不證明沒有較後文章、停更、停業或已覆蓋全部渠道。"
+    },
+    {
+      "source_id": "BN5-MH-01",
+      "case_id": "B50-030",
+      "url": "https://www.instagram.com/p/Dd3_R2KIFJ6/",
+      "source_kind": "official_social_index",
+      "published_at_from_index": "2026-09-29",
+      "observed_at": "2026-10-07",
+      "read_level": "只讀搜尋節錄；未取得完整貼文",
+      "delta_kind": "index_only",
+      "fact": "搜尋索引有一個顯示日期的入口。",
+      "limitation": "caption、畫面及CTA未核，不提取教學。"
+    }
+  ],
+  "coverage": [
+    {
+      "case_id": "B50-031",
+      "brand": "Paper Sunday",
+      "status": "已核選定正文及同URL日期差異",
+      "complete_channel_inventory": false
+    },
+    {
+      "case_id": "B50-035",
+      "brand": "Lissa Sue Designs",
+      "status": "索引及限定搜尋未證實新文章",
+      "complete_channel_inventory": false
+    },
+    {
+      "case_id": "B50-030",
+      "brand": "MerryHeartCo",
+      "status": "新索引入口，完整貼文未讀",
+      "complete_channel_inventory": false
+    },
+    {
+      "case_id": "B50-014",
+      "brand": "SweetTomorrowCo",
+      "status": "已讀現行首頁，推出／改版日未知",
+      "complete_channel_inventory": false
+    },
+    {
+      "case_id": "B50-032",
+      "brand": "The Christian Art Company",
+      "status": "限定近30日搜尋未證實新完整來源",
+      "complete_channel_inventory": false
+    },
+    {
+      "case_id": "B50-008",
+      "brand": "TrendyGiftSpot",
+      "status": "限定近30日搜尋未證實新來源",
+      "complete_channel_inventory": false
+    }
+  ],
+  "review_readback": {
+    "capture_basis": "2026-10-07 15:55–16:00已保存Firecrawl完整原文",
+    "independent_review": "核對兩篇Paper Sunday日期與商品CTA、團購流程及Sweet Tomorrow各標籤範圍",
+    "later_live_attempt": "2026-10-07 16:11三頁重新擷取回內部錯誤；不算新成功觀察"
+  },
+  "integration": {
+    "brand_release": "2026.10.07.6",
+    "etsy_release": "2026.10.07.7",
+    "combined_brand_source_records": 388,
+    "combined_distinct_brand_source_urls": 375,
+    "original_B50_observed_content_records": 137,
+    "complete_channel_watermark": null
+  }
+}

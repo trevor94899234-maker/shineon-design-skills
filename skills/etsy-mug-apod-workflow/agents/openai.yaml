@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mug to Private APOD"
+  short_description: "Mug research, thumbnails and APOD with fewer repeated questions"
+  default_prompt: "Use $etsy-mug-apod-workflow to complete or resume this mug's authorized private APOD listing, reuse prior answers, and ask only for unresolved owner decisions."

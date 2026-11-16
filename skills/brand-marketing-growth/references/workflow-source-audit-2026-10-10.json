@@ -1,0 +1,89 @@
+{
+  "release": "2026.10.10.1",
+  "scope": "Bounded workflow and source review; not full brand/coach refresh",
+  "retained_brand_count": "50 plus separately retained FARFETCH",
+  "retained_business_perspectives": 30,
+  "live_sources": [
+    {
+      "id": "MG1010-E1",
+      "url": "https://www.etsy.com/legal/creativity/",
+      "source_date": "2025-06-10",
+      "read_level": "Relevant full policy sections read directly",
+      "status": "confirmed official policy",
+      "confidence": "high for source wording; not a listing-specific compliance determination",
+      "use": "Original seller design; production partner/AI disclosure boundaries",
+      "not_proven": "Current shop compliance or demand",
+      "checked_at": "2026-10-10 UTC"
+    },
+    {
+      "id": "MG1010-E2",
+      "url": "https://www.etsy.com/legal/policy/listing-image-requirements/253962679005",
+      "source_date": "2024-07-09",
+      "read_level": "Full substantive image requirements read directly",
+      "status": "confirmed official policy",
+      "confidence": "high for source wording",
+      "use": "Buyer-personalized first image real finished example; additional mockups and production-partner exception separated",
+      "not_proven": "Generated composite is a compliant first photograph",
+      "checked_at": "2026-10-10 UTC"
+    },
+    {
+      "id": "MG1010-EB1",
+      "url": "https://blog.everbee.io/turn-one-best-selling-etsy-product-into-full-product-line",
+      "source_date": "2026-10-04",
+      "read_level": "Full main article read by parallel official-source reviewer",
+      "status": "provider teaching; older source newly read",
+      "confidence": "high attribution; untested shop transfer",
+      "use": "Extend adjacent buyer/occasion/use; coherent series and genuine co-purchase reason",
+      "not_proven": "Shop winner, guaranteed SEO gain, requirement to create 3–5 products",
+      "checked_at": "2026-10-10 UTC"
+    },
+    {
+      "id": "MG1010-EB2",
+      "url": "https://blog.everbee.io/how-do-i-track-my-etsy-keywords-and-rankings-over-time",
+      "source_date": "2026-10-06",
+      "read_level": "Relevant main article and FAQ read by parallel official-source reviewer",
+      "status": "provider teaching; older source newly read",
+      "confidence": "high attribution; reporting availability must be verified",
+      "use": "Dated listing ID/change/first-party outcome record; one interpretable change",
+      "not_proven": "Unavailable impressions/CTR or causal effects",
+      "checked_at": "2026-10-10 UTC"
+    },
+    {
+      "id": "MG1010-EB3",
+      "url": "https://blog.everbee.io/what-does-seo-optimization-on-etsy-actually-include",
+      "source_date": "2026-10-09",
+      "read_level": "Full main article read by parallel official-source reviewer",
+      "status": "provider teaching; older source newly read",
+      "confidence": "high attribution; Etsy governs policy",
+      "use": "Research to coherent listing meaning, clear images/offer, first-party review",
+      "not_proven": "New tool release, fixed thresholds or guaranteed ranking",
+      "checked_at": "2026-10-10 UTC"
+    }
+  ],
+  "retained_references": [
+    {
+      "name": "etsy-coach-integrated",
+      "version": "2026.10.10.1",
+      "read": "SKILL.md and q4-official-increment-2026-10-10.md",
+      "note": "Existing dated Q4 supplement; not independently re-audited in this workflow update"
+    },
+    {
+      "name": "canva-personalizable-product-art",
+      "read": "SKILL.md",
+      "note": "Routes to independent editable name and actual export tests; no Canva action performed"
+    },
+    {
+      "name": "brand-marketing-growth",
+      "version": "2026.10.09.1",
+      "read": "SKILL.md, bundle-product-combination.md, brand-case-transfer.md",
+      "note": "All original references preserved"
+    }
+  ],
+  "limits": [
+    "No monthly Christian trend data",
+    "No shop dashboard or actual SKU/supplier query",
+    "No design approved or production PNG generated in this skill review",
+    "No new coaches admitted",
+    "No local Vault synchronization or external listing action"
+  ]
+}

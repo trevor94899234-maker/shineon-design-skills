@@ -1,0 +1,14 @@
+interface:
+  display_name: Etsy Competitor Listing Optimization
+  short_description: Audit competitor evidence and draft accurate listings
+  default_prompt: Use $etsy-competitor-listing-optimization to qualify Etsy competitors,
+    verify source claims, and prepare an evidence-backed research packet.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

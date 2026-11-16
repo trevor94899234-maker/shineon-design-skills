@@ -1,0 +1,662 @@
+{
+  "schema_version": "1.0",
+  "title": "五位有限信仰／用途來源鮮度核對",
+  "audit_date": "2026-10-07",
+  "checked_at": "2026-10-07T17:32:08.837Z",
+  "language": "zh-Hant",
+  "baseline": {
+    "brand_skill_version": "2026.10.07.6",
+    "etsy_skill_version": "2026.10.07.7",
+    "baseline_reviewed_date": "2026-10-07"
+  },
+  "scope": "逐位重新核對官方內容入口與代表性最新內容；不是逐頁、全平台、所有音訊影片、課程或付費內容的完整重讀。",
+  "totals": {
+    "people": 5,
+    "source_calls": 20,
+    "successful_calls": 19,
+    "failed_calls": 1,
+    "reported_successful_call_credits": 20,
+    "new_business_coaches": 0,
+    "limited_sources_promoted": 0,
+    "new_processes": 0,
+    "proposed_existing_method_refinements": 1
+  },
+  "freshness_rules": [
+    "checked_at 是這次核對時間，不是發布日、修改日、事件日期或來源抓取日期。",
+    "來源未提供 upstream_crawled_at 時保留 null；即使 maxAge 0 亦不推定獨立的內容修訂時刻。",
+    "索引最新所見只適用所查渠道；失敗、摘要、標題、日期或銷售頁不等於已讀最新完整方法。",
+    "未提供可比對的上一版全文時，不把 modified_at 解讀為內容方法有改變。"
+  ],
+  "source_records": [
+    {
+      "source_id": "FF-L01",
+      "person": "Lauren Ibach",
+      "url": "https://laurenibach.com/",
+      "resolved_url": "https://laurenibach.com/",
+      "title": "Bible Lettering Artist and Author • Shop Christian Books and Gifts",
+      "source_type": "official_home_latest_index",
+      "read_level": "latest_index_read",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "首頁最新文章首項為 2026-07-22 的信仰經歷／童書文章；首頁本身的舊修改 metadata 不能代表列表最新日期。"
+    },
+    {
+      "source_id": "FF-M01",
+      "person": "Melissa Flanagan / Lissa Sue",
+      "url": "https://www.lissasuedesigns.com/blog-1",
+      "resolved_url": "https://www.lissasuedesigns.com/blog-1",
+      "title": "Blog | Lissa Sue Designs",
+      "source_type": "official_blog_index",
+      "read_level": "index_read",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "目前返回五篇文章；日期最新為 2024-01-08 的 verse mapping。索引不是全渠道或全文修訂歷史。"
+    },
+    {
+      "source_id": "FF-RS00",
+      "person": "Robin Sampson",
+      "url": "https://www.biblejournalclasses.com/blog",
+      "resolved_url": null,
+      "title": null,
+      "source_type": "official_blog_index",
+      "read_level": "failed_network",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "首取連線失敗；後以首頁及相同索引重查成功。失敗不等於沒有新文。"
+    },
+    {
+      "source_id": "FF-K01",
+      "person": "Krystal Whitten",
+      "url": "https://www.krystalwhitten.com/blogs/news",
+      "resolved_url": "https://www.krystalwhitten.com/blogs/news",
+      "title": "Blog - Krystal Whitten Studio",
+      "source_type": "official_blog_index",
+      "read_level": "index_read_partial_widgets_blocked",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "首項仍為 Why I Shut Down 90% of My Business；只看列表，沒有跟進或重試此前取消的文章。"
+    },
+    {
+      "source_id": "FF-RC01",
+      "person": "Ruth Chou Simons",
+      "url": "https://ruthchousimons.com/",
+      "resolved_url": "https://ruthchousimons.com/",
+      "title": "Ruth Chou Simons",
+      "source_type": "official_home",
+      "read_level": "home_and_embedded_captions_read",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": "2027-02-02",
+      "event_date_type": "announced_future_book_publication",
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "現有新書預購入口及嵌入社交貼文節錄；所見 2027-02-02 是未來出版事件，不能當作網頁發布日。"
+    },
+    {
+      "source_id": "FF-L02",
+      "person": "Lauren Ibach",
+      "url": "https://laurenibach.com/2026/07/22/a-detail-of-my-faith-story/",
+      "resolved_url": "https://laurenibach.com/2026/07/22/a-detail-of-my-faith-story/",
+      "title": "A Detail of My Faith Story I Don't Share Often • Lauren Ibach",
+      "source_type": "official_first_person_article",
+      "read_level": "full_article_text_read",
+      "published_at": "2026-07-22T19:24:03Z",
+      "published_at_evidence": "official_article_metadata",
+      "modified_at": "2026-07-22T19:24:04Z",
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "文章解釋幼兒福音童書的問題／起源；不提供本店成人日誌的新增商務方法。"
+    },
+    {
+      "source_id": "FF-RS01",
+      "person": "Robin Sampson",
+      "url": "https://www.biblejournalclasses.com/",
+      "resolved_url": "https://www.biblejournalclasses.com/",
+      "title": "Bible Journal Classes",
+      "source_type": "official_home_recent_index",
+      "read_level": "home_and_recent_index_read",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "首頁 Recent Blog Posts 標明 2026-10-02、10-01、09-30、09-25；並介紹 2026 年課程與十月課程。"
+    },
+    {
+      "source_id": "FF-RC02",
+      "person": "Ruth Chou Simons",
+      "url": "https://abeautifulunfolding.com/",
+      "resolved_url": "https://abeautifulunfolding.com/",
+      "title": "A Beautiful Unfolding by Ruth Chou Simons",
+      "source_type": "official_linked_publisher_book_promo",
+      "read_level": "public_sales_page_read_book_and_chapter_unread",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "A Beautiful Unfolding 預購銷售頁可讀；免費章節需姓名電郵，未提交、未取章節，未讀全書。"
+    },
+    {
+      "source_id": "FF-RS02",
+      "person": "Robin Sampson",
+      "url": "https://www.biblejournalclasses.com/blog/free-printable-promises-to-Israel-verse_cards",
+      "resolved_url": "https://www.biblejournalclasses.com/blog/free-printable-promises-to-Israel-verse_cards",
+      "title": "Free Verse Cards on God's Promises to Israel",
+      "source_type": "official_article",
+      "read_level": "full_article_text_read",
+      "published_at": "2026-10-02",
+      "published_at_evidence": "official_homepage_index_date",
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "日期據官方首頁索引；正文屬 Israel 相關神學／時事與卡片用途，未作本店買家立場或商品方法。"
+    },
+    {
+      "source_id": "FF-RS03",
+      "person": "Robin Sampson",
+      "url": "https://www.biblejournalclasses.com/blog/12-bible-era-journal-kits",
+      "resolved_url": "https://www.biblejournalclasses.com/blog/12-bible-era-journal-kits",
+      "title": "The 12 Bible Era Kits Are Getting Easier!",
+      "source_type": "official_first_person_product_use_article",
+      "read_level": "full_article_text_read",
+      "published_at": "2026-09-25",
+      "published_at_evidence": "official_homepage_index_date",
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "日期據官方首頁索引；作者把課節所需材料放在相應 lesson kit，基礎材料留 base kit，減少查找與不必要列印。效益屬設計意圖／自述，無量化測試。"
+    },
+    {
+      "source_id": "FF-K02",
+      "person": "Krystal Whitten",
+      "url": "https://www.krystalwhitten.com/blogs/worksheets",
+      "resolved_url": "https://www.krystalwhitten.com/blogs/worksheets",
+      "title": "Worksheet Library - Krystal Whitten Studio",
+      "source_type": "official_worksheet_index",
+      "read_level": "index_read_partial_widgets_blocked",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "首項是 Christmas Ornament Banner Printable；索引圖片 URL 的數字不是文章日期。"
+    },
+    {
+      "source_id": "FF-RC03",
+      "person": "Ruth Chou Simons",
+      "url": "https://gracelaced.com/",
+      "resolved_url": "https://gracelaced.com/",
+      "title": "GraceLaced Co. | Look to Jesus",
+      "source_type": "official_brand_catalog",
+      "read_level": "catalog_sections_read_partial_widgets_blocked",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "現見 2027 calendar、This Moment Matters 紙品及 guided journal；商品年份與顯示不證明發布時間或銷售成果。"
+    },
+    {
+      "source_id": "FF-RS04",
+      "person": "Robin Sampson",
+      "url": "https://www.biblejournalclasses.com/blog",
+      "resolved_url": "https://www.biblejournalclasses.com/blog",
+      "title": "BIble Journal Classes Blog",
+      "source_type": "official_blog_index",
+      "read_level": "index_read",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "索引重查成功；第一頁內容與官方首頁最新四篇一致，20 頁歷史頁未逐頁重查。"
+    },
+    {
+      "source_id": "FF-K03",
+      "person": "Krystal Whitten",
+      "url": "https://www.krystalwhitten.com/blogs/worksheets/creative-little-christmas-ornament-banner-printable",
+      "resolved_url": "https://www.krystalwhitten.com/blogs/worksheets/creative-little-christmas-ornament-banner-printable",
+      "title": "Creative Little Christmas Ornament Banner Printable - Krystal Whitten Studio",
+      "source_type": "official_worksheet_landing_page",
+      "read_level": "full_public_page_read_download_unread",
+      "published_at": "2024-11-12",
+      "published_at_evidence": "visible_article_byline_date",
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "可見供應品清單與需電郵的模板下載；未提交資料或取得模板。不構成適用本店的新增方法。"
+    },
+    {
+      "source_id": "FF-M02",
+      "person": "Melissa Flanagan / Lissa Sue",
+      "url": "https://www.lissasuedesigns.com/post/the-beginner-s-guide-to-verse-mapping-in-bible-study",
+      "resolved_url": "https://www.lissasuedesigns.com/post/the-beginner-s-guide-to-verse-mapping-in-bible-study",
+      "title": "The Beginner's Guide to Verse Mapping in Bible Study",
+      "source_type": "official_tutorial",
+      "read_level": "full_article_text_re_read",
+      "published_at": "2024-01-08T18:08:36.434Z",
+      "published_at_evidence": "official_article_metadata",
+      "modified_at": "2026-02-24T18:06:17.648Z",
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "完整八步 verse mapping 已重讀；修改年份補實。自家引導式 notebook 的欄位不是本店 200 頁間線功能。"
+    },
+    {
+      "source_id": "FF-M03",
+      "person": "Melissa Flanagan / Lissa Sue",
+      "url": "https://www.lissasuedesigns.com/post/5-creative-ways-to-affirm-your-child-with-your-words",
+      "resolved_url": "https://www.lissasuedesigns.com/post/5-creative-ways-to-affirm-your-child-with-your-words",
+      "title": "5 Creative Ways to Affirm Your Child with your words",
+      "source_type": "official_product_use_tutorial",
+      "read_level": "full_article_text_re_read",
+      "published_at": "2023-07-18T16:44:59.123Z",
+      "published_at_evidence": "official_article_metadata",
+      "modified_at": "2026-02-24T18:13:33.891Z",
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "補實原更新日期的年份為 2026；現在寫信、立即或日後交付的方法仍成立，沒有證實相對前版的文字修改內容。"
+    },
+    {
+      "source_id": "FF-RC04",
+      "person": "Ruth Chou Simons",
+      "url": "https://ruthchousimons.com/the-ruth-chou-simons-podcast",
+      "resolved_url": null,
+      "title": null,
+      "source_type": "official_domain_search",
+      "read_level": "search_excerpts_only",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "限定官方站的檢索找到 podcast 索引；搜尋摘錄不能作完整方法。"
+    },
+    {
+      "source_id": "FF-L03",
+      "person": "Lauren Ibach",
+      "url": "https://laurenibach.com/feed/",
+      "resolved_url": "https://laurenibach.com/feed/",
+      "title": null,
+      "source_type": "official_rss",
+      "read_level": "feed_latest_entries_read",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "RSS 最新項亦為 2026-07-22；feed build date 2026-07-22T19:44:39Z 非今日抓取日。母親禮物文 RSS 發布為 2026-03-03T03:26:31Z，網址日為 2026-03-02，保留時區差異。"
+    },
+    {
+      "source_id": "FF-RC05",
+      "person": "Ruth Chou Simons",
+      "url": "https://ruthchousimons.com/the-ruth-chou-simons-podcast",
+      "resolved_url": "https://ruthchousimons.com/the-ruth-chou-simons-podcast",
+      "title": "The GraceLaced Podcast with Ruth Chou Simons — Ruth Chou Simons",
+      "source_type": "official_podcast_index",
+      "read_level": "index_read_audio_unheard",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "官網分季頁最上列 S9 日期 2024-05-01；不代表 podcast 停更。官方頁連至 Apple 節目。"
+    },
+    {
+      "source_id": "FF-RC06",
+      "person": "Ruth Chou Simons",
+      "url": "https://podcasts.apple.com/us/podcast/the-gracelaced-podcast-with-ruth-chou-simons/id1603942598",
+      "resolved_url": "https://podcasts.apple.com/us/podcast/the-ruth-chou-simons-podcast/id1603942598",
+      "title": "The Ruth Chou Simons Podcast - Podcast - Apple Podcasts",
+      "source_type": "official_linked_podcast_platform",
+      "read_level": "latest_episode_titles_and_show_notes_read_audio_transcript_unread",
+      "published_at": null,
+      "published_at_evidence": null,
+      "modified_at": null,
+      "event_date": null,
+      "event_date_type": null,
+      "checked_at": "2026-10-07T17:32:08.837Z",
+      "upstream_crawled_at": null,
+      "fetch_policy": "Firecrawl maxAge 0 requested for page reads; independently dated page revision history unavailable",
+      "note": "最新所見 060 | Measuring Up，45 分鐘，顯示 6h ago；讀到節目簡介，未聽音訊、未取得逐字稿。"
+    }
+  ],
+  "people": [
+    {
+      "person": "Lauren Ibach",
+      "status_retained": "limited_faith_copy_and_gifting_source_not_business_coach",
+      "last_processed_before_audit": {
+        "processed_at": "2026-10-07",
+        "method_source_id": "NC2-FAITH-L4",
+        "method_source_published_date": "2023-05-29",
+        "method_source_other_date": "2025-04-10，前台帳另見頁面日期",
+        "latest_previously_read_source_id": "NC2-FAITH-L5",
+        "latest_previously_read_title": "Biblical Christian Gifts For Moms",
+        "latest_previously_read_date_label": "2026-03-02；頁面亦見 2026-04-18"
+      },
+      "latest_observed": {
+        "title": "A Detail of My Faith Story I Don’t Share Often",
+        "url": "https://laurenibach.com/2026/07/22/a-detail-of-my-faith-story/",
+        "published_at": "2026-07-22T19:24:03Z",
+        "modified_at": "2026-07-22T19:24:04Z",
+        "evidence": [
+          "FF-L01",
+          "FF-L02",
+          "FF-L03"
+        ],
+        "read_level": "full_article_text_read"
+      },
+      "last_processed_after_audit": {
+        "source_id": "FF-L02",
+        "processed_at": "2026-10-07T17:32:08.837Z",
+        "result": "新內容已分類；保留既有收禮人／場合原創文案方法，未增新方法。"
+      },
+      "method_delta": {
+        "decision": "none",
+        "reason": "童書起源的需要→產品敘事與既有用途教育重疊，且幼兒教材與成人親友禮物日誌不相同。"
+      },
+      "gaps": [
+        "Instagram／Pinterest、電郵及每一個商品頁未逐項核讀。",
+        "不把兒童書的格式、作者見證、詩歌或插圖移植成本店產品或成果。"
+      ]
+    },
+    {
+      "person": "Melissa Flanagan / Lissa Sue",
+      "status_retained": "limited_gifting_timing_and_product_use_source_not_business_coach",
+      "last_processed_before_audit": {
+        "processed_at": "2026-10-07",
+        "method_source_id": "NC3-M4",
+        "method_source_published_date": "2023-07-18",
+        "latest_previously_read_source_id": "NC3-M5",
+        "latest_previously_read_date_label": "2024-01-08",
+        "known_gap": "2 月 24 日更新年份未核"
+      },
+      "latest_observed": {
+        "title": "The Beginner’s Guide to Verse Mapping in Bible Study",
+        "url": "https://www.lissasuedesigns.com/post/the-beginner-s-guide-to-verse-mapping-in-bible-study",
+        "published_at": "2024-01-08T18:08:36.434Z",
+        "modified_at": "2026-02-24T18:06:17.648Z",
+        "evidence": [
+          "FF-M01",
+          "FF-M02"
+        ],
+        "read_level": "full_article_text_re_read"
+      },
+      "last_processed_after_audit": {
+        "source_ids": [
+          "FF-M02",
+          "FF-M03"
+        ],
+        "processed_at": "2026-10-07T17:32:08.837Z",
+        "result": "已重讀最新索引文章及核心贈禮用途文；補實兩文 2026-02-24 修改 metadata。"
+      },
+      "method_delta": {
+        "decision": "none_metadata_correction_only",
+        "reason": "既有現在寫／何時交付／誰日後閱讀仍可限縮使用；verse mapping 屬已讀且與 guided journal 功能相關，不新增卡。"
+      },
+      "date_correction": {
+        "source_id": "NC3-M4",
+        "published_at": "2023-07-18T16:44:59.123Z",
+        "modified_at": "2026-02-24T18:13:33.891Z",
+        "evidence": "FF-M03",
+        "do_not_generalize": "沒有重取 NC3-M3，不能把另兩篇的修改時間抄給 Etsy tips 文。"
+      },
+      "gaps": [
+        "只證實此官方 blog 索引未見比 2024-01-08 更新的發布項，不證明其他渠道沒有新內容或停業。",
+        "未取得歷史全文差異，修改 metadata 不證明方法更新。",
+        "原文親子場景不能直接轉成兒童產品定位或心理效果承諾。"
+      ]
+    },
+    {
+      "person": "Robin Sampson / BibleJournalLove",
+      "status_retained": "limited_faith_use_content_structure_source_not_business_coach",
+      "last_processed_before_audit": {
+        "processed_at": "2026-10-07",
+        "method_source_id": "NC3-R3",
+        "method_source_published_date": null,
+        "method_source_event_date": "2022-08-01",
+        "method_source_event_type": "activity_start_not_publication",
+        "other_read_source_id": "NC3-R4",
+        "other_source_published_at": null,
+        "other_source_title": "Layered Story Frames in Junk Journaling"
+      },
+      "latest_observed": {
+        "title": "God’s Promises to Israel Free Printable Cards",
+        "url": "https://www.biblejournalclasses.com/blog/free-printable-promises-to-Israel-verse_cards",
+        "published_date": "2026-10-02",
+        "date_evidence": "official_recent_posts_index",
+        "modified_at": null,
+        "evidence": [
+          "FF-RS01",
+          "FF-RS02",
+          "FF-RS04"
+        ],
+        "read_level": "full_article_text_read",
+        "latest_does_not_equal_adopted": "神學與時事主題不自動代表本店或其成年 Christian 買家的立場；本輪不採。"
+      },
+      "latest_method_relevant_processed": {
+        "title": "The 12 Bible Era Kits Are Getting Easier!",
+        "url": "https://www.biblejournalclasses.com/blog/12-bible-era-journal-kits",
+        "published_date": "2026-09-25",
+        "date_evidence": "official_recent_posts_index",
+        "source_id": "FF-RS03",
+        "read_level": "full_article_text_read"
+      },
+      "last_processed_after_audit": {
+        "source_ids": [
+          "FF-RS02",
+          "FF-RS03"
+        ],
+        "processed_at": "2026-10-07T17:32:08.837Z",
+        "result": "記錄最新文章另行排除；提出一項併入既有用途示範的方法微調。"
+      },
+      "method_delta": {
+        "decision": "propose_refinement_to_existing_NC3_METHOD_02",
+        "source_observation": "作者把基礎材料與課節材料分工，將當次要用的內容靠近相應 lesson，減少使用者找檔、選擇與多印材料。",
+        "owner_adaptation": "只在既有的一張用途示範圖／一段用途文案，把真實 SKU／間線內頁照片、一個自創短示例和當次可完成的書寫行動放在一起；讀者不用跨多頁找說明。",
+        "evidence_limit": "作者的預期改善及經驗反思，沒有量化時間／銷售驗證。本店改編仍是假設。",
+        "workload": "沿用原 25 分鐘草稿上限及同週最多一項；先扣履約客服。無餘額便保留草稿，不開新流程、套件或系列。",
+        "product_guardrail": "商品仍是實際 SKU 的 200 頁間線；示例明標使用建議，不說已附預印經文、提示、材料或 guided 內頁。"
+      },
+      "gaps": [
+        "首取索引的網路錯誤已由成功入口與重取解決；不能把錯誤記成無更新。",
+        "音訊／影片、會員課程、下載套件、20 頁歷史索引未全讀。",
+        "近期非所選文章僅讀標題與摘錄，未當作教學已完成。"
+      ]
+    },
+    {
+      "person": "Krystal Whitten",
+      "status_retained": "supplementary_product_education_only",
+      "last_processed_before_audit": {
+        "processed_at": "2026-10-07",
+        "method_source_id": "NC2-FAITH-K2",
+        "method_source_published_date": "2017-08-28",
+        "about_source_id": "NC2-FAITH-K1",
+        "about_edited_label": "2025-10",
+        "about_event_date": "2025-07",
+        "about_event": "產品線收縮的自述；不推斷原因",
+        "unread_source_id": "NC2-FAITH-K4",
+        "unread_reason": "先前擷取取消，未重試"
+      },
+      "latest_observed": {
+        "news_index_first_title": "Why I Shut Down 90% of My Business",
+        "url": "https://www.krystalwhitten.com/blogs/news/why-i-shut-down-90-of-my-business",
+        "published_date": "2025-09-01",
+        "date_evidence": "inherited_linked_metadata_from_NC2_FAITH_K4_not_newly_verified",
+        "read_level": "current_index_title_only_article_still_unread",
+        "evidence": [
+          "FF-K01"
+        ]
+      },
+      "other_current_channel": {
+        "title": "Creative Little Christmas Ornament Banner Printable",
+        "url": "https://www.krystalwhitten.com/blogs/worksheets/creative-little-christmas-ornament-banner-printable",
+        "published_date": "2024-11-12",
+        "date_evidence": "visible_byline",
+        "read_level": "public_landing_text_read_template_unread",
+        "evidence": [
+          "FF-K02",
+          "FF-K03"
+        ]
+      },
+      "last_processed_after_audit": {
+        "source_ids": [
+          "FF-K01",
+          "FF-K02",
+          "FF-K03"
+        ],
+        "processed_at": "2026-10-07T17:32:08.837Z",
+        "result": "更新兩個官方索引與公開頁可讀範圍；維持 2017 年 Part 1 的歷史用途教育補充。"
+      },
+      "method_delta": {
+        "decision": "none_gap_preserved",
+        "reason": "最新 news 文章仍未讀；較新 worksheet 只提供下載入口、用品與活動內容，沒有取得可採的新日誌方法。"
+      },
+      "gaps": [
+        "先前取消的 /blogs/news/why-i-shut-down-90-of-my-business 沒有重試，也沒有透過其他入口讀正文。",
+        "若只讀本文稿索引，不可解釋收縮原因或將作者視作現行擴張案例。",
+        "部份嵌入元件顯示 client block；主索引與 worksheet 文字可讀，不繞過限制。",
+        "未提交電郵下載、不讀付費課程；不宣稱最新完整教學全部處理。"
+      ]
+    },
+    {
+      "person": "Ruth Chou Simons",
+      "status_retained": "supplementary_founder_experience_only",
+      "last_processed_before_audit": {
+        "processed_at": "2026-10-07",
+        "method_source_id": "NC2-FAITH-R2",
+        "method_source_published_date": "2022-08-12",
+        "method_source_event_date": null,
+        "method_source_event_context": "訪談回顧疫情時期；實際訪問日期未核",
+        "other_source_ids": [
+          "NC2-FAITH-R1",
+          "NC2-FAITH-R3"
+        ]
+      },
+      "latest_observed": {
+        "title": "060 | Measuring Up",
+        "url": "https://podcasts.apple.com/us/podcast/060-measuring-up/id1603942598?i=1000793647036",
+        "published_at": null,
+        "displayed_relative_time": "6h ago",
+        "relative_time_observed_at": "2026-10-07T17:29:15Z",
+        "inferred_publication_date_utc": "2026-10-07",
+        "date_caveat": "日期由當次相對時間推得，精確發布時刻未核；不把推算當原始 metadata。",
+        "duration_minutes": 45,
+        "evidence": [
+          "FF-RC05",
+          "FF-RC06"
+        ],
+        "read_level": "episode_title_and_show_notes_only_audio_transcript_unread"
+      },
+      "other_current_content": {
+        "title": "A Beautiful Unfolding",
+        "url": "https://abeautifulunfolding.com/",
+        "announced_future_publication_date": "2027-02-02",
+        "event_evidence": "FF-RC01 official_home_embedded_caption",
+        "page_published_at": null,
+        "read_level": "public_promo_page_only_book_and_gated_chapter_unread",
+        "evidence": [
+          "FF-RC01",
+          "FF-RC02"
+        ]
+      },
+      "last_processed_after_audit": {
+        "source_ids": [
+          "FF-RC01",
+          "FF-RC02",
+          "FF-RC03",
+          "FF-RC05",
+          "FF-RC06"
+        ],
+        "processed_at": "2026-10-07T17:32:08.837Z",
+        "result": "確認有近期新產品宣傳及新節目；只分類可讀範圍，原始創辦人方法仍來自 2022 年完整問答。"
+      },
+      "method_delta": {
+        "decision": "none_new_audio_and_book_unprocessed",
+        "reason": "節目簡介和書的銷售文不能當完整方法；沒有把未聽的 45 分鐘內容改寫成教學。"
+      },
+      "gaps": [
+        "官網分季索引最上方 2024-05-01 不代表節目最新或停更；官方連結平台本次顯示新集。",
+        "最新音訊／逐字稿未取得、章節需提供個人資料而未提交；不稱全部內容已讀。",
+        "Instagram 只讀官網嵌入節錄，未查每則全文；未核創辦人業績或低工時成果。"
+      ]
+    }
+  ],
+  "integration_recommendation": {
+    "business_roster_delta": 0,
+    "limited_copy_use_source_count": 3,
+    "supplementary_source_count": 2,
+    "existing_method_only": "把 FF-RS03 的資訊就近整理加入既有 Robin 一次完成用途示範，不另開新卡或常規任務。",
+    "metadata_correction": "Melissa NC3-M4、NC3-M5 的 2026-02-24 修改日期可補入；Krystal 未讀狀態及 Ruth 新音訊未讀狀態保留。",
+    "publication_authorization": "本次是來源與技能建議核對；未發文、未改店、未投廣告、未聯絡第三方、未訂閱或購買。"
+  },
+  "public_raw_text_included": false
+}

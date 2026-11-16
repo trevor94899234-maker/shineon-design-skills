@@ -1,0 +1,296 @@
+{
+  "case_id": "EFW-20261016",
+  "version": "2026.10.16.2",
+  "classification": "bounded faith-content/resource case; not a qualified profitable POD brand or business coach",
+  "observed_at_date_utc": "2026-10-16",
+  "retrieval_method": "Public web text; no browser UI, no Firecrawl, no transactions",
+  "coverage": {
+    "substantive_pages_read": 9,
+    "article_body_texts_within_substantive_count": 2,
+    "additional_index_pages_read": 1,
+    "additional_limited_or_unavailable_urls": 2,
+    "all_sources_total": 12,
+    "full_site_audit": false,
+    "visual_or_video_audit": false,
+    "pdf_files_read": 0,
+    "live_checkout_verified": false
+  },
+  "time_caution": "Observed date is retrieval date. Crawl labels are tool-reported cache freshness, not publication/modification dates. No full-channel watermark is advanced.",
+  "deduplication": {
+    "target_skill": "brand-marketing-growth",
+    "base_version": "2026.10.13.4",
+    "result": "No existing occurrence of domain or exact brand name found in existing skill files before this addition.",
+    "existing_brand_and_coach_counts_changed": false
+  },
+  "sources": [
+    {
+      "source_id": "EFW-S01",
+      "url": "https://www.encouragementfromwomen.com/",
+      "title": "Home | EFW",
+      "source_kind": "first_party_public_web_text",
+      "observed_at_date_utc": "2026-10-16",
+      "published_at_display": null,
+      "published_timezone": null,
+      "read_level": "page_body_text_read",
+      "observed_facts": [
+        "女性彼此分享聖經鼓勵，包含跨代關係定位。"
+      ],
+      "tool_crawl_label": "today"
+    },
+    {
+      "source_id": "EFW-S02",
+      "url": "https://www.encouragementfromwomen.com/about-5",
+      "title": "Founder | EFW",
+      "source_kind": "first_party_public_web_text",
+      "observed_at_date_utc": "2026-10-16",
+      "published_at_display": null,
+      "published_timezone": null,
+      "read_level": "page_body_text_read",
+      "observed_facts": [
+        "官網列創辦人Charity Berkey及信仰內容／資源工作。"
+      ],
+      "tool_crawl_label": "2 weeks ago"
+    },
+    {
+      "source_id": "EFW-S03",
+      "url": "https://www.encouragementfromwomen.com/blog-1",
+      "title": "Blog | EFW",
+      "source_kind": "first_party_public_web_text",
+      "observed_at_date_utc": "2026-10-16",
+      "published_at_display": null,
+      "published_timezone": null,
+      "read_level": "index_only",
+      "observed_facts": [
+        "分類、文章標題和顯示日期可讀；數篇不同文章重複同一摘要。"
+      ],
+      "tool_crawl_label": "2 weeks ago; later search result said 2 months ago",
+      "limitations": [
+        "沒有遍歷所有分頁或文章。",
+        "索引帳戶名稱不必等於正文作者。",
+        "latest_observed_publication_display為2025-10-26，不代表全站最新發布。"
+      ]
+    },
+    {
+      "source_id": "EFW-S04",
+      "url": "https://www.encouragementfromwomen.com/submit",
+      "title": "Submit | EFW",
+      "source_kind": "first_party_public_web_text",
+      "observed_at_date_utc": "2026-10-16",
+      "published_at_display": null,
+      "published_timezone": null,
+      "read_level": "page_body_text_read",
+      "observed_facts": [
+        "投稿350–450字、至少一節經文、短作者介紹、審核；邀請作者分享及邀友。"
+      ],
+      "tool_crawl_label": "2 weeks ago",
+      "limitations": [
+        "只讀流程，未投稿或聯絡。",
+        "未核實際投稿量、分享量或成效。"
+      ]
+    },
+    {
+      "source_id": "EFW-S05",
+      "url": "https://www.encouragementfromwomen.com/projects-3",
+      "title": "Resources | EFW",
+      "source_kind": "first_party_public_web_text",
+      "observed_at_date_utc": "2026-10-16",
+      "published_at_display": null,
+      "published_timezone": null,
+      "read_level": "page_body_text_read",
+      "observed_facts": [
+        "按身份、母職、女孩成長及研讀等用途介紹書籍。",
+        "可見Amazon短連結導購及配套研讀影片入口。"
+      ],
+      "tool_crawl_label": "2 weeks ago",
+      "limitations": [
+        "未開Amazon落地頁，不確認外站版本、媒介、價錢、庫存。",
+        "未觀看配套影片或閱讀書本。"
+      ]
+    },
+    {
+      "source_id": "EFW-S06",
+      "url": "https://www.encouragementfromwomen.com/shop",
+      "title": "Shop | EFW",
+      "source_kind": "first_party_public_web_text",
+      "observed_at_date_utc": "2026-10-16",
+      "published_at_display": null,
+      "published_timezone": null,
+      "read_level": "catalog_text_read",
+      "observed_facts": [
+        "可見數碼研讀、devotional及標價為零的prayer journal入口。"
+      ],
+      "tool_crawl_label": "2 weeks ago",
+      "limitations": [
+        "不等於實際交付或結帳核實。"
+      ]
+    },
+    {
+      "source_id": "EFW-S07",
+      "url": "https://www.encouragementfromwomen.com/product-page/efw-prayer-journal",
+      "title": "(Digital) EFW Prayer Journal | EFW",
+      "source_kind": "first_party_public_web_text",
+      "observed_at_date_utc": "2026-10-16",
+      "published_at_display": null,
+      "published_timezone": null,
+      "read_level": "product_description_only",
+      "observed_facts": [
+        "頁面標示PDF下載及$0.00。",
+        "可見加入購物車及立即購買CTA。"
+      ],
+      "tool_crawl_label": "2 weeks ago",
+      "displayed_price": {
+        "amount": "0.00",
+        "symbol": "$",
+        "currency_iso_verified": null,
+        "scope": "page display, not checkout total"
+      },
+      "limitations": [
+        "PDF未下載／未閱讀，沒有頁數、題目、內頁、授權或電郵欄驗證。",
+        "未加入購物車或結帳。"
+      ]
+    },
+    {
+      "source_id": "EFW-S08",
+      "url": "https://www.encouragementfromwomen.com/product-page/the-fruit-of-the-spirit-a-ten-week-study-in-galatians",
+      "title": "(Digital) The Fruit of the Spirit: A Ten-Week Study in Galatians | EFW",
+      "source_kind": "first_party_public_web_text",
+      "observed_at_date_utc": "2026-10-16",
+      "published_at_display": null,
+      "published_timezone": null,
+      "read_level": "product_description_only",
+      "observed_facts": [
+        "頁面自述數碼十週研讀及配套影片，可供個人、朋友或小組使用。",
+        "標示$12.99及購買CTA。"
+      ],
+      "tool_crawl_label": "2 weeks ago",
+      "displayed_price": {
+        "amount": "12.99",
+        "symbol": "$",
+        "currency_iso_verified": null,
+        "scope": "page display, not checkout total"
+      },
+      "limitations": [
+        "未取得檔案或觀看影片。",
+        "不是本店POD售價／成本比較。"
+      ]
+    },
+    {
+      "source_id": "EFW-S09",
+      "url": "https://www.encouragementfromwomen.com/post/encouragement-for-the-parents-of-college-students",
+      "title": "Encouragement for the Parents of College Students",
+      "source_kind": "first_party_public_web_text",
+      "observed_at_date_utc": "2026-10-16",
+      "published_at_display": "2024-09-14",
+      "published_timezone": null,
+      "read_level": "article_body_text_read",
+      "observed_facts": [
+        "親子關係隨升學轉變；正文提出真誠交談、具體問題、祈禱支持及可持續聯繫。"
+      ],
+      "tool_crawl_label": "last week",
+      "displayed_publication_date": "2024-09-14",
+      "byline": "Renee Bryant",
+      "display_account": "EFW",
+      "limitations": [
+        "文章文字讀取，不是商品需求、銷售或產品用途驗證。",
+        "首次發布及修改日期未核。"
+      ]
+    },
+    {
+      "source_id": "EFW-S10",
+      "url": "https://www.encouragementfromwomen.com/post/there-is-only-one-you",
+      "title": "There is Only One You!",
+      "source_kind": "first_party_public_web_text",
+      "observed_at_date_utc": "2026-10-16",
+      "published_at_display": "2025-10-26",
+      "published_timezone": null,
+      "read_level": "article_body_text_read",
+      "observed_facts": [
+        "作者以童年個人經驗切入身份與信仰反思，再列行動方向。"
+      ],
+      "tool_crawl_label": "8 months ago",
+      "displayed_publication_date": "2025-10-26",
+      "byline": "Ashley Jupp",
+      "display_account": "Charity Berkey",
+      "limitations": [
+        "作者故事不能改成店主／顧客經歷。",
+        "不是醫療／心理治療或銷售效果證據。",
+        "首次發布及修改日期未核。"
+      ]
+    },
+    {
+      "source_id": "EFW-S11",
+      "url": "https://www.encouragementfromwomen.com/post/just-write-the-note",
+      "title": "Just Write the Note",
+      "source_kind": "first_party_public_web_text",
+      "observed_at_date_utc": "2026-10-16",
+      "published_at_display": "2024-08-03",
+      "published_timezone": null,
+      "read_level": "body_unavailable_index_only",
+      "observed_facts": [
+        "只從索引看到標題、摘要及2024-08-03。"
+      ],
+      "tool_crawl_label": null,
+      "displayed_publication_date": "2024-08-03",
+      "attempt_status": "click cache miss; direct open inaccessible; no further retrieval",
+      "limitations": [
+        "沒有正文證據，不從標題推寫文章教訓。"
+      ]
+    },
+    {
+      "source_id": "EFW-S12",
+      "url": "https://www.encouragementfromwomen.com/copy-of-resources",
+      "title": "Devotional Books | EFW",
+      "source_kind": "first_party_public_web_text",
+      "observed_at_date_utc": "2026-10-16",
+      "published_at_display": null,
+      "published_timezone": null,
+      "read_level": "partial_duplicate_page_text",
+      "observed_facts": [
+        "導覽與身份devotional開頭可見，與Resources頁重疊。"
+      ],
+      "tool_crawl_label": "2 weeks ago",
+      "limitations": [
+        "返回內容部分截斷，不計完整讀取，不另算獨立教訓。"
+      ]
+    }
+  ],
+  "application_boundaries": {
+    "origin": "Original MyGiftStyle application from current task context, not EFW instruction or testimony.",
+    "D05": "Parent buyer/giver; daughter recipient and writer. Product-specific fields, interior and stage subject to current record.",
+    "Dad": "Current product 506411 is a square acrylic plaque, catalog1135/ShineOn92. Gift-giving child is separate from father recipient/display user; no writer or journal interior. Do not join other Dad journal SKUs or infer recipient faith from scripture artwork.",
+    "Grandma70": "Adult family giver; grandma recipient/display user of plaque, not journal writer. Current actual personalization controls govern.",
+    "no_assumed_results": [
+      "traffic",
+      "conversion",
+      "revenue",
+      "profit",
+      "causality"
+    ],
+    "no_new_actions": [
+      "publish",
+      "contact",
+      "checkout",
+      "email collection",
+      "new channel",
+      "paid ads",
+      "local Vault sync",
+      "Dashboard apply"
+    ]
+  },
+  "application_context_evidence": {
+    "Dad506411": {
+      "source_url": "https://app.anywherepod.com/admin/products/506411",
+      "source_kind": "existing first-party APOD product verification records",
+      "product_id": 506411,
+      "catalog_id": 1135,
+      "vendor_id": 92,
+      "supplier": "ShineOn",
+      "observed_product_type": "square acrylic plaque with LED base options",
+      "original_readonly_receipt_checked_at": "2026-10-15T04:48:00Z",
+      "corroborating_record_observed_at": "2026-10-16T00:15:59+08:00 to 2026-10-16T00:16:59+08:00",
+      "current_readiness_confirmation_date_utc": "2026-10-16",
+      "read_scope": "Existing saved product-verification records read for this correction; no new live UI, physical-product, lighting, price or fulfillment verification.",
+      "correction_scope": "Replace ambiguous current-context Dad journal application with display-gift roles for this exact SKU. EFW source URLs, read levels and coverage counts unchanged."
+    }
+  }
+}

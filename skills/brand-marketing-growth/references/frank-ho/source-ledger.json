@@ -1,0 +1,124 @@
+{
+  "project": "Frank Ho independent learning source pack",
+  "version": "2026-10-10.2",
+  "checked": "2026-10-10",
+  "sources": [
+    {
+      "id": "FH01",
+      "url": "https://www.red-publish.com/uploads/book/preview/3242.pdf?ts=1785858605",
+      "title": "AI 電商創業攻略 出版社公開試閱",
+      "date": "2026-07",
+      "accessed": "2026-10-10",
+      "level": "original_text_read",
+      "scope": "40頁PDF，正文至印刷頁37；已核對重點p12–13、p26–27、p30–32。不是184頁全書。",
+      "supports": [
+        "AI不能代替需求驗證或承擔商業風險",
+        "顧客動機可包含身份、歸屬、安全感和被理解",
+        "產品、流量、轉化、交付、客戶與現金流互相影響"
+      ],
+      "limits": [
+        "未讀全書行銷實戰章8–20",
+        "不據作者自述認證營收或成功率",
+        "試閱原檔不隨知識包再分發，保留公開連結"
+      ]
+    },
+    {
+      "id": "FH02",
+      "url": "https://www.red-publish.com/book/3242",
+      "title": "出版社書目與目錄",
+      "date": "2026-07-15",
+      "accessed": "2026-10-10",
+      "level": "publisher_metadata_outline_read",
+      "scope": "作者何冠睿 Frank Ho，184頁；目錄8–20章",
+      "supports": [
+        "學習路線涵蓋產品需求定位、信任成交、廣告測試、數據判斷、AI工作流"
+      ],
+      "limits": [
+        "目錄不是章節正文",
+        "出版商頁不能独立核實作者商業績效"
+      ]
+    },
+    {
+      "id": "FH03",
+      "url": "https://10x-ecomhk.com/",
+      "title": "10X電商系統公開銷售頁",
+      "date": null,
+      "accessed": "2026-10-10",
+      "level": "promotional_outline_read",
+      "scope": "P.V.S價值打包、S級供應鏈、KOL流量變現、AI增長飛輪四方向",
+      "supports": [
+        "P.V.S公開描述為核心賣點、附加價值及品牌故事",
+        "公開宣傳含KOL評估、合作ROI、供應商談判及AI自動化方向"
+      ],
+      "limits": [
+        "不能猜PVS字母展開",
+        "沒有取得詳細評分表、談判模板或操作SOP",
+        "90日十倍、營收與學員見證屬宣傳或自述，非本店結果或普遍可複製證據"
+      ]
+    },
+    {
+      "id": "FH04",
+      "url": "https://www.youtube.com/watch?v=Wlzub7T7Y_o",
+      "title": "pov Operating a $1.6M Ecommerce business in Hong Kong",
+      "date": "2026-01-07",
+      "accessed": "2026-10-10",
+      "level": "video_description_only",
+      "scope": "影片描述和章節；作者@franhky，描述直接連回Instagram@mrfrankho；2:42工廠參觀、3:29了解產品與顧客",
+      "supports": [
+        "可作觀看入口；帳號互鏈支持教練辨識"
+      ],
+      "limits": [
+        "未取得字幕正文或完整觀看",
+        "不由標題的金額推論獲利"
+      ]
+    },
+    {
+      "id": "FH05",
+      "url": "https://www.youtube.com/watch?v=dHqgMu5CbSk",
+      "title": "做電商之前 一定要識呢啲底層邏輯",
+      "date": "2026-08-31",
+      "accessed": "2026-10-10",
+      "level": "video_title_only",
+      "scope": "公開索引標題、作者Frank Ho、發布日",
+      "supports": [
+        "補充教學入口"
+      ],
+      "limits": [
+        "不得從標題編造內容"
+      ]
+    },
+    {
+      "id": "FH06",
+      "url": "https://podcasts.apple.com/us/podcast/%E9%BB%9E%E5%AD%90%E5%89%B5%E6%A5%AD-%E5%8A%8F%E6%88%BF%E8%B5%B7%E6%AD%A5%E5%88%B0%E5%B9%B4%E8%B3%BA%E4%B9%9D%E4%BD%8D%E6%95%B8-%E5%A6%82%E6%9E%9C%E4%BD%A0%E5%BB%A2%E5%B0%B1%E7%95%99%E5%96%BA%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E5%89%B5%E6%A5%AD%E6%88%90%E5%8A%9F%E9%9D%A0%E8%8F%AF%E4%BA%BA%E5%B4%87%E6%B4%8B%E5%BF%83%E6%85%8B-franhky-francisco/id1766763180?i=1000703867844&uo=4",
+      "title": "點子創業 Francisco Collectedgrowth Part 2",
+      "date": "2025-04-17",
+      "accessed": "2026-10-10",
+      "level": "official_episode_metadata_only",
+      "scope": "官方Apple API的節目描述與章節；19:25起步、21:03廣告、22:47電商重要部分、28:26網購信任、30:38資金",
+      "supports": [
+        "建議聽19:25–32:39約13分鐘，作自己的觀點與證據筆記"
+      ],
+      "limits": [
+        "未聽音訊正文，不替講者回答章節問題"
+      ]
+    },
+    {
+      "id": "FH07",
+      "url": "https://10x-ecomhk.com/landing-page",
+      "title": "10X免費分享會報名頁",
+      "date": null,
+      "accessed": "2026-10-10",
+      "level": "registration_page_read",
+      "scope": "姓名、WhatsApp電話和電郵欄位；旺季、成果承諾、見證、報名CTA",
+      "supports": [
+        "可分析其公開營銷頁面結構；需個人資料才能報名"
+      ],
+      "limits": [
+        "未報名、聯络、付款或取得封閉課程",
+        "頁面日期和名額可變，引用前重查",
+        "頁面觀察不等於他親授方法"
+      ]
+    }
+  ],
+  "revision_note": "2026-10-10 使用者指定 Grandson 與 Couples 應用例子；原始來源層級未變，新例子屬我們的未驗證應用。"
+}

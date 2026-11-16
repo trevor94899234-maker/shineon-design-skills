@@ -1,0 +1,50 @@
+{
+  "retrieved_at": "2026-10-05",
+  "scope": "Selected, already-researched Coach source metadata. Interpret through the Integrated Coach; not Etsy policy, demand evidence, or a fresh web check.",
+  "sources": [
+    {
+      "source_id": "MEG-V001",
+      "coach": "Meg Heckman",
+      "kind": "youtube_video",
+      "title": "I’ve Designed 10,000+ T-Shirts, Here’s What Actually Sells - YouTube",
+      "url": "https://www.youtube.com/watch?v=o-dR95FNbLM",
+      "date_published": "2026-09-08T09:00:08-07:00",
+      "retrieved_date": "2026-10-05",
+      "review": "full_extracted_transcript_reviewed",
+      "status": "distilled_with_conditions"
+    },
+    {
+      "source_id": "JES-V001",
+      "coach": "Jesse Teaches",
+      "kind": "youtube_video",
+      "title": "I Sold 50,000 Ornaments on Etsy — Here's What I'd Do in 2026 - YouTube",
+      "url": "https://www.youtube.com/watch?v=4xP4Wo9aAKE",
+      "date_published": "2026-07-31T07:00:29-07:00",
+      "retrieved_date": "2026-10-05",
+      "review": "full_extracted_transcript_reviewed",
+      "status": "distilled_with_conditions"
+    },
+    {
+      "source_id": "DYL-A002",
+      "coach": "Dylan Jahraus",
+      "kind": "article",
+      "title": "The Etsy Product Ideas That Sell Themselves",
+      "url": "https://dylanjahraus.com/the-etsy-product-ideas-that-sell-themselves/",
+      "date_published": null,
+      "retrieved_date": "2026-10-05",
+      "review": "full_article_reviewed",
+      "status": null
+    },
+    {
+      "source_id": "STA-A001",
+      "coach": "Starla Moore",
+      "kind": "article",
+      "title": "Etsy SEO Using the Scientific Method",
+      "url": "https://help.erank.com/blog/etsy-seo-using-the-scientific-method/",
+      "date_published": null,
+      "retrieved_date": "2026-10-05",
+      "review": "full_article_reviewed",
+      "status": null
+    }
+  ]
+}

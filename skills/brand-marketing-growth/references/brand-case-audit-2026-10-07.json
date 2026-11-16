@@ -1,0 +1,110 @@
+{
+  "release": "2026.10.07.6",
+  "audit_date": "2026-10-07",
+  "base_coach_release": "2026.10.07.1",
+  "coach_count": 21,
+  "brand_case_count": 51,
+  "new_standalone_marketing_skill_created": true,
+  "source_basis": {
+    "GuidingCross": "guidingcross-brand-case.md：GC來源ID及逐項即場時間",
+    "FARFETCH": "farfetch-sources.json：FF來源ID及範圍；farfetch-brand-case.md列明事實與推論"
+  },
+  "checks": {
+    "source_semantic_sample": "原始資料抽查通過：社群指標種類、筆記本規格／價格、運送／退貨矛盾、FARFETCH FIRST及Live範圍",
+    "traditional_chinese": "新增方法正文及審計報告經繁中字形掃描和人工閱讀",
+    "links": "內部相對連結完整",
+    "time_budget": "先扣履約客服，多卡只選一份計劃，不重新起算零廣告窗口",
+    "media": "30秒社交示例與Etsy影片分開",
+    "copyright": "不封裝完整字幕、原始網頁／瀏覽器擷取",
+    "source_layer": "品牌不計教練人數、不混入4條新片統計"
+  },
+  "report_library_ids": {
+    "integrated_audit": "libfile_bf74095f88888191a44abd8d0fc46cff",
+    "GuidingCross": "libfile_36539a79f58c819198b75505f1e84ad1",
+    "FARFETCH": "libfile_557051140d008191a9955f6d05c7d4fc"
+  },
+  "monitoring_enabled": false,
+  "local_computer_sync": false,
+  "paired_integrated_coach_release": "2026.10.07.7",
+  "architecture_decision": "使用者2026年10月7日明確批准獨立品牌營銷技能；Etsy整合教練調用，不複製方法",
+  "new_cohort": {
+    "case_count": 11,
+    "primary_comparisons": 9,
+    "historical_owner_transition": 1,
+    "mature_distribution_risk_comparator": 1,
+    "distinct_source_urls": 176,
+    "content_records": 50,
+    "channel_entry_records": 112,
+    "all_sources_fully_read": false,
+    "source_ledger": "christian-brand-sources-2026-10-07.json"
+  },
+  "new_coach_methods": "Mandy、Cassiy、Emily、Mei、Dalia及Lizzie的有限商務方法由Etsy整合教練保存；品牌技能按需引用，不複製",
+  "current_profit_or_organic_growth_proven": false,
+  "faith_copy_specialists": 3,
+  "supplementary_purpose_and_founder_sources": 2,
+  "expanded_candidate_review": {
+    "candidates": 22,
+    "new_candidates": 18,
+    "carried_candidates": 4,
+    "new_business_methods": 4,
+    "source_records": 97,
+    "distinct_source_urls": 96,
+    "fully_read_method_text_candidates": 17,
+    "new_complete_video_transcripts": 0,
+    "canonical_ledger_skill": "etsy-coach-integrated",
+    "canonical_ledger_file": "references/expanded-coach-source-ledger-2026-10-07.json"
+  },
+  "expanded_brand_reference": {
+    "brands": 50,
+    "baseline_overlap": 12,
+    "net_new": 38,
+    "farfetch_outside": 1,
+    "sources": 369,
+    "unique_urls": 365,
+    "content_records": 137,
+    "channel_audit_rows": 390,
+    "unique_brand_platform_cells": 388,
+    "fit_groups": {
+      "核心商品與信仰接近": 10,
+      "商品接近但商業資格待補": 5,
+      "信仰journal但規格或角色不同": 22,
+      "家庭送禮或信仰品牌相鄰": 13
+    },
+    "all_records_fully_read": false,
+    "source_ledger": "brand50-public-reference.json"
+  },
+  "nextpass_candidates": {
+    "new_people": 6,
+    "cumulative_candidates": 28,
+    "new_business_roster": 0,
+    "limited_copy_or_use_sources_added": 2,
+    "new_full_video_or_audio_transcripts": 0
+  },
+  "social_depth_recheck": {
+    "new_brands": 0,
+    "new_full_social_reads": 0,
+    "new_watched_videos": 0,
+    "reused_full_transcript_methods": 3,
+    "source_records_added": 13,
+    "new_distinct_source_urls": 6,
+    "original_drafts": 5,
+    "access_audit_records": 22,
+    "combined_B50_source_records": 382,
+    "combined_distinct_urls": 371,
+    "base_observed_content_unchanged": 137
+  },
+  "current_candidate_pool": 34,
+  "news_recheck": {
+    "window": "2026-09-08/2026-10-07",
+    "brands": 6,
+    "new_brands": 0,
+    "BN5_sources": 6,
+    "new_BN5_urls": 4,
+    "combined_brand_sources": 388,
+    "combined_distinct_brand_urls": 375,
+    "new_full_audio_or_video_reads": 0,
+    "historical_PaperSunday_observation_preserved": true,
+    "complete_channel_watermark": null,
+    "schedule_embedded": false
+  }
+}

@@ -1,0 +1,4206 @@
+{
+  "version": "2026.10.07",
+  "observed_at": "2026-10-07",
+  "scope": "11品牌的公開比較；50內容紀錄與112渠道／入口狀態含未核實／受阻",
+  "source_count": 176,
+  "sources": [
+    {
+      "id": "CB-S001",
+      "url": "https://elevatedfaith.com/",
+      "title": "EF01",
+      "evidence_summary": "主站以信仰對話為使命，設有新品、口碑、訂閱、獎勵、品牌大使及電子郵件／SMS入口。主站宣稱80,000+五星評價；屬自述，非獨立銷售核證。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "EF01"
+      ]
+    },
+    {
+      "id": "CB-S002",
+      "url": "https://www.trustpilot.com/review/elevatedfaith.com",
+      "title": "EF02",
+      "evidence_summary": "4.6/5，369則總評論；近12月68則。可見近期美國客戶產品及送貨評論。平台摘要亦提送貨、客服負評。不能把評分當獲利或每件商品銷量。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "EF02"
+      ]
+    },
+    {
+      "id": "CB-S003",
+      "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/elevated-faith.pdf",
+      "title": "EF03",
+      "evidence_summary": "Tapcart歷史案例報稱app內重購率75%、app產生總銷售25%、訂購頻率增70%。供應商案例，非獨立因果研究、非2026全站數據。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "EF03"
+      ]
+    },
+    {
+      "id": "CB-S004",
+      "url": "https://blog.elevatedfaith.com/content-creating-101/",
+      "title": "EF04",
+      "evidence_summary": "已讀正文，作者為品牌Digital Marketing Manager Bethany。明確建議自然光／穩定取景、細節特寫、開箱與生活片段、季節題材、把舊素材重剪換音樂字幕。所連Reel未直接看完，不能宣稱獨立驗證成效。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "EF04"
+      ]
+    },
+    {
+      "id": "CB-S005",
+      "url": "https://www.youtube.com/@elevatedfaith/about",
+      "title": "EF05",
+      "evidence_summary": "About描述與主站一致，並連elevatedfaith.com及instagram.com/elevatedfaith，據此核實所有權；讀到頻道清單而非完整697影片。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "EF05"
+      ]
+    },
+    {
+      "id": "CB-S006",
+      "url": "https://elevatedfaith.com/pages/brand-ambassadors",
+      "title": "EF06",
+      "evidence_summary": "品牌大使方案向好友提供15%折扣，成交佣金10%，有專屬Facebook群組及獎勵。這是有成本的推薦計畫，非免費自發口碑的證明。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "EF06"
+      ]
+    },
+    {
+      "id": "CB-S007",
+      "url": "https://blog.elevatedfaith.com/",
+      "title": "EF07",
+      "evidence_summary": "可見首頁文章日期最晚為2026-01-08；此索引顯示範圍不等於全站最後發布日。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "EF07"
+      ]
+    },
+    {
+      "id": "CB-S008",
+      "url": "https://linktr.ee/efambassadors",
+      "title": "EF08",
+      "evidence_summary": "Linktree標示Verified Linker，連官方主站／FAQ／申請頁，並列多個社群名称。部分圖示未提取到實際目的URL，保留待核實。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "EF08"
+      ]
+    },
+    {
+      "id": "CB-S009",
+      "url": "https://www.dearheartdesigns.com/",
+      "title": "DH01",
+      "evidence_summary": "使命為創造關於Jesus的對話；主站同時展示月度bundle、giveaway、教師聯名。官方連IG、Facebook、TikTok、blog及Newsletter。主站顯示Deeply Loved Fully Known項鍊4.8/160則。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DH01"
+      ]
+    },
+    {
+      "id": "CB-S010",
+      "url": "https://www.faire.com/brand/b_1mhxgl7b",
+      "title": "DH02",
+      "evidence_summary": "Top Shop，品牌評分5.0/277則；品質、履行及溝通各5.0。近期美國批發買家2026-09-16及08-27評論，可佐證真實分銷交易。不能換算收入或利潤。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DH02"
+      ]
+    },
+    {
+      "id": "CB-S011",
+      "url": "https://www.newschannel6now.com/2026/05/07/two-local-businesses-awarded-part-small-business-appreciation-week/",
+      "title": "DH03",
+      "evidence_summary": "KAUZ報導Dear Heart創辦人獲小企業人物獎及當時擴店計畫；文內50+員工為創辦人引述，非本研究查核人數。獎項不是營收或盈利證明。",
+      "read_level": "SAMPLE",
+      "published_date": "2026-05-07",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DH03"
+      ]
+    },
+    {
+      "id": "CB-S012",
+      "url": "https://blog.dearheartdesigns.com/",
+      "title": "DH04",
+      "evidence_summary": "可見2026年9至10月文章；分類含Devotionals、Living Faithfully、Staff Spotlight、Monthly Prayer、Song of the Week。已完整讀取限定樣本，不宣稱全blog。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DH04"
+      ]
+    },
+    {
+      "id": "CB-S013",
+      "url": "https://www.youtube.com/@DearHeartCo/about",
+      "title": "DH05",
+      "evidence_summary": "About交叉連到dearheartdesigns.com及其blog，確立品牌身分。平台快照：加入2026-04-13，55訂閱、61影片、52,740總觀看。這些不作商業成功門檻。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DH05"
+      ]
+    },
+    {
+      "id": "CB-S014",
+      "url": "https://blog.dearheartdesigns.com/from-nicholes-heart/",
+      "title": "DH06",
+      "evidence_summary": "創辦人第一人稱談13年發展與信仰，文內70員工／倉庫／門市為其自述；與5月新聞50+員工時間不同，不任意視為矛盾。",
+      "read_level": "SAMPLE",
+      "published_date": "2026-09-03",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DH06",
+        "DH-P4"
+      ]
+    },
+    {
+      "id": "CB-S015",
+      "url": "https://www.kerusso.com/",
+      "title": "KER01",
+      "evidence_summary": "官方自述累計50M+ shirts sold，展示多子品牌、信仰宣言、商品、IG、零售商入口與Newsletter。累計數字非審計，非journal銷量。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "KER01"
+      ]
+    },
+    {
+      "id": "CB-S016",
+      "url": "https://www.christianbook.com/jesus-is-lord-mens-journal-brown/pd/584753",
+      "title": "KER02",
+      "evidence_summary": "Christianbook實際販售Kerusso Apparel的男士journal，屬分銷佐證。該品是192 lined pages且每頁有經文／引言，與MyGiftStyle200橫線頁不同；不可抄用其內頁說明。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "KER02"
+      ]
+    },
+    {
+      "id": "CB-S017",
+      "url": "https://www.trustpilot.com/review/kerusso.com",
+      "title": "KER03",
+      "evidence_summary": "此頁2.7/5、總1,586則、近12月1則；與UK快取4.3/1,585不一致。近一則為2026-09-10品質／客服負評；用戶主張未經本研究驗證，不能推廣為所有訂單品質。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "KER03"
+      ]
+    },
+    {
+      "id": "CB-S018",
+      "url": "https://uk.trustpilot.com/review/kerusso.com",
+      "title": "KER04",
+      "evidence_summary": "UK頁快取顯示4.3/5、1,585則、近12月0則，最新為2025-03-10。與美國主頁差異無法確定原因，不擇優／擇劣硬定官方總分。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "KER04"
+      ]
+    },
+    {
+      "id": "CB-S019",
+      "url": "https://www.kerusso.com/blogs/news",
+      "title": "KER05",
+      "evidence_summary": "限定讀取最前面的三篇正文，日期2025-03至05；不能據此宣稱2026未經營其他頻道。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "KER05"
+      ]
+    },
+    {
+      "id": "CB-S020",
+      "url": "https://www.kerusso.com/blogs/news/may-the-lord-be-with-you-faith-meets-the-galaxy",
+      "title": "KER06",
+      "evidence_summary": "歷史頁footer外連Facebook kerusso、Instagram kerussoofficial、Pinterest shopkerusso、TikTok kerussoofficial、X kerusso，可核實各帳號歸屬；不是當日所有頻道清單。",
+      "read_level": "SAMPLE",
+      "published_date": "2025-05-01",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "KER06",
+        "KER-P1"
+      ]
+    },
+    {
+      "id": "CB-S021",
+      "url": "https://www.youtube.com/shorts/XODUDvo_JHI",
+      "title": "KER07",
+      "evidence_summary": "讀到Kerusso頻道上Why Wear Kerusso Christian Apparel?描述，指向Kerusso.com；2 likes、100 views，無逐字稿。About未完成核實，僅描述級佐證，不作影片畫面或教學方法結論。",
+      "read_level": "INDEX_ONLY",
+      "published_date": "2025-09-18",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "KER07"
+      ]
+    },
+    {
+      "id": "CB-S022",
+      "url": "https://www.qvc.com/p/kerusso-30-oz-dual-wall-tumbler---eagle/K86336",
+      "title": "KER08",
+      "evidence_summary": "QVC商品頁確認品牌跨零售分銷；頁面售罄不等於銷售很好，也不能反推銷量。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "KER08"
+      ]
+    },
+    {
+      "id": "CB-S023",
+      "url": "https://lnk.bio/kerusso",
+      "title": "KER09",
+      "evidence_summary": "交叉連主站與IG，另有Facebook／X社群，及emailtextsignup、Devotional、零售商入口。排除分享按鈕，不誤當官方Reddit或LinkedIn頻道。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "KER09"
+      ]
+    },
+    {
+      "id": "CB-S024",
+      "url": "https://www.linkedin.com/pulse/press-release-winners-announced-nsbw-sbadallasfortworth-kq7tc",
+      "title": "DH07",
+      "evidence_summary": "SBA Dallas/Fort Worth帳號新聞稿（內文日期4月10日）提2026 Small Businessperson of the Year、50+員工、全美出貨及flagship計畫。網站連結誤列dearheart.com，故身分仍以主站／Faire／KAUZ交叉對照；不以錯鏈核實社群所有權。",
+      "read_level": "SAMPLE",
+      "published_date": "2026-04-13",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DH07"
+      ]
+    },
+    {
+      "id": "CB-S025",
+      "url": "https://thedailygraceco.com/products/all-things-new-journal",
+      "title": "DGC-P1",
+      "evidence_summary": "All Things New - Praying Scripture Journal：192則、4.97/5；本次頁面價US$11.99，標示原價US$24。可見多則禮物／易使用評論，部分標明評價者獲未來購物獎勵。 單一相關journal產品評論；平台頁面公開數據，非銷量。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DGC-P1"
+      ]
+    },
+    {
+      "id": "CB-S026",
+      "url": "https://thedailygraceco.com/",
+      "title": "DGC-HOME",
+      "evidence_summary": "官網自述8 million books sold、95,000+ 5-star reviews。 全品牌／書籍歷史自述；不當成journal銷售或獨立審計。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DGC-HOME"
+      ]
+    },
+    {
+      "id": "CB-S027",
+      "url": "https://thedailygraceco.com/blogs/the-daily-grace-blog",
+      "title": "The Daily Grace Co. Blog",
+      "evidence_summary": "選讀2022 routine、2026 collection／education／challenge內容。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S028",
+      "url": "https://www.youtube.com/channel/UCtR50BxYg0Qf5BF_n0h9efg",
+      "title": "The Daily Grace Co. YouTube",
+      "evidence_summary": "一支3:23影片完整逐字稿；另一官網嵌入影片已移除；無全頻道清單。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S029",
+      "url": "https://instagram.com/thedailygraceco",
+      "title": "The Daily Grace Co. Instagram",
+      "evidence_summary": "官方外連已驗證；公開頁開啟失敗，未逐篇讀貼文。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S030",
+      "url": "https://www.facebook.com/thedailygraceco",
+      "title": "The Daily Grace Co. Facebook",
+      "evidence_summary": "未取得可讀快取。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S031",
+      "url": "https://www.facebook.com/groups/thedailygraceco",
+      "title": "The Daily Grace Co. Facebook community",
+      "evidence_summary": "官方Linktree直連；群內容未讀。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S032",
+      "url": "https://www.tiktok.com/@thedailygraceco",
+      "title": "The Daily Grace Co. TikTok",
+      "evidence_summary": "頁面無可讀內容。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S033",
+      "url": "https://substack.com/@thedailygraceco",
+      "title": "The Daily Grace Co. Substack",
+      "evidence_summary": "profile可見10K+ subscribers；publication正文未讀。此數不作銷售證據。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S034",
+      "url": "https://thedailygraceco.com/pages/podcast",
+      "title": "The Daily Grace Co. Podcast",
+      "evidence_summary": "官網節目索引及2026-09-08 companion說明。官方14m+ downloads為全節目自述，非單集表現。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S035",
+      "url": "https://itunes.apple.com/us/podcast/daily-grace/id1450011728?mt=2",
+      "title": "The Daily Grace Co. Apple Podcasts",
+      "evidence_summary": "未取得可讀快取。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S036",
+      "url": "https://open.spotify.com/show/18NyOSTZS1OhvOTYysv3gx",
+      "title": "The Daily Grace Co. Spotify",
+      "evidence_summary": "可解析品牌節目標題，正文空白。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S037",
+      "url": "https://thedailygraceco.com/pages/newsletter",
+      "title": "The Daily Grace Co. Email/SMS",
+      "evidence_summary": "官網10%加入優惠與launch notification入口；未訂閱、未審查email實際序列。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S038",
+      "url": "https://www.youtube.com/watch?v=1kr2kgEyx-c",
+      "title": "My Morning Routine with The Daily Grace Co.",
+      "evidence_summary": "由起床、早餐咖啡進入devotional routine；逐一解釋Bible、配套journal及study bundle功能；description列精確產品連結。",
+      "read_level": "完整逐字稿",
+      "published_date": "2022-01-20",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DGC-S1"
+      ]
+    },
+    {
+      "id": "CB-S039",
+      "url": "https://thedailygraceco.com/blogs/the-daily-grace-blog/my-morning-routine-with-the-daily-grace-co",
+      "title": "My Morning Routine with The Daily Grace Co.伴隨文章",
+      "evidence_summary": "由起床、早餐咖啡進入devotional routine；逐一解釋Bible、配套journal及study bundle功能；description列精確產品連結。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S040",
+      "url": "https://thedailygraceco.com/blogs/the-daily-grace-blog/2026-advent-collection",
+      "title": "The 2026 Advent Collection",
+      "evidence_summary": "按成人、teen、兒童、配件、bundle分層；把季節意義連到具體用途。",
+      "read_level": "全文",
+      "published_date": "2026-09-07",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DGC-S2"
+      ]
+    },
+    {
+      "id": "CB-S041",
+      "url": "https://thedailygraceco.com/blogs/the-daily-grace-podcast/praying-the-psalms-bringing-your-whole-heart-to-god",
+      "title": "Praying the Psalms: Bringing Your Whole Heart to God",
+      "evidence_summary": "官網說明以具體情緒困擾帶入詩篇13/51/103，再連向Psalms bundle。只歸因為已讀companion，不聲稱聽完節目。",
+      "read_level": "已讀伴隨文章；影片已移除",
+      "published_date": "2026-09-08",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DGC-S3"
+      ]
+    },
+    {
+      "id": "CB-S042",
+      "url": "https://thedailygraceco.com/blogs/the-daily-grace-blog/more-than-quiet-time",
+      "title": "God Is Forming You in More Than Just Your Quiet Time",
+      "evidence_summary": "以生活responsibilities／responses／relationships組織文章，文末導向相關study商品及另一文章。",
+      "read_level": "全文",
+      "published_date": "2026-09-17",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DGC-S4"
+      ]
+    },
+    {
+      "id": "CB-S043",
+      "url": "https://thedailygraceco.com/blogs/the-daily-grace-blog/july-2026-bible-study-and-book-picks",
+      "title": "July 2026 Bible Study and Book Picks",
+      "evidence_summary": "Abide購買／免費digital copy→免費Substack→每週鼓勵→hashtag進度→giveaway，具明確下一步。",
+      "read_level": "全文",
+      "published_date": "2026-06-24",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DGC-S5"
+      ]
+    },
+    {
+      "id": "CB-S044",
+      "url": "https://hosannarevival.com/pages/prayer-journal",
+      "title": "HR-P1",
+      "evidence_summary": "5-Year Prayer Journal系列：Edinburgh253則、Versailles53則、Stockholm48則；US$49.90。 官網單品評價數；非銷量、非US限定評價。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "HR-P1"
+      ]
+    },
+    {
+      "id": "CB-S045",
+      "url": "https://hosannarevival.com/collections/by-design/products/hosanna-revival-notebook-iceland-theme",
+      "title": "HR-P2",
+      "evidence_summary": "Iceland notebook31則；可見送禮、品質、重購意向，亦有封面顏色與配套Bible不一致、紙偏黃的抱怨。 具體產品顧客聲音；其中UK買家，不能算US需求。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "HR-P2"
+      ]
+    },
+    {
+      "id": "CB-S046",
+      "url": "https://www.youtube.com/watch?v=eFLRDtmOR0I",
+      "title": "HR-YT-LEAD",
+      "evidence_summary": "",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S047",
+      "url": "https://hosannarevival.com/",
+      "title": "Hosanna Revival Website/store",
+      "evidence_summary": "首頁、5-year landing、notebook評論。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S048",
+      "url": "https://hosannarevival.com/blogs/when-blog",
+      "title": "Hosanna Revival WHEN blog",
+      "evidence_summary": "索引及3個可讀正文樣本；非最新完整時間序列。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S049",
+      "url": "https://www.youtube.com/@HosannaRevival",
+      "title": "Hosanna Revival YouTube",
+      "evidence_summary": "官方身份由網站確認；頻道擷取顯示401頁面但帶品牌metadata；影片Publishing只得搜尋snippet，watch擷取被取消，未重試。不能聲稱已讀YouTube教學。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S050",
+      "url": "https://instagram.com/hosannarevival",
+      "title": "Hosanna Revival Instagram",
+      "evidence_summary": "公開頁讀取失敗。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S051",
+      "url": "https://www.facebook.com/hosannarevival",
+      "title": "Hosanna Revival Facebook",
+      "evidence_summary": "未取得可讀快取。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S052",
+      "url": "https://www.pinterest.com/hosannarevival",
+      "title": "Hosanna Revival Pinterest",
+      "evidence_summary": "403。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S053",
+      "url": "https://www.tiktok.com/@hosannarevival",
+      "title": "Hosanna Revival TikTok",
+      "evidence_summary": "未取得可讀快取。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S054",
+      "url": "https://hosannarevival.com/pages/store-locator",
+      "title": "Hosanna Revival Wholesale/store locator",
+      "evidence_summary": "官網導覽確認入口，未把入口存在當作活躍店數或sell-through。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S055",
+      "url": "https://hosannarevival.com/blogs/when-blog/when-christmas-feels-heavy",
+      "title": "When Christmas Feels Heavy",
+      "evidence_summary": "從節日壓力與悲傷出發，允許讀者坦誠祈禱，文末兩個具體反思問題。",
+      "read_level": "搜尋回傳正文；原頁直接讀取受阻",
+      "published_date": "2025-12-02",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "HR-S1"
+      ]
+    },
+    {
+      "id": "CB-S056",
+      "url": "https://hosannarevival.com/blogs/when-blog/when-our-spending-habits-become-an-act-of-faith",
+      "title": "When Our Spending Habits Become an Act of Faith",
+      "evidence_summary": "論及負責任消費、知足、延後衝動購物等；本研究只核對其內容策略，不驗證文內所有第三方環境數據。",
+      "read_level": "全文",
+      "published_date": "2025-12-02",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "HR-S2"
+      ]
+    },
+    {
+      "id": "CB-S057",
+      "url": "https://hosannarevival.com/blogs/when-blog/when-youve-lost-your-wonder-for-god",
+      "title": "When You’ve Lost Your Wonder for God",
+      "evidence_summary": "開頭直說改編自Wonder書；後段從選一篇psalm、慢讀、觀察、禱告到反思／journaling提供實作。",
+      "read_level": "全文",
+      "published_date": "2025-11-04",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "HR-S3"
+      ]
+    },
+    {
+      "id": "CB-S058",
+      "url": "https://hosannarevival.com/blogs/when-blog/when-you-don-t-feel-ready-for-advent",
+      "title": "When You Don’t Feel Ready for Advent",
+      "evidence_summary": "可讀索引／節錄以個人失落和信仰處境連到即將上市devotional；未把敏感故事當成可複製銷售腳本。",
+      "read_level": "僅搜尋節錄",
+      "published_date": "2026-09-16",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "HR-S4"
+      ]
+    },
+    {
+      "id": "CB-S059",
+      "url": "https://shop.wellwateredwomen.com/collections/gifts/products/give-me-jesus-journal",
+      "title": "WWW-P1",
+      "evidence_summary": "Give Me Jesus Journal：74則評價，US$31.97；328頁，具結構化Bible study、pray/apply欄位。 產品頁公開評論；不是200頁純橫線journal同規格。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "WWW-P1"
+      ]
+    },
+    {
+      "id": "CB-S060",
+      "url": "https://judge.me/reviews/stores/shop.wellwateredwomen.com",
+      "title": "WWW-R1",
+      "evidence_summary": "搜尋索引顯示店評641則、4.91/5、96%verified，公布89%的verified reviews；2024-10-24、09-24有具體Scripture Memory Journal贈禮／使用評論。 INDEX_ONLY；直接開啟Judge.me僅logo，保留索引資料時間差，不能稱即時實際完整店評。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "WWW-R1"
+      ]
+    },
+    {
+      "id": "CB-S061",
+      "url": "https://wellwateredwomen.com/the-next-season-of-well-watered-women/",
+      "title": "Well-Watered Women營運變更",
+      "evidence_summary": "官網宣布暫停內容和生產、年底前清庫，以便休息及家庭優先；當時明言不是品牌關閉。",
+      "read_level": "SAMPLE",
+      "published_date": "2024-10-07",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "WWW-S4"
+      ]
+    },
+    {
+      "id": "CB-S062",
+      "url": "https://wellwateredwomen.com/the-new-season-of-well-watered-women/",
+      "title": "Well-Watered Women營運變更",
+      "evidence_summary": "2.0優先高價值email與evergreen tools；計劃IG每月幾次；新產品不維持舊節奏。這是品牌公開計劃，不是本研究已驗證其2026實際頻率。",
+      "read_level": "SAMPLE",
+      "published_date": "2025-10-07",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "WWW-S5"
+      ]
+    },
+    {
+      "id": "CB-S063",
+      "url": "https://wellwateredwomen.com/",
+      "title": "Well-Watered Women Website/store",
+      "evidence_summary": "網站、新舊營運公告、現行journal產品頁。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S064",
+      "url": "https://wellwateredwomen.com/blog/",
+      "title": "Well-Watered Women Blog",
+      "evidence_summary": "兩份公告、2024Advent、new Christian文章。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S065",
+      "url": "https://www.youtube.com/channel/UCvRNABLt62sAUGpk0tLrkvw",
+      "title": "Well-Watered Women YouTube / Gretchen Saffles",
+      "evidence_summary": "一支2021FAQ短片完整逐字稿；不是最新上片完整盤點。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S066",
+      "url": "https://www.instagram.com/wellwateredwomen/",
+      "title": "Well-Watered Women Instagram brand",
+      "evidence_summary": "429。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S067",
+      "url": "https://www.instagram.com/gretchensaffles/",
+      "title": "Well-Watered Women Instagram founder",
+      "evidence_summary": "官網點名個人帳號；未取到逐篇內容。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S068",
+      "url": "https://www.facebook.com/wellwateredwomen",
+      "title": "Well-Watered Women Facebook",
+      "evidence_summary": "未取得可讀快取。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S069",
+      "url": "https://www.pinterest.com/wellwateredwomen/",
+      "title": "Well-Watered Women Pinterest",
+      "evidence_summary": "403。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S070",
+      "url": "https://wellwateredwomen.com/email",
+      "title": "Well-Watered Women Email",
+      "evidence_summary": "官網重整公告明言主軸；未訂閱或取用實際信件。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S071",
+      "url": "https://www.youtube.com/watch?v=q-4kqu8YVkA",
+      "title": "Can The Well-Watered Woman Book + Journal Be Used Independently?",
+      "evidence_summary": "直接回答book及devotional journal可獨立使用；分清互動實作與深層背景解說。",
+      "read_level": "完整逐字稿",
+      "published_date": "2021-01-19",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "WWW-S1"
+      ]
+    },
+    {
+      "id": "CB-S072",
+      "url": "https://wellwateredwomen.com/3-books-of-the-bible-to-study-for-new-christians/",
+      "title": "3 Books of the Bible to Study for New Christians",
+      "evidence_summary": "從新信徒不知道從何開始的問題切入，以John、Ephesians、Genesis提供路徑；結尾說沒有唯一正確起點。",
+      "read_level": "全文",
+      "published_date": "2024-02-27",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "WWW-S2"
+      ]
+    },
+    {
+      "id": "CB-S073",
+      "url": "https://wellwateredwomen.com/advent-2024-worthy-is-the-lamb/",
+      "title": "Advent 2024: Worthy is the Lamb",
+      "evidence_summary": "先談現實節日壓力，再介紹study與matching cards bundle；促銷已屬歷史。",
+      "read_level": "全文",
+      "published_date": "2024-09-23",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "WWW-S3"
+      ]
+    },
+    {
+      "id": "CB-S074",
+      "url": "https://shannaskidmore.com/valerie-woerner/",
+      "title": "VMP-C1",
+      "evidence_summary": "第三方訪談文章介紹稱since2013 nearly100,000 journals；同頁bio稱over125,000。具體報告2020有5,000本聖誕前待出貨與500本錯色。 訪談／創辦人敘事，並非審計；同頁數字不一致，不能當作確切銷量，最多支持十萬級歷史商業traction。",
+      "read_level": "SAMPLE",
+      "published_date": "2024-01-11",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "VMP-C1"
+      ]
+    },
+    {
+      "id": "CB-S075",
+      "url": "https://www.valmariepaper.com/reviews-2/",
+      "title": "VMP-R1",
+      "evidence_summary": "品牌自選用戶testimonial談Christmas gift、compact、使用結構與贈友；有US及英國回饋。 精選testimonials，不是可完整驗證的星級評價母體。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "VMP-R1"
+      ]
+    },
+    {
+      "id": "CB-S076",
+      "url": "https://shop.valmariepaper.com/products/signature-prayer-journal?variant=41863844233407",
+      "title": "VMP-P1",
+      "evidence_summary": "Signature頁US$35，222頁、6個undated months與prompts；附keepsake box；產品規格和200橫線頁不同。 商品頁快照；價格和預購訊息需購買時再核對。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "VMP-P1"
+      ]
+    },
+    {
+      "id": "CB-S077",
+      "url": "https://www.valmariepaper.com/",
+      "title": "Val Marie Paper營運變更",
+      "evidence_summary": "官網現行敘述：Val在2024年8月原計畫關閉；Lindsay於2025年2月接手。2026 launch文署名Lindsay。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S078",
+      "url": "https://www.valmariepaper.com/blog/",
+      "title": "Val Marie Paper Blog",
+      "evidence_summary": "2019使用文章、2025與2026新主理文章。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S079",
+      "url": "https://www.youtube.com/channel/UCaNlxbg_WohKCmjUCWj0Xlw/featured",
+      "title": "Val Marie Paper YouTube website-linked legacy",
+      "evidence_summary": "官方footer入口可驗證；2023 prep影片作者Valerie Woerner、description回鏈品牌商店，取得逐字稿並讀取開頭約18k字元片段，未完整聽看110分鐘。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S080",
+      "url": "https://www.youtube.com/@ValMariePaper",
+      "title": "Val Marie Paper YouTube new brand-name candidate",
+      "evidence_summary": "2027 launch影片內容與新官網一致，具metadata，但尚未取得官網外連或channel About回鏈；不把同名直接等於官方。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S081",
+      "url": "https://www.instagram.com/valmariepaper/",
+      "title": "Val Marie Paper Instagram",
+      "evidence_summary": "公開頁讀取失敗。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S082",
+      "url": "https://www.facebook.com/valmariepaper/",
+      "title": "Val Marie Paper Facebook",
+      "evidence_summary": "頁面顯示temporarily blocked。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S083",
+      "url": "https://www.facebook.com/groups/2042749839288754/",
+      "title": "Val Marie Paper Facebook VMP Society",
+      "evidence_summary": "2019官網直連身份已確認；點開未取得可讀快取，群內內容及活躍現況未知。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S084",
+      "url": "https://www.pinterest.com/valeriewoerner/",
+      "title": "Val Marie Paper Pinterest founder-linked",
+      "evidence_summary": "官網footer直連；未取得可讀快取；不能當作2026新老闆經營數據。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S085",
+      "url": "https://valeriewoerner.substack.com/",
+      "title": "Val Marie Paper Founder Substack",
+      "evidence_summary": "官網Looking for Val入口，標題Asking Questions with Valerie Woerner可讀，正文未讀；創辦人個人渠道。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S086",
+      "url": "https://www.valmariepaper.com/podcast/",
+      "title": "Val Marie Paper Podcast site",
+      "evidence_summary": "官網71 episodes／200,000+downloads／4.9為自述，latest索引是2023；不是2026持續每週發佈證據。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S087",
+      "url": "https://podcasts.apple.com/us/podcast/prayer-in-a-noisy-world-with-valerie-woerner-of/id1585653292",
+      "title": "Val Marie Paper Apple Podcasts",
+      "evidence_summary": "頁面4.9(117 ratings)、see all83；latest顯示2023-11-09 Global Evangelism，官網companion2023-11-29是不同日期，不混為發布日。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S088",
+      "url": "https://open.spotify.com/show/1jq2IL7P2hBC1QHhqXejaW",
+      "title": "Val Marie Paper Spotify",
+      "evidence_summary": "未取得可讀快取。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S089",
+      "url": "https://www.valmariepaper.com/how-to-set-yourself-up-for-journal-success/",
+      "title": "How to actually use the journal",
+      "evidence_summary": "先找希望達成的事、使用障礙、個人節奏、放哪裡會看到；提供真實顧客把咖啡與禱告journal連結的例子。",
+      "read_level": "全文",
+      "published_date": "2019-12-26",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "VMP-S1"
+      ]
+    },
+    {
+      "id": "CB-S090",
+      "url": "https://www.youtube.com/watch?v=cDYdpO_R7T4",
+      "title": "2023 Prayer Journal Prep with Valerie Woerner",
+      "evidence_summary": "已讀段落明說希望買家使用而不只購買；開箱、how-to卡、習慣training、試用分享卡、先寫名字降低怕弄髒journal的阻力。",
+      "read_level": "只讀逐字稿開頭約18,000字元",
+      "published_date": "2022-12-30",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "VMP-S2"
+      ]
+    },
+    {
+      "id": "CB-S091",
+      "url": "https://www.valmariepaper.com/finding-peace-in-the-chaos-of-life/",
+      "title": "Finding Peace in the Chaos of Life",
+      "evidence_summary": "生活忙亂中的短暫祈禱處境，文末接Rhythms/Signature商品；此為品牌信仰寫作，不轉成健康療效承諾。",
+      "read_level": "全文",
+      "published_date": "2025-04-02",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "VMP-S3"
+      ]
+    },
+    {
+      "id": "CB-S092",
+      "url": "https://www.valmariepaper.com/2027-prayer-journal-collection/",
+      "title": "Introducing the 2027 Prayer Journal Collection: Born at Sunset",
+      "evidence_summary": "Lindsay講色彩來源與群眾意見，區分Rhythms、Signature、Kid’s Legacy、Sermon Notes。預購8/11–8/25、晚9月發貨均為當時公告，不當現時優惠。",
+      "read_level": "全文",
+      "published_date": "2026-08-06",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "VMP-S4"
+      ]
+    },
+    {
+      "id": "CB-S093",
+      "url": "https://www.youtube.com/watch?v=9stDHnCRPxY",
+      "title": "Val Marie Paper 2027 Collection Live Cover Reveal",
+      "evidence_summary": "描述可見Rhythms/Signature新色、Kid’s Legacy及Sermon Notes上市；未讀到transcript，不聲稱學到直播內方法。",
+      "read_level": "僅影片資料與描述",
+      "published_date": "2026-08-08",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "VMP-S5"
+      ]
+    },
+    {
+      "id": "CB-S094",
+      "url": "https://www.youtube.com/@elevatedfaith",
+      "title": "Elevated Faith YouTube",
+      "evidence_summary": "About連官方域名與IG；1支歷史影片讀完整逐字稿。頻道清單其他影片僅索引。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S095",
+      "url": "https://www.instagram.com/elevatedfaith/",
+      "title": "Elevated Faith Instagram",
+      "evidence_summary": "主站／官方教學文核實。直接擷取失敗；僅官方伴隨文字和Reel連結，未把未知互動數當0。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S096",
+      "url": "https://www.facebook.com/elevatedfaith",
+      "title": "Elevated Faith Facebook",
+      "evidence_summary": "公開讀取返回Temporarily Blocked，未登入或繞過。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S097",
+      "url": "https://www.tiktok.com/@elevatedfaith",
+      "title": "Elevated Faith TikTok",
+      "evidence_summary": "讀取受robots限制；未拿其他品牌或大使貼文冒充官方。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S098",
+      "url": "https://www.threads.net/@elevatedfaith",
+      "title": "Elevated Faith Threads",
+      "evidence_summary": "官方頁標籤有時寫Twitter但實際連Threads；此處依URL分類。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S099",
+      "url": "https://elevatedfaith.com/pages/newsletter",
+      "title": "Elevated Faith Email / SMS",
+      "evidence_summary": "主站有訂閱入口與SMS促銷提示；未訂閱，未審核實際發送序列。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S100",
+      "url": "https://apps.apple.com/us/app/elevated-faith/id1268746889?mt=8",
+      "title": "Elevated Faith Shopping app",
+      "evidence_summary": "官方連App Store；歷史案例不能代表當期app表現。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S101",
+      "url": "https://www.facebook.com/groups/elevatedfaithreps/",
+      "title": "Elevated Faith Ambassador program / Facebook community",
+      "evidence_summary": "官方方案可讀；群組來自已核實品牌Linktree，群內內容未讀取。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S102",
+      "url": "https://open.spotify.com/playlist/1MG0WayBygrbr7k2bSGLap?si=93815cc8dc794507",
+      "title": "Elevated Faith Spotify playlist",
+      "evidence_summary": "Linktree外連之品牌播放清單入口，非podcast／銷售證據。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S103",
+      "url": "https://www.youtube.com/watch?v=EXa6wRsYZ5Y",
+      "title": "Elevated Faith Unboxing & Review!",
+      "evidence_summary": "逐字稿包含實際用途、厚度、舒適感和尺碼選擇；品牌使命與產品證據同時出現。",
+      "read_level": "逐字稿已讀",
+      "published_date": "2023-03-22",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "EF-P1"
+      ]
+    },
+    {
+      "id": "CB-S104",
+      "url": "https://blog.elevatedfaith.com/faith-fitness-getting-fit-physically-biblically/",
+      "title": "Faith & Fitness: Getting Fit Physically & Biblically",
+      "evidence_summary": "先提供生活領域相關內容，末尾帶出EF MOTION上市預告；預告為當時訊息，不保證現在的上市狀態。",
+      "read_level": "全文",
+      "published_date": "2026-01-08",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "EF-P2"
+      ]
+    },
+    {
+      "id": "CB-S105",
+      "url": "https://blog.elevatedfaith.com/dear-dad/",
+      "title": "Dear Dad",
+      "evidence_summary": "明確家庭角色＋節慶；內容整理給送禮者可用的表達角度。日期由官方blog索引確認。",
+      "read_level": "全文",
+      "published_date": "2025-06-13",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "EF-P3"
+      ]
+    },
+    {
+      "id": "CB-S106",
+      "url": "https://blog.elevatedfaith.com/dear-mom/",
+      "title": "Dear Mom",
+      "evidence_summary": "結尾鼓勵分享給媽媽；這是關係表達內容而非產品規格。日期由官方blog索引確認。",
+      "read_level": "全文",
+      "published_date": "2025-05-09",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "EF-P4"
+      ]
+    },
+    {
+      "id": "CB-S107",
+      "url": "https://www.instagram.com/dearheartco/",
+      "title": "Dear Heart Instagram",
+      "evidence_summary": "搜尋可見2026-04-24 Reel題述及122 likes／4 comments；主頁與該Reel擷取失敗，不能當已觀看影片。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S108",
+      "url": "https://www.facebook.com/dearheartdesignsco",
+      "title": "Dear Heart Facebook",
+      "evidence_summary": "工具未取得可讀快取；無帖子正文樣本。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S109",
+      "url": "https://www.tiktok.com/@dearheartco",
+      "title": "Dear Heart TikTok",
+      "evidence_summary": "工具未取得可讀快取；未審核影片。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S110",
+      "url": "https://www.youtube.com/@DearHeartCo",
+      "title": "Dear Heart YouTube",
+      "evidence_summary": "About連官方主站和blog；1支19秒影片讀到字幕，但字幕只有音樂內容，不能推論視覺分鏡。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S111",
+      "url": "https://blog.dearheartdesigns.com/a-love-worth-the-cross/",
+      "title": "A Love Worth the Cross",
+      "evidence_summary": "把熟悉經文連結讀者生活，附可思考問題；屬免費外部文章內容，不能說其所有商品包含問題。",
+      "read_level": "全文",
+      "published_date": "2026-10-01",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DH-P1"
+      ]
+    },
+    {
+      "id": "CB-S112",
+      "url": "https://blog.dearheartdesigns.com/his/",
+      "title": "His Love, Written Into My Story",
+      "evidence_summary": "從抽象信念轉到小行動與反思問題。日期由官方blog索引核實。",
+      "read_level": "全文",
+      "published_date": "2026-09-24",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DH-P2"
+      ]
+    },
+    {
+      "id": "CB-S113",
+      "url": "https://blog.dearheartdesigns.com/stepping-into-fall-with-faith/",
+      "title": "Stepping Into Fall With Faith",
+      "evidence_summary": "同一『季節會變、信仰不變』敘事串接多個商品名稱。只讀文字／圖片替代文字，未獨立評分影像構圖。",
+      "read_level": "全文",
+      "published_date": "2026-09-19",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DH-P3"
+      ]
+    },
+    {
+      "id": "CB-S114",
+      "url": "https://www.youtube.com/watch?v=so1sSf-z6UY",
+      "title": "Meet Our Retail Team 🩷",
+      "evidence_summary": "只能確認短影片、日期與公開互動。沒有訪談／教學內容可引用，不能從標題推論實際鏡頭。",
+      "read_level": "已讀字幕但只有音樂，不能推論畫面",
+      "published_date": "2026-07-24",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "DH-P5"
+      ]
+    },
+    {
+      "id": "CB-S115",
+      "url": "https://www.instagram.com/kerussoofficial/",
+      "title": "Kerusso Instagram",
+      "evidence_summary": "有2026-09-14 journal Reel搜尋線索，但混合snippet含其他影片，僅保留標題／日期，排除混入的Alignment Journal細節。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S116",
+      "url": "https://www.facebook.com/kerusso/",
+      "title": "Kerusso Facebook",
+      "evidence_summary": "官方歷史頁footer與品牌linkhub核實；當次robots拒絕。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S117",
+      "url": "https://www.pinterest.com/shopkerusso/_created/",
+      "title": "Kerusso Pinterest",
+      "evidence_summary": "當前主站出站與歷史footer核實；公開擷取失敗。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S118",
+      "url": "https://www.tiktok.com/@kerussoofficial",
+      "title": "Kerusso TikTok",
+      "evidence_summary": "工具回空頁，未看片。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S119",
+      "url": "https://x.com/kerusso",
+      "title": "Kerusso X",
+      "evidence_summary": "歷史footer與linkhub可核實，X回空頁。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S120",
+      "url": "https://www.youtube.com/@kerussoofficial",
+      "title": "Kerusso YouTube candidate",
+      "evidence_summary": "品牌候選：影片頻道名、標誌和Kerusso.com指向一致，但About核實未完成（一次資料取消；web 未取得可讀快取）。不算完整官方頻道內容審核。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S121",
+      "url": "https://www.kerusso.com/pages/emailtextsignup",
+      "title": "Kerusso Email / SMS",
+      "evidence_summary": "主站Newsletter與品牌linkhub入口已見，未訂閱／未讀序列。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S122",
+      "url": "https://www.kerusso.com/blogs/kerusso-daily-devotional/",
+      "title": "Kerusso Daily devotional / podcast",
+      "evidence_summary": "頁面可見Listen入口但音訊／節目集未讀；不稱已審核podcast。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S123",
+      "url": "https://apps.apple.com/us/app/kerusso-com/id6460581393",
+      "title": "Kerusso Shopping app",
+      "evidence_summary": "只核實出站入口，未安裝或測試。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S124",
+      "url": "https://www.kerusso.com/blogs/news/god-is-everything",
+      "title": "God Is Everything: Finding Peace, Purpose, and Direction Through Faith",
+      "evidence_summary": "文章末尾直接連到相同主題T-shirt，內容到商品語意一致；故事為品牌發表，未獨立核實人物。",
+      "read_level": "全文",
+      "published_date": "2025-04-22",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "KER-P2"
+      ]
+    },
+    {
+      "id": "CB-S125",
+      "url": "https://www.kerusso.com/blogs/news/christian-easter-gifts",
+      "title": "Christian Easter Gifts",
+      "evidence_summary": "把商品目錄轉為買方任務入口：為誰、何種場合、為何適合；不是把所有族群堆進同一listing。",
+      "read_level": "全文",
+      "published_date": "2025-03-24",
+      "observed_at": "2026-10-07",
+      "original_ids": [
+        "KER-P3"
+      ]
+    },
+    {
+      "id": "CB-S126",
+      "url": "https://www.hallmark.com/dayspring/",
+      "title": "現行Hallmark DaySpring頁",
+      "evidence_summary": "品牌、渠道、場合與內容遷移",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S127",
+      "url": "https://corporate.hallmark.com/news-article/dayspring-and-hallmark-offer-free-digital-video-greeting-in-celebration-of-the-national-day-of-encouragement-september-12/",
+      "title": "2022官方分銷及活動公告",
+      "evidence_summary": "歷史6,000商品與60國自述",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S128",
+      "url": "https://retail.dayspring.com/portals/0/CatalogsModule/Social%20Media%20Tips%20from%20DaySpring.pdf",
+      "title": "官方社群零售商指南",
+      "evidence_summary": "Pinterest及X身份；明確社群建議",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S129",
+      "url": "https://ideas.hallmark.com/articles/dayspring-ideas/reading-writing-and-recharging-our-faith/",
+      "title": "Reading writing and recharging our faith",
+      "evidence_summary": "用開學與新開始的氛圍帶入成人生活習慣，提出具體行動，邀請標註@DaySpringCards，末段連DaySpring商店。不是所有內容都直接硬銷。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S130",
+      "url": "https://ideas.hallmark.com/articles/dayspring-ideas/create-space-for-faith-in-your-everyday-planning/",
+      "title": "Create space for faith in your everyday planning",
+      "evidence_summary": "把家庭時間、重要日子、祈禱意向與感恩紀錄連到實體planner和calendar，並提供對應商品連結。可借用途到產品的結構，不借其planner功能。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S131",
+      "url": "https://www.instagram.com/dayspringcards",
+      "title": "DaySpring Instagram",
+      "evidence_summary": "品牌身份已核實；公開擷取未得到完整動態，不以第三方粉絲估值下結論。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S132",
+      "url": "https://www.facebook.com/dayspringfans/",
+      "title": "DaySpring Facebook",
+      "evidence_summary": "公開頁返回登入及暫時限制文字，沒有完整貼文樣本。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S133",
+      "url": "https://www.youtube.com/channel/UCez1Xswhk5kE1Uo0W18Qd-g",
+      "title": "DaySpring YouTube",
+      "evidence_summary": "頻道部分內容與一支完整逐字稿已讀；頁面同時有錯誤區塊，不視為完整清單。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S134",
+      "url": "https://www.pinterest.com/dayspring/",
+      "title": "DaySpring Pinterest",
+      "evidence_summary": "歷史官方身份可核；目前頁面403。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S135",
+      "url": "https://twitter.com/dayspring",
+      "title": "DaySpring X",
+      "evidence_summary": "歷史官方身份可核；目前擷取未取得可讀快取。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S136",
+      "url": "https://www.youtube.com/watch?v=0NkktxwY7SI",
+      "title": "Bible Journaling 101 with Shanna Noel from Illustrated Faith",
+      "evidence_summary": "先說個人創作與信仰的連結，再示範標出重點、手寫、標籤及日期，最後導向用品。是歷史產品教育，不是Etsy增長課程。",
+      "read_level": "完整逐字稿",
+      "published_date": "2016-02-12",
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S137",
+      "url": "https://www.christianartgifts.com/stationery/journals",
+      "title": "官方journal目錄",
+      "evidence_summary": "品類及US$9.99新款標價",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S138",
+      "url": "https://store.focusonthefamily.com/journals/",
+      "title": "獨立零售商Focus on the Family",
+      "evidence_summary": "多款CAG journal實際刊售",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S139",
+      "url": "https://www.dovechristiansupply.com/search/?Author=Christian+Art+Gifts&Category=Journal",
+      "title": "獨立零售商Dove",
+      "evidence_summary": "CAG journal分銷與品項",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S140",
+      "url": "https://cagifts.com/",
+      "title": "官方品牌與獎項自述",
+      "evidence_summary": "2023獎項僅公司自述",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S141",
+      "url": "https://www.christianartgifts.com/videos",
+      "title": "官方影片分類",
+      "evidence_summary": "產品、作者、Bible journaling及展覽分類",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S142",
+      "url": "https://www.christianartgifts.com/blog/christian-graduation-gift-guide-bible-verse-gifts",
+      "title": "Graduation Gift Guide",
+      "evidence_summary": "按高中、大學、研究所等階段給選禮路徑，組合journal、筆與其他商品。MyGiftStyle只轉用已支持的成人畢業場合，不能假設禮盒、筆或配套已包含。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S143",
+      "url": "https://www.christianartgifts.com/blog/giftbeat",
+      "title": "Giftbeat",
+      "evidence_summary": "品牌自行解釋送禮用途、內外細節、材質與引導式版本如何形成價值。未讀主辦方榜單，不把其100%客觀的說法當已獨立證實。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S144",
+      "url": "https://www.instagram.com/cagifts",
+      "title": "Christian Art Gifts Instagram",
+      "evidence_summary": "直接擷取未成功；搜尋混入被標註的別家貼文，已排除，不能當品牌動態。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S145",
+      "url": "https://www.facebook.com/christianartgifts",
+      "title": "Christian Art Gifts Facebook",
+      "evidence_summary": "身份已核，未取得足夠可核日期的貼文。",
+      "read_level": "OWNERSHIP_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S146",
+      "url": "https://twitter.com/CAGifts",
+      "title": "Christian Art Gifts X",
+      "evidence_summary": "擷取未取得可讀快取；不推論仍活躍或已停更。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S147",
+      "url": "https://www.youtube.com/channel/UCHrU5EqmQfD58uj1_CRZCJA",
+      "title": "Christian Art Gifts YouTube",
+      "evidence_summary": "頻道介紹、產品分類及Journals完整逐字稿已讀。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S148",
+      "url": "https://www.youtube.com/watch?v=INI8W5gfsyY",
+      "title": "Journals",
+      "evidence_summary": "按價格、大小、封面工藝、頁數、內頁及收禮人逐款介紹。講者稱lion圖案和某些經文暢銷，屬該品牌2021年自述，不是普遍市場規則。",
+      "read_level": "完整逐字稿",
+      "published_date": "2021-01-21",
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S149",
+      "url": "https://cagifts.com/pages/journals-and-notebooks",
+      "title": "Journals and Notebooks",
+      "evidence_summary": "用祈禱、感恩、旅行及讀經筆記區分用途，同時提供批發入口。",
+      "read_level": "全文",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S150",
+      "url": "https://wholesale.cagifts.com/journals/",
+      "title": "Wholesale Journals product videos",
+      "evidence_summary": "將影片變成零售商可重用的產品教育資產；這是B2B功能，不等於面向消費者病毒式傳播。",
+      "read_level": "全文文字及影片集合識別",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S151",
+      "url": "https://alabasterco.com/",
+      "title": "品牌官方首頁",
+      "evidence_summary": "官方渠道與品牌定位",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S152",
+      "url": "https://www.reviews.io/company-reviews/store/alabaster-co",
+      "title": "REVIEWS.io店評",
+      "evidence_summary": "4.8；快取3,743至3,751則。個別負評只見搜尋快取，未重現，不能作已確認弱點",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S153",
+      "url": "https://shop.tiktok.com/us/pdp/bible-study-for-women-by-alabaster-a-beautiful-year-in-the-bible/1729587799491843056",
+      "title": "TikTok Shop指定study",
+      "evidence_summary": "不同快取4.8；847及870 global reviews，非即時核數",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S154",
+      "url": "https://www.shipfusion.com/growth-stories/alabaster",
+      "title": "Shipfusion歷史案例",
+      "evidence_summary": "2024營運、廣告及團隊條件",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S155",
+      "url": "https://www.biblegateway.com/blog/2016/09/bible-design-in-an-instagram-age-an-interview-with-bryan-chung-and-brian-chung/",
+      "title": "2016創辦人第一手訪談",
+      "evidence_summary": "研究經文後原創設計；歷史定位",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S156",
+      "url": "https://www.instagram.com/alabaster",
+      "title": "Alabaster Co Instagram",
+      "evidence_summary": "找到具名Reel與索引摘要；直接擷取失敗，發布日期及完整視覺未核實。",
+      "read_level": "INDEX_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S157",
+      "url": "https://www.youtube.com/@alabasterco",
+      "title": "Alabaster Co YouTube",
+      "evidence_summary": "已讀2026音樂影片逐字稿與說明，非營銷教學。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S158",
+      "url": "https://www.tiktok.com/@alabaster_co",
+      "title": "Alabaster Co TikTok",
+      "evidence_summary": "已讀案例嵌入短片說明與平台商品評價；未完整讀取品牌動態。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S159",
+      "url": "https://open.spotify.com/artist/4g0d1qT8tKu3VcjBHr3FQ2",
+      "title": "Alabaster Co Spotify",
+      "evidence_summary": "官方音樂渠道，頁面未回可讀詳細資料。",
+      "read_level": "OWNERSHIP_ONLY",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S160",
+      "url": "https://www.youtube.com/watch?v=JXUEA681M-4",
+      "title": "Beautiful Offering Live",
+      "evidence_summary": "把品牌延伸到敬拜及美感體驗；歌曲文本不是營銷課程，不引用歌詞或推算帶貨。",
+      "read_level": "完整逐字稿及描述",
+      "published_date": "2026-01-30",
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S161",
+      "url": "https://www.instagram.com/alabaster/reel/CzpclWxMwZh/",
+      "title": "This is how we design Alabaster Bibles",
+      "evidence_summary": "設計過程題材的線索；沒有逐鏡觀看，不能評論構圖、字幕節奏或成效。",
+      "read_level": "搜尋索引標題及摘要",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S162",
+      "url": "https://alabasterco.com/blogs/education/best-christian-mothers-day-gifts",
+      "title": "Best Christian Mothers Day Gifts",
+      "evidence_summary": "按靈性成長、創意、趣味、讓母親感到重視分選品，並含其他品牌。適合學買家任務結構，不照搬商品或過期優惠。",
+      "read_level": "全文；標題有2022，正文未見明確更新日",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S163",
+      "url": "https://www.thejamesmethod.com/",
+      "title": "官網及近期店評",
+      "evidence_summary": "5,556店評；100,000人為自述",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S164",
+      "url": "https://www.thejamesmethod.com/collections/new-products-1/products/new-colors-verse-map-journal-1?variant=45406938956013",
+      "title": "指定journal及商品評價",
+      "evidence_summary": "933商品評價；US$30促銷／US$40原列價，快取非即時保證",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S165",
+      "url": "https://www.thejamesmethod.com/pages/verse-mapping-for-beginners",
+      "title": "新手入門教學",
+      "evidence_summary": "可使用普通紙／本子與方法介紹",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S166",
+      "url": "https://www.thejamesmethod.com/blogs/news",
+      "title": "官方news索引",
+      "evidence_summary": "所讀首面時間範圍",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S167",
+      "url": "https://www.thejamesmethod.com/blogs/news/edit-nov-1-blog-give-thanks",
+      "title": "Give Thanks",
+      "evidence_summary": "邀請讀者參與有期限的感恩練習及留言，把內容延伸到行動。文中21日形成習慣的說法未另驗證，不納入本店效果承諾。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S168",
+      "url": "https://instagram.com/the_james_method",
+      "title": "The James Method Instagram",
+      "evidence_summary": "身份已核，未取得足夠逐篇動態。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S169",
+      "url": "https://facebook.com/thejamesmethod",
+      "title": "The James Method Facebook",
+      "evidence_summary": "未取得可讀快取，無法可靠判斷頻率或互動。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S170",
+      "url": "https://www.youtube.com/channel/UCyvQ8RFxvd2-mcnexs4UcdA",
+      "title": "The James Method YouTube",
+      "evidence_summary": "已讀2024系統介紹完整逐字稿及metadata。",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S171",
+      "url": "https://www.pinterest.com/4e7a2a13a9d980b97c005be694dab4/",
+      "title": "The James Method Pinterest",
+      "evidence_summary": "官方連出的長ID網址不可讀；不猜另一個看似相同帳號。",
+      "read_level": "BLOCKED",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S172",
+      "url": "https://www.youtube.com/watch?v=OR0jnd7c9wA",
+      "title": "Intro to the James Method System",
+      "evidence_summary": "從讀者不知如何深入開始，以一卷書的背景、每章摘要、個別經文和字詞逐層示範，說明各產品如何配合；片末邀請問題。",
+      "read_level": "完整逐字稿",
+      "published_date": "2024-10-04",
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S173",
+      "url": "https://www.thejamesmethod.com/blogs/news/verse-mapping-tip",
+      "title": "Verse Mapping Tip",
+      "evidence_summary": "針對詞義查考難入門的具體阻力，用單一步驟示範；不把品牌的神學或字典主張當營銷效果證據。",
+      "read_level": "全文",
+      "published_date": "2025-09-05",
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S174",
+      "url": "https://help.etsy.com/hc/en-us/articles/115015774268-How-to-Use-Etsy-Stats-for-Your-Shop",
+      "title": "Etsy Stats使用方式",
+      "evidence_summary": "Etsy官方指標／商品呈現規則",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S175",
+      "url": "https://help.etsy.com/hc/en-gb/articles/115015628207-Shop-Stats-Glossary",
+      "title": "Etsy Stats詞彙與來源定義",
+      "evidence_summary": "Etsy官方指標／商品呈現規則",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    },
+    {
+      "id": "CB-S176",
+      "url": "https://www.etsy.com/ca/seller-handbook/article/1232461378911",
+      "title": "Etsy送禮商品檢查清單",
+      "evidence_summary": "Etsy官方指標／商品呈現規則",
+      "read_level": "SAMPLE",
+      "published_date": null,
+      "observed_at": "2026-10-07",
+      "original_ids": []
+    }
+  ],
+  "cases": [
+    {
+      "name": "Hosanna Revival",
+      "website": "https://hosannarevival.com/",
+      "fit": "US$49.90祈禱journal提供接近MyGiftStyle US$49.95的價格參照，但其5年版式、keepsake box與非客製化offer不等同MyGiftStyle。",
+      "qualification": "5-Year Prayer Journal系列：Edinburgh253則、Versailles53則、Stockholm48則；US$49.90。 官網單品評價數；非銷量、非US限定評價。 Iceland notebook31則；可見送禮、品質、重購意向，亦有封面顏色與配套Bible不一致、紙偏黃的抱怨。 具體產品顧客聲音；其中UK買家，不能算US需求。",
+      "qualification_sources": [
+        {
+          "text": "5-Year Prayer Journal系列：Edinburgh253則、Versailles53則、Stockholm48則；US$49.90。 官網單品評價數；非銷量、非US限定評價。",
+          "source_id": "CB-S044"
+        },
+        {
+          "text": "Iceland notebook31則；可見送禮、品質、重購意向，亦有封面顏色與配套Bible不一致、紙偏黃的抱怨。 具體產品顧客聲音；其中UK買家，不能算US需求。",
+          "source_id": "CB-S045"
+        }
+      ],
+      "changes": [],
+      "unknown": [
+        "銷量、營收與利潤",
+        "自然與付費渠道貢獻",
+        "目前US收入佔比"
+      ],
+      "product_boundary": "5-Year版有366個日期跨頁、每頁5年entries、每天7行。MyGiftStyle200橫線頁不可稱同款5-year programme或承諾同等容量。",
+      "channels": [
+        {
+          "platform": "Website/store",
+          "url": "https://hosannarevival.com/",
+          "status": "SAMPLE",
+          "ownership": "https://hosannarevival.com/",
+          "notes": "首頁、5-year landing、notebook評論。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "WHEN blog",
+          "url": "https://hosannarevival.com/blogs/when-blog",
+          "status": "SAMPLE",
+          "ownership": "https://hosannarevival.com/",
+          "notes": "索引及3個可讀正文樣本；非最新完整時間序列。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@HosannaRevival",
+          "status": "INDEX_ONLY",
+          "ownership": "https://hosannarevival.com/",
+          "notes": "官方身份由網站確認；頻道擷取顯示401頁面但帶品牌metadata；影片Publishing只得搜尋snippet，watch擷取被取消，未重試。不能聲稱已讀YouTube教學。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Instagram",
+          "url": "https://instagram.com/hosannarevival",
+          "status": "BLOCKED",
+          "ownership": "https://hosannarevival.com/",
+          "notes": "公開頁讀取失敗。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/hosannarevival",
+          "status": "BLOCKED",
+          "ownership": "https://hosannarevival.com/",
+          "notes": "未取得可讀快取。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Pinterest",
+          "url": "https://www.pinterest.com/hosannarevival",
+          "status": "BLOCKED",
+          "ownership": "https://hosannarevival.com/",
+          "notes": "403。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@hosannarevival",
+          "status": "BLOCKED",
+          "ownership": "https://hosannarevival.com/",
+          "notes": "未取得可讀快取。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Email",
+          "url": "https://hosannarevival.com/",
+          "status": "INDEX_ONLY",
+          "ownership": "https://hosannarevival.com/",
+          "notes": "newsletter signup入口；未訂閱，無實際email序列。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Wholesale/store locator",
+          "url": "https://hosannarevival.com/pages/store-locator",
+          "status": "INDEX_ONLY",
+          "ownership": "https://hosannarevival.com/",
+          "notes": "官網導覽確認入口，未把入口存在當作活躍店數或sell-through。",
+          "identity_status": "VERIFIED"
+        }
+      ],
+      "samples": [
+        {
+          "source_id": "CB-S055",
+          "title": "When Christmas Feels Heavy",
+          "url": "https://hosannarevival.com/blogs/when-blog/when-christmas-feels-heavy",
+          "date": "2025-12-02",
+          "date_note": "官網WHEN索引；正文未列明日期",
+          "format": "處境式文章＋application questions",
+          "read_depth": "搜尋回傳正文；原頁直接讀取受阻",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null
+          },
+          "analysis": "從節日壓力與悲傷出發，允許讀者坦誠祈禱，文末兩個具體反思問題。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S056",
+          "title": "When Our Spending Habits Become an Act of Faith",
+          "url": "https://hosannarevival.com/blogs/when-blog/when-our-spending-habits-become-an-act-of-faith",
+          "date": "2025-12-02",
+          "date_note": "官網WHEN索引",
+          "format": "價值觀長文＋reflection questions＋外部資料引用",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null
+          },
+          "analysis": "論及負責任消費、知足、延後衝動購物等；本研究只核對其內容策略，不驗證文內所有第三方環境數據。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S057",
+          "title": "When You’ve Lost Your Wonder for God",
+          "url": "https://hosannarevival.com/blogs/when-blog/when-youve-lost-your-wonder-for-god",
+          "date": "2025-11-04",
+          "date_note": "WHEN索引日期；文章另有April2026分類tag，分類不是發表日期",
+          "format": "書籍改編文章＋六步實作＋商品連結",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null
+          },
+          "analysis": "開頭直說改編自Wonder書；後段從選一篇psalm、慢讀、觀察、禱告到反思／journaling提供實作。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S058",
+          "title": "When You Don’t Feel Ready for Advent",
+          "url": "https://hosannarevival.com/blogs/when-blog/when-you-don-t-feel-ready-for-advent",
+          "date": "2026-09-16",
+          "date_note": "官網WHEN索引",
+          "format": "作者故事＋Advent書籍背景＋reflection questions",
+          "read_depth": "僅搜尋節錄",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null
+          },
+          "analysis": "可讀索引／節錄以個人失落和信仰處境連到即將上市devotional；未把敏感故事當成可複製銷售腳本。",
+          "limitations": "   /es路徑返回英文內容，不當作西語市場或西語需求證據。 ",
+          "transfer": ""
+        }
+      ],
+      "strengths": [
+        "用法與容量交代具體，49.90價值主張由長期記錄、送禮包裝和如何使用共同支撐。",
+        "WHEN文章用同一『When…』處境結構、作者署名與反思問題，形成可持續辨識的內容系統。"
+      ],
+      "observed_limits": [
+        "Iceland notebook有實物色彩、與Bible匹配度及紙色落差評論。 單一SKU的少數評論，不推成全品牌品質問題。",
+        "本次索引日期、分類月份不同，且部分新文章未在同一快照索引完整出現。 研究覆蓋與頁面資訊需分辨；不據此聲稱停更。"
+      ],
+      "hypotheses": [],
+      "transfer": "為MyGiftStyle做一張『A place for your own prayers』內頁證據圖：真實橫線頁＋名字客製化＋3個買家可自行記錄的用途；把日期／週數安排說成使用建議。 本週只可在共同工時餘額內擇一；不是額外新增每品牌一份工作。",
+      "transfer_details": [
+        {
+          "idea": "為MyGiftStyle做一張『A place for your own prayers』內頁證據圖：真實橫線頁＋名字客製化＋3個買家可自行記錄的用途；把日期／週數安排說成使用建議。",
+          "time_estimate": "30–45分鐘一次完成，可與listing video共用實拍",
+          "measurement": "降低『有沒有prompts？』疑問、比較同listing轉換；先確認有流量再判效果。",
+          "label": "原創改編結構；不複製畫作、字體配置、cover designs或5-year格式。"
+        }
+      ],
+      "role": "主要比較",
+      "original_id": "HR",
+      "id": "CB01"
+    },
+    {
+      "name": "The Daily Grace Co.",
+      "website": "https://thedailygraceco.com/",
+      "fit": "大型信仰內容與產品生態；是用途教育和內容轉購物的參考，不是同等客製化POD直接競品。",
+      "qualification": "All Things New - Praying Scripture Journal：192則、4.97/5；本次頁面價US$11.99，標示原價US$24。可見多則禮物／易使用評論，部分標明評價者獲未來購物獎勵。 單一相關journal產品評論；平台頁面公開數據，非銷量。 官網自述8 million books sold、95,000+ 5-star reviews。 全品牌／書籍歷史自述；不當成journal銷售或獨立審計。",
+      "qualification_sources": [
+        {
+          "text": "All Things New - Praying Scripture Journal：192則、4.97/5；本次頁面價US$11.99，標示原價US$24。可見多則禮物／易使用評論，部分標明評價者獲未來購物獎勵。 單一相關journal產品評論；平台頁面公開數據，非銷量。",
+          "source_id": "CB-S025"
+        },
+        {
+          "text": "官網自述8 million books sold、95,000+ 5-star reviews。 全品牌／書籍歷史自述；不當成journal銷售或獨立審計。",
+          "source_id": "CB-S026"
+        }
+      ],
+      "changes": [],
+      "unknown": [
+        "此journal實際銷售量",
+        "品牌及SKU利潤",
+        "US成交佔比",
+        "公開內容帶來的銷售增量"
+      ],
+      "product_boundary": "促銷價顯著低於49.95；MyGiftStyle必須把客製化、送禮對象和真實產品證據講清楚，不能只以generic prayer journal競爭。",
+      "channels": [
+        {
+          "platform": "Website/store",
+          "url": "https://thedailygraceco.com/",
+          "status": "SAMPLE",
+          "ownership": "https://thedailygraceco.com/",
+          "notes": "首頁、journal產品頁、指定文章；未完整catalog或checkout。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Blog",
+          "url": "https://thedailygraceco.com/blogs/the-daily-grace-blog",
+          "status": "SAMPLE",
+          "ownership": "https://thedailygraceco.com/",
+          "notes": "選讀2022 routine、2026 collection／education／challenge內容。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/channel/UCtR50BxYg0Qf5BF_n0h9efg",
+          "status": "SAMPLE",
+          "ownership": "https://thedailygraceco.com/",
+          "notes": "一支3:23影片完整逐字稿；另一官網嵌入影片已移除；無全頻道清單。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Instagram",
+          "url": "https://instagram.com/thedailygraceco",
+          "status": "BLOCKED",
+          "ownership": "https://thedailygraceco.com/",
+          "notes": "官方外連已驗證；公開頁開啟失敗，未逐篇讀貼文。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/thedailygraceco",
+          "status": "BLOCKED",
+          "ownership": "https://thedailygraceco.com/",
+          "notes": "未取得可讀快取。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Facebook community",
+          "url": "https://www.facebook.com/groups/thedailygraceco",
+          "status": "BLOCKED",
+          "ownership": "https://linktr.ee/thedailygraceco",
+          "notes": "官方Linktree直連；群內容未讀。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@thedailygraceco",
+          "status": "BLOCKED",
+          "ownership": "https://thedailygraceco.com/",
+          "notes": "頁面無可讀內容。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Substack",
+          "url": "https://substack.com/@thedailygraceco",
+          "status": "INDEX_ONLY",
+          "ownership": "https://thedailygraceco.com/blogs/the-daily-grace-blog/july-2026-bible-study-and-book-picks",
+          "notes": "profile可見10K+ subscribers；publication正文未讀。此數不作銷售證據。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Podcast",
+          "url": "https://thedailygraceco.com/pages/podcast",
+          "status": "SAMPLE",
+          "ownership": "https://thedailygraceco.com/",
+          "notes": "官網節目索引及2026-09-08 companion說明。官方14m+ downloads為全節目自述，非單集表現。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://itunes.apple.com/us/podcast/daily-grace/id1450011728?mt=2",
+          "status": "BLOCKED",
+          "ownership": "https://thedailygraceco.com/pages/podcast",
+          "notes": "未取得可讀快取。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/show/18NyOSTZS1OhvOTYysv3gx",
+          "status": "INDEX_ONLY",
+          "ownership": "https://thedailygraceco.com/pages/podcast",
+          "notes": "可解析品牌節目標題，正文空白。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Email/SMS",
+          "url": "https://thedailygraceco.com/pages/newsletter",
+          "status": "INDEX_ONLY",
+          "ownership": "https://thedailygraceco.com/",
+          "notes": "官網10%加入優惠與launch notification入口；未訂閱、未審查email實際序列。",
+          "identity_status": "VERIFIED"
+        }
+      ],
+      "samples": [
+        {
+          "source_id": "CB-S038",
+          "title": "My Morning Routine with The Daily Grace Co.",
+          "url": "https://www.youtube.com/watch?v=1kr2kgEyx-c",
+          "date": "2022-01-20",
+          "date_note": "",
+          "format": "3:23 routine示範＋產品使用解說",
+          "read_depth": "完整逐字稿",
+          "metrics": {
+            "views": 7600,
+            "likes": 261,
+            "observed_date": "2026-10-07",
+            "sales_attribution": null
+          },
+          "analysis": "由起床、早餐咖啡進入devotional routine；逐一解釋Bible、配套journal及study bundle功能；description列精確產品連結。",
+          "limitations": "    ",
+          "transfer": "拍一段實物橫線內頁的簡短使用示範；不能照搬其按聖經章節設計的內頁說法。"
+        },
+        {
+          "source_id": "CB-S040",
+          "title": "The 2026 Advent Collection",
+          "url": "https://thedailygraceco.com/blogs/the-daily-grace-blog/2026-advent-collection",
+          "date": "2026-09-07",
+          "date_note": "",
+          "format": "collection launch文章＋逐品照片／連結",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null
+          },
+          "analysis": "按成人、teen、兒童、配件、bundle分層；把季節意義連到具體用途。",
+          "limitations": "  文中一處launch September19，結尾September21；時間資訊內部不一致，不能沿用。  ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S041",
+          "title": "Praying the Psalms: Bringing Your Whole Heart to God",
+          "url": "https://thedailygraceco.com/blogs/the-daily-grace-podcast/praying-the-psalms-bringing-your-whole-heart-to-god",
+          "date": "2026-09-08",
+          "date_note": "",
+          "format": "Podcast companion＋產品CTA＋email CTA",
+          "read_depth": "已讀伴隨文章；影片已移除",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null
+          },
+          "analysis": "官網說明以具體情緒困擾帶入詩篇13/51/103，再連向Psalms bundle。只歸因為已讀companion，不聲稱聽完節目。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S042",
+          "title": "God Is Forming You in More Than Just Your Quiet Time",
+          "url": "https://thedailygraceco.com/blogs/the-daily-grace-blog/more-than-quiet-time",
+          "date": "2026-09-17",
+          "date_note": "",
+          "format": "長青教導文章＋related resources",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null
+          },
+          "analysis": "以生活responsibilities／responses／relationships組織文章，文末導向相關study商品及另一文章。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S043",
+          "title": "July 2026 Bible Study and Book Picks",
+          "url": "https://thedailygraceco.com/blogs/the-daily-grace-blog/july-2026-bible-study-and-book-picks",
+          "date": "2026-06-24",
+          "date_note": "",
+          "format": "月度curation＋六週read-along活動",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null
+          },
+          "analysis": "Abide購買／免費digital copy→免費Substack→每週鼓勵→hashtag進度→giveaway，具明確下一步。",
+          "limitations": "    ",
+          "transfer": ""
+        }
+      ],
+      "strengths": [
+        "已讀逐字稿具體解釋各產品如何配合日常使用，讓用途與商品連結相接。",
+        "文章、podcast companion和產品連結形成可見導流路徑。"
+      ],
+      "observed_limits": [
+        "2026 Advent launch文章日期互相矛盾。 一篇文章copy QA問題，非全品牌流程結論。",
+        "官網Psalms節目嵌入YouTube由uploader移除。 單一失效連結。",
+        "部分journal評價獲未來購物reward。 需保留incentive揭露；不代表評論虛假。"
+      ],
+      "hypotheses": [],
+      "transfer": "用自己的真實本子拍一個20至30秒社群用途示範：姓名封面、間線內頁、自己手寫的日期與一句感恩。先選一個版本；如需Etsy商品影片另按當前規格剪短，不能借競品的預印讀經內容。 本週只可在共同工時餘額內擇一；不是額外新增每品牌一份工作。",
+      "transfer_details": [],
+      "role": "主要比較",
+      "original_id": "DGC",
+      "id": "CB02"
+    },
+    {
+      "name": "The James Method",
+      "website": "https://www.thejamesmethod.com/",
+      "fit": "實體verse mapping journal直接品類比較，但屬結構化讀經系統；不能把其模板說成自家本子內附",
+      "qualification": "官網首頁顯示5,556則店評、近期2026年10月評論；指定Verse Map Journal快取顯示933則商品評價。100,000 believers為公司自述，不當成已核實付費顧客。評價提供相關交易口碑訊號，沒有營收、利潤或社群歸因。",
+      "qualification_sources": [
+        {
+          "text": "5,556店評；100,000人為自述",
+          "source_id": "CB-S163"
+        },
+        {
+          "text": "933商品評價；US$30促銷／US$40原列價，快取非即時保證",
+          "source_id": "CB-S164"
+        },
+        {
+          "text": "可使用普通紙／本子與方法介紹",
+          "source_id": "CB-S165"
+        },
+        {
+          "text": "所讀首面時間範圍",
+          "source_id": "CB-S166"
+        },
+        {
+          "text": "邀請讀者參與有期限的感恩練習及留言，把內容延伸到行動。文中21日形成習慣的說法未另驗證，不納入本店效果承諾。",
+          "source_id": "CB-S167"
+        }
+      ],
+      "changes": [],
+      "unknown": [
+        "當前利潤",
+        "社群歸因訂單",
+        "自然與付費比例"
+      ],
+      "product_boundary": "",
+      "channels": [
+        {
+          "platform": "Instagram",
+          "url": "https://instagram.com/the_james_method",
+          "status": "BLOCKED",
+          "ownership": "官方首頁及Verse Mapping Tip文章直接連結",
+          "notes": "身份已核，未取得足夠逐篇動態。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://facebook.com/thejamesmethod",
+          "status": "BLOCKED",
+          "ownership": "官方首頁及文章直接連結",
+          "notes": "未取得可讀快取，無法可靠判斷頻率或互動。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/channel/UCyvQ8RFxvd2-mcnexs4UcdA",
+          "status": "SAMPLE",
+          "ownership": "官方首頁出站連結，影片@thejamesmethod說明連回官網",
+          "notes": "已讀2024系統介紹完整逐字稿及metadata。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Pinterest",
+          "url": "https://www.pinterest.com/4e7a2a13a9d980b97c005be694dab4/",
+          "status": "BLOCKED",
+          "ownership": "官方首頁出站連結",
+          "notes": "官方連出的長ID網址不可讀；不猜另一個看似相同帳號。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "TikTok",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "Threads",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "X",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        }
+      ],
+      "samples": [
+        {
+          "source_id": "CB-S172",
+          "title": "Intro to the James Method System",
+          "url": "https://www.youtube.com/watch?v=OR0jnd7c9wA",
+          "date": "2024-10-04",
+          "date_note": "",
+          "format": "5分10秒產品系統教學",
+          "read_depth": "完整逐字稿",
+          "metrics": "10,827觀看；289讚，2026-10-07讀取",
+          "analysis": "從讀者不知如何深入開始，以一卷書的背景、每章摘要、個別經文和字詞逐層示範，說明各產品如何配合；片末邀請問題。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S173",
+          "title": "Verse Mapping Tip",
+          "url": "https://www.thejamesmethod.com/blogs/news/verse-mapping-tip",
+          "date": "2025-09-05",
+          "date_note": "",
+          "format": "新手教學文章",
+          "read_depth": "全文",
+          "metrics": "無流量／成交數據",
+          "analysis": "針對詞義查考難入門的具體阻力，用單一步驟示範；不把品牌的神學或字典主張當營銷效果證據。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S167",
+          "title": "Give Thanks",
+          "url": "https://www.thejamesmethod.com/blogs/news/edit-nov-1-blog-give-thanks",
+          "date": "2025-11-01",
+          "date_note": "",
+          "format": "有期限的感恩參與文章",
+          "read_depth": "正文已讀；日期來自官網索引及同頁相關文章",
+          "metrics": "無參與或成交數",
+          "analysis": "邀請讀者參與有期限的感恩練習及留言，把內容延伸到行動。文中21日形成習慣的說法未另驗證，不納入本店效果承諾。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S165",
+          "title": "Bible Verse Mapping for Beginners",
+          "url": "https://www.thejamesmethod.com/pages/verse-mapping-for-beginners",
+          "date": null,
+          "date_note": "",
+          "format": "常青入門頁",
+          "read_depth": "全文",
+          "metrics": "無成效數據",
+          "analysis": "講創辦背景與工具，也明說可用普通筆記本。MyGiftStyle可提出自己的書寫用途，但不可冒充獨家James Method模板或訓練。",
+          "limitations": "",
+          "transfer": ""
+        }
+      ],
+      "strengths": [
+        "先處理新手的使用障礙，再展示產品系統，教育與產品功能相符。",
+        "可從簡單journal起步再擴充binder及配件，選擇有層次；實際復購貢獻未公開。"
+      ],
+      "observed_limits": [
+        "產品頁第一及唯一的說法未獲獨立驗證，不沿用作廣告主張。",
+        "所讀news首頁最新可見為2025-11；僅是此頁可見範圍，不足以說品牌整體停更。"
+      ],
+      "hypotheses": [
+        "完整系統可能令部分新手覺得複雜，故短FAQ或單一用途可能更適合本店低工時；需測試。"
+      ],
+      "transfer": "借「一個新手疑問、一段清楚示範」：用本店間線頁寫日期、今日感謝、為一位朋友的祝福，清楚這是用法示範而非預印內容。不要稱為其認證、同款教材或品牌合作。 本週只可在共同工時餘額內擇一；不是額外新增每品牌一份工作。",
+      "transfer_details": [],
+      "role": "主要比較",
+      "original_id": "B11",
+      "id": "CB03"
+    },
+    {
+      "name": "Well-Watered Women",
+      "website": "https://wellwateredwomen.com/",
+      "fit": "非常適合研究低頻率、email與長青FAQ；2024停頓與2025重整必須與早期成長分開。",
+      "qualification": "Give Me Jesus Journal：74則評價，US$31.97；328頁，具結構化Bible study、pray/apply欄位。 產品頁公開評論；不是200頁純橫線journal同規格。 搜尋索引顯示店評641則、4.91/5、96%verified，公布89%的verified reviews；2024-10-24、09-24有具體Scripture Memory Journal贈禮／使用評論。 INDEX_ONLY；直接開啟Judge.me僅logo，保留索引資料時間差，不能稱即時實際完整店評。",
+      "qualification_sources": [
+        {
+          "text": "Give Me Jesus Journal：74則評價，US$31.97；328頁，具結構化Bible study、pray/apply欄位。 產品頁公開評論；不是200頁純橫線journal同規格。",
+          "source_id": "CB-S059"
+        },
+        {
+          "text": "搜尋索引顯示店評641則、4.91/5、96%verified，公布89%的verified reviews；2024-10-24、09-24有具體Scripture Memory Journal贈禮／使用評論。 INDEX_ONLY；直接開啟Judge.me僅logo，保留索引資料時間差，不能稱即時實際完整店評。",
+          "source_id": "CB-S060"
+        }
+      ],
+      "changes": [
+        {
+          "text": "2024-10-07 官網宣布暫停內容和生產、年底前清庫，以便休息及家庭優先；當時明言不是品牌關閉。 ",
+          "source_id": "CB-S061"
+        },
+        {
+          "text": "2025-10-07 2.0優先高價值email與evergreen tools；計劃IG每月幾次；新產品不維持舊節奏。這是品牌公開計劃，不是本研究已驗證其2026實際頻率。 ",
+          "source_id": "CB-S062"
+        }
+      ],
+      "unknown": [
+        "現行營收／利潤",
+        "2025重整後銷量",
+        "US顧客比例",
+        "email與社群轉換歸因"
+      ],
+      "product_boundary": "",
+      "channels": [
+        {
+          "platform": "Website/store",
+          "url": "https://wellwateredwomen.com/",
+          "status": "SAMPLE",
+          "ownership": "https://wellwateredwomen.com/",
+          "notes": "網站、新舊營運公告、現行journal產品頁。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Blog",
+          "url": "https://wellwateredwomen.com/blog/",
+          "status": "SAMPLE",
+          "ownership": "https://wellwateredwomen.com/",
+          "notes": "兩份公告、2024Advent、new Christian文章。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "YouTube / Gretchen Saffles",
+          "url": "https://www.youtube.com/channel/UCvRNABLt62sAUGpk0tLrkvw",
+          "status": "SAMPLE",
+          "ownership": "https://wellwateredwomen.com/",
+          "notes": "一支2021FAQ短片完整逐字稿；不是最新上片完整盤點。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Instagram brand",
+          "url": "https://www.instagram.com/wellwateredwomen/",
+          "status": "BLOCKED",
+          "ownership": "https://wellwateredwomen.com/",
+          "notes": "429。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Instagram founder",
+          "url": "https://www.instagram.com/gretchensaffles/",
+          "status": "INDEX_ONLY",
+          "ownership": "https://wellwateredwomen.com/the-new-season-of-well-watered-women/",
+          "notes": "官網點名個人帳號；未取到逐篇內容。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/wellwateredwomen",
+          "status": "BLOCKED",
+          "ownership": "https://wellwateredwomen.com/",
+          "notes": "未取得可讀快取。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Pinterest",
+          "url": "https://www.pinterest.com/wellwateredwomen/",
+          "status": "BLOCKED",
+          "ownership": "https://wellwateredwomen.com/",
+          "notes": "403。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Spotify",
+          "url": null,
+          "status": "INDEX_ONLY",
+          "ownership": "https://linktr.ee/wellwateredwomen",
+          "notes": "官方一致Linktree社交欄列Spotify，但本次未解析出精確profile URL／內容；不推成podcast經營。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "Email",
+          "url": "https://wellwateredwomen.com/email",
+          "status": "INDEX_ONLY",
+          "ownership": "https://wellwateredwomen.com/",
+          "notes": "官網重整公告明言主軸；未訂閱或取用實際信件。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "TikTok",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "未取得精確帳戶網址",
+          "notes": "本次官網outbound／Linktree未見；不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        }
+      ],
+      "samples": [
+        {
+          "source_id": "CB-S071",
+          "title": "Can The Well-Watered Woman Book + Journal Be Used Independently?",
+          "url": "https://www.youtube.com/watch?v=q-4kqu8YVkA",
+          "date": "2021-01-19",
+          "date_note": "",
+          "format": "39–40秒單一購買FAQ",
+          "read_depth": "完整逐字稿",
+          "metrics": {
+            "views": 2311,
+            "likes": 23,
+            "observed_date": "2026-10-07",
+            "sales_attribution": null
+          },
+          "analysis": "直接回答book及devotional journal可獨立使用；分清互動實作與深層背景解說。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S072",
+          "title": "3 Books of the Bible to Study for New Christians",
+          "url": "https://wellwateredwomen.com/3-books-of-the-bible-to-study-for-new-christians/",
+          "date": "2024-02-27",
+          "date_note": "",
+          "format": "明確受眾長青文章",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": 1
+          },
+          "analysis": "從新信徒不知道從何開始的問題切入，以John、Ephesians、Genesis提供路徑；結尾說沒有唯一正確起點。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S073",
+          "title": "Advent 2024: Worthy is the Lamb",
+          "url": "https://wellwateredwomen.com/advent-2024-worthy-is-the-lamb/",
+          "date": "2024-09-23",
+          "date_note": "",
+          "format": "創辦人信件式launch文章＋FAQ",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null
+          },
+          "analysis": "先談現實節日壓力，再介紹study與matching cards bundle；促銷已屬歷史。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S061",
+          "title": "The Next Season of Well-Watered Women",
+          "url": "https://wellwateredwomen.com/the-next-season-of-well-watered-women/",
+          "date": "2024-10-07",
+          "date_note": "",
+          "format": "營運公告＋FAQ",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": "disabled"
+          },
+          "analysis": "具體說明清庫期限、停止restock、資料保留及未來尚未定案。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S062",
+          "title": "The New Season of Well-Watered Women",
+          "url": "https://wellwateredwomen.com/the-new-season-of-well-watered-women/",
+          "date": "2025-10-07",
+          "date_note": "",
+          "format": "重新定位公告＋FAQ",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": "disabled"
+          },
+          "analysis": "宣布慢節奏、email及長青工具優先，清楚處理老客對『是不是不做了』疑問。",
+          "limitations": "    ",
+          "transfer": ""
+        }
+      ],
+      "strengths": [
+        "39秒影片只解一個購買障礙，易成為低時數內容模板。",
+        "公開縮減渠道頻率，把資源放在既有內容與email；提供可供借鏡的取捨案例。"
+      ],
+      "observed_limits": [
+        "2024暫停、2025恢復使舊文restock／關店資訊失效；研究或顧客若只讀舊文可能誤判。 具體資訊時效風險；不是聲稱新模式失敗。",
+        "Judge.me索引只公布89% verified reviews，不能把4.91視為所有回饋的無偏全貌。 公開平台揭露；未推測未公開評論內容。"
+      ],
+      "hypotheses": [],
+      "transfer": "用相同實拍一次做兩個20–40秒FAQ草稿：『Is it guided?』明說200 lined pages；『Can I add her name?』實示姓名位置。先挑一支投到已在用的單一organic渠道，另一支保留。 本週只可在共同工時餘額內擇一；不是額外新增每品牌一份工作。",
+      "transfer_details": [
+        {
+          "idea": "用相同實拍一次做兩個20–40秒FAQ草稿：『Is it guided?』明說200 lined pages；『Can I add her name?』實示姓名位置。先挑一支投到已在用的單一organic渠道，另一支保留。",
+          "time_estimate": "每兩週45–60分鐘素材批次；每週15分鐘檢查數據／回覆",
+          "measurement": "連結點擊、Etsy來源、相關買家疑問與轉換；不以likes當成銷售。",
+          "label": "不要求建立newsletter或開新全套社群；若沒有email名單先不新增。"
+        }
+      ],
+      "role": "主要比較",
+      "original_id": "WWW",
+      "id": "CB04"
+    },
+    {
+      "name": "Val Marie Paper",
+      "website": "https://www.valmariepaper.com/",
+      "fit": "高價journal的使用啟動、customer education與送禮是強參考；創辦人舊渠道和2025新老闆的現況需分開。",
+      "qualification": "第三方訪談文章介紹稱since2013 nearly100,000 journals；同頁bio稱over125,000。具體報告2020有5,000本聖誕前待出貨與500本錯色。 訪談／創辦人敘事，並非審計；同頁數字不一致，不能當作確切銷量，最多支持十萬級歷史商業traction。 品牌自選用戶testimonial談Christmas gift、compact、使用結構與贈友；有US及英國回饋。 精選testimonials，不是可完整驗證的星級評價母體。 Signature頁US$35，222頁、6個undated months與prompts；附keepsake box；產品規格和200橫線頁不同。 商品頁快照；價格和預購訊息需購買時再核對。",
+      "qualification_sources": [
+        {
+          "text": "第三方訪談文章介紹稱since2013 nearly100,000 journals；同頁bio稱over125,000。具體報告2020有5,000本聖誕前待出貨與500本錯色。 訪談／創辦人敘事，並非審計；同頁數字不一致，不能當作確切銷量，最多支持十萬級歷史商業traction。",
+          "source_id": "CB-S074"
+        },
+        {
+          "text": "品牌自選用戶testimonial談Christmas gift、compact、使用結構與贈友；有US及英國回饋。 精選testimonials，不是可完整驗證的星級評價母體。",
+          "source_id": "CB-S075"
+        },
+        {
+          "text": "Signature頁US$35，222頁、6個undated months與prompts；附keepsake box；產品規格和200橫線頁不同。 商品頁快照；價格和預購訊息需購買時再核對。",
+          "source_id": "CB-S076"
+        }
+      ],
+      "changes": [
+        {
+          "text": " 官網現行敘述：Val在2024年8月原計畫關閉；Lindsay於2025年2月接手。2026 launch文署名Lindsay。 Val歷史10–15小時工時且她不親自出貨，不能外推MyGiftStyle包含fulfillment的3–5小時可複製同等規模。",
+          "source_id": "CB-S077"
+        }
+      ],
+      "unknown": [
+        "現行營收／利潤",
+        "收購價格",
+        "新老闆現行sales與工時",
+        "單一社群內容的銷售歸因"
+      ],
+      "product_boundary": "歷史2019文章直接處理50美元journal價值疑問，可借其讓顧客『真的會用』的思路；不能以宗教結果保證支撐MyGiftStyle49.95。",
+      "channels": [
+        {
+          "platform": "Website/store",
+          "url": "https://www.valmariepaper.com/",
+          "status": "SAMPLE",
+          "ownership": "https://www.valmariepaper.com/",
+          "notes": "首頁、launch、how-to、產品與精選評語。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Blog",
+          "url": "https://www.valmariepaper.com/blog/",
+          "status": "SAMPLE",
+          "ownership": "https://www.valmariepaper.com/",
+          "notes": "2019使用文章、2025與2026新主理文章。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "YouTube website-linked legacy",
+          "url": "https://www.youtube.com/channel/UCaNlxbg_WohKCmjUCWj0Xlw/featured",
+          "status": "SAMPLE",
+          "ownership": "https://www.valmariepaper.com/",
+          "notes": "官方footer入口可驗證；2023 prep影片作者Valerie Woerner、description回鏈品牌商店，取得逐字稿並讀取開頭約18k字元片段，未完整聽看110分鐘。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "YouTube new brand-name candidate",
+          "url": "https://www.youtube.com/@ValMariePaper",
+          "status": "INDEX_ONLY",
+          "ownership": "https://www.valmariepaper.com/",
+          "notes": "2027 launch影片內容與新官網一致，具metadata，但尚未取得官網外連或channel About回鏈；不把同名直接等於官方。",
+          "identity_status": "PROVISIONAL"
+        },
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/valmariepaper/",
+          "status": "BLOCKED",
+          "ownership": "https://www.valmariepaper.com/",
+          "notes": "公開頁讀取失敗。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/valmariepaper/",
+          "status": "BLOCKED",
+          "ownership": "https://www.valmariepaper.com/",
+          "notes": "頁面顯示temporarily blocked。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Facebook VMP Society",
+          "url": "https://www.facebook.com/groups/2042749839288754/",
+          "status": "BLOCKED",
+          "ownership": "https://www.valmariepaper.com/how-to-set-yourself-up-for-journal-success/",
+          "notes": "2019官網直連身份已確認；點開未取得可讀快取，群內內容及活躍現況未知。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Pinterest founder-linked",
+          "url": "https://www.pinterest.com/valeriewoerner/",
+          "status": "BLOCKED",
+          "ownership": "https://www.valmariepaper.com/",
+          "notes": "官網footer直連；未取得可讀快取；不能當作2026新老闆經營數據。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Founder Substack",
+          "url": "https://valeriewoerner.substack.com/",
+          "status": "INDEX_ONLY",
+          "ownership": "https://www.valmariepaper.com/",
+          "notes": "官網Looking for Val入口，標題Asking Questions with Valerie Woerner可讀，正文未讀；創辦人個人渠道。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Podcast site",
+          "url": "https://www.valmariepaper.com/podcast/",
+          "status": "SAMPLE",
+          "ownership": "https://www.valmariepaper.com/",
+          "notes": "官網71 episodes／200,000+downloads／4.9為自述，latest索引是2023；不是2026持續每週發佈證據。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/prayer-in-a-noisy-world-with-valerie-woerner-of/id1585653292",
+          "status": "SAMPLE",
+          "ownership": "https://www.valmariepaper.com/",
+          "notes": "頁面4.9(117 ratings)、see all83；latest顯示2023-11-09 Global Evangelism，官網companion2023-11-29是不同日期，不混為發布日。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/show/1jq2IL7P2hBC1QHhqXejaW",
+          "status": "BLOCKED",
+          "ownership": "https://www.valmariepaper.com/podcast/",
+          "notes": "未取得可讀快取。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Email Weekly Pep Talk",
+          "url": "https://www.valmariepaper.com/",
+          "status": "INDEX_ONLY",
+          "ownership": "https://www.valmariepaper.com/",
+          "notes": "現首頁稱由Lindsay撰寫；未訂閱，未讀實際信件。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "TikTok",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "未取得精確帳戶網址",
+          "notes": "本次官網外連未見；不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        }
+      ],
+      "samples": [
+        {
+          "source_id": "CB-S089",
+          "title": "How to actually use the journal",
+          "url": "https://www.valmariepaper.com/how-to-set-yourself-up-for-journal-success/",
+          "date": "2019-12-26",
+          "date_note": "",
+          "format": "售後啟動教學＋顧客實例",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": 0
+          },
+          "analysis": "先找希望達成的事、使用障礙、個人節奏、放哪裡會看到；提供真實顧客把咖啡與禱告journal連結的例子。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S090",
+          "title": "2023 Prayer Journal Prep with Valerie Woerner",
+          "url": "https://www.youtube.com/watch?v=cDYdpO_R7T4",
+          "date": "2022-12-30",
+          "date_note": "工具Uploaded at2022-12-30；metadata2022-12-29T17:53:34-08:00，換UTC同為12月30日。",
+          "format": "1:50:56長直播setup／Q&A，跨Facebook",
+          "read_depth": "只讀逐字稿開頭約18,000字元",
+          "metrics": {
+            "views": 1671,
+            "likes": 36,
+            "observed_date": "2026-10-07",
+            "sales_attribution": null
+          },
+          "analysis": "已讀段落明說希望買家使用而不只購買；開箱、how-to卡、習慣training、試用分享卡、先寫名字降低怕弄髒journal的阻力。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S091",
+          "title": "Finding Peace in the Chaos of Life",
+          "url": "https://www.valmariepaper.com/finding-peace-in-the-chaos-of-life/",
+          "date": "2025-04-02",
+          "date_note": "",
+          "format": "新主理Lindsay個人故事＋文末商品區",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": 0
+          },
+          "analysis": "生活忙亂中的短暫祈禱處境，文末接Rhythms/Signature商品；此為品牌信仰寫作，不轉成健康療效承諾。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S092",
+          "title": "Introducing the 2027 Prayer Journal Collection: Born at Sunset",
+          "url": "https://www.valmariepaper.com/2027-prayer-journal-collection/",
+          "date": "2026-08-06",
+          "date_note": "",
+          "format": "系列故事＋產品分層＋預購時間＋email等待名單",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": 0
+          },
+          "analysis": "Lindsay講色彩來源與群眾意見，區分Rhythms、Signature、Kid’s Legacy、Sermon Notes。預購8/11–8/25、晚9月發貨均為當時公告，不當現時優惠。",
+          "limitations": "    ",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S093",
+          "title": "Val Marie Paper 2027 Collection Live Cover Reveal",
+          "url": "https://www.youtube.com/watch?v=9stDHnCRPxY",
+          "date": "2026-08-08",
+          "date_note": "",
+          "format": "約71:51揭幕直播",
+          "read_depth": "僅影片資料與描述",
+          "metrics": {
+            "views": 151,
+            "likes": 7,
+            "observed_date": "2026-10-07",
+            "sales_attribution": null
+          },
+          "analysis": "描述可見Rhythms/Signature新色、Kid’s Legacy及Sermon Notes上市；未讀到transcript，不聲稱學到直播內方法。",
+          "limitations": "    新頻道身份仍待核實",
+          "transfer": ""
+        }
+      ],
+      "strengths": [
+        "明確面對『買了卻不用』，內容同時負責售前釐清和售後啟動。",
+        "產品按使用者需要區分，launch文章將故事、規格類型及時間表放同頁。"
+      ],
+      "observed_limits": [
+        "舊footer founder-linked渠道與新主理內容並存，新brand-name YouTube與舊官方ID不同。 確認品牌身份要多一步；新頻道歸屬仍未證實。",
+        "官網podcast數字71與Apple索引83不同；latest樣本停留2023。 跨頁維護／日期差異；不能推論品牌現時整體停更。",
+        "第三方案例記錄預購延誤及錯色出貨。 2020歷史事件，非2026履約表現。"
+      ],
+      "hypotheses": [],
+      "transfer": "做原創『First page, no pressure』短片：買家自行寫日期、收禮者名字及第一句自己的禱告；同步做一張FAQ圖明示Inside:200 lined pages。送禮訊息以鼓勵她留下自己的話為主。 本週只可在共同工時餘額內擇一；不是額外新增每品牌一份工作。",
+      "transfer_details": [
+        {
+          "idea": "做原創『First page, no pressure』短片：買家自行寫日期、收禮者名字及第一句自己的禱告；同步做一張FAQ圖明示Inside:200 lined pages。送禮訊息以鼓勵她留下自己的話為主。",
+          "time_estimate": "一次30–45分鐘，與實拍批次合併，不另做長直播／課程。",
+          "measurement": "personalization詢問、用途相關買家回饋、同listing轉換與流量品質。",
+          "label": "只取使用啟動邏輯；不把guided prompts、keepsake box、legacy curriculum當現有包含物。"
+        }
+      ],
+      "role": "歷史商業基礎 現主理需分開",
+      "original_id": "VMP",
+      "id": "CB05"
+    },
+    {
+      "name": "DaySpring",
+      "website": "https://www.hallmark.com/dayspring/",
+      "fit": "信仰家庭與朋友送禮的直接購買意圖比較；大型卡片及禮品品牌，並非同型POD小店",
+      "qualification": "Hallmark官方現行銷售頁確認品牌、商品、零售渠道及逾25年母子公司關係；2022年官方新聞稿報稱美國及60國分銷、6,000多項商品，僅屬歷史公司自述。可支持成熟商業經營，不證明當前利潤或任何社群的成交貢獻。",
+      "qualification_sources": [
+        {
+          "text": "品牌、渠道、場合與內容遷移",
+          "source_id": "CB-S126"
+        },
+        {
+          "text": "歷史6,000商品與60國自述",
+          "source_id": "CB-S127"
+        },
+        {
+          "text": "Pinterest及X身份；明確社群建議",
+          "source_id": "CB-S128"
+        },
+        {
+          "text": "用開學與新開始的氛圍帶入成人生活習慣，提出具體行動，邀請標註@DaySpringCards，末段連DaySpring商店。不是所有內容都直接硬銷。",
+          "source_id": "CB-S129"
+        },
+        {
+          "text": "把家庭時間、重要日子、祈禱意向與感恩紀錄連到實體planner和calendar，並提供對應商品連結。可借用途到產品的結構，不借其planner功能。",
+          "source_id": "CB-S130"
+        }
+      ],
+      "changes": [],
+      "unknown": [
+        "當前利潤",
+        "社群歸因訂單",
+        "自然與付費比例"
+      ],
+      "product_boundary": "",
+      "channels": [
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/dayspringcards",
+          "status": "BLOCKED",
+          "ownership": "Hallmark DaySpring頁FAQ直接連結",
+          "notes": "品牌身份已核實；公開擷取未得到完整動態，不以第三方粉絲估值下結論。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/dayspringfans/",
+          "status": "BLOCKED",
+          "ownership": "Hallmark DaySpring頁FAQ直接連結",
+          "notes": "公開頁返回登入及暫時限制文字，沒有完整貼文樣本。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/channel/UCez1Xswhk5kE1Uo0W18Qd-g",
+          "status": "SAMPLE",
+          "ownership": "頻道metadata含dayspringfans，品牌影片說明連回dayspring.com；名稱及Hallmark關係一致",
+          "notes": "頻道部分內容與一支完整逐字稿已讀；頁面同時有錯誤區塊，不視為完整清單。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Pinterest",
+          "url": "https://www.pinterest.com/dayspring/",
+          "status": "BLOCKED",
+          "ownership": "DaySpring官方零售商Social Media Tips PDF列出網址",
+          "notes": "歷史官方身份可核；目前頁面403。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "X",
+          "url": "https://twitter.com/dayspring",
+          "status": "BLOCKED",
+          "ownership": "DaySpring官方零售商Social Media Tips PDF列出網址",
+          "notes": "歷史官方身份可核；目前擷取未取得可讀快取。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "TikTok",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "Threads",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        }
+      ],
+      "samples": [
+        {
+          "source_id": "CB-S136",
+          "title": "Bible Journaling 101 with Shanna Noel from Illustrated Faith",
+          "url": "https://www.youtube.com/watch?v=0NkktxwY7SI",
+          "date": "2016-02-12",
+          "date_note": "",
+          "format": "2分18秒合作示範",
+          "read_depth": "完整逐字稿",
+          "metrics": "15,119觀看；262讚，2026-10-07讀取",
+          "analysis": "先說個人創作與信仰的連結，再示範標出重點、手寫、標籤及日期，最後導向用品。是歷史產品教育，不是Etsy增長課程。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S129",
+          "title": "Reading writing and recharging our faith",
+          "url": "https://ideas.hallmark.com/articles/dayspring-ideas/reading-writing-and-recharging-our-faith/",
+          "date": "2026-08-14",
+          "date_note": "",
+          "format": "當季信仰生活文章",
+          "read_depth": "全文",
+          "metrics": "未提供互動或成交數",
+          "analysis": "用開學與新開始的氛圍帶入成人生活習慣，提出具體行動，邀請標註@DaySpringCards，末段連DaySpring商店。不是所有內容都直接硬銷。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S130",
+          "title": "Create space for faith in your everyday planning",
+          "url": "https://ideas.hallmark.com/articles/dayspring-ideas/create-space-for-faith-in-your-everyday-planning/",
+          "date": "2026-08-24",
+          "date_note": "",
+          "format": "實際規劃用途文章",
+          "read_depth": "全文",
+          "metrics": "未提供互動或成交數",
+          "analysis": "把家庭時間、重要日子、祈禱意向與感恩紀錄連到實體planner和calendar，並提供對應商品連結。可借用途到產品的結構，不借其planner功能。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S128",
+          "title": "Tips and Tricks for Social Media Success",
+          "url": "https://retail.dayspring.com/portals/0/CatalogsModule/Social%20Media%20Tips%20from%20DaySpring.pdf",
+          "date": null,
+          "date_note": "",
+          "format": "零售商社群教學PDF",
+          "read_depth": "全文文字",
+          "metrics": "未提供成效數字",
+          "analysis": "建議短文、圖片、問題、格式變化及實用內容；日更頻率是其建議，不能直接套用小店工時。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S127",
+          "title": "National Day of Encouragement digital greeting",
+          "url": "https://corporate.hallmark.com/news-article/dayspring-and-hallmark-offer-free-digital-video-greeting-in-celebration-of-the-national-day-of-encouragement-september-12/",
+          "date": "2022-09-07",
+          "date_note": "",
+          "format": "官方活動公告",
+          "read_depth": "全文",
+          "metrics": "未提供活動成交",
+          "analysis": "以鼓勵朋友的具體行動帶入免費數位賀卡，提供可分享理由。活動已過期。",
+          "limitations": "",
+          "transfer": ""
+        }
+      ],
+      "strengths": [
+        "把場合具體化：現行頁直接分生日、牧者感謝、慰問與鼓勵，買家可以按送禮任務進入。",
+        "品牌內容與商品使用教學並行；歷史合作片以實作降低開始使用的門檻。"
+      ],
+      "observed_limits": [
+        "DaySpring網站及(in)courage等內容現已轉入Hallmark；只看舊網站、舊節目會錯判目前導流入口。",
+        "已讀YouTube示範為2016年，不能稱為當前增長打法；公開資料沒有渠道銷售或利潤。"
+      ],
+      "hypotheses": [
+        "大量場合和SKU對小店可能增加選擇負擔；這是轉用時的資源風險，並非已證明DaySpring轉化低。"
+      ],
+      "transfer": "只借一個成年朋友鼓勵場合：封面姓名實拍加一個簡單書寫用途。以自己的文字寫一段送禮理由，不複製合作人的圖案、見證或節目。 本週只可在共同工時餘額內擇一；不是額外新增每品牌一份工作。",
+      "transfer_details": [],
+      "role": "主要比較",
+      "original_id": "B08",
+      "id": "CB06"
+    },
+    {
+      "name": "Christian Art Gifts",
+      "website": "https://www.christianartgifts.com/",
+      "fit": "基督教實體journal及送禮用途直接品類比較；主要量產及批發，非個人化POD同型店",
+      "qualification": "官方有完整journal目錄、零售店查找及批發服務；獨立零售商Focus on the Family及Dove Christian Supply實際刊售指定journal，顯示可核查的多店分銷。官網提及2023 Giftbeat journals/notebooks供應商獎，尚未取得主辦方獨立原始榜單，因此只列公司自述。",
+      "qualification_sources": [
+        {
+          "text": "品類及US$9.99新款標價",
+          "source_id": "CB-S137"
+        },
+        {
+          "text": "多款CAG journal實際刊售",
+          "source_id": "CB-S138"
+        },
+        {
+          "text": "CAG journal分銷與品項",
+          "source_id": "CB-S139"
+        },
+        {
+          "text": "2023獎項僅公司自述",
+          "source_id": "CB-S140"
+        },
+        {
+          "text": "產品、作者、Bible journaling及展覽分類",
+          "source_id": "CB-S141"
+        },
+        {
+          "text": "按高中、大學、研究所等階段給選禮路徑，組合journal、筆與其他商品。MyGiftStyle只轉用已支持的成人畢業場合，不能假設禮盒、筆或配套已包含。",
+          "source_id": "CB-S142"
+        },
+        {
+          "text": "品牌自行解釋送禮用途、內外細節、材質與引導式版本如何形成價值。未讀主辦方榜單，不把其100%客觀的說法當已獨立證實。",
+          "source_id": "CB-S143"
+        }
+      ],
+      "changes": [],
+      "unknown": [
+        "當前利潤",
+        "社群歸因訂單",
+        "自然與付費比例"
+      ],
+      "product_boundary": "",
+      "channels": [
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/cagifts",
+          "status": "BLOCKED",
+          "ownership": "christianartgifts.com首頁出站連結",
+          "notes": "直接擷取未成功；搜尋混入被標註的別家貼文，已排除，不能當品牌動態。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/christianartgifts",
+          "status": "INDEX_ONLY",
+          "ownership": "christianartgifts.com首頁出站連結",
+          "notes": "身份已核，未取得足夠可核日期的貼文。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "X",
+          "url": "https://twitter.com/CAGifts",
+          "status": "BLOCKED",
+          "ownership": "christianartgifts.com首頁出站連結",
+          "notes": "擷取未取得可讀快取；不推論仍活躍或已停更。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/channel/UCHrU5EqmQfD58uj1_CRZCJA",
+          "status": "SAMPLE",
+          "ownership": "官方首頁及videos頁出站連結",
+          "notes": "頻道介紹、產品分類及Journals完整逐字稿已讀。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Pinterest",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "TikTok",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "Threads",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        }
+      ],
+      "samples": [
+        {
+          "source_id": "CB-S148",
+          "title": "Journals",
+          "url": "https://www.youtube.com/watch?v=INI8W5gfsyY",
+          "date": "2021-01-21",
+          "date_note": "",
+          "format": "10分24秒批發產品展示",
+          "read_depth": "完整逐字稿",
+          "metrics": "415觀看；14讚，2026-10-07讀取",
+          "analysis": "按價格、大小、封面工藝、頁數、內頁及收禮人逐款介紹。講者稱lion圖案和某些經文暢銷，屬該品牌2021年自述，不是普遍市場規則。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S142",
+          "title": "Graduation Gift Guide",
+          "url": "https://www.christianartgifts.com/blog/christian-graduation-gift-guide-bible-verse-gifts",
+          "date": "2025-05-09",
+          "date_note": "",
+          "format": "按教育階段組織的送禮指南",
+          "read_depth": "已讀主要段落",
+          "metrics": "未公開成交數",
+          "analysis": "按高中、大學、研究所等階段給選禮路徑，組合journal、筆與其他商品。MyGiftStyle只轉用已支持的成人畢業場合，不能假設禮盒、筆或配套已包含。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S143",
+          "title": "Giftbeat",
+          "url": "https://www.christianartgifts.com/blog/giftbeat",
+          "date": "2024-10-03",
+          "date_note": "",
+          "format": "品牌獎項與產品價值解釋",
+          "read_depth": "全文主要正文",
+          "metrics": "2023及2024 journals/notebooks供應商獎為公司轉述",
+          "analysis": "品牌自行解釋送禮用途、內外細節、材質與引導式版本如何形成價值。未讀主辦方榜單，不把其100%客觀的說法當已獨立證實。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S149",
+          "title": "Journals and Notebooks",
+          "url": "https://cagifts.com/pages/journals-and-notebooks",
+          "date": null,
+          "date_note": "",
+          "format": "官方品類內容",
+          "read_depth": "全文",
+          "metrics": "無公開轉化數",
+          "analysis": "用祈禱、感恩、旅行及讀經筆記區分用途，同時提供批發入口。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S150",
+          "title": "Wholesale Journals product videos",
+          "url": "https://wholesale.cagifts.com/journals/",
+          "date": null,
+          "date_note": "",
+          "format": "批發影音索引",
+          "read_depth": "全文文字及影片集合識別",
+          "metrics": "無觀看／成交數",
+          "analysis": "將影片變成零售商可重用的產品教育資產；這是B2B功能，不等於面向消費者病毒式傳播。",
+          "limitations": "",
+          "transfer": ""
+        }
+      ],
+      "strengths": [
+        "把抽象祝福落到具體材質、書寫功能、價格及收禮情境；官網亦按對象、場合、經文、色彩導航。",
+        "廣泛批發分銷提供社群以外的商業支柱，提醒小店不要用YouTube觀看量單獨判斷品牌成功。"
+      ],
+      "observed_limits": [
+        "2021年影片415次觀看只是該支長片累積樣本，不能說所有社群低效或零銷售。",
+        "許多journal為US$9.99等量產價位，與MyGiftStyle US$49.95價差大。MyGiftStyle必須靠真實個人化與送禮體驗解釋價值，不能只說同樣有經文封面。"
+      ],
+      "hypotheses": [
+        "大量批發規模可能壓低買家對一般非個人化筆記本的參考價，但沒有本店客戶研究證明此影響幅度。"
+      ],
+      "transfer": "拍一段30秒實物FAQ：姓名位置、真實封面、200頁間線內頁及手持比例。競品每頁經文、拉鍊、燙金、真皮和頁數都不可移植成自家規格。 本週只可在共同工時餘額內擇一；不是額外新增每品牌一份工作。",
+      "transfer_details": [],
+      "role": "主要比較",
+      "original_id": "B09",
+      "id": "CB07"
+    },
+    {
+      "name": "Alabaster Co",
+      "website": "https://alabasterco.com/",
+      "fit": "視覺設計導向的聖經、引導式study與journal相鄰比較；高審美信仰禮物，非同型200頁間線本",
+      "qualification": "REVIEWS.io搜尋及開頁快取顯示約3,743至3,751店評、4.8；數字快取不同，採範圍。TikTok Shop指定52週study不同快取有847及870則global reviews、均4.8，證據可見verified purchase。Shipfusion合作案例含具名營運主管及2024訂單量描述，但屬商業供應商案例，非審計財報。",
+      "qualification_sources": [
+        {
+          "text": "官方渠道與品牌定位",
+          "source_id": "CB-S151"
+        },
+        {
+          "text": "4.8；快取3,743至3,751則。個別負評只見搜尋快取，未重現，不能作已確認弱點",
+          "source_id": "CB-S152"
+        },
+        {
+          "text": "不同快取4.8；847及870 global reviews，非即時核數",
+          "source_id": "CB-S153"
+        },
+        {
+          "text": "2024營運、廣告及團隊條件",
+          "source_id": "CB-S154"
+        },
+        {
+          "text": "研究經文後原創設計；歷史定位",
+          "source_id": "CB-S155"
+        }
+      ],
+      "changes": [],
+      "unknown": [
+        "當前利潤",
+        "社群歸因訂單",
+        "自然與付費比例"
+      ],
+      "product_boundary": "",
+      "channels": [
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/alabaster",
+          "status": "INDEX_ONLY",
+          "ownership": "官方首頁出站連結",
+          "notes": "找到具名Reel與索引摘要；直接擷取失敗，發布日期及完整視覺未核實。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@alabasterco",
+          "status": "SAMPLE",
+          "ownership": "官方首頁出站連結",
+          "notes": "已讀2026音樂影片逐字稿與說明，非營銷教學。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@alabaster_co",
+          "status": "INDEX_ONLY",
+          "ownership": "官方首頁出站連結及Shipfusion案例嵌入",
+          "notes": "官方品牌feed未完整讀取；只讀到供應商案例嵌入caption。TikTok Shop商品評價另列，不代表feed已審核。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/artist/4g0d1qT8tKu3VcjBHr3FQ2",
+          "status": "INDEX_ONLY",
+          "ownership": "官方Education頁footer出站連結",
+          "notes": "官方音樂渠道，頁面未回可讀詳細資料。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "TikTok Shop product",
+          "url": "https://shop.tiktok.com/us/pdp/bible-study-for-women-by-alabaster-a-beautiful-year-in-the-bible/1729587799491843056",
+          "status": "SAMPLE",
+          "ownership": "商品平台頁與官網品牌／商品名稱相符；主站另連品牌TikTok",
+          "notes": "不同快取4.8及847／870評價，含verified purchase樣本；非品牌feed。",
+          "identity_status": "VERIFIED_PRODUCT"
+        },
+        {
+          "platform": "Facebook",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "Pinterest",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "Threads",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "X",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "限定官方外連及品牌搜尋未核實",
+          "notes": "未找到不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        }
+      ],
+      "samples": [
+        {
+          "source_id": "CB-S160",
+          "title": "Beautiful Offering Live",
+          "url": "https://www.youtube.com/watch?v=JXUEA681M-4",
+          "date": "2026-01-30",
+          "date_note": "",
+          "format": "3分51秒敬拜音樂",
+          "read_depth": "完整逐字稿及描述",
+          "metrics": "3,606觀看；156讚，2026-10-07讀取",
+          "analysis": "把品牌延伸到敬拜及美感體驗；歌曲文本不是營銷課程，不引用歌詞或推算帶貨。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S161",
+          "title": "This is how we design Alabaster Bibles",
+          "url": "https://www.instagram.com/alabaster/reel/CzpclWxMwZh/",
+          "date": null,
+          "date_note": "",
+          "format": "Instagram Reel",
+          "read_depth": "搜尋索引標題及摘要",
+          "metrics": "未核實",
+          "analysis": "設計過程題材的線索；沒有逐鏡觀看，不能評論構圖、字幕節奏或成效。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S162",
+          "title": "Best Christian Mothers Day Gifts",
+          "url": "https://alabasterco.com/blogs/education/best-christian-mothers-day-gifts",
+          "date": null,
+          "date_note": "",
+          "format": "官方場合選品文章",
+          "read_depth": "全文；標題有2022，正文未見明確更新日",
+          "metrics": "無成效數據",
+          "analysis": "按靈性成長、創意、趣味、讓母親感到重視分選品，並含其他品牌。適合學買家任務結構，不照搬商品或過期優惠。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S154",
+          "title": "TikTok Shop growth story",
+          "url": "https://www.shipfusion.com/growth-stories/alabaster",
+          "date": null,
+          "date_note": "2024是案例事件期間，頁面發布日期未核實。",
+          "format": "供應商案例及嵌入短片說明",
+          "read_depth": "全文訪談及嵌入caption",
+          "metrics": "正文稱2024年4月訂單比預測高135%；具名主管稱預期5,000但處理20,000單，兩者不強行當同一分母",
+          "analysis": "短片讓可見產品對應讀經困難；案例明說早期投放Meta廣告、網紅與投資，後來仍需庫存及專職客服。不能叫零成本有機增長。",
+          "limitations": "",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S155",
+          "title": "Bible Design in an Instagram Age founder interview",
+          "url": "https://www.biblegateway.com/blog/2016/09/bible-design-in-an-instagram-age-an-interview-with-bryan-chung-and-brian-chung/",
+          "date": "2016-09-19",
+          "date_note": "",
+          "format": "外部平台創辦人訪談",
+          "read_depth": "全文",
+          "metrics": "無當期營收或社群增量數字",
+          "analysis": "創辦人描述先研究經文，再創作照片與簡潔版面，並重視觸感。可借原創設計理由的表達；這是2016第一手理念，不是2026自然增長教學。",
+          "limitations": "",
+          "transfer": ""
+        }
+      ],
+      "strengths": [
+        "官方把品牌定位為設計與信仰結合，並有已讀2026音樂作品延伸；本次沒有對全渠道畫面、包裝或視覺一致性作逐鏡審核。",
+        "把新手讀經困難連到具體產品，並以禮物文章、短片、產品頁分工。"
+      ],
+      "observed_limits": [
+        "REVIEWS.io搜尋快取曾顯示包裝及內容深度抱怨，但後續抽查首頁未重現同一段落，故只保留待複查線索，不作已確認品牌弱點或缺陷率。",
+        "同一評論平台讀數有快取差異；Shop.app同頁評分摘要有不一致，未採用其不清楚的總數。",
+        "2024案例清楚顯示爆單造成存貨與客服壓力，並非僅靠影片或個人3小時可以複製。"
+      ],
+      "hypotheses": [
+        "高審美內容可能帶來低購買意圖欣賞者；只有本店到訪、查詢及訂單才能驗證，不能以收藏數當成交。"
+      ],
+      "transfer": "借品牌公開的設計理念與新手用途說明：使用自家原創封面和真實本子，做一組兩色系、可讀姓名、封面到內頁的素材。先測一個成年朋友送禮場合，不建立音樂製作或TikTok Shop團隊。 本週只可在共同工時餘額內擇一；不是額外新增每品牌一份工作。",
+      "transfer_details": [],
+      "role": "主要比較",
+      "original_id": "B10",
+      "id": "CB08"
+    },
+    {
+      "name": "Elevated Faith",
+      "website": "https://elevatedfaith.com/",
+      "fit": "基督信仰服裝飾物與身份表達的相鄰方法比較，非journal直接競品",
+      "qualification": "適合學『身分認同＋產品證據＋內容重用』。369則獨立平台評論與歷史供應商商業案例支持有交易基礎；不是journal直接競品，也未證明有利潤或純自然增長。 4.6/369，近12月68則；包含近期美國實際購買／送貨評論。 歷史app重購與銷售份額指標支持其有成熟再購體系，但分母僅app用戶或全站app銷售份額，不是零廣告小店可複製回報。 80,000+五星評價僅列品牌自述，不與Trustpilot369混算。",
+      "qualification_sources": [
+        {
+          "text": "4.6/369，近12月68則；包含近期美國實際購買／送貨評論。",
+          "source_id": "CB-S002"
+        },
+        {
+          "text": "歷史app重購與銷售份額指標支持其有成熟再購體系，但分母僅app用戶或全站app銷售份額，不是零廣告小店可複製回報。",
+          "source_id": "CB-S003"
+        },
+        {
+          "text": "80,000+五星評價僅列品牌自述，不與Trustpilot369混算。",
+          "source_id": "CB-S001"
+        }
+      ],
+      "changes": [],
+      "unknown": [
+        "當前利潤",
+        "自然與付費成交比例",
+        "此類內容的因果增量"
+      ],
+      "product_boundary": "美國品牌與USD主站；評論有US樣本。未核實客戶地理占比。",
+      "channels": [
+        {
+          "platform": "Website",
+          "url": "https://elevatedfaith.com/",
+          "status": "SAMPLE",
+          "ownership": "https://elevatedfaith.com/",
+          "notes": "已讀主站、商品評論與方案頁；未結帳。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Blog",
+          "url": "https://blog.elevatedfaith.com/",
+          "status": "SAMPLE",
+          "ownership": "https://elevatedfaith.com/；https://blog.elevatedfaith.com/",
+          "notes": "3篇有日期正文另加1篇未核實發表日的官方創作教學；日期跨度不可當成頻率或最新全頻道更新。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@elevatedfaith",
+          "status": "SAMPLE",
+          "ownership": "https://www.youtube.com/@elevatedfaith/about",
+          "notes": "About連官方域名與IG；1支歷史影片讀完整逐字稿。頻道清單其他影片僅索引。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/elevatedfaith/",
+          "status": "INDEX_ONLY",
+          "ownership": "https://elevatedfaith.com/；https://blog.elevatedfaith.com/content-creating-101/",
+          "notes": "主站／官方教學文核實。直接擷取失敗；僅官方伴隨文字和Reel連結，未把未知互動數當0。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/elevatedfaith",
+          "status": "BLOCKED",
+          "ownership": "https://elevatedfaith.com/",
+          "notes": "公開讀取返回Temporarily Blocked，未登入或繞過。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@elevatedfaith",
+          "status": "BLOCKED",
+          "ownership": "https://elevatedfaith.com/",
+          "notes": "讀取受robots限制；未拿其他品牌或大使貼文冒充官方。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Threads",
+          "url": "https://www.threads.net/@elevatedfaith",
+          "status": "BLOCKED",
+          "ownership": "https://elevatedfaith.com/",
+          "notes": "官方頁標籤有時寫Twitter但實際連Threads；此處依URL分類。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Email / SMS",
+          "url": "https://elevatedfaith.com/pages/newsletter",
+          "status": "INDEX_ONLY",
+          "ownership": "https://elevatedfaith.com/",
+          "notes": "主站有訂閱入口與SMS促銷提示；未訂閱，未審核實際發送序列。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Shopping app",
+          "url": "https://apps.apple.com/us/app/elevated-faith/id1268746889?mt=8",
+          "status": "INDEX_ONLY",
+          "ownership": "https://elevatedfaith.com/；https://cdn.featuredcustomers.com/CustomerCaseStudy.document/elevated-faith.pdf",
+          "notes": "官方連App Store；歷史案例不能代表當期app表現。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Ambassador program / Facebook community",
+          "url": "https://www.facebook.com/groups/elevatedfaithreps/",
+          "status": "INDEX_ONLY",
+          "ownership": "https://elevatedfaith.com/pages/brand-ambassadors；https://linktr.ee/efambassadors",
+          "notes": "官方方案可讀；群組來自已核實品牌Linktree，群內內容未讀取。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Spotify playlist",
+          "url": "https://open.spotify.com/playlist/1MG0WayBygrbr7k2bSGLap?si=93815cc8dc794507",
+          "status": "INDEX_ONLY",
+          "ownership": "https://linktr.ee/efambassadors",
+          "notes": "Linktree外連之品牌播放清單入口，非podcast／銷售證據。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Pinterest / X / LinkedIn",
+          "url": null,
+          "status": "INDEX_ONLY",
+          "ownership": "https://linktr.ee/efambassadors",
+          "notes": "品牌Linktree列這些社群名稱，但此次未提取帳號目的URL；不猜handle，不稱已全面核實。",
+          "identity_status": "UNRESOLVED"
+        }
+      ],
+      "samples": [
+        {
+          "source_id": "CB-S103",
+          "title": "Elevated Faith Unboxing & Review!",
+          "url": "https://www.youtube.com/watch?v=EXa6wRsYZ5Y",
+          "date": "2023-03-22",
+          "date_note": "",
+          "format": "56秒YouTube品牌發布創作者開箱",
+          "read_depth": "逐字稿已讀",
+          "metrics": {
+            "views": 66117,
+            "likes": 241,
+            "comments": null,
+            "note_zh": "公開資料讀取當次讀取公開快照；未驗證付費／自然流量、互動地區。"
+          },
+          "analysis": "逐字稿包含實際用途、厚度、舒適感和尺碼選擇；品牌使命與產品證據同時出現。",
+          "limitations": "創作者說品牌寄了產品；有贈品背景，不能當純自發UGC。字幕已讀，畫面未逐幀檢視；歷史影片，非近期成效。",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S104",
+          "title": "Faith & Fitness: Getting Fit Physically & Biblically",
+          "url": "https://blog.elevatedfaith.com/faith-fitness-getting-fit-physically-biblically/",
+          "date": "2026-01-08",
+          "date_note": "",
+          "format": "官方文章",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "note_zh": "公開正文未顯示互動數；null不是0。"
+          },
+          "analysis": "先提供生活領域相關內容，末尾帶出EF MOTION上市預告；預告為當時訊息，不保證現在的上市狀態。",
+          "limitations": "未做視覺逐幀檢視；不推論此篇帶來多少銷售。",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S105",
+          "title": "Dear Dad",
+          "url": "https://blog.elevatedfaith.com/dear-dad/",
+          "date": "2025-06-13",
+          "date_note": "",
+          "format": "父親節主題官方文章",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "note_zh": "公開正文未顯示互動數；null不是0。"
+          },
+          "analysis": "明確家庭角色＋節慶；內容整理給送禮者可用的表達角度。日期由官方blog索引確認。",
+          "limitations": "未做視覺逐幀檢視；不推論此篇帶來多少銷售。",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S106",
+          "title": "Dear Mom",
+          "url": "https://blog.elevatedfaith.com/dear-mom/",
+          "date": "2025-05-09",
+          "date_note": "",
+          "format": "母親節信件式官方文章",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "note_zh": "公開正文未顯示互動數；null不是0。"
+          },
+          "analysis": "結尾鼓勵分享給媽媽；這是關係表達內容而非產品規格。日期由官方blog索引確認。",
+          "limitations": "未做視覺逐幀檢視；不推論此篇帶來多少銷售。",
+          "transfer": ""
+        }
+      ],
+      "strengths": [
+        "官方創作教學給出開箱、細節、場景與重剪方式；歷史字幕實際把信仰與產品厚度、用法、尺碼說清楚。",
+        "母親節／父親節內容按關係說話，讓信仰使命與送禮情感相接。"
+      ],
+      "observed_limits": [
+        "平台可見客服／送貨負面回饋；只是評論主張，沒有可推算失誤率的訂單分母。",
+        "大使佣金、折扣、app、訂閱與多渠道不是無成本；MyGiftStyle現階段不宜照搬整套營運。"
+      ],
+      "hypotheses": [
+        "大量泛信仰身分內容未必足以說服US$49.95個人化journal送禮者；本店仍需額外展示名字與內頁價值。"
+      ],
+      "transfer": "一次拍自己的實物：名字封面近鏡、200橫線頁翻頁、手寫用途、實際包裝，各5–8秒；用同一批素材剪成一支15–20秒『送給誰』版本與一支『裡面是什麼』版本。沒有實物就用已核實商品圖做靜態內容，不假裝實拍。 不用競品影片／台詞，不杜撰顧客反應，不把橫線頁說成guided devotional；先確認實際可印內容及包裝。 本週只可在共同工時餘額內擇一；不是額外新增每品牌一份工作。",
+      "transfer_details": [
+        {
+          "class": "ORIGINAL_TEST_HYPOTHESIS",
+          "source_ids": [
+            "EF04",
+            "EF-P1"
+          ],
+          "minutes_per_week": 35,
+          "action_zh": "一次拍自己的實物：名字封面近鏡、200橫線頁翻頁、手寫用途、實際包裝，各5–8秒；用同一批素材剪成一支15–20秒『送給誰』版本與一支『裡面是什麼』版本。沒有實物就用已核實商品圖做靜態內容，不假裝實拍。",
+          "example_copy_en": "Her name on the cover. Room for her own prayers, gratitude, and notes.",
+          "guardrail_zh": "不用競品影片／台詞，不杜撰顧客反應，不把橫線頁說成guided devotional；先確認實際可印內容及包裝。",
+          "review_signal_zh": "只追這個入口的listing visits、favorites／詢問和成交；views不是ROI。"
+        }
+      ],
+      "role": "主要比較",
+      "original_id": "elevated_faith",
+      "id": "CB09"
+    },
+    {
+      "name": "Dear Heart",
+      "website": "https://www.dearheartdesigns.com/",
+      "fit": "信仰飾物服裝與有意義送禮的相鄰方法比較",
+      "qualification": "適合學習『有意義的禮物＋可信真人故事＋季節內容』。Faire批發評價、產品評論及外部新聞相互支持商業基礎；收入／利潤仍未知。 Faire 5.0/277與近期批發買家重購、溝通、包裝評論，強於只看粉絲數。 Deeply Loved Fully Known項鍊4.8/160則；是該商品評論，不是整間店或journal銷量。 2026小企業人物獎／擴店報導支持持續營運及商業發展；不將獎項當利潤。",
+      "qualification_sources": [
+        {
+          "text": "Faire 5.0/277與近期批發買家重購、溝通、包裝評論，強於只看粉絲數。",
+          "source_id": "CB-S010"
+        },
+        {
+          "text": "Deeply Loved Fully Known項鍊4.8/160則；是該商品評論，不是整間店或journal銷量。",
+          "source_id": "CB-S009"
+        },
+        {
+          "text": "2026小企業人物獎／擴店報導支持持續營運及商業發展；不將獎項當利潤。",
+          "source_id": "CB-S011"
+        }
+      ],
+      "changes": [],
+      "unknown": [
+        "當前利潤",
+        "自然與付費成交比例",
+        "此類內容的因果增量"
+      ],
+      "product_boundary": "USD美國主站，Faire地點Wichita Falls；本次批發評論含美國買家。未核實全體客戶分布。",
+      "channels": [
+        {
+          "platform": "Website",
+          "url": "https://www.dearheartdesigns.com/",
+          "status": "SAMPLE",
+          "ownership": "https://www.dearheartdesigns.com/",
+          "notes": "已讀商品、使命、主頁促銷、FAQ。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Blog",
+          "url": "https://blog.dearheartdesigns.com/",
+          "status": "SAMPLE",
+          "ownership": "https://www.dearheartdesigns.com/；https://blog.dearheartdesigns.com/",
+          "notes": "已讀4篇選定正文，涵蓋創辦人故事、靈修、季節商品。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/dearheartco/",
+          "status": "INDEX_ONLY",
+          "ownership": "https://www.dearheartdesigns.com/",
+          "notes": "搜尋可見2026-04-24 Reel題述及122 likes／4 comments；主頁與該Reel擷取失敗，不能當已觀看影片。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/dearheartdesignsco",
+          "status": "BLOCKED",
+          "ownership": "https://www.dearheartdesigns.com/",
+          "notes": "工具未取得可讀快取；無帖子正文樣本。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@dearheartco",
+          "status": "BLOCKED",
+          "ownership": "https://www.dearheartdesigns.com/",
+          "notes": "工具未取得可讀快取；未審核影片。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@DearHeartCo",
+          "status": "SAMPLE",
+          "ownership": "https://www.youtube.com/@DearHeartCo/about",
+          "notes": "About連官方主站和blog；1支19秒影片讀到字幕，但字幕只有音樂內容，不能推論視覺分鏡。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Email",
+          "url": "https://www.dearheartdesigns.com/",
+          "status": "INDEX_ONLY",
+          "ownership": "https://www.dearheartdesigns.com/",
+          "notes": "Newsletter入口可見，未訂閱／未讀寄信序列。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Wholesale / Faire",
+          "url": "https://www.faire.com/brand/b_1mhxgl7b",
+          "status": "SAMPLE",
+          "ownership": "https://www.faire.com/brand/b_1mhxgl7b",
+          "notes": "品牌與品類、產品名稱和地點交叉對照主站；批發評論非終端顧客數。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Pinterest / Threads / X",
+          "url": null,
+          "status": "NOT_FOUND",
+          "ownership": "not_verified",
+          "notes": "限定官方出站＋品牌名搜尋未核實官方帳號；不代表不存在。",
+          "identity_status": "UNRESOLVED"
+        }
+      ],
+      "samples": [
+        {
+          "source_id": "CB-S111",
+          "title": "A Love Worth the Cross",
+          "url": "https://blog.dearheartdesigns.com/a-love-worth-the-cross/",
+          "date": "2026-10-01",
+          "date_note": "",
+          "format": "靈修長文＋Quiet Time Questions",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "note_zh": "公開正文未顯示互動數；null不是0。"
+          },
+          "analysis": "把熟悉經文連結讀者生活，附可思考問題；屬免費外部文章內容，不能說其所有商品包含問題。",
+          "limitations": "未做視覺逐幀檢視；不推論此篇帶來多少銷售。",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S112",
+          "title": "His Love, Written Into My Story",
+          "url": "https://blog.dearheartdesigns.com/his/",
+          "date": "2026-09-24",
+          "date_note": "",
+          "format": "靈修長文＋Quiet Time Questions",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "note_zh": "公開正文未顯示互動數；null不是0。"
+          },
+          "analysis": "從抽象信念轉到小行動與反思問題。日期由官方blog索引核實。",
+          "limitations": "未做視覺逐幀檢視；不推論此篇帶來多少銷售。",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S113",
+          "title": "Stepping Into Fall With Faith",
+          "url": "https://blog.dearheartdesigns.com/stepping-into-fall-with-faith/",
+          "date": "2026-09-19",
+          "date_note": "",
+          "format": "季節編輯文章＋系列商品展示",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "note_zh": "公開正文未顯示互動數；null不是0。"
+          },
+          "analysis": "同一『季節會變、信仰不變』敘事串接多個商品名稱。只讀文字／圖片替代文字，未獨立評分影像構圖。",
+          "limitations": "未做視覺逐幀檢視；不推論此篇帶來多少銷售。",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S014",
+          "title": "From Nichole’s Heart 🩷",
+          "url": "https://blog.dearheartdesigns.com/from-nicholes-heart/",
+          "date": "2026-09-03",
+          "date_note": "",
+          "format": "創辦人第一人稱文章",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "note_zh": "公開正文未顯示互動數；null不是0。"
+          },
+          "analysis": "用真實創辦人視角支持品牌使命；70員工等屬自述。不是指示小賣家杜撰見證。",
+          "limitations": "未做視覺逐幀檢視；不推論此篇帶來多少銷售。",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S114",
+          "title": "Meet Our Retail Team 🩷",
+          "url": "https://www.youtube.com/watch?v=so1sSf-z6UY",
+          "date": "2026-07-24",
+          "date_note": "",
+          "format": "19秒YouTube Short",
+          "read_depth": "已讀字幕但只有音樂，不能推論畫面",
+          "metrics": {
+            "views": 164,
+            "likes": 5,
+            "comments": null,
+            "note_zh": "當次公開平台快照，流量來源與商業效果未知。"
+          },
+          "analysis": "只能確認短影片、日期與公開互動。沒有訪談／教學內容可引用，不能從標題推論實際鏡頭。",
+          "limitations": "字幕只有音樂／歌詞，未做視覺觀看；教學提煉為HOLD。",
+          "transfer": ""
+        }
+      ],
+      "strengths": [
+        "信仰內容有具體日常行動和反思，不僅有標語；能提供購買前之外的使用情境。",
+        "季節系列、創辦人本人敘事、穩定使命串聯商品，形成可辨認的語氣。",
+        "商業交易佐證很強，YouTube頻道仍小；不能用任一社群訂閱數決定生意是否成功。"
+      ],
+      "observed_limits": [
+        "主頁同時有giveaway、月度bundle與教師聯名入口；運作不只一條內容線。",
+        "創辦人自述已70員工；本店3–5小時總工時不宜學其內容產量／上新品節奏。"
+      ],
+      "hypotheses": [
+        "多個促銷同時搶注意可能分散單一送禮任務，但未測試其實際轉換效果。"
+      ],
+      "transfer": "每週只做一篇短圖文：一個真實可陳述的製作選擇＋一個收禮人情境＋一張名字實物圖。例如說明名字放在封面何處、送給常寫禱告筆記的媽媽。真人故事沒有就只說設計選擇，不編見證。 這是使用情境，不代表內頁已印題目／經文。若另附一個社群反思問題，要清楚它是貼文內容，不是商品內頁。 本週只可在共同工時餘額內擇一；不是額外新增每品牌一份工作。",
+      "transfer_details": [
+        {
+          "class": "ORIGINAL_TEST_HYPOTHESIS",
+          "source_ids": [
+            "DH-P3",
+            "DH-P4"
+          ],
+          "minutes_per_week": 25,
+          "action_zh": "每週只做一篇短圖文：一個真實可陳述的製作選擇＋一個收禮人情境＋一張名字實物圖。例如說明名字放在封面何處、送給常寫禱告筆記的媽媽。真人故事沒有就只說設計選擇，不編見證。",
+          "example_copy_en": "A personal place for Mom to write the prayers and everyday moments she wants to remember.",
+          "guardrail_zh": "這是使用情境，不代表內頁已印題目／經文。若另附一個社群反思問題，要清楚它是貼文內容，不是商品內頁。",
+          "review_signal_zh": "看買家是否問名字、送禮日期與用途；沒有資料前不宣稱情緒故事必然提高轉換。"
+        }
+      ],
+      "role": "主要比較",
+      "original_id": "dear_heart",
+      "id": "CB10"
+    },
+    {
+      "name": "Kerusso",
+      "website": "https://www.kerusso.com/",
+      "fit": "成熟信仰禮品分銷及風險對照，有journal但規格不同",
+      "qualification": "作成熟分銷和風險對照保留，不列為高評價或已證明高盈利品牌。其journal和買方任務有關，但實際商品規格／價格層與MyGiftStyle不同。 Christianbook實際販售其journal，QVC有其drinkware產品頁。證明分銷存在，不能從售罄或上架推銷量。 品牌自述累計50M+shirts sold，不是journal銷量，也不是外部審計。 美國／英國快取總評價和分數不同；記錄兩套，不給單一無保留當前總分。",
+      "qualification_sources": [
+        {
+          "text": "Christianbook實際販售其journal，QVC有其drinkware產品頁。證明分銷存在，不能從售罄或上架推銷量。",
+          "source_id": "CB-S016"
+        },
+        {
+          "text": "品牌自述累計50M+shirts sold，不是journal銷量，也不是外部審計。",
+          "source_id": "CB-S015"
+        },
+        {
+          "text": "美國／英國快取總評價和分數不同；記錄兩套，不給單一無保留當前總分。",
+          "source_id": "CB-S017"
+        }
+      ],
+      "changes": [],
+      "unknown": [
+        "當前利潤",
+        "自然與付費成交比例",
+        "此類內容的因果增量"
+      ],
+      "product_boundary": "美國官方／零售分銷佐證。歷史官方文章及US零售頁不證明當期消費者地理占比。",
+      "channels": [
+        {
+          "platform": "Website",
+          "url": "https://www.kerusso.com/",
+          "status": "SAMPLE",
+          "ownership": "https://www.kerusso.com/",
+          "notes": "已讀使命、商品、零售商入口、評論頁；評論元件正文未載入。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Blog",
+          "url": "https://www.kerusso.com/blogs/news",
+          "status": "SAMPLE",
+          "ownership": "https://www.kerusso.com/blogs/news",
+          "notes": "3篇歷史正文；不宣稱最新文章或全站掃描。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kerussoofficial/",
+          "status": "INDEX_ONLY",
+          "ownership": "https://www.kerusso.com/；https://www.kerusso.com/blogs/news/may-the-lord-be-with-you-faith-meets-the-galaxy",
+          "notes": "有2026-09-14 journal Reel搜尋線索，但混合snippet含其他影片，僅保留標題／日期，排除混入的Alignment Journal細節。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/kerusso/",
+          "status": "BLOCKED",
+          "ownership": "https://www.kerusso.com/blogs/news/may-the-lord-be-with-you-faith-meets-the-galaxy；https://lnk.bio/kerusso",
+          "notes": "官方歷史頁footer與品牌linkhub核實；當次robots拒絕。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Pinterest",
+          "url": "https://www.pinterest.com/shopkerusso/_created/",
+          "status": "BLOCKED",
+          "ownership": "https://www.kerusso.com/；https://www.kerusso.com/blogs/news/may-the-lord-be-with-you-faith-meets-the-galaxy",
+          "notes": "當前主站出站與歷史footer核實；公開擷取失敗。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@kerussoofficial",
+          "status": "BLOCKED",
+          "ownership": "https://www.kerusso.com/；https://www.kerusso.com/blogs/news/may-the-lord-be-with-you-faith-meets-the-galaxy",
+          "notes": "工具回空頁，未看片。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "X",
+          "url": "https://x.com/kerusso",
+          "status": "BLOCKED",
+          "ownership": "https://www.kerusso.com/blogs/news/may-the-lord-be-with-you-faith-meets-the-galaxy；https://lnk.bio/kerusso",
+          "notes": "歷史footer與linkhub可核實，X回空頁。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "YouTube candidate",
+          "url": "https://www.youtube.com/@kerussoofficial",
+          "status": "INDEX_ONLY",
+          "ownership": "https://www.youtube.com/shorts/XODUDvo_JHI",
+          "notes": "品牌候選：影片頻道名、標誌和Kerusso.com指向一致，但About核實未完成（一次資料取消；web 未取得可讀快取）。不算完整官方頻道內容審核。",
+          "identity_status": "PROVISIONAL"
+        },
+        {
+          "platform": "Email / SMS",
+          "url": "https://www.kerusso.com/pages/emailtextsignup",
+          "status": "INDEX_ONLY",
+          "ownership": "https://lnk.bio/kerusso",
+          "notes": "主站Newsletter與品牌linkhub入口已見，未訂閱／未讀序列。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Daily devotional / podcast",
+          "url": "https://www.kerusso.com/blogs/kerusso-daily-devotional/",
+          "status": "INDEX_ONLY",
+          "ownership": "https://www.kerusso.com/；https://lnk.bio/kerusso",
+          "notes": "頁面可見Listen入口但音訊／節目集未讀；不稱已審核podcast。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "Shopping app",
+          "url": "https://apps.apple.com/us/app/kerusso-com/id6460581393",
+          "status": "INDEX_ONLY",
+          "ownership": "https://www.kerusso.com/",
+          "notes": "只核實出站入口，未安裝或測試。",
+          "identity_status": "VERIFIED"
+        },
+        {
+          "platform": "LinkedIn company",
+          "url": null,
+          "status": "INDEX_ONLY",
+          "ownership": "not_fully_resolved",
+          "notes": "搜尋看到創辦人Vic Kennett轉貼Kerusso Inc的QVC消息；本次未確定公司profile canonical URL，不猜連結。",
+          "identity_status": "UNRESOLVED"
+        }
+      ],
+      "samples": [
+        {
+          "source_id": "CB-S020",
+          "title": "May the Lord Be with You: Faith Meets the Galaxy",
+          "url": "https://www.kerusso.com/blogs/news/may-the-lord-be-with-you-faith-meets-the-galaxy",
+          "date": "2025-05-01",
+          "date_note": "",
+          "format": "特定興趣＋節日／商品系列文章",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "note_zh": "公開正文未顯示互動數；null不是0。"
+          },
+          "analysis": "用明確興趣語境串接journal、衣服、家居品與禮物用途。不要複製其知名娛樂IP／外觀；本研究未做授權合法性判定。",
+          "limitations": "未做視覺逐幀檢視；不推論此篇帶來多少銷售。",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S124",
+          "title": "God Is Everything: Finding Peace, Purpose, and Direction Through Faith",
+          "url": "https://www.kerusso.com/blogs/news/god-is-everything",
+          "date": "2025-04-22",
+          "date_note": "",
+          "format": "信仰生活故事＋單品連結",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "note_zh": "公開正文未顯示互動數；null不是0。"
+          },
+          "analysis": "文章末尾直接連到相同主題T-shirt，內容到商品語意一致；故事為品牌發表，未獨立核實人物。",
+          "limitations": "未做視覺逐幀檢視；不推論此篇帶來多少銷售。",
+          "transfer": ""
+        },
+        {
+          "source_id": "CB-S125",
+          "title": "Christian Easter Gifts",
+          "url": "https://www.kerusso.com/blogs/news/christian-easter-gifts",
+          "date": "2025-03-24",
+          "date_note": "",
+          "format": "Easter Gift Guide／分眾選禮文章",
+          "read_depth": "全文",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "note_zh": "公開正文未顯示互動數；null不是0。"
+          },
+          "analysis": "把商品目錄轉為買方任務入口：為誰、何種場合、為何適合；不是把所有族群堆進同一listing。",
+          "limitations": "未做視覺逐幀檢視；不推論此篇帶來多少銷售。",
+          "transfer": ""
+        }
+      ],
+      "strengths": [
+        "Gift Guide依買方任務分新信徒、團體、她、他等，買家更容易找到為何送及送誰。",
+        "內容主題和商品名稱一致，文章有直接商品去處；不是泛勵志文章無落點。"
+      ],
+      "observed_limits": [
+        "近期可見品質／客服負評，且近12月評論樣本極少；無法從此推論全品牌客訴率。總分跨快取衝突須揭露。",
+        "其journal零售頁有192頁與每頁經文，而本店200橫線頁；模仿其內頁賣點將造成產品不實。"
+      ],
+      "hypotheses": [
+        "大目錄、多子品牌、折扣和多個族群可能增加小店操作負荷；本店宜只挑一個送禮任務測試。"
+      ],
+      "transfer": "從現有journal挑一個已支持的收禮人／場合，做三張原創選禮資訊圖：適合誰、可個人化什麼、內頁實際是什麼。先在既有listing和一個主力內容入口使用，不一次開多族群新listing。 情境要符合該設計；不要複製品牌標語、娛樂IP、經文翻譯授權不明內容；不承諾屬靈結果。 本週只可在共同工時餘額內擇一；不是額外新增每品牌一份工作。",
+      "transfer_details": [
+        {
+          "class": "ORIGINAL_TEST_HYPOTHESIS",
+          "source_ids": [
+            "KER-P3"
+          ],
+          "minutes_once": 25,
+          "action_zh": "從現有journal挑一個已支持的收禮人／場合，做三張原創選禮資訊圖：適合誰、可個人化什麼、內頁實際是什麼。先在既有listing和一個主力內容入口使用，不一次開多族群新listing。",
+          "example_copy_en": "For the friend beginning a new chapter of faith. Personalized on the cover, with 200 lined pages for her own words.",
+          "guardrail_zh": "情境要符合該設計；不要複製品牌標語、娛樂IP、經文翻譯授權不明內容；不承諾屬靈結果。",
+          "review_signal_zh": "詢問是否減少、買家選擇是否更清楚、同一listing轉換是否改善；基準流量不足則只作定性學習。"
+        }
+      ],
+      "role": "成熟分銷與風險對照",
+      "original_id": "kerusso",
+      "id": "CB11"
+    }
+  ],
+  "audit_notes": [
+    "Alabaster TikTok商品評價847／870為不同快取；不選單一即時數。",
+    "Alabaster設計與音樂定位有文字支持，未聲稱視覺一致性已逐鏡審核。",
+    "TikTok品牌feed與Shop商品頁分開。",
+    "REVIEWS.io負評搜尋快取未在後續首頁重現，只保留待複查線索。",
+    "影片日期／字幕及Alabaster135%分母已作獨立抽查。"
+  ]
+}

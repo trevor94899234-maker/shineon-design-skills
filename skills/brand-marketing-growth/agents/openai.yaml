@@ -1,0 +1,14 @@
+interface:
+  display_name: 品牌營銷與增長
+  short_description: 以可核查品牌案例協助定位、內容、Bundle組合與低成本增長測試
+  default_prompt: Use $brand-marketing-growth to turn verified brand evidence into
+    one practical marketing experiment, considering coherent bundles when relevant.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
